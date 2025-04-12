@@ -1,4 +1,20 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_b0c5a67ccf0cbf59b6fc4ba72ad,agent_00490e668be8e0244229d1de5a,14707630575,919359359357,ongoing,"4/12/2025, 10:20:10 AM",-,-,shanansari935935@gmail.com,-,-,-,False,-,,-,-
+$0.01,call_a1779c0e50de3f0e1ba8a160364,agent_00490e668be8e0244229d1de5a,14707630575,918096576786,ended,"4/12/2025, 10:18:39 AM","4/12/2025, 10:18:42 AM",3,sulthanmadeena809@gmail.com,"User: Your call has been forwarded to voice mail.
+",https://dxc03zgurdly9.cloudfront.net/6c8bc7e20661f80a258d4d1a55aad46005002a3b8b78b5b6435346321aee0e74/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to connect with a live agent.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$0.04,call_5b9660e86093d6d6a0cb8b9eaa7,agent_00490e668be8e0244229d1de5a,14707630575,916304182559,ended,"4/12/2025, 10:14:39 AM","4/12/2025, 10:14:58 AM",19,sohanlak11@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+Agent: Hi there! This is 
+",https://dxc03zgurdly9.cloudfront.net/705dce8cfac1630d98790fbaa8cbacc9bf1649dc2788166d84d86542416566a6/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. However, the user did not engage further in the conversation after the initial greeting.","elevenlabs_tts, gpt_4o, retell_platform",19,user_hangup
+$-,call_fa34a58d74ec99f21bc0f750ebd,agent_00490e668be8e0244229d1de5a,14707630575,919949543535,error,"4/12/2025, 10:12:40 AM","4/12/2025, 10:12:40 AM",-,fit.harsh49xx@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.05,call_f06047ce8c03e29c88f93dcdfaa,agent_00490e668be8e0244229d1de5a,14707630575,918096576786,ended,"4/12/2025, 10:10:14 AM","4/12/2025, 10:10:34 AM",21,sulthanmadeena809@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/1b6ac2db039938f1e1b3177391f552bf62d6e7f34869d47909f4fdd26f12a85d/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",21,inactivity
+$-,call_f479cc30aaa641d0010252a53bd,agent_00490e668be8e0244229d1de5a,14707630575,918086561893,error,"4/12/2025, 10:07:25 AM","4/12/2025, 10:07:25 AM",-,sheiqsalman811@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_28f9dad3614bc991ae3ac77f4a3,agent_00490e668be8e0244229d1de5a,14707630575,918086561893,ended,"4/12/2025, 10:06:12 AM","4/12/2025, 10:06:16 AM",5,Sheiqsalman811@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
+",https://dxc03zgurdly9.cloudfront.net/16628ecd48612fe5e941ceb7569ef702b6a81e3c7c700ea32b53d99c4403ffcc/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user named Aryan. The conversation likely involved discussing a service or product related to Trimfinity, but the details are incomplete due to the transcript cut-off.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
+$-,call_f9e405f95b935beb7cf8ecb9dd6,agent_00490e668be8e0244229d1de5a,14707630575,916268609082,error,"4/12/2025, 10:03:02 AM","4/12/2025, 10:03:02 AM",-,Umeshdadsena123@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_55900bb490ea4ce3a75ea6642da,agent_00490e668be8e0244229d1de5a,14707630575,919361411061,ended,"4/12/2025, 9:49:01 AM","4/12/2025, 9:49:15 AM",15,kamalruby2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
 User: Hello. Hello. Hello
 Agent: Hello! This is 
@@ -3738,25 +3754,3 @@ Agent: Trimfinity se. Kal aapne Trimfinity 1.0 Body & Ball Trimmer checkout karn
 User: हां,
 ",https://dxc03zgurdly9.cloudfront.net/3c1905494bb447e67de24870855db7b3b87277b4ab717a77a2e3bc35e3d532d2/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to assist with their recent interest in the Trimfinity 1.0 Body & Ball Trimmer. The user acknowledged the agent's greeting and indicated they had questions, suggesting they were engaged in the conversation.","elevenlabs_tts, gpt_4o, retell_platform",37,user_hangup
 $-,call_67eb2482b5631bc139a6d1be4ff,agent_00490e668be8e0244229d1de5a,14707630575,917033205228,error,"3/28/2025, 1:44:49 PM","3/28/2025, 1:44:49 PM",-,riteshkumar87702@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_df1c25081d298d957d6761247ab,agent_00490e668be8e0244229d1de5a,14707630575,919837148416,error,"3/28/2025, 1:41:50 PM","3/28/2025, 1:41:50 PM",-,ikramsalmani@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_2aa32d6c66f8c82591a358987d5,agent_00490e668be8e0244229d1de5a,14707630575,919429888006,error,"3/28/2025, 1:37:27 PM","3/28/2025, 1:37:27 PM",-,26nik76@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.11,call_6fc8e80690c724d7f4a2c7751fc,agent_00490e668be8e0244229d1de5a,14707630575,919450723155,ended,"3/28/2025, 1:37:00 PM","3/28/2025, 1:37:48 PM",49,arvindraj23155@gmail.com,"User: Hello.
-Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-User: मदद कर सकती है?
-User: Hello.
-User: कौन 
-Agent: Namaste 
-User: बोल रहे हैं?
-Agent: Namaste Arvind ji, main Tanya bol rahi hoon Trimfinity se. Kal aapne Trimfinity 1.0 Body & Ball Trimmer checkout karne ka socha tha, toh bas puchna chahti thi ki koi dikkat toh nahi aayi? Aapko product pasand aaya tha?
-User: आया था?
-Agent: Haan ji, bilkul! Ye trimmer kaafi advanced 
-",https://dxc03zgurdly9.cloudfront.net/72aa7adf91331270e8afd0089d835fdff26549e3441cb3dcc8cb28735d0ac477/recording.wav,Neutral,True,"The user, Arvind, was contacted by Tanya from Trimfinity regarding a product he added to his cart, specifically the Trimfinity 1.0 Body & Ball Trimmer. The agent inquired if there were any issues with the checkout process and if the user liked the product.","elevenlabs_tts, gpt_4o, retell_platform",49,user_hangup
-$-,call_20374570b99f6a7b2df0f21d29f,agent_00490e668be8e0244229d1de5a,14707630575,919780169000,error,"3/28/2025, 1:35:18 PM","3/28/2025, 1:35:18 PM",-,manishkumar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_d0d7ef5ec9f716d6bb63c6c7118,agent_00490e668be8e0244229d1de5a,14707630575,918983838388,error,"3/28/2025, 1:24:21 PM","3/28/2025, 1:24:21 PM",-,Sandeepjraut833@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_7bad5d38703e6221cc08b05fe70,agent_00490e668be8e0244229d1de5a,14707630575,918983838388,error,"3/28/2025, 1:22:55 PM","3/28/2025, 1:22:55 PM",-,Sandeepjraut833@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_48d7ccd8d087e5b136066ccb26c,agent_00490e668be8e0244229d1de5a,14707630575,917356872058,error,"3/28/2025, 1:19:20 PM","3/28/2025, 1:19:20 PM",-,aswinmunni710@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.06,call_9d97abb00fb1fcd055ec3a7a4a0,agent_00490e668be8e0244229d1de5a,14707630575,919066915776,ended,"3/28/2025, 1:11:24 PM","3/28/2025, 1:11:50 PM",26,sunilgowda909@gmail.com,"User: Hello.
-Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-User: The person you are speaking with has put your call on hold. Please stay on the line.
-Agent: Bilkul, main line par hoon.
-",https://dxc03zgurdly9.cloudfront.net/54b80cc426f681b147e0b4e0a278c913c088e5e2dabc97736fc96b6c124c86fb/recording.wav,Neutral,False,"The call began with the agent introducing herself and noting that the user had added a product to their cart. However, the user then put the call on hold, leaving the conversation incomplete.","elevenlabs_tts, gpt_4o, retell_platform",26,user_hangup
