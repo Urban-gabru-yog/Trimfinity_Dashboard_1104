@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_d39568ce9504dd83bf648d1f82b,agent_00490e668be8e0244229d1de5a,14707630575,919892822989,error,"4/12/2025, 9:29:25 PM","4/12/2025, 9:29:25 PM",-,sachinkumar513272@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_0d28b82bfef2a6c7c9c2f5649c5,agent_00490e668be8e0244229d1de5a,14707630575,919892822989,error,"4/12/2025, 9:28:39 PM","4/12/2025, 9:28:39 PM",-,sachinkumar513272@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.12,call_e32fad80207e0eea9ba1958e2b0,agent_00490e668be8e0244229d1de5a,14707630575,919039646530,ended,"4/12/2025, 9:18:09 PM","4/12/2025, 9:19:05 PM",56,kr0112264@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: Hello. Hello
 User: hello hello
@@ -3857,6 +3859,3 @@ Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne 
 User: Hello?
 Agent: Hello ji! Main Tanya bol rahi hoon Trimfinity se. Kal aapne Trimfinity 7000 Body and Ball Trimmer checkout karne ka socha tha, toh bas puchna chahti thi koi dikkat toh nahi 
 ",https://dxc03zgurdly9.cloudfront.net/6734e442d7bcb8cae13b8a83b79e2e36f1166f0786f25f0a2530b13e97e04fa9/recording.wav,Neutral,True,"The user was contacted by an agent named Tanya from Trimfinity regarding a product they added to their cart, specifically the Trimfinity 7000 Body and Ball Trimmer. The agent inquired if the user faced any issues with the checkout process.","elevenlabs_tts, gpt_4o, retell_platform",32,user_hangup
-$0.04,call_cc67b7ec529eaab40a5d53e6eae,agent_00490e668be8e0244229d1de5a,14707630575,918240666930,ended,"3/29/2025, 1:23:50 PM","3/29/2025, 1:24:07 PM",18,izaanmolla007@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-",https://dxc03zgurdly9.cloudfront.net/2716814853ee1a48edae3437c462980f1f35552185d45e2d2a4e1c29215cce7a/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely revolved around helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",18,user_hangup
-$-,call_a4495308a2f150e353bc543028c,agent_00490e668be8e0244229d1de5a,14707630575,918639532490,error,"3/29/2025, 1:14:09 PM","3/29/2025, 1:14:09 PM",-,ashutosh1996gupta@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
