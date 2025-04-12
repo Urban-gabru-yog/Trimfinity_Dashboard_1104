@@ -1,4 +1,40 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_89f4221506993445000984b715a,agent_00490e668be8e0244229d1de5a,14707630575,919893554363,error,"4/12/2025, 11:14:42 AM","4/12/2025, 11:14:42 AM",-,cutemonu148@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b5fbc1852d522c595d309ae851f,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/12/2025, 11:14:24 AM","4/12/2025, 11:14:24 AM",-,cutemonu148@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.08,call_3d0ec0f06a8c63d9a99376d83a4,agent_00490e668be8e0244229d1de5a,14707630575,919611047825,ended,"4/12/2025, 11:13:42 AM","4/12/2025, 11:14:16 AM",35,vikramilakal3@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hey Vikram, just checking in again—did you get a chance to look at the Trimfinity 1.0 Body & Ball Trimmer in your cart? Let me know if you have any questions or concerns about it.
+",https://dxc03zgurdly9.cloudfront.net/8778339faf8111f57a5870503d13bdf7141336682e4f1005b36ba985bcb9af52/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user, Vikram, to inform him about an additional 5% discount on a product he had added to his cart. The agent also inquired if Vikram had any questions or concerns regarding the product.","elevenlabs_tts, gpt_4o, retell_platform",35,user_hangup
+$0.03,call_857188d2816edcc079c57d1e7e6,agent_00490e668be8e0244229d1de5a,14707630575,919917738269,ended,"4/12/2025, 11:04:16 AM","4/12/2025, 11:04:28 AM",13,kapkotihemu@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/f8d8849d12ea8187a89872cb1f8dbc8331d23daf83e360d4d7b0f2dceefd7d7c/recording.wav,Neutral,False,"The user was greeted by the agent, Aryan from Trimfinity, who informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",13,user_hangup
+$0.30,call_4bd52892778dd32f6fb45e080b1,agent_00490e668be8e0244229d1de5a,14707630575,919688986932,ended,"4/12/2025, 11:00:48 AM","4/12/2025, 11:03:07 AM",140,smartjafer786@gmail.com,"Agent: Hello, main 
+User: Hello,
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+User: आप
+Agent: Hey Smart Jafer! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer on our website. Just wanted to see if you had any questions or if there was anything stopping you from completing the purchase?
+User: On cash on delivery.
+Agent: Haan bilkul, Smart Jafer ji! Hum cash on delivery ka option dete hain. Aapko bas order place karna hoga, aur payment aap delivery ke time kar sakte hain.Waise, yeh model kaafi fast sell hota hai, toh agar aap interested hain, toh mai abhi ek WhatsApp link bhej deta hoon jahan se aap asaani se checkout kar sakte hain. Kya mai link bhej doon?
+User: Please send the link.
+Agent: Bilkul, Smart Jafer ji! Mai abhi aapko WhatsApp par ek checkout link bhej deta hoon. Aap bas uspe click karke apna order confirm kar sakte hain. Agar koi aur sawal ho, toh mujhe zaroor batayiye! 😊 
+
+Aur haan, agar aapko kabhi customer support se baat karni ho, toh yeh number note kar lijiye: seven - three - nine - seven - eight - zero - five - three - four - seven.Abhi link bhej raha hoon!
+User: Please repeat the number
+Agent: Bilkul, Smart Jafer ji! Customer support ka number hai:  
+
+seven - three - nine - seven - eight
+Agent:  - 
+Agent: zero
+Agent:  - five
+Agent:  - three - four - seven.Agar aapko koi madad chahiye ho, toh is number par contact kar sakte hain.
+User: 739
+Agent: Haan, 
+",https://dxc03zgurdly9.cloudfront.net/d23931b48e5b6cc44da44a8a802058567ee99d1d526beab89a128db8cdfefa7d/recording.wav,Positive,True,"The user, Smart Jafer, was contacted by Aryan from Trimfinity regarding a product in their cart. Aryan offered a 5% discount and confirmed that cash on delivery is available, sending a WhatsApp link for easy checkout. The user requested the customer support number, which was provided by the agent.","elevenlabs_tts, gpt_4o, retell_platform",140,user_hangup
+$0.03,call_a2b8bd523dfc1852b7cd288f466,agent_00490e668be8e0244229d1de5a,14707630575,919128334652,ended,"4/12/2025, 10:57:39 AM","4/12/2025, 10:57:54 AM",15,Kashyapkissu@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/b65c49fd89d0f71b80af9bc5a989b5df0003d4927a3d2ac6e50d86024b30447e/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
+$-,call_9f8347ae29c37a3852a3aa30954,agent_00490e668be8e0244229d1de5a,14707630575,918072656322,error,"4/12/2025, 10:56:33 AM","4/12/2025, 10:56:33 AM",-,manickameaswaradhas@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.21,call_1b3cdeb6833d9e754cd2bfbe75c,agent_00490e668be8e0244229d1de5a,14707630575,916376428997,ended,"4/12/2025, 10:43:01 AM","4/12/2025, 10:44:36 AM",96,rajlaksh70@gmail.com,"Agent: Hello, 
 User: Hello.
 Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne 
@@ -3714,66 +3750,3 @@ Agent: Hello, main
 User: been forwarded to voicemail.
 Agent: Tanya 
 ",https://dxc03zgurdly9.cloudfront.net/049ce67dd0dc0ee24766947f3251efa43801eb1482e8059e843714298b450002/recording.wav,Neutral,False,"The user attempted to make a call but was informed that the call has been forwarded to voicemail. The agent responded with a name, possibly indicating the intended recipient of the call.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
-$0.17,call_13079435225d8b9bc1ef19138c1,agent_00490e668be8e0244229d1de5a,14707630575,917031580083,ended,"3/28/2025, 2:55:10 PM","3/28/2025, 2:56:29 PM",80,subha0672@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-Agent: Hello ji, 
-User: Balls पर लिखा करता है यह.
-Agent: Haan bilkul, aap sahi keh rahe ho! Trimfinity 7000 Pro Max Body & Ball Trimmer specially design kiya gaya hai body aur sensitive areas ke liye, jaise ki balls. Yeh safe aur irritation-free trimming ke liye perfect hai.Aapko koi specific question ya concern hai iske baare mein? Main help karne ke liye yahan hoon!
-User: 97000 तो मैं extra मेरे को फिर just बताइए. एक एक पचास का ही तुम्हें.
-Agent: Arre nahi nahi, bhai sahab! Yeh ₹97,000 ka nahi hai, bas ₹2799 ka hai. Aur is price mein aapko ek premium quality ka trimmer milta hai jo advanced technology ke saath aata hai.Aapko lagta hai price thoda zyada hai? Agar aap interested ho, toh main aapke liye ek chhota sa special discount arrange kar sakti hoon. Bataiye, kya lagta hai?
-",https://dxc03zgurdly9.cloudfront.net/bd98b0b41a568e903c607d99d938e136db867b46f790e9c74a974a2522ee3952/recording.wav,Neutral,True,"The user inquired about the price of the Trimfinity 7000 Pro Max Body & Ball Trimmer, mistakenly thinking it was ₹97,000. The agent clarified that the actual price is ₹2799 and offered to arrange a special discount for the user.","elevenlabs_tts, gpt_4o, retell_platform",80,user_hangup
-$0.39,call_6dee6e3de491ab25b3eee0a7502,agent_00490e668be8e0244229d1de5a,14707630575,917031580083,ended,"3/28/2025, 2:53:40 PM","3/28/2025, 2:56:37 PM",178,subha0672@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha 
-User: Hello.
-Agent: ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-User: Deliver का price system बहुत महंगा है.
-Agent: Haan ji, samajh sakti hoon. Kabhi kabhi price thoda zyada lagta hai, lekin Ultimate Duo Beard & Body Trimmer ki quality aur features kaafi advanced hain. Yeh ek hi product mein beard aur body dono ke liye kaam karta hai, aur kaafi durable hai, toh long-term mein paisa vasool ho jata hai.
-
-Lekin agar aapko abhi bhi lag raha hai ki price thoda high hai, toh mai aapke liye ek chhota sa special discount de sakti hoon. Sirf aaj ke liye, mai aapko 5% ka discount de sakti hoon code O-F-F-5 ke saath. Aapko kaisa lag raha hai?
-User: जी दूसरा motor देखना चाहिए.
-User: दूसरा motor तो बराबर है
-Agent: Samajh gayi ji, aapko lagta hai ki doosre motors bhi kaafi similar kaam karte hain. Lekin Ultimate Duo Beard & Body Trimmer ki khasiyat yeh hai ki isme 4D Flex Body Trimmer aur Precision Beard Trimmer dono included hain, jo ekdum smooth aur irritation-free trimming dete hain. Iska Turbo Mode bhi thick hair ke liye perfect hai, aur battery life bhi kaafi acchi hai.
-
-Aur agar aapko 
-User: जी व्यक्ति चाहूंगी, अपनी कोथा बोलशील.
-Agent: sensitive areas ya detailed grooming chahiye, toh 
-User: Line आप जिस 
-Agent: Arre maaf kijiye ji, lagta hai aap 
-User: व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहे. The person you are speaking with has put your call on hold. Please stay on the line.
-Agent: Bilkul ji, main line par hoon. Aapka wait kar rahi hoon, jab aap free ho jayein toh 
-User: आप जिस 
-Agent: baat karte 
-User: व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line.
-Agent: Bilkul ji, main yahin hoon. Aapka wait kar rahi hoon, jab aap ready ho jayein toh 
-User: आप जिस 
-Agent: baat karte 
-User: व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line.
-Agent: Bilkul ji, main line par hoon. Jab aap free ho jayein, toh hum 
-User: Line 
-Agent: baat karenge.
-User: आप जिस व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold.
-User: Discount 
-Agent: Theek hai 
-User: दे दीजिए.
-",https://dxc03zgurdly9.cloudfront.net/4980ecfe926486a960c5307f2c7f1a8bcb46b46bcc03ee4ba50b22b037528ed2/recording.wav,Negative,False,"The user expressed concerns about the high delivery price of a product and considered looking at other options. The agent offered a 5% discount to help with the user's concerns, but the call was interrupted as the user was put on hold, leading to repeated messages about the hold status.","elevenlabs_tts, gpt_4o, retell_platform",178,max_duration_reached
-$0.39,call_0ac3f800de5eaa15b8adc63161f,agent_00490e668be8e0244229d1de5a,14707630575,917031580083,ended,"3/28/2025, 2:36:01 PM","3/28/2025, 2:38:58 PM",178,subha0672@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-Agent: Hello ji, aap sun pa rahe hain? Bas yeh puchna tha ki aapko Ultimate Duo Beard & Body Trimmer pasand aaya tha? Koi confusion ya sawal ho toh bataiye, main help karne ke liye hoon!
-User: Hello?
-Agent: Hi! This is Tanya from Trimfinity. I noticed you were checking out the Ultimate Duo Beard & Body Trimmer recently. Just wanted to see if you had any questions or needed help with anything?
-User: जी. बताइए.
-Agent: जी, धन्यवाद! तो मैंने देखा कि आपने Ultimate Duo Beard & Body Trimmer अपने cart में डाला था। ये 2-in-1 trimmer है, जो beard aur body dono ke liye perfect hai. बस जानना चाहती थी, क्या aapko product pasand aaya? Ya price ya kisi aur cheez ko lekar koi confusion hai?
-User: जी है. सही इसका महंगा है.
-User: महंगा
-Agent: समझ सकती हूँ, जी. थोड़ा महंगा लग सकता है, लेकिन ये trimmer अपनी advanced technology aur premium quality ke liye जाना जाता है. Isme 2-in-1 dual-head design hai, jo beard aur body dono ke liye kaam karta hai, aur 4D flex body trimmer irritation-free grooming deta hai. Plus, 90-minute battery life aur waterproof design bhi hai, jo isse aur convenient banata hai.
-
-Lekin agar aapko lagta hai ki price thoda zyada hai, toh main aapke liye ek chhota sa special discount arrange kar sakti hoon. Sirf aaj ke liye, main aapko 5% ka exclusive discount code de sakti hoon—O-F-F-5. Kya lagta hai, ab better deal lag rahi hai?
-User: तूने तो किया है फिर दोबारा बताइए.
-Agent: अरे हां जी, बिल्कुल! तो मैं आपको एक exclusive 5% discount दे सकती हूं, जो सिर्फ आज के लिए valid है. Code है O-F-F-5. इससे आपका price ₹2899 से और कम हो जाएगा.
-
-वैसे, ये model kaafi fast sell hota है, pichle hafte bhi stock out हो गया था. Agar aap interested hain, toh main abhi ek WhatsApp link bhej deti hoon, jisse aap easily checkout kar सकते हैं. Kya lagta hai, ready hain?
-User: यह और फिर यह discount है
-Agent: Bilkul ji! Toh main aapko clear kar deti hoon. Abhi jo Ultimate Duo Beard & Body Trimmer hai, uska 
-",https://dxc03zgurdly9.cloudfront.net/32ddf368e44d9aa6838b54974a0792e42b18b491102ac6e186046a3fe0fb01f0/recording.wav,Neutral,True,"The user was contacted by Tanya from Trimfinity regarding the Ultimate Duo Beard & Body Trimmer they added to their cart. The user expressed concern about the product's price being high, and the agent offered a 5% discount to make the deal more appealing, while also highlighting the product's features and urgency due to limited stock.","elevenlabs_tts, gpt_4o, retell_platform",178,max_duration_reached
-$-,call_71b6b0da6ed3f5118295150b6fa,agent_00490e668be8e0244229d1de5a,14707630575,918072421441,error,"3/28/2025, 2:31:20 PM","3/28/2025, 2:31:20 PM",-,sapairconditioner@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_05ad4669557f68cb15ab797359b,agent_00490e668be8e0244229d1de5a,14707630575,918890601164,error,"3/28/2025, 2:20:00 PM","3/28/2025, 2:20:00 PM",-,mukuljatav8890@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_8f90b4efea3ccc331c0e4003264,agent_00490e668be8e0244229d1de5a,14707630575,916268483054,error,"3/28/2025, 2:18:05 PM","3/28/2025, 2:18:05 PM",-,sahilkriplani132@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$0.03,call_b539f6808f503a3ba27e350ce43,agent_00490e668be8e0244229d1de5a,14707630575,919762639726,ended,"3/28/2025, 2:09:44 PM","3/28/2025, 2:09:56 PM",12,aniketgaware@icloud.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-",https://dxc03zgurdly9.cloudfront.net/e40fa7a7078deb56314f29d33ca116a5b17c82a5d839eeda67f050aa5c8d21f2/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely revolved around helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",12,user_hangup
