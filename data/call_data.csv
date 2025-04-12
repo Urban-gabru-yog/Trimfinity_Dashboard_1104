@@ -1,4 +1,11 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_55900bb490ea4ce3a75ea6642da,agent_00490e668be8e0244229d1de5a,14707630575,919361411061,ended,"4/12/2025, 9:49:01 AM","4/12/2025, 9:49:15 AM",15,kamalruby2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello. Hello. Hello
+Agent: Hello! This is 
+User: hello
+Agent: Aryan from Trimfinity. How can I assist you today?
+",https://dxc03zgurdly9.cloudfront.net/53ce7de9dba1bf9cb9a991642c031019190a0ba91d5490fe35c625a375c4f73b/recording.wav,Neutral,False,"The user initiated the call and greeted the agent multiple times, but there was some confusion in the communication. The agent introduced himself as Aryan from Trimfinity and asked how he could assist the user.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
+$-,call_c461fc12ec29812500ff304abd6,agent_00490e668be8e0244229d1de5a,14707630575,917240475890,error,"4/12/2025, 9:33:34 AM","4/12/2025, 9:33:34 AM",-,laxman03012001@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_744bd0b4b9fc6f1e0d1342901b3,agent_00490e668be8e0244229d1de5a,14707630575,917567636865,error,"4/11/2025, 9:22:24 PM","4/11/2025, 9:22:24 PM",-,aahujasatish61@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_549103f4b2459bacdca5943ec4f,agent_00490e668be8e0244229d1de5a,14707630575,917995628741,ended,"4/11/2025, 9:11:32 PM","4/11/2025, 9:11:38 PM",7,mohdhussain61053@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
@@ -3753,5 +3760,3 @@ Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne 
 User: The person you are speaking with has put your call on hold. Please stay on the line.
 Agent: Bilkul, main line par hoon.
 ",https://dxc03zgurdly9.cloudfront.net/54b80cc426f681b147e0b4e0a278c913c088e5e2dabc97736fc96b6c124c86fb/recording.wav,Neutral,False,"The call began with the agent introducing herself and noting that the user had added a product to their cart. However, the user then put the call on hold, leaving the conversation incomplete.","elevenlabs_tts, gpt_4o, retell_platform",26,user_hangup
-$-,call_708486d6f89fb5067f3d475bd18,agent_00490e668be8e0244229d1de5a,14707630575,918878838882,error,"3/28/2025, 1:06:32 PM","3/28/2025, 1:06:32 PM",-,noorsheikh1155@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_bbb71a532cab696bd39435ea5a6,agent_00490e668be8e0244229d1de5a,14707630575,917032629972,error,"3/28/2025, 1:03:28 PM","3/28/2025, 1:03:28 PM",-,pp547129@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
