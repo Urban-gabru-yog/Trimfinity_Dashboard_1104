@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_fe746386637c3914fc5ec6670e2,agent_00490e668be8e0244229d1de5a,14707630575,918103043490,error,"4/13/2025, 9:29:57 PM","4/13/2025, 9:29:57 PM",-,iofficer206@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.07,call_1a200bf0d4a4961ef5e74ce8e7f,agent_00490e668be8e0244229d1de5a,14707630575,917738059284,ended,"4/13/2025, 8:37:55 PM","4/13/2025, 8:38:29 PM",34,mohdkhajashaikh@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: हां बराबर तो है सामान खान, अमान खान और एक है SIDIDIDID.
 User: 20 third बराबर बराबर.
@@ -3803,7 +3804,3 @@ User: Ok भाई मदद नहीं चाहिए
 $-,call_5b5dee6d7e173697c28364f3411,agent_00490e668be8e0244229d1de5a,14707630575,919828888844,error,"3/30/2025, 11:38:06 AM","3/30/2025, 11:38:06 AM",-,sunil18jan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_8900d3a46a5a2a45c28461a9f31,agent_00490e668be8e0244229d1de5a,14707630575,919336303068,ended,"3/30/2025, 11:17:17 AM","3/30/2025, 11:17:32 AM",15,surajkushwaha8272@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
 ",https://dxc03zgurdly9.cloudfront.net/8275081bbb8da0451a41ed474603bb6f69feeb4c4625d59be5fc72c78ebcb8b6/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely revolved around helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
-$0.02,call_aae301857b72c80b12221085560,agent_00490e668be8e0244229d1de5a,14707630575,919562722814,ended,"3/29/2025, 9:40:57 PM","3/29/2025, 9:41:04 PM",7,www.sujithkm623@gmail.com,"Agent: Hello, 
-User: Hello.
-Agent: main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein 
-",https://dxc03zgurdly9.cloudfront.net/e4515f98ca719a7ef3d9c1858370e2919b18cd1a19c4cb3aec34b337b307ba0b/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, initiated the call to discuss a product that the user had in their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
