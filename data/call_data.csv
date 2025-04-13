@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_e65fdd975f80e037a8748d1b807,agent_00490e668be8e0244229d1de5a,14707630575,917558481082,error,"4/13/2025, 1:55:23 PM","4/13/2025, 1:55:23 PM",-,sudatt2005@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.17,call_be8fd5c986e066811f82fcb65c9,agent_00490e668be8e0244229d1de5a,14707630575,916200363373,ended,"4/13/2025, 1:15:20 PM","4/13/2025, 1:16:37 PM",78,sushantkumar95760@gmail.com,"Agent: Hello, 
 User: Hello?
 Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -3841,4 +3842,3 @@ $0.03,call_96659465bccc28d11133a5520bb,agent_00490e668be8e0244229d1de5a,14707630
 User: Recorded.
 Agent: aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
 ",https://dxc03zgurdly9.cloudfront.net/34471a39c287d67a99145a928204f2367778e8d114e128b9ea0d08797249d1ca/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. However, the user responded with 'Recorded', indicating a lack of engagement or interest in continuing the conversation.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
-$-,call_79ac9aa0f2f9b5ab5d400ea0ac5,agent_00490e668be8e0244229d1de5a,14707630575,919363662027,error,"3/29/2025, 2:38:27 PM","3/29/2025, 2:38:27 PM",-,vishwar753@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
