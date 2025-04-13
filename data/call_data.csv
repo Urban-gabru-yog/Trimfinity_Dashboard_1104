@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_07f79acb4a5990ef98725a56faf,agent_00490e668be8e0244229d1de5a,14707630575,919958753061,error,"4/13/2025, 10:35:19 AM","4/13/2025, 10:35:19 AM",-,aarav576@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_af147608a48b317407923e39826,agent_00490e668be8e0244229d1de5a,14707630575,919823927217,ended,"4/13/2025, 10:33:02 AM","4/13/2025, 10:33:17 AM",15,ajharkhan2505@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/32ea244952b8e9506c9b40e1ee04324fffd05cd64d3dac87f74240f476e5d12b/recording.wav,Neutral,True,"The user was greeted by the agent, who identified themselves as Aryan from Trimfinity. The agent informed the user about an additional 5% discount available for a product they had added to their cart and asked if the user would like to claim it.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
 $-,call_d39568ce9504dd83bf648d1f82b,agent_00490e668be8e0244229d1de5a,14707630575,919892822989,error,"4/12/2025, 9:29:25 PM","4/12/2025, 9:29:25 PM",-,sachinkumar513272@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_0d28b82bfef2a6c7c9c2f5649c5,agent_00490e668be8e0244229d1de5a,14707630575,919892822989,error,"4/12/2025, 9:28:39 PM","4/12/2025, 9:28:39 PM",-,sachinkumar513272@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.12,call_e32fad80207e0eea9ba1958e2b0,agent_00490e668be8e0244229d1de5a,14707630575,919039646530,ended,"4/12/2025, 9:18:09 PM","4/12/2025, 9:19:05 PM",56,kr0112264@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -3849,13 +3853,3 @@ Agent: ekdum smart
 User: नहीं, एक ही एक ही एक ही एक ही एक.
 Agent: Arre theek hai, sirf ek hi lena hai, Trimfinity 7000, right? Toh uska price 
 ",https://dxc03zgurdly9.cloudfront.net/f18b869e56854e34bf66002254b9fc9a627a83fc5354d803c387a4e5385153f9/recording.wav,Positive,True,The user inquired about a discount on the Trimfinity trimmer they added to their cart. The agent offered a 5% discount on the Trimfinity 1.0 Body & Ball Trimmer and a ₹250 discount for buying two products. The user expressed interest in the Trimfinity 7000 and confirmed they only wanted to purchase that one product.,"elevenlabs_tts, gpt_4o, retell_platform",177,max_duration_reached
-$0.03,call_6e843becbd39dcb988285a39fea,agent_00490e668be8e0244229d1de5a,14707630575,919946325620,ended,"3/29/2025, 1:28:32 PM","3/29/2025, 1:28:44 PM",12,313muhammedhisham@gmail.com,"User: Hello. 
-Agent: Hello, main Tanya Trimfinity se baat kar 
-User: हां.
-Agent: Hello ji! Main Tanya bol rahi hoon Trimfinity se. Kal aapne Trimfinity 7000 Body and Ball 
-",https://dxc03zgurdly9.cloudfront.net/b3c459443f3b4e830cb9c8aab8a8937fe0af920523f174b65c5a3fc81184b3cc/recording.wav,Neutral,False,The user spoke with Tanya from Trimfinity regarding the Trimfinity 7000 Body and Ball. The call appears to be an introduction to discuss the product the user inquired about.,"elevenlabs_tts, gpt_4o, retell_platform",12,user_hangup
-$0.07,call_7ee9e8104f5a4a46b76e626ae52,agent_00490e668be8e0244229d1de5a,14707630575,919131234186,ended,"3/29/2025, 1:27:50 PM","3/29/2025, 1:28:21 PM",32,sahilkrishna.1.1.1.2@gmail.com,"User: पर
-Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-User: Hello?
-Agent: Hello ji! Main Tanya bol rahi hoon Trimfinity se. Kal aapne Trimfinity 7000 Body and Ball Trimmer checkout karne ka socha tha, toh bas puchna chahti thi koi dikkat toh nahi 
-",https://dxc03zgurdly9.cloudfront.net/6734e442d7bcb8cae13b8a83b79e2e36f1166f0786f25f0a2530b13e97e04fa9/recording.wav,Neutral,True,"The user was contacted by an agent named Tanya from Trimfinity regarding a product they added to their cart, specifically the Trimfinity 7000 Body and Ball Trimmer. The agent inquired if the user faced any issues with the checkout process.","elevenlabs_tts, gpt_4o, retell_platform",32,user_hangup
