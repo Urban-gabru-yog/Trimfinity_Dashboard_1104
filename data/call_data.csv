@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.07,call_1a200bf0d4a4961ef5e74ce8e7f,agent_00490e668be8e0244229d1de5a,14707630575,917738059284,ended,"4/13/2025, 8:37:55 PM","4/13/2025, 8:38:29 PM",34,mohdkhajashaikh@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां बराबर तो है सामान खान, अमान खान और एक है SIDIDIDID.
+User: 20 third बराबर बराबर.
+",https://dxc03zgurdly9.cloudfront.net/024c3ecedc9c60abd8df747c1040ee04772c664b9048e1be6b85fb760461a97b/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user, Aryan, to inform them about an additional 5% discount on a product they added to their cart. The user confirmed their interest in the offer but provided unclear information regarding the items in their cart.","elevenlabs_tts, gpt_4o, retell_platform",34,user_hangup
 $0.02,call_e5a7d95d2d728e139ed0171dffa,agent_00490e668be8e0244229d1de5a,14707630575,918939434455,ended,"4/13/2025, 8:10:42 PM","4/13/2025, 8:10:49 PM",7,bashirahmed8839@gmail.com,"Agent: Hello, 
 User: Hello.
 Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din 
@@ -3803,4 +3807,3 @@ $0.02,call_aae301857b72c80b12221085560,agent_00490e668be8e0244229d1de5a,14707630
 User: Hello.
 Agent: main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein 
 ",https://dxc03zgurdly9.cloudfront.net/e4515f98ca719a7ef3d9c1858370e2919b18cd1a19c4cb3aec34b337b307ba0b/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, initiated the call to discuss a product that the user had in their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
-$-,call_c58689485be1401d335ea46c2d9,agent_00490e668be8e0244229d1de5a,14707630575,918295268186,error,"3/29/2025, 9:06:06 PM","3/29/2025, 9:06:06 PM",-,nikhildhankhar13@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
