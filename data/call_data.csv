@@ -1,4 +1,30 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_6a7ab9f9f0c6041487f2ed9f21b,agent_00490e668be8e0244229d1de5a,14707630575,916302717964,error,"4/13/2025, 6:48:05 PM","4/13/2025, 6:48:05 PM",-,Veeranna999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.39,call_2bd58576903747e06e8ea49f216,agent_00490e668be8e0244229d1de5a,14707630575,918127036130,ended,"4/13/2025, 6:42:48 PM","4/13/2025, 6:45:45 PM",178,gamerstarboy426@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं.
+Agent: Arre koi baat nahi, ji! Waise aapko product pasand toh aaya tha na? Bas price ka kuch tension hai ya aur kuch soch rahe the? Bataiye, main help karne ki koshish karta hoon.
+User: अरे नहीं, मैं उसी तरह देख रहा था.
+Agent: Samajh gaya, ji! Kabhi kabhi bas explore karte hain, lekin waise yeh Trimfinity 7000 Body and Ball Trimmer kaafi advanced hai. Iska design aur quality dono hi top-notch hai, aur long-lasting bhi hai.Waise ek baat bataun, yeh model kaafi fast sell hota hai. Pichle hafte bhi stock out ho gaya tha. Agar aap interested ho, toh main aapke liye ek chhota sa special discount de sakta hoon—5% off, sirf aaj ke liye. Kya lagta hai?
+User: तो कितने का पड़ जाएगा pro max वाला?
+Agent: Achha sawaal, ji! Agar aap Pro Max model lete hain, jo ₹2799 ka hai, uspe agar main aapko wahi 5% ka special discount doon, toh yeh ₹2659.05 ka padega. Yeh model aur bhi advanced hai—waterproof hai, turbo mode ke saath aata hai, aur sensitive areas ke liye perfect hai.Aapko lagta hai yeh aapke liye sahi rahega? Agar haan, toh main abhi ek WhatsApp link bhej deta hoon checkout ke liye!
+User: भेज दीजिए. वैसे मुझे ज़रूरत है B EdB और Wonderla भी. वरना में garments है दोनों.
+Agent: Arre wah, ji! Aap toh full grooming aur style ke mood mein lag rahe ho! Agar aapko Trimfinity Pro Max ke saath aur bhi products chahiye jaise B EdB aur Wonderla, toh ek aur dhamakedar offer hai—Buy 2 Products & Get ₹250 OFF ya Buy 3 Products & Get ₹400 OFF. Yeh combo deal kaafi faayde ka 
+User: नहीं नहीं 
+Agent: hai agar aap 
+User: कि 1 1 hello hello hello hello. Actually hello only pro max वाला चाहिए तो. Only
+Agent: Haan haan, samajh gaya, ji! Sirf Pro Max chahiye aapko. Toh main abhi aapko ek WhatsApp link bhej raha hoon, jisme aapko 5% ka special discount bhi milega. Aap bas uspe click karke checkout kar lena. Agar koi aur sawal ho, toh 
+User: अरे यार शांत 
+Agent: mujhe zarur 
+User: रहो दो. हां.
+User: है ठीक है. 
+Agent: Arre 
+User: आप WhatsApp link को भेज दीजिए.
+Agent: Theek hai, ji! Main abhi aapko WhatsApp pe checkout link bhej raha hoon. Aap bas uspe click karke araam se checkout kar lena. Agar koi aur sawal ho ya help chahiye ho, toh aap humein 
+User: नहीं नहीं.
+Agent: Arre koi tension nahi, ji! Aap araam se sochiye. Agar kabhi bhi help chahiye ho 
+",https://dxc03zgurdly9.cloudfront.net/21c10cd9449e791fbf98b15107e9b11e28abcde2ebe8c3c4ea013996b1fe9bdb/recording.wav,Neutral,True,"The user was offered a 5% discount on a product they had added to their cart, specifically the Trimfinity Pro Max model. After some discussion about the product and additional offers, the user confirmed they only wanted the Pro Max and requested the WhatsApp link for checkout, which the agent agreed to send.","elevenlabs_tts, gpt_4o, retell_platform",178,max_duration_reached
+$0.01,call_66638af70c97e8a76446dcf8191,agent_00490e668be8e0244229d1de5a,14707630575,918866406851,ended,"4/13/2025, 6:38:48 PM","4/13/2025, 6:38:54 PM",6,amratsuthar6335@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
+",https://dxc03zgurdly9.cloudfront.net/4886ded385b18ae12f67dfafbfedaa3f9c61870ac416d44378389706c6945dea/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by addressing the user and mentioning that they noticed the user had items in their product cart. The conversation likely revolved around assisting the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",6,user_hangup
 $-,call_e0a9495920263b53d366f0d7c94,agent_00490e668be8e0244229d1de5a,14707630575,918591065473,error,"4/13/2025, 6:08:22 PM","4/13/2025, 6:08:22 PM",-,prathamehgavas19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_f1a3883a51f90569698a83f8942,agent_00490e668be8e0244229d1de5a,14707630575,918484845519,ended,"4/13/2025, 5:56:48 PM","4/13/2025, 5:57:02 PM",14,Say143azhar@gmail.com,"Agent: Hello, main 
 User: Hello.
@@ -3102,3 +3128,484 @@ $-,call_30a10bd66e8a3da1b597543daad,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_cab2ee811eccf4c59e90a7c7b05,agent_00490e668be8e0244229d1de5a,14707630575,919321458209,error,"4/2/2025, 5:30:06 PM","4/2/2025, 5:30:06 PM",-,avinashsharma6726@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_1d7d7f9874f76ae07c510e8b7f8,agent_00490e668be8e0244229d1de5a,14707630575,919750145001,ended,"4/2/2025, 5:21:46 PM","4/2/2025, 5:21:50 PM",5,Sakthikumar5001@mail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
 ",https://dxc03zgurdly9.cloudfront.net/b12bbf783c777ca3febdc89b67915997ac95a3264b3a0fd209a5f85b7edf2a5f/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, addressing the user named Aryan. However, the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
+$-,call_aac03e201ef4e22c03e82d62053,agent_00490e668be8e0244229d1de5a,14707630575,917561035508,error,"4/2/2025, 5:19:45 PM","4/2/2025, 5:19:45 PM",-,muhammednafil12822@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_cea42206a28e0e7b55e4580a6c1,agent_00490e668be8e0244229d1de5a,14707630575,917903143995,error,"4/2/2025, 5:18:13 PM","4/2/2025, 5:18:13 PM",-,ramankumaramankumar1@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_62fbdf31d8b56afb97639e47373,agent_00490e668be8e0244229d1de5a,14707630575,917016597544,ended,"4/2/2025, 5:13:43 PM","4/2/2025, 5:13:56 PM",14,pathansamiullah34@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/cfb1232f33095d097a7452d2175fc1d4d24ff056d46601eaa76e3c4209dbf29f/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
+$0.02,call_b9cbe950aa457bbd3bc523a6971,agent_00490e668be8e0244229d1de5a,14707630575,918521160129,ended,"4/2/2025, 4:21:35 PM","4/2/2025, 4:21:46 PM",11,rahulbyahut7@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/de6a55dd8ef605cd34b89e0b34e84f53f21c301a1028595ecb2e5c09f86b7762/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",11,user_hangup
+$-,call_f89a1f02b700b153d396c9fdcc6,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/2/2025, 4:20:46 PM","4/2/2025, 4:20:46 PM",-,abhishekranjan141@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.10,call_9939961ff1f1bd6841ca3c225de,agent_00490e668be8e0244229d1de5a,14707630575,917903963231,ended,"4/2/2025, 4:20:43 PM","4/2/2025, 4:21:28 PM",46,abhishekranjan141@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: अभी नहीं
+Agent: Koi baat nahi, Abhishek ji! Agar aapko kabhi lage ki aapko product lena hai ya koi aur sawal ho, toh aap humein kabhi bhi contact kar sakte hain. Humara customer support 
+User: कैसे करूंगा?
+Agent: number hai: 
+Agent: Bilkul simple hai, Abhishek ji! Main aapko ek WhatsApp link bhej deta hoon, uspe click karke aap directly checkout kar sakte hain. Aur agar aapko koi help chahiye ho, toh humara customer support number hai: seven - three - nine - seven - eight - zero
+",https://dxc03zgurdly9.cloudfront.net/f73826d5b627b84befa29002d69fa1692d1c87fce0ff2cd9485f45620db7fd1e/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user, Abhishek, to inform him about an additional 5% discount on a product he added to his cart. Abhishek declined the offer but was provided with a WhatsApp link for easy checkout and the customer support number for any future inquiries.","elevenlabs_tts, gpt_4o, retell_platform",46,user_hangup
+$0.02,call_3a48ac79dd80d308c41a15ae913,agent_00490e668be8e0244229d1de5a,14707630575,918898153794,ended,"4/2/2025, 4:18:58 PM","4/2/2025, 4:19:08 PM",10,yuvrajbabar1999@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya 
+",https://dxc03zgurdly9.cloudfront.net/b9e074c03b073d9678851b7a1ed3f6a58cc926dfea3e2db1ddc48a79f807939b/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be promotional in nature, aiming to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o, retell_platform",10,user_hangup
+$-,call_632858831479abb453d9c667af5,agent_00490e668be8e0244229d1de5a,14707630575,919833072977,error,"4/2/2025, 4:06:04 PM","4/2/2025, 4:06:04 PM",-,Jairajshinde1528@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_fd4d8b4a54d3b1d1b3748c93595,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/2/2025, 4:05:46 PM","4/2/2025, 4:05:46 PM",-,Jairajshinde1528@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.05,call_f51f0ad9ac50c2d73b006fe79ac,agent_00490e668be8e0244229d1de5a,14707630575,918073273754,ended,"4/2/2025, 4:02:40 PM","4/2/2025, 4:03:01 PM",21,ateeqkerur43@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello.
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/a10c890d7e9ea66ded073b8196e0aee8b0e9a4903a8dd666f3c85bfadc1860d5/recording.wav,Neutral,True,The agent greeted the user and informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.,"elevenlabs_tts, gpt_4o, retell_platform",21,inactivity
+$-,call_945348732a19b426cbed15f9b33,agent_00490e668be8e0244229d1de5a,14707630575,918422806050,error,"4/2/2025, 4:02:39 PM","4/2/2025, 4:02:39 PM",-,Vipulgala69@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_570913de9fb2e8a3791cefacd48,agent_00490e668be8e0244229d1de5a,14707630575,918075232767,error,"4/2/2025, 4:00:43 PM","4/2/2025, 4:00:43 PM",-,rahmanthanzil3@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_eac791d83ac83d8b2f45575afd0,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/2/2025, 4:00:25 PM","4/2/2025, 4:00:25 PM",-,rahmanthanzil3@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.19,call_37d5205a283f3571285838ec353,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:58:56 PM","4/2/2025, 4:00:24 PM",88,-,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां customer support
+Agent: Bilkul! Agar aapko customer support se baat karni hai, toh aap humein in numbers par contact kar sakte hain:
+
+📞 Phone: Seven - three - nine - seven - eight - zero - five - three - four - seven  
+📱 WhatsApp: Same number par available hai.📧 Email: support@trimfinity.in  
+
+Aapko aur kuch madad chahiye toh mujhe zarur batayein!
+User: Coupon code क्या है? भैया?
+Agent: Haan 
+User: हां.
+Agent: bilkul, bhaiya! Aapke liye ek special coupon code hai: O - F - F - 5. Isse aapko 5% ka discount 
+User: नहीं
+User: हो गए
+Agent: Arre, theek hai bhaiya! Agar aapko kabhi bhi aur madad chahiye ho ya kuch aur puchhna ho, toh bas humein call ya WhatsApp kar lena. Number yaad hai na? Seven - three - nine - seven - eight - zero - five - three - four - seven.
+
+Aur haan, coupon code O - F - F - 5 aapke liye valid hai, jab bhi checkout karna ho, use kar lena.
+",https://dxc03zgurdly9.cloudfront.net/15b2eb7fa8240a2f3fadc1ac93875fb1abc3e65132ac430e3267dbc5b49da87b/recording.wav,Neutral,True,"The user was contacted by an agent from Trimfinity regarding a product in their cart and was offered an additional 5% discount. The user inquired about the coupon code, which the agent provided, and the call ended with the agent confirming the user's understanding and offering further assistance if needed.","elevenlabs_tts, gpt_4o, retell_platform",88,user_hangup
+$0.13,call_b04d9ddf88246eff3e782ab336a,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:54:59 PM","4/2/2025, 3:55:58 PM",59,-,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim 
+User: तू 
+Agent: karna chahenge?
+User: इसने accent का हर चीज़ बराबर हो ही जाए. हां कौन? Hello.
+Agent: ""Arre namaste! {{name}} ji, main Trimfinity se Aryan bol raha hoon. Kal aapne {{title}} apne cart mein add kiya tha, toh bas socha puch loon ki koi dikkat toh nahi aayi checkout karte waqt? Aapko product pasand aaya tha na?""
+User: Share का ID घर बंद
+Agent: ""Arre 
+User: हां चलिए
+Agent: ""Arre wah, {{name}} ji! Toh main abhi aapko ek WhatsApp link 
+",https://dxc03zgurdly9.cloudfront.net/296fb30047a95bf3674ea365863539ca5628e4a9ae75e273bcf660e60c693101/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The conversation included some confusion from the user, but the agent continued to assist by offering to send a WhatsApp link for further assistance.","elevenlabs_tts, gpt_4o, retell_platform",59,user_hangup
+$0.04,call_9b662bf0a1661215d24c2497fbe,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:54:03 PM","4/2/2025, 3:54:20 PM",17,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: यह वाला section. क्या? यह वाला.
+",https://dxc03zgurdly9.cloudfront.net/b20bbe62fb830ca45f992d0e0d2e7042bf7f2cc3c832c6a240c1e0e1e0471bc4/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user seemed confused and pointed to a section, indicating they needed clarification.","elevenlabs_tts, gpt_4o, retell_platform",17,user_hangup
+$0.01,call_aede404912e1277ab7bb4555faf,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:53:24 PM","4/2/2025, 3:53:28 PM",5,-,"Agent: Hello, main Tanya hoon Trimfinity se. 
+",https://dxc03zgurdly9.cloudfront.net/d1328ae52f2a36de0aa8df5b78e8b2bd9def320aabf8c675aa2ffe6854f304cd/recording.wav,Neutral,False,"The call begins with the agent introducing herself as Tanya from Trimfinity, but there is no further information or interaction provided in the transcript.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
+$0.04,call_cba1663ea77cf09dc1da9bfb601,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:53:04 PM","4/2/2025, 3:53:22 PM",18,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: ठीक है sir.
+",https://dxc03zgurdly9.cloudfront.net/12bc8f6dcc2fa482b7a55a6fbe217929cbfded0a111ef3f2982dc023974f6e13/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, informed the user about an additional 5% discount on a product they added to their cart and asked if they would like to claim it. The user agreed to the offer.","elevenlabs_tts, gpt_4o, retell_platform",18,user_hangup
+$0.04,call_a37f44013a5e6cdf776b3666963,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:52:32 PM","4/2/2025, 3:52:51 PM",19,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha 
+User: Hello.
+Agent: ki aapne product cart mein add kiya tha. Aaj ke din 
+Agent: Hey there! This is Tanya from Trimfinity. I noticed you were checking out the {{title}} recently. Just wanted to see if 
+",https://dxc03zgurdly9.cloudfront.net/bf525bc3328591235908da957fea9c68b36f8147e2b6fbecd1d4ebb61780f13d/recording.wav,Neutral,False,"The call was initiated by an agent named Tanya from Trimfinity, who reached out to the user regarding a product they had added to their cart. The agent aimed to assist the user with their shopping experience.","elevenlabs_tts, gpt_4o, retell_platform",19,user_hangup
+$0.08,call_1c8cf5777680abde5f2ffd2ff1f,agent_00490e668be8e0244229d1de5a,14707630575,916362375946,ended,"4/2/2025, 3:48:08 PM","4/2/2025, 3:48:47 PM",39,theseensab786@gmail.com,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello. Hello.
+Agent: Hi! This is Tanya from Trimfinity. Am I speaking with you? I noticed you were checking out the Trimfinity 7000 Pro Max Body & Ball Trimmer recently. Just wanted to see if you had any questions or needed help with anything.
+",https://dxc03zgurdly9.cloudfront.net/94b0c8a0e106a70d20f30cdc55776af80be45b7d5a481f7e7e565b66a005eeb4/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart, specifically the Trimfinity 7000 Pro Max Body & Ball Trimmer. The call appears to be in the initial stages, with the user responding but not engaging further at this point.","elevenlabs_tts, gpt_4o, retell_platform",39,user_hangup
+$-,call_d460af512f4b6a8b264be5832cf,agent_00490e668be8e0244229d1de5a,14707630575,919922980508,error,"4/2/2025, 3:45:36 PM","4/2/2025, 3:45:36 PM",-,lalitkumarv1234@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.16,call_e29230c464ddda2c333ed2a6cfa,agent_00490e668be8e0244229d1de5a,14707630575,919158406802,ended,"4/2/2025, 3:42:05 PM","4/2/2025, 3:43:20 PM",75,mukeshkumarmali95@gmail.com,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hello Mukesh ji, lagta hai aap thoda busy ho gaye. Koi baat nahi, main bas yeh confirm karna chahti thi ki agar aapko Trimfinity 7000 Body and Ball Trimmer ke baare mein koi sawaal ya confusion ho, toh aap mujhse pooch sakte ho. Yeh ek kaafi advanced aur safe trimmer hai, aur abhi stock bhi limited hai. Aapko koi help chahiye toh bataiye!
+User: No. Ok.
+Agent: Theek hai Mukesh ji, koi baat nahi. Agar aap kabhi future mein lene ka socho, toh yaad rahe ki aapke liye ek special 5% discount code hai: O-F-F-5. Isse aap checkout pe apply kar sakte ho.Aur agar aapko kabhi help chahiye ho, toh aap humein WhatsApp ya call kar sakte ho: seven-three-nine-seven-eight-zero-five-three-four-seven.Aapka din shubh ho!
+",https://dxc03zgurdly9.cloudfront.net/eb62e1b9debe7fe7588bdc9b6a7bafd0785ae329c9320917c5e327e48dfdc28d/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, reached out to Mukesh to inform him about a special 5% discount on a product he added to his cart. Mukesh declined the offer and did not have any questions, but the agent provided him with a discount code for future use and offered assistance if needed.","elevenlabs_tts, gpt_4o, retell_platform",75,user_hangup
+$-,call_a1ad479188afac0d5d630985c68,agent_00490e668be8e0244229d1de5a,14707630575,919922980508,error,"4/2/2025, 3:41:59 PM","4/2/2025, 3:41:59 PM",-,lalitkumarv1234@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.12,call_8996a69529ec95f95a235daab94,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 3:23:02 PM","4/2/2025, 3:23:58 PM",57,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां, yes.
+Agent: Great, {{name}} ji! Aapke liye ek special discount code hai: O-F-F-5. Isse aap checkout pe use kar sakte hain aur 5% off le sakte hain.Aapko product ke baare mein koi aur sawal ya concern hai? Mai madad karne ke liye yahan hoon!
+User: हो गया
+Agent: Wah, {{name}} ji! Aapne toh kaam kar diya. Agar aapko aur kisi cheez ki zarurat ho ya koi aur sawal ho, toh mujhe zaroor batayein. Aap hamesha humse 
+User: रुकिए, वह भी add कर दो फिर sentence? हां.
+Agent: Bilkul, 
+",https://dxc03zgurdly9.cloudfront.net/ff6c30d9f5162934f27c31556f8d568e28b87bf0d201e64c0cfedb109d41b34f/recording.wav,Positive,True,The user was offered a special discount of 5% on their cart items by the agent. The user accepted the offer and received a discount code to use at checkout. The agent confirmed the user's action and offered further assistance if needed.,"elevenlabs_tts, gpt_4o, retell_platform",57,user_hangup
+$0.02,call_9d91a395ecc2540392833a6adbf,agent_00490e668be8e0244229d1de5a,14707630575,918140654445,ended,"4/2/2025, 3:16:17 PM","4/2/2025, 3:16:26 PM",9,Ishmitsingh28@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Abhi exclusively aapke liye extra five percent off hai. 
+",https://dxc03zgurdly9.cloudfront.net/da1c308c1104cc6e1f839e8864d4b620ba7a69778bf6eddbed26a69c2a9ca5b8/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, reached out to the user to inform them about an exclusive offer of an extra five percent off on a product they had added to their cart.","elevenlabs_tts, gpt_4o, retell_platform",9,user_hangup
+$0.01,call_3c5027662a71fc480ccce79cd9e,agent_00490e668be8e0244229d1de5a,14707630575,919075380227,ended,"4/2/2025, 3:04:21 PM","4/2/2025, 3:04:23 PM",3,khuzaimakhatri786@gmail.com,"User: Call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/9274d7d0c3d1767a60887e71b07d56c05c942a8c59d49677163c74de83d1484c/recording.wav,Neutral,False,"The user attempted to make a call, but it was forwarded to voicemail, indicating that the intended recipient was unavailable to take the call.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$-,call_18689719d502821ebe696ad9d0f,agent_00490e668be8e0244229d1de5a,14707630575,918965998098,error,"4/2/2025, 2:59:40 PM","4/2/2025, 2:59:40 PM",-,rahulsoni21808@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_ca9540ee7b917e1be0dbb60b7d1,agent_00490e668be8e0244229d1de5a,14707630575,918965998098,error,"4/2/2025, 2:53:54 PM","4/2/2025, 2:53:54 PM",-,rahulsoni21808@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e2f7493e00376ace1073cc4ae58,agent_00490e668be8e0244229d1de5a,14707630575,916362554950,error,"4/2/2025, 2:24:37 PM","4/2/2025, 2:24:37 PM",-,hgirish422@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_db6e71769dae34f19b15ca8f327,agent_00490e668be8e0244229d1de5a,14707630575,919788364254,error,"4/2/2025, 2:10:11 PM","4/2/2025, 2:10:11 PM",-,nagaraj4254@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_6d9fa999e73464e4f6a5b68757e,agent_00490e668be8e0244229d1de5a,14707630575,919405077049,error,"4/2/2025, 1:48:19 PM","4/2/2025, 1:48:19 PM",-,kanupareek057@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_92a0bff21a2356ad72b6f9688bf,agent_00490e668be8e0244229d1de5a,14707630575,917290932127,ended,"4/2/2025, 1:45:12 PM","4/2/2025, 1:45:20 PM",9,bmohit329@gmail.com,"Agent: Hello, main Tanya hoon 
+User: Hello. क्या
+Agent: Trimfinity se. Maine dekha ki aapne product cart 
+Agent: Arre, namaste ji! Main Tanya 
+",https://dxc03zgurdly9.cloudfront.net/44a8a8b50c12b07bb308d565d3a1ee7f5de17b229d2c1c85186664c10b96ccc1/recording.wav,Neutral,False,"The call was initiated by an agent named Tanya from Trimfinity, who greeted the user and acknowledged that they had a product in their cart. The conversation appears to be in Hindi, indicating a local context.","elevenlabs_tts, gpt_4o, retell_platform",9,user_hangup
+$0.03,call_5c7fc9bfef516c7d778347fdecc,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 1:35:08 PM","4/2/2025, 1:35:21 PM",14,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Abhi exclusively aapke liye extra five percent off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/ff169651fcfb84f2b1cad809c4c44adb4deb3413c504d9de6754bcedc0964720/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to inform them about an exclusive offer of an additional five percent discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
+$0.03,call_2faa983f23a03dd9f670debf275,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 1:34:27 PM","4/2/2025, 1:34:40 PM",14,-,"Agent: Hello, main Tanya hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Abhi exclusively aapke liye extra 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/0986d326166042bbe5f106d750ac1c6fe35262d25bb455898932fd5839f47b97/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to inform them about an exclusive 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
+$-,call_540fb7af4d4d3a92bedc35ad11c,agent_00490e668be8e0244229d1de5a,14707630575,917389886445,error,"4/2/2025, 1:33:32 PM","4/2/2025, 1:33:32 PM",-,sandeep001kushwah@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_adf508889a0c423a700b30f251e,agent_00490e668be8e0244229d1de5a,14707630575,918005862616,error,"4/2/2025, 1:32:11 PM","4/2/2025, 1:32:11 PM",-,sumitrajpurohit800@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.03,call_07fd9548957996577957179877f,agent_00490e668be8e0244229d1de5a,14707630575,919832353692,ended,"4/2/2025, 1:24:30 PM","4/2/2025, 1:24:42 PM",13,rijunath193@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/fd4517aa7ed7d87cd50a25a80293157a6c1daea18a057a8de0798743e3e8dd0e/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely focused on helping the user with their cart or product inquiry.","elevenlabs_tts, gpt_4o, retell_platform",13,user_hangup
+$0.21,call_cfe97c5fe01a9ee7961f298bff6,agent_00490e668be8e0244229d1de5a,14707630575,918369720014,ended,"4/2/2025, 1:24:00 PM","4/2/2025, 1:25:38 PM",99,harshmule420@gmail.com,"User: Hello?
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Hello. Hello
+Agent: Hi! This is Tanya from Trimfinity. Am I speaking with Harsh?
+User: लो लो इस पर हर्ष is my brother, he is a house
+Agent: Arre, koi baat nahi! Aap kaun bol rahe ho? Main bas Trimfinity se call kar rahi thi, kal aapke cart mein Trimfinity 1.0 Body & Ball Trimmer add kiya gaya tha. Socha puch loon, koi dikkat toh nahi aayi checkout karte waqt?
+User: I don't know he is outside and he will come I will tell you to call you. Ok?
+Agent: Bilkul theek, koi problem nahi! Jab Hars bhaiya wapas aayein, toh unhe bolna ki Trimfinity se Tanya ka call aaya tha. Main bas unki help karna chahti thi product ke baare mein. Agar unhe kuch puchna ho ya order karna ho, toh mujhe WhatsApp ya call kar sakte hain. Number hai: seven-three-nine-seven-eight-zero-five-three-four-seven.Main baad mein phir se call kar lungi.
+Agent:  Thank you!
+User: Ok, no
+User: Thank you. Have a nice
+Agent: Aapka bhi din shubh ho! Agar kabhi bhi help chahiye ho, toh zarur batana. Bye-bye!
+",https://dxc03zgurdly9.cloudfront.net/3934df2f7528358efc544fa7174a529e855087234d81ea0d65f8b164c2cea7ed/recording.wav,Neutral,True,"The call was initiated by Tanya from Trimfinity to assist Harsh regarding a product he added to his cart. Since Harsh was not available, Tanya provided her contact information for follow-up and assured the user that she would call back later.","elevenlabs_tts, gpt_4o, retell_platform",99,user_hangup
+$-,call_7536da4ec93ea3a0f758bddc3f5,agent_00490e668be8e0244229d1de5a,14707630575,916309755327,error,"4/2/2025, 1:21:13 PM","4/2/2025, 1:21:13 PM",-,mahendraband123@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.31,call_c85275357c25f99c90cbaf7b0e0,agent_00490e668be8e0244229d1de5a,14707630575,918148256664,ended,"4/2/2025, 1:18:58 PM","4/2/2025, 1:21:19 PM",141,Yadav.naveen127@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Sorry sir, is there any additional representative or any other personality थी? The course regarding?
+Agent: Oh, maaf kijiye, lagta hai aapko confusion ho gaya. Main Trimfinity se Tanya bol rahi hoon. Kal aapne Trimfinity 1.0 Body & Ball Trimmer apne cart mein add kiya tha, toh bas puchna chahti thi ki koi dikkat ya sawal toh nahi tha product ko lekar?
+User: Sorry sir, the product is not available.
+Agent: Arre nahi nahi, product bilkul available hai! Trimfinity 1.0 
+User: Ok.
+Agent: Body & Ball Trimmer abhi stock mein hai. Yeh ek kaafi popular model hai, isliye jaldi out of stock ho jata hai. Aapko product ke baare mein koi doubt ya hesitation hai? Main aapki help kar sakti hoon!
+User: Sorry sir, I am not understanding what you are saying.
+Agent: Arre koi baat nahi, main simplify kar deti hoon! Main Tanya bol rahi hoon Trimfinity se. Aapne kal ek trimmer apne cart mein add kiya 
+User: Better you try 
+Agent: tha—Trimfinity 1.0 
+User: in case any is there any English purposes in any any callback sir.
+Agent: Oh, got it! No problem at all. Let me explain in English. This is Tanya from Trimfinity. I noticed you added the Trimfinity 1.0 Body & Ball Trimmer to your cart yesterday. I just wanted to check if you had any questions or needed help completing your 
+Agent: purchase?
+User: No no no no no no no, I need any, I am not I I don't, I don't need any queries on that. I've ordered the रोहित itself I'm waiting for the product
+Agent: Oh, got it! If you've already placed the order, that's great! 😊 You’ll love the Trimfinity 1.0 Trimmer—it’s one of our bestsellers. If you have any questions or need help with the product once it arrives, feel free 
+User: No 
+Agent: to reach out 
+User: no
+User: no,
+Agent: Alright, no worries! If you need any help in the future, you can always contact us at 7397805347 or email us at support@trimfinity.in. Have a great day!
+User: Thank you.
+Agent: You're most 
+",https://dxc03zgurdly9.cloudfront.net/b978dfc64e7df061f8465267557cd39383e0f82432a2c9ad313f902957606c1a/recording.wav,Neutral,True,"The user was contacted by Tanya from Trimfinity regarding a product they added to their cart, the Trimfinity 1.0 Body & Ball Trimmer. The user clarified that they had already placed an order for the product and did not have any questions or need further assistance. The call ended with the agent providing contact information for future inquiries.","elevenlabs_tts, gpt_4o, retell_platform",141,user_hangup
+$-,call_56022c1386d7bbe4d6e6c29e5c8,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/2/2025, 12:58:16 PM","4/2/2025, 12:58:16 PM",-,rknaidus2012@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.02,call_69d49e87ebf65b905d6bc2f4748,agent_00490e668be8e0244229d1de5a,14707630575,918121812193,ended,"4/2/2025, 12:58:15 PM","4/2/2025, 12:58:24 PM",10,rknaidus2012@gmail.com,"User: Hello.
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/d2a44253c1804f804ad0fab58ef94d878cb3f1c8a58642d74e4cbd517c3711ac/recording.wav,Neutral,True,"The user initiated the call and the agent, Tanya from Trimfinity, acknowledged that the user had added a product to their cart and offered assistance.","elevenlabs_tts, gpt_4o, retell_platform",10,user_hangup
+$-,call_3412834601bd0b48fbd066c7af1,agent_00490e668be8e0244229d1de5a,14707630575,919643099924,error,"4/2/2025, 12:57:22 PM","4/2/2025, 12:57:22 PM",-,gupta.pranav6821@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.05,call_85ec21cef0c2dc8ed93202340bc,agent_00490e668be8e0244229d1de5a,14707630575,918867395517,ended,"4/2/2025, 12:54:42 PM","4/2/2025, 12:55:02 PM",21,matttmatheen@gmail.com,"Agent: Hello, 
+User: Hello
+Agent: main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Hello.
+User: Hello
+",https://dxc03zgurdly9.cloudfront.net/ce31251ca54dfddb8da7718e613f142049caaf8d640826bcfd13779656f8f2f3/recording.wav,Neutral,False,"The call involved an agent named Tanya from Trimfinity reaching out to the user regarding a product that was added to their cart. However, the user did not engage further in the conversation, repeating 'Hello' multiple times without providing any additional information or response.","elevenlabs_tts, gpt_4o, retell_platform",21,user_hangup
+$-,call_e2d9a9c3c1aa29f8cb7bbe86908,agent_00490e668be8e0244229d1de5a,14707630575,919096811063,error,"4/2/2025, 12:41:24 PM","4/2/2025, 12:41:24 PM",-,abhishekpatade30@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_c6118ca2e76cd3bb53d488bc256,agent_00490e668be8e0244229d1de5a,14707630575,917592026854,ended,"4/2/2025, 12:38:42 PM","4/2/2025, 12:38:45 PM",3,mhdjasim964@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/cb0e25a8b22ca27c58e6f54845b8ee77534c19c3786a64c6a54c8b3567f1c2da/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that the intended recipient is unavailable to take the call at the moment.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$0.03,call_dba6ae5d159e45b7f3c3cf2e3c3,agent_00490e668be8e0244229d1de5a,14707630575,919151129891,ended,"4/2/2025, 12:15:32 PM","4/2/2025, 12:15:46 PM",14,Piyushsahusahu145siddharth@gmail.com,"Agent: Hello, main 
+User: Hello?
+Agent: Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Ma'am अभी बाद में बात कर रहे हैं थोड़ा काम.
+",https://dxc03zgurdly9.cloudfront.net/c706b6c2a862b2da27f1346ffe06ffee50abada9f9a987faeb56da17e3ca9149/recording.wav,Neutral,False,"The user answered the call but indicated they were busy with work and requested to talk later. The agent, Tanya from Trimfinity, was reaching out to assist the user with a product they had added to their cart.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
+$0.04,call_0247c69587443de72e69d414f07,agent_00490e668be8e0244229d1de5a,14707630575,919541439478,ended,"4/2/2025, 11:56:12 AM","4/2/2025, 11:56:31 AM",20,anchakshat@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/aed3c2419d4f569774ace059ce0cb6c02c721494b9c2421206ab753634074a96/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely focused on helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",20,inactivity
+$0.04,call_e9ba5755c8ca2e2b8f83175ee7f,agent_00490e668be8e0244229d1de5a,14707630575,919541439478,ended,"4/2/2025, 11:52:49 AM","4/2/2025, 11:53:08 AM",19,anchakshat@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/afca289d14bcf27f4e5fdf7ff5dde081b1651fbf75b39768caf3535f0d8bf49f/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely focused on helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",19,inactivity
+$0.05,call_d60e21dfaa647d62200e98fa69e,agent_00490e668be8e0244229d1de5a,14707630575,919833072977,ended,"4/2/2025, 11:41:06 AM","4/2/2025, 11:41:27 AM",22,Jairajshinde1528@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Hey there! This is Tanya from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer yesterday. Just wanted to see if you had any questions or if there was anything holding you back from completing the purchase?
+",https://dxc03zgurdly9.cloudfront.net/462a5e19cf3645eb93cfffe2699160abd6602abcb0f9db29d5d94769f0267fb7/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to follow up on their interest in the Trimfinity 1.0 Body & Ball Trimmer and offered assistance with any questions or concerns regarding the purchase.","elevenlabs_tts, gpt_4o, retell_platform",22,user_hangup
+$-,call_4f356abf462fa64c12d69f78b01,agent_00490e668be8e0244229d1de5a,14707630575,917999927135,error,"4/2/2025, 11:31:11 AM","4/2/2025, 11:31:11 AM",-,Vivekkumar7999927135@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_3b42f26bfdf542661790be6c40a,agent_00490e668be8e0244229d1de5a,14707630575,917999927135,error,"4/2/2025, 11:30:57 AM","4/2/2025, 11:30:57 AM",-,Vivekkumar7999927135@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.02,call_4d6e9b93049c964a13f1717d3f0,agent_00490e668be8e0244229d1de5a,14707630575,919400299576,ended,"4/2/2025, 11:29:12 AM","4/2/2025, 11:29:19 AM",7,shabeebmavungal9400@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. 
+",https://dxc03zgurdly9.cloudfront.net/cee830484eff8cea471ddb9ce55c1d13be8707b0b600b1a16046665f43530a2d/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation likely revolved around the user's interest in the product and any assistance they might need.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
+$0.01,call_f701e53ff53abe51a81921b1d1a,agent_00490e668be8e0244229d1de5a,14707630575,919924363741,ended,"4/2/2025, 11:28:11 AM","4/2/2025, 11:28:14 AM",4,kumawatanil98@gmail.com,"User: Your call 
+Agent: Hello, main 
+User: has been forwarded to voice mail.
+",https://dxc03zgurdly9.cloudfront.net/85d8f45da3e309df5455b2f80830781e3742c868690e2ea0d5b4b821a34932f3/recording.wav,Neutral,False,"The user informed the agent that their call has been forwarded to voicemail, indicating that they were unable to connect with the intended recipient.","elevenlabs_tts, gpt_4o, retell_platform",4,voicemail_reached
+$-,call_6bb284b9fb586e4f2a322ddef53,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/2/2025, 11:28:11 AM","4/2/2025, 11:28:11 AM",-,kumawatanil98@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.04,call_edbf3e57e4d4dd9809994a59842,agent_00490e668be8e0244229d1de5a,14707630575,919946242606,ended,"4/2/2025, 11:09:30 AM","4/2/2025, 11:09:48 AM",18,akhil813661@gmail.com,"User: Hello.
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Hello.
+Agent: Hey 
+",https://dxc03zgurdly9.cloudfront.net/6ee7644c473e5c4cfe5de15312c572931e5d75cce535dc0eed07f05c00f82d28/recording.wav,Neutral,False,"The user initiated the call with a greeting, and the agent introduced herself as Tanya from Trimfinity, offering assistance regarding a product that the user had added to their cart. However, the conversation did not progress beyond greetings, indicating a lack of engagement.","elevenlabs_tts, gpt_4o, retell_platform",18,user_hangup
+$-,call_6c6c8529c7f4f1434a5704e5a1f,agent_00490e668be8e0244229d1de5a,14707630575,919876543210,error,"4/2/2025, 11:00:56 AM","4/2/2025, 11:00:56 AM",-,rakesh@urbangabru.in,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_0104539ffb252f8b4e0efd80ee6,agent_00490e668be8e0244229d1de5a,14707630575,918208083834,error,"4/2/2025, 11:00:55 AM","4/2/2025, 11:00:55 AM",-,rakesh@urbangabru.in,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_488fff982405ab0515a912710e6,agent_00490e668be8e0244229d1de5a,14707630575,918368538481,error,"4/2/2025, 10:59:48 AM","4/2/2025, 10:59:48 AM",-,Kunalmalik417@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.25,call_3ab51e99352bc12a73c54e1a011,agent_00490e668be8e0244229d1de5a,14707630575,919011332007,ended,"4/2/2025, 10:58:33 AM","4/2/2025, 11:00:29 AM",117,rahuldoke7@gmail.com,"User: Hello.
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: हो गया था ad.
+Agent: Haan bilkul, rahul doke ji! Aapne Trimfinity 7000 Body and Ball Trimmer apne cart mein add kiya tha. Yeh ek kaafi advanced aur popular model hai. Bas yeh puchna tha ki aapko checkout karte waqt koi dikkat aayi ya abhi soch 
+User: नहीं 
+Agent: rahe the?
+User: नहीं, कोई दिक़्क़त नहीं थी. Just मैं ऐसे check कर रहा था product.
+Agent: Samajh gaya, rahul doke ji! Waise yeh product kaafi logon ka favourite hai, especially kyunki iska stainless steel ceramic blade hai jo nicks aur cuts bilkul avoid karta hai. Aur iska turbo mode toh thick hair ke liye perfect hai.Aapko product pasand toh aaya? Ya abhi price ya kisi aur cheez ko lekar soch rahe the?
+User: नहीं नहीं, price वगैरह कुछ नहीं जैसे ऐसे ही check कर रहा था मैं.
+Agent: Arre, theek hai rahul doke ji, kabhi kabhi hum bas explore karte hain, samajh sakti hoon. Waise ek baat bataun, yeh model kaafi fast sell hota hai, pichle hafte bhi stock out ho gaya tha. Aur abhi bhi limited stock hai.Aapko lagta hai ki future mein zarurat padegi toh mai ek chhota sa special discount de sakti hoon—sirf aaj ke liye. Aapko lagta hai yeh kaam aayega?
+User: नहीं नहीं, discount नहीं चाहिए.
+Agent: Arre waah, rahul doke ji, aap toh bilkul sorted lagte ho! Waise, agar kabhi future mein lene ka mann kare, toh bas humein yaad kar lena. Agar aur koi sawal ho ya help chahiye ho, toh mujhe zarur batana.Aur haan, agar kabhi 
+User: ठीक है 
+Agent: customer support se baat 
+User: ठीक.
+Agent: Theek hai, rahul doke ji! Aapka din shandaar rahe.
+User: Thank 
+Agent:  Agar kabhi 
+User: you.
+Agent: Aapka bhi 
+",https://dxc03zgurdly9.cloudfront.net/a218a0e3ca1bd7f46cf5441a5aeb87bfeb29f63747379ff1c885fcc421eb4a48/recording.wav,Neutral,True,"The user, Rahul, was exploring the Trimfinity 7000 Body and Ball Trimmer in his cart without any issues during checkout. The agent provided information about the product and offered a special discount, but the user declined it, indicating he was just checking the product.","elevenlabs_tts, gpt_4o, retell_platform",117,user_hangup
+$-,call_a0a3c6b55f65b7f946863cfcea9,agent_00490e668be8e0244229d1de5a,14707630575,918935884813,error,"4/2/2025, 10:34:56 AM","4/2/2025, 10:34:56 AM",-,ak9044898@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_1577aaca89ff53fff8edf6ae250,agent_00490e668be8e0244229d1de5a,-,-,ended,"4/2/2025, 10:03:03 AM","4/2/2025, 10:03:19 AM",16,-,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/00c7bae3dc515cf23e5d8809dc6e23d1f1fccaf280a966af95917475a7b5a2e0/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user regarding a product they added to their cart, offering assistance with their inquiry or purchase.","elevenlabs_tts, gpt_4o, retell_platform",16,user_hangup
+$0.05,call_6a64a288dad2414d16e50dab88f,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 3:50:06 PM","4/1/2025, 3:50:27 PM",22,-,"User: Hello,
+Agent: ""Namaste {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Aapne kal apne cart mein {{title}} add kiya tha, toh bas socha puch loon—koi dikkat hui kya checkout karte waqt? Ya koi help chahiye?""
+",https://dxc03zgurdly9.cloudfront.net/df29ac105bd2b770ddda493c73b795dd30c9af6671c6c2a6dbedf8d13cb9adad/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to inquire if they faced any issues while checking out after adding an item to their cart the previous day. The call was friendly and aimed at offering assistance.","elevenlabs_tts, gpt_4o, retell_platform",22,user_hangup
+$0.07,call_e3f9292f62b883b93c2ce6cb175,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 3:47:26 PM","4/1/2025, 3:47:58 PM",32,-,"Agent: ""Namaste {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Aap kal apne cart mein {{title}} add kiya tha, toh bas socha puch loon—koi dikkat hui kya checkout karte waqt? Ya koi help chahiye?""
+User: Price का issue था.
+Agent: ""Samajh gayi, {{name}} ji. 😊 Kabhi kabhi price thoda zyada lagta hai, par main aapko bata doon ki {{title}} ki quality aur features top-notch hain. Yeh 
+",https://dxc03zgurdly9.cloudfront.net/17ecd0f3c8b2ea720b7001a98e4600402c6fe6a1008eeb845c286cb8bc1b7be2/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to inquire about any issues they faced while checking out an item they added to their cart. The user mentioned a price issue, and the agent acknowledged it while emphasizing the quality and features of the product.","elevenlabs_tts, gpt_4o, retell_platform",32,user_hangup
+$0.18,call_367220c31cab72f5bc166c6a795,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 3:44:42 PM","4/1/2025, 3:46:04 PM",83,-,"Agent: ""Namaste {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Aapne kal apne cart mein {{title}} add kiya tha, toh bas socha puch loon—koi dikkat hui kya checkout karte waqt? Ya koi help chahiye?""
+User: Help चाहिए थोड़ी.
+Agent: Bilkul, {{name}} ji! 😊 Bataiye, kya confusion ya dikkat ho rahi hai? Product pasand toh aaya na? Bas price par soch rahe the ya kuch aur? Main aapki help karne ke liye yahan hoon!
+User: Price का issue था.
+Agent: Samajh gayi, {{name}} ji. 😊 Dekhiye, main aapko bata doon ki {{title}} thoda premium hai kyunki isme advanced technology aur high-quality material use hota hai. Yeh ekdum long-lasting aur top-notch performance ke liye design kiya gaya hai. Trimfinity ke products quality ke liye kaafi mashhoor hain! 😎
+
+Lekin agar aapko lagta hai ki price thoda zyada hai, toh main aapke liye ek special offer arrange kar sakti hoon. Sirf aaj ke liye, main aapko ek exclusive 5% discount de sakti hoon code O-F-F-5 ke 
+User: अच्छा 
+Agent: saath. Kaisa laga?
+User: है.
+Agent: Wah, {{name}} ji! 😄 Mujhe khushi hui ki aapko offer pasand aaya. Waise ek baat aur bata doon—yeh model kaafi fast sell hota 
+",https://dxc03zgurdly9.cloudfront.net/d1148ea3107795354bd89c27c85ce02b48492f7a25c38ec9289f635bfa26689c/recording.wav,Positive,True,"The user contacted the agent regarding a price issue with a product they added to their cart. The agent explained the product's premium quality and offered a special 5% discount to assist the user with their purchase, which the user appreciated.","elevenlabs_tts, gpt_4o, retell_platform",83,user_hangup
+$0.26,call_9597fb7e5bb323e08447aa39fbf,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 3:39:14 PM","4/1/2025, 3:41:11 PM",118,-,"User: अच्छा नहीं है. ठीक है. मेरा तो वैसे ही है. Hello.
+Agent: ""Hello {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Aapne kal apne cart mein {{title}} add kiya tha, toh bas puchna tha—koi dikkat hui kya? Koi help chahiye? 😊""
+User: हां मुझे आई Price में दिक्कत है.
+Agent: Samajh gayi, {{name}} ji! 😊 Kabhi kabhi price thoda zyada lagta hai, par main aapko bata doon ki {{title}} ki quality aur features is price ko totally justify karte hain. Yeh advanced technology aur premium material se bana hai, jo lamba chalega aur performance bhi top-class hai. 😎
+
+Waise, aapko product pasand toh aaya na? Bas price hi sochne ki baat hai ya kuch aur bhi?
+User: नहीं क्या? मेरे को समझ नहीं आया. क्या बोले?
+Agent: Arre, sorry {{name}} ji! 😅 Main yeh bol rahi thi ki jo {{title}} aapne dekha tha, uski quality aur features kaafi top-notch hain. Isliye price thoda zyada lagta hai, par yeh ekdum value-for-money hai. Yeh lamba 
+User: अरे madam, अरे madam अरे madam तो 
+Agent: chalega aur aapko baar-baar replace karne ki tension nahi hogi. 😇
+
+User: कहिए रुक जाए.
+User: Madam रुक जाइए.
+Agent: Arre, sorry {{name}} ji! 😅 Aap bilkul araam se boliye, main sun rahi hoon. Bataiye, aapke mann mein kya chal raha hai? Main help karne ke liye yahan hoon.
+User: आप थोड़ा आप थोड़ा ज़्यादा ही तेज बोल रहे हो धीरे बात करिए आप.
+User: वह समझ नहीं आ रहा आप क्या बोल रहे हो?
+Agent: Arre, maafi chahungi {{name}} ji! 😅 Main ab dheere aur araam se baat karti hoon. Aapko bas yeh puchhna tha ki {{title}} ke baare mein koi confusion ya dikkat hai? Main aapki help karne ke liye hoon.
+User: Speech का जो setting है उसको थोड़ा धीमी कर सकता है. और slow हो गया. है. तो वह
+",https://dxc03zgurdly9.cloudfront.net/69803dd39f6a504e7a5f494c68d54932b25b3df9c9644bfe2155b3e617436162/recording.wav,Negative,False,The user expressed dissatisfaction with the price of a product they added to their cart and had difficulty understanding the agent's fast speech. The agent acknowledged the user's concerns and offered to speak more slowly to assist them better.,"elevenlabs_tts, gpt_4o, retell_platform",118,user_hangup
+$0.27,call_2b00472631c4e4a84e8eb193ea9,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 3:36:17 PM","4/1/2025, 3:38:19 PM",123,-,"Agent: ""Hey {{name}}! 😄 This is Tanya from Trimfinity. I noticed you were checking out the {{title}} recently, and I just wanted to see if you needed any help or had any questions about it. How’s it going?""
+Agent: ""Hello? {{name}} ji, aap sun pa rahe hain? 😅 Bas yeh puchna tha ki aapko product pasand toh aaya na? Koi dikkat ya confusion ho toh bataiye, main help karne ke liye hoon!""
+User: Hello
+Agent: ""Hi {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Aapne recently {{title}} checkout karne ka socha tha, toh bas puchna tha—koi dikkat hui kya? Ya koi help chahiye aapko?""
+User: Price का ही स्रोत है.
+Agent: ""Haan {{name}} ji, samajh sakti hoon. Kabhi kabhi price thoda zyada lagta hai, par main aapko bata doon ki {{title}} advanced technology aur premium quality ke saath aata hai. 😎 Yeh ek long-term investment hai jo aapko kaafi time tak kaam aayega aur performance bhi top-notch hai!Lekin agar aap interested hain, toh main aapke liye ek special price arrange kar sakti hoon—sirf aaj ke liye! 😉 Aapko kaisa lag raha hai?""
+User: Yes.
+Agent: ""Arre wah, {{name}} ji! 😄 Toh aapke liye ek special offer hai—main aapko 5% ka exclusive discount de sakti hoon. Bas code use kariye: O - F - F - 5. Waise, yeh offer sirf aaj ke liye hai, toh miss mat kariyega! 😊  
+
+Main abhi aapko WhatsApp par ek quick checkout link bhej deti hoon. Aap bas uspe click karke payment complete kar lena. Theek hai?""
+",https://dxc03zgurdly9.cloudfront.net/cf095f25f296fb5538f866f9c09b880d893fd3b83e9e5f0c9f13a35ad7b8dd5e/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to assist with their interest in a product. After discussing the price concerns, she offered a special 5% discount and promised to send a quick checkout link via WhatsApp for the user to complete their purchase.","elevenlabs_tts, gpt_4o, retell_platform",123,user_hangup
+$0.13,call_97524e7fca8c579dc1490ae18a5,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 12:39:00 PM","4/1/2025, 12:39:58 PM",58,-,"Agent: ""Hello {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se. Kal 
+User: Ok.
+Agent: aapne {{title}} checkout karne ka socha tha, toh bas puchna tha—koi dikkat hui kya? Koi help chahiye?""
+User: Price का issue था.
+Agent: Haan {{name}} ji, samajh sakti hoon. 😊 Dekhiye, price thoda zyada lag sakta hai, lekin {{title}} ki quality aur features kaafi premium hain. Yeh advanced technology ke saath aata hai aur lamba chalne ke liye design kiya gaya hai. Trimfinity ke products kaafi reliable aur durable hote hain, isliye log inhe pasand karte hain. 😇
+
+Waise, agar aap interested hain, toh mai aapke liye ek chhota sa special discount arrange kar sakti hoon—sirf aaj ke liye! 😉 
+User: अच्छा 
+Agent: Aapko kaisa lag 
+User: मिला
+User: अब life में ही है.
+User: भी 
+Agent: Bilkul 
+User: ज़िंदगी against के लिए. साबर.
+User: तो मैंने तो बोला
+",https://dxc03zgurdly9.cloudfront.net/a9d4f8c2707f8ea84c7af687071a83634ea59d62368dd6cf73bb2a46135e02c9/recording.wav,Neutral,True,"The user expressed a concern about the price of a product they were considering. The agent acknowledged the concern and explained the premium quality and features of the product, offering a special discount to encourage the user to proceed with the purchase.","elevenlabs_tts, gpt_4o, retell_platform",58,user_hangup
+$0.15,call_6c0abba24ef0ffb4a0a7bf3244e,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 12:37:24 PM","4/1/2025, 12:38:32 PM",68,-,"Agent: ""Hey {{name}}! 😄 This is Tanya from Trimfinity. I noticed you were checking out the {{title}} recently, so I just wanted to check in—did you need any help or have any questions about it?""
+User: हिंदी.
+Agent: ""नमस्ते {{name}} जी! 😄 मैं तान्या बोल रही हूँ Trimfinity से। मैंने देखा कि आप {{title}} को चेकआउट करने वाले थे, तो बस पूछना था—कोई दिक्कत हुई क्या? या कोई मदद चाहिए?""
+User: Nice,
+Agent: धन्यवाद, {{name}} जी! 😊 तो बताइए, {{title}} के बारे में कोई सवाल या कुछ ऐसा जो आपको रोक रहा हो? मैं आपकी पूरी मदद करने के लिए यहाँ हूँ!
+User: Thank you.
+Agent: आपका भी धन्यवाद, {{name}} जी! 😊 अगर कभी भी कोई सवाल हो या मदद चाहिए हो, तो बेझिझक बताइएगा। मैं हमेशा यहाँ हूँ। आपका दिन शुभ हो!
+",https://dxc03zgurdly9.cloudfront.net/1ce133269bd274d83fdf9b60c6d6754fb410bfcf2b49cf9d6d3011283a85e944/recording.wav,Positive,True,"The call involved an agent named Tanya from Trimfinity reaching out to the user to offer assistance regarding a product the user had shown interest in. The user responded positively in both Hindi and English, expressing gratitude for the help offered.","elevenlabs_tts, gpt_4o, retell_platform",68,user_hangup
+$0.06,call_cce285ff648e17bbb5fbc5fb583,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 12:34:07 PM","4/1/2025, 12:34:36 PM",29,-,"Agent: 💬 (Hindi, Desi Style)  
+""Namaste {{name}} ji! 😄 Main Tanya bol rahi hoon Trimfinity se! Aapne kal {{title}} checkout karne ka socha tha, toh bas puchna tha—koi dikkat hui kya? Kuch madad chahiye?""  
+(Pause for a moment—let them respond or show interest)  
+
+💬 (English, Friendly)  
+""Hey {{name}}! 😄 This is Tanya from Trimfinity! I noticed you were checking out the {{title}} yesterday, so I just wanted to 
+",https://dxc03zgurdly9.cloudfront.net/3ff4f2bd8035cb7658a1f83fe28e2c87ff0ccfac0fb7ce31cde22a128e8c6c36/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to follow up on their interest in a product they were checking out the previous day. She inquired if the user faced any issues or needed assistance with their checkout process.","elevenlabs_tts, gpt_4o, retell_platform",29,user_hangup
+$0.01,call_b61c0eacf800cfeec26c9c2c763,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 12:34:01 PM","4/1/2025, 12:34:04 PM",3,-,"Agent: 💬 (Hindi, 
+",https://dxc03zgurdly9.cloudfront.net/c35b0feec2c7cd13a5fc837446a7c68f285f591d24e5a3adbac35450fd57880f/recording.wav,Neutral,False,"The call involved an agent communicating in Hindi, but the details of the conversation are not provided, making it difficult to summarize the specific actions or outcomes of the call.","elevenlabs_tts, gpt_4o, retell_platform",3,user_hangup
+$0.09,call_dcada86f71545e903719a11f040,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 11:50:32 AM","4/1/2025, 11:51:12 AM",40,-,"Agent: ""Namaste {{name}} ji, main Tanya bol rahi hoon Trimfinity se! Aapne kal apne cart mein {{product_title}} add kiya tha, toh bas puchna chahti thi ki koi dikkat toh nahi aayi checkout karte waqt? Ya aapko kisi cheez ki help chahiye?""
+User: Mark क्यों बोल रहे हैं मुझे?
+User: कौन 
+Agent: ""Arre nahi nahi, 
+User: मतलब?
+User: कौन कौन?
+Agent: ""Arre {{name}} ji, main 
+Agent: ""Arre {{name}} ji, tension mat lijiye! Main Tanya bol rahi hoon Trimfinity se. Aapne kal apne cart mein {{product_title}} add kiya tha, toh bas puchna chahti thi ki koi dikkat toh nahi aayi checkout karte waqt? Ya kuch aur confusion hai?""
+",https://dxc03zgurdly9.cloudfront.net/116234addecc08d2e2798616fc047bc2c8fcbde3b6e12f46cd5f23c41f0ff2c8/recording.wav,Negative,False,"The agent, Tanya from Trimfinity, reached out to the user to inquire if they faced any issues while checking out a product they added to their cart. The user seemed confused and questioned the agent's identity, indicating a lack of clarity in the conversation.","elevenlabs_tts, gpt_4o, retell_platform",40,user_hangup
+$0.05,call_7c7cf38de1e8d9da52b469fcf16,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 11:48:57 AM","4/1/2025, 11:49:19 AM",22,-,"Agent: ""Namaste {{name}} ji, main Tanya bol rahi hoon Trimfinity se. Kal aapne {{product}} checkout karne ka socha tha, toh bas puchna chahti thi koi dikkat toh nahi aayi? Koi sawal ya confusion ho toh bataiye, main help karne ke liye hoon!""
+",https://dxc03zgurdly9.cloudfront.net/1af0ca022697d915157a7a3d219afa7203e5526b630acd049c6675e0de26ceae/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to follow up on their recent attempt to check out a product. She offered assistance in case the user faced any issues or had questions regarding the checkout process.","elevenlabs_tts, gpt_4o, retell_platform",22,user_hangup
+$0.05,call_1f7e6d33d20d076da06e71b51b7,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 11:45:26 AM","4/1/2025, 11:45:47 AM",21,-,"User: Hello?
+Agent: ""Namaste {{name}} ji, main Tanya bol rahi hoon Trimfinity se. Kal aapne {{product}} checkout karne ka socha tha, toh bas puchna chahti thi koi dikkat toh nahi aayi? Ya kuch help chahiye thi?""
+User: इक्कीस के हाथ लेकिन इंसानियत की तरह नहीं आ रही है इंसान नहीं एक कर सकते हैं अभी इसको
+",https://dxc03zgurdly9.cloudfront.net/4f1101fe97f980dae5ce4e4f5049c9e697bba6e329bc1df467d3171b18149fbd/recording.wav,Negative,False,"The user expressed frustration about a product they were trying to check out, indicating that they are facing difficulties. The agent, Tanya from Trimfinity, reached out to offer assistance regarding the checkout process.","elevenlabs_tts, gpt_4o, retell_platform",21,user_hangup
+$0.06,call_731e31b611234293405980bf54b,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 11:44:49 AM","4/1/2025, 11:45:17 AM",29,-,"User: मैं आठ पांच पर उठाओ आठ पांच निकल गया घर से.
+User: आवाज़
+Agent: नमस्ते!
+User: रुको नहीं.
+Agent: अरे, ठीक है!
+User: Hello.
+Agent: Hi there! This is Tanya from Trimfinity. Am I speaking with you at a good time?
+User: यह phone कौन है?
+",https://dxc03zgurdly9.cloudfront.net/3a893d1bb321e30353817032bdae6ff87df32cb95a04688da5d744b52a9c1cce/recording.wav,Negative,False,"The user initially expresses confusion and frustration about the call, questioning who is on the phone. The agent introduces herself as Tanya from Trimfinity, but the user seems to be distracted and not fully engaged in the conversation.","elevenlabs_tts, gpt_4o, retell_platform",29,user_hangup
+$0.09,call_3175992389afc2a6031b243fb3e,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"4/1/2025, 11:40:08 AM","4/1/2025, 11:40:49 AM",41,-,"Agent: ""Namaste {{name}} ji, main Tanya bol rahi hoon Trimfinity se! Aapne kal hamare {{product_title}} ko checkout karne ka socha tha, toh bas puchna chahti thi ki koi dikkat toh nahi aayi ya kuch help chahiye thi?""
+User: Hello?
+Agent: Hi {{name}}! This is Tanya from Trimfinity. I noticed you were checking out the {{product_title}} recently, so I just wanted to check in and see if you had any questions or needed help with anything.
+",https://dxc03zgurdly9.cloudfront.net/4a44159ce3de97ceaa8903b825c04d0562f6ee555f48a1ad18f915772d50b3f1/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to follow up on their recent interest in a product. She inquired if the user faced any issues during the checkout process or needed assistance.","elevenlabs_tts, gpt_4o, retell_platform",41,user_hangup
+$0.17,call_7ed310903be5773056f74f28bed,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 5:26:52 PM","3/31/2025, 5:28:10 PM",78,-,"User: Hello.
+Agent: ""Hello {{name}} ji! Main Tanya bol rahi hoon Trimfinity se. Aapne kal hamare {{product_title}} ko checkout karne ka socha tha, toh bas puchna chahti thi ki koi dikkat toh nahi aayi ya kuch help chahiye thi aapko?""
+User: Right.
+Agent: ""Great, {{name}} ji! Toh aapko product pasand toh aaya tha, na? Bas price ka kuch soch rahe the ya aur kuch tension hai jo aapne checkout complete nahi kiya?""
+User: Price का issue कब
+Agent: ""Haan, samajh gayi {{name}} ji. Price ka thoda sochna banta hai, lekin honestly, yeh {{product_title}} apni advanced technology aur quality ki wajah se ekdum value-for-money hai. Yeh na sirf zyada durable hai, balki aapka kaam bhi asaan aur fast karega.Lekin agar aapko lagta hai ki thoda aur help ho jaye, toh mai aapke liye ek chhota sa special discount de sakti hoon—sirf aaj ke liye. Aapko kaisa lagega agar mai aapko 3% ka discount de doon? Bataiye!""
+",https://dxc03zgurdly9.cloudfront.net/a07daf645e30a598fc2e1d10c7cd6463113874bf48a0f06622733e0c9ce64033/recording.wav,Neutral,False,"The user was contacted by the agent regarding a product they considered checking out. The user expressed concerns about the price, and the agent offered a special 3% discount to encourage the user to complete the purchase.","elevenlabs_tts, gpt_4o, retell_platform",78,user_hangup
+$0.08,call_6e08ec27b4c7bd026ed98f45bc3,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 5:24:15 PM","3/31/2025, 5:24:50 PM",36,-,"Agent: 🔵 
+User: Hello.
+Agent: 1️⃣ Opening Statement (Warm & Polite)
+
+Hindi:  
+""Hello {{name}} ji, main Tanya bol rahi hoon Trimfinity se. Umm... mujhe laga aap se thodi si baat kar loon. Aapne kuch din pehle apni cart mein {{title}} add kiya tha. Socha puch loon... koi dikkat toh nahi aayi thi checkout karte waqt?""  
+
+English:  
+""Hi {{name}}, this is Tanya from Trimfinity. Just wanted to have a quick word with you. I noticed that you recently added the {{title}} to your 
+",https://dxc03zgurdly9.cloudfront.net/44c2ab5d6ca7b9ef19e0d2a2814b37a9df8dcfa19d86214b5c85feab9ad497dc/recording.wav,Neutral,False,"The agent, Tanya from Trimfinity, reached out to the user to inquire about their recent addition of an item to their cart and to check if they faced any issues during the checkout process.","elevenlabs_tts, gpt_4o, retell_platform",36,user_hangup
+$0.06,call_00ec9cfb9fb822248f006d2ac73,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 5:23:40 PM","3/31/2025, 5:24:07 PM",28,-,"User: यह तो शर्मा हो क्या
+Agent: ""नमस्ते शर्मा जी, मैं तान्या बोल रही हूँ Trimfinity से। क्या मैं आपकी मदद कर सकती हूँ? 😊""
+",https://dxc03zgurdly9.cloudfront.net/dc96bea7291d5cf1d3e6ae8166f41a2483d9e2fd5a8df225621c9e6b72b199ff/recording.wav,Positive,False,"The user greeted the agent, and the agent introduced herself as Tanya from Trimfinity, offering assistance. The interaction appears friendly and welcoming.","elevenlabs_tts, gpt_4o, retell_platform",28,user_hangup
+$0.30,call_aed62e90a4f4419932952fa904c,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 4:17:26 PM","3/31/2025, 4:19:42 PM",137,-,"User: Hello. जी.
+Agent: ""Hello {{name}}, this is Tanya from Trimfinity. I noticed you were 
+User: जी.
+Agent: नमस्ते {{name}} जी, मैं तान्या बोल रही हूँ Trimfinity से। आपने कल {{title}} अपने कार्ट में ऐड किया था। सोचा पूछ लूँ—कहीं कोई दिक्कत तो नहीं आई या प्रोडक्ट को लेकर कोई confusion है?
+Agent: अगर आपको कुछ पूछना हो या कोई मदद चाहिए हो, तो बेझिझक बताइए। 😊
+User: Price का issue था.
+Agent: समझ सकती हूँ, {{name}} जी। कभी-कभी price थोड़ा ज्यादा लग सकता है। लेकिन honestly, {{title}} की quality और features के हिसाब से ये एकदम worth है।  
+
+वैसे, अगर आप interested हैं, तो मैं आपके लिए एक छोटा सा discount निकाल सकती हूँ—सिर्फ आज के लिए। क्या ये helpful रहेगा?
+User: चलेगा.
+Agent: वाह, ये तो बढ़िया बात है! 😊 मैं आपके लिए ₹{{price}} पर एक special discount apply करवा देती हूँ।  
+
+वैसे, ये model काफी तेजी से बिक रहा है, पिछले हफ्ते तो out of stock भी हो गया था। तो मैं suggest करूँगी कि आप इसे आज ही secure कर लें।  
+
+आपको checkout में कोई मदद चाहिए? या मैं आपको WhatsApp पर details भेज दूँ?
+User: हां,
+User: हां, यह कैसे pop up दिए हैं?
+Agent: अरे, कोई टेंशन मत लीजिए {{name}} जी! मैं आपको पूरी process समझा देती हूँ। 😊  
+
+आपको 
+User: अब भाई 
+Agent: बस 
+User: second का timer लगाया अभी. कैसे करते हैं join Portus के customer को process
+User: and and share your experience now more tips on मेहनत से करते हैं अगली experience में to unlock more tips.
+",https://dxc03zgurdly9.cloudfront.net/2cdd82d0f2a4dcc03e4155314d2f89a25eede928455d5c713212d7e8b2a19fde/recording.wav,Positive,True,"The user contacted the agent regarding a price issue with a product they added to their cart. The agent offered a discount and provided assistance with the checkout process, while also encouraging the user to secure the product quickly due to its popularity.","elevenlabs_tts, gpt_4o, retell_platform",137,user_hangup
+$0.10,call_cdaf380e772cbf42a0038b9e15e,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 4:16:39 PM","3/31/2025, 4:17:23 PM",45,-,"Agent: ""Hello {{name}}, this is Tanya from Trimfinity. I noticed you were checking out the {{title}} yesterday. Just wanted to make sure there wasn’t anything holding you back or if you needed help deciding.""
+User: Speaking in the
+Agent: ""Namaste {{name}} ji, main Tanya bol rahi hoon Trimfinity se. Aapne kal {{title}} cart mein add kiya tha. Socha puchh loon—kuch dikkat toh nahi aayi ya product ke baare mein koi confusion hai?""
+",https://dxc03zgurdly9.cloudfront.net/e2e30877453b86bc7e782fb92fddcd91e61d6b6f2a74e686bdcec66c9d38665c/recording.wav,Positive,True,"The agent, Tanya from Trimfinity, reached out to the user to follow up on their interest in a product they added to their cart. She offered assistance in case the user had any questions or concerns about the product.","elevenlabs_tts, gpt_4o, retell_platform",45,user_hangup
+$0.10,call_6d0f1151ff4894c9500aa7ffb9b,agent_41f5c7b39af27bcad0854e2427,-,-,ended,"3/31/2025, 4:15:52 PM","3/31/2025, 4:16:35 PM",44,-,-,https://dxc03zgurdly9.cloudfront.net/433abb93fbaccc09891cdaee580ef3e36038f528ab2ed7f1a38266993a511259/recording.wav,Unknown,False,No conversation happened.,"elevenlabs_tts, gpt_4o, retell_platform",44,user_hangup
+$0.05,call_3c3ac768ac314bc22f26cdf8d32,agent_00490e668be8e0244229d1de5a,14707630575,917305388221,ended,"3/31/2025, 12:49:36 PM","3/31/2025, 12:49:58 PM",23,srihariharans10@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/790a25e950e16745eb27bb9f51b67a628bde5b6d6fd6b0b395455e1b242ef711/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely revolved around helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",23,user_hangup
+$0.08,call_5525d06e101e574359d05869ad8,agent_00490e668be8e0244229d1de5a,14707630575,916307915246,ended,"3/31/2025, 12:35:15 PM","3/31/2025, 12:35:54 PM",39,rg592521@gmail.com,"Agent: Hello, main Tanya Trimfinity se 
+User: Hello.
+Agent: baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: नहीं वह गलती से हो गया था.
+Agent: अरे, कोई बात नहीं! ऐसा होता है कभी-कभी। वैसे, आपने Trimfinity 1.0 Body & Ball Trimmer देखा था, तो क्या आपको ये product पसंद आया? अगर आप चाहें, तो मैं आपको इसके बारे में और details दे सकती हूं। 😊
+User: नहीं नहीं ज़रूरत नहीं है.
+",https://dxc03zgurdly9.cloudfront.net/c4d3e6cad327dc873380bba5471dc15e6e4a0b61c5950724d5e89d6e9bd6eff2/recording.wav,Neutral,True,"The user mistakenly added a product to their cart, and the agent offered assistance regarding the product. The user declined further information about the product, indicating no interest.","elevenlabs_tts, gpt_4o, retell_platform",39,user_hangup
+$0.05,call_8689179b3f2ed248df349f781e1,agent_00490e668be8e0244229d1de5a,-,-,ended,"3/31/2025, 12:27:57 PM","3/31/2025, 12:28:20 PM",24,-,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Hello मैं आने में बैठूंगा से बात कर रही हूं. मैंने देखा कि आपने product काटना, ठीक है?
+Agent: Arre nahi nahi, shayad thoda galat samajh gaye aap! Main 
+",https://dxc03zgurdly9.cloudfront.net/74d762ef669e23c6f2af8bed01f5254684368752ceb5e192060d60fda71d7816/recording.wav,Neutral,False,"The user initiated a conversation regarding a product they added to their cart, but there was a misunderstanding as the agent clarified that they might have misinterpreted the user's statement. The call seems to be in the early stages of addressing the user's inquiry.","elevenlabs_tts, gpt_4o, retell_platform",24,user_hangup
+$0.06,call_ea6f433a5ada42f5869e01b4aa0,agent_00490e668be8e0244229d1de5a,14707630575,918660659929,ended,"3/31/2025, 12:15:02 PM","3/31/2025, 12:15:30 PM",28,gajay89@gmail.com,"User: Hello.
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: क्या?
+Agent: Arre, tension mat lijiye! Main Tanya bol rahi hoon Trimfinity se. Kal aapne Trimfinity 1.0 Body & 
+",https://dxc03zgurdly9.cloudfront.net/82e004d0e0277a22dd58175b48aabaa4bfa4ed6955484d17529120b16361645b/recording.wav,Neutral,False,The user was contacted by Tanya from Trimfinity regarding a product they added to their cart. The agent offered assistance with the user's inquiry about the Trimfinity 1.0 Body product.,"elevenlabs_tts, gpt_4o, retell_platform",28,user_hangup
+$0.38,call_2c8c2b0b2ffc2c58fdce3e2452c,agent_00490e668be8e0244229d1de5a,14707630575,919363571061,ended,"3/31/2025, 12:11:25 PM","3/31/2025, 12:14:22 PM",177,abikrish7772@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: Speak in English, I cannot understand.
+Agent: Oh, sure! Hi, this is Tanya from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer recently. Just wanted to see if you had any questions or needed help with anything?
+User: I want cash on delivery.
+Agent: Got it! Unfortunately, we don’t offer cash on delivery at the moment, but I can assure you that our online payment process is super secure and hassle-free. Plus, once you place the order, you’ll get regular updates until it’s delivered to your doorstep.
+
+If you’re still unsure, I can send you a quick WhatsApp checkout link to make it even easier. How does that sound?
+User: Cannot understand speak slowly.
+User: I 
+Agent: Oh, no 
+User: don't want to speak English
+Agent: Arre, koi baat nahi! Main Hindi mein baat karti hoon. Aap cash on 
+User: समय समय नहीं 
+Agent: delivery chahte the, lekin 
+User: दी. समीर ने भाग कर दी.
+Agent: अरे, कोई बात नहीं, 
+User: तमिल speak in 
+Agent: शायद मैं 
+User: तमिल. I cannot understand I don't know हिंदी.
+User: You 
+Agent: Oh, I’m so sorry!
+User: do
+Agent:  Unfortunately, I can only 
+User: you 
+Agent: Oh, I’m 
+User: don't तमिल?
+Agent: so 
+User: in English 
+Agent: I’m 
+User: explain
+Agent: Oh, I’m so sorry!
+User: Hello. 
+Agent:  Unfortunately, I don’t speak Tamil at the moment. But I can assist you in English 
+User: Yes.
+User: Ok English
+Agent: Great!
+User: Am I audible to 
+Agent:  So, as I was saying earlier, 
+User: you?
+Agent: Yes, absolutely! I can hear you clearly. Can you hear me 
+Agent: fine?
+User: हां. Yes, it's fine अंजू.
+User: can slowly and explain me slowly.
+Agent: Of course! Let me explain slowly.
+
+You were looking at 
+User: हां.
+Agent: the Trimfinity 7000 Body and Ball Trimmer in your cart. I just wanted to check if you had any questions or if something was stopping you from completing the purchase.For example, are you thinking about the price, or do you need help with the payment process?
+User: I'm thinking about this, right?
+Agent: Yes, exactly! Take your time to think about it. If you’re unsure about anything, I’m here to help.The Trimfinity 7000 is a premium trimmer with advanced features like turbo mode for thick hair, a safe blade for sensitive areas, and a long-lasting 
+",https://dxc03zgurdly9.cloudfront.net/757cb86bd5b6077a41d351a04b4f4d7bfd45fea01883b5b699de8d5f54f844f7/recording.wav,Neutral,False,"The user initially struggled with language barriers, requesting the agent to speak in Tamil and later confirming they could understand English. The agent provided information about the Trimfinity 7000 Body and Ball Trimmer and offered assistance with the payment process, while the user expressed hesitation about completing the purchase.","elevenlabs_tts, gpt_4o, retell_platform",177,max_duration_reached
+$-,call_46938897208424dd81b78f47951,agent_00490e668be8e0244229d1de5a,14707630575,919354220339,error,"3/31/2025, 12:06:06 PM","3/31/2025, 12:06:06 PM",-,yksingh3514@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.05,call_223ef71e4bf93f8955e9a531f24,agent_00490e668be8e0244229d1de5a,14707630575,919732108922,ended,"3/31/2025, 11:58:47 AM","3/31/2025, 11:59:09 AM",23,roysubhajit818@gmail.com,"User: Hello.
+Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+Agent: Hello? Aap 
+",https://dxc03zgurdly9.cloudfront.net/569cbd63755eaa85eeb99e28fe5264fb1593e0602097d070e2d234336d71f355/recording.wav,Neutral,False,"The user initiated a call to inquire about a product they added to their cart. The agent, Tanya, introduced herself and offered assistance, but the call seems to have been interrupted or disconnected shortly after.","elevenlabs_tts, gpt_4o, retell_platform",23,user_hangup
+$0.03,call_9f2a6e547c236f7b09610868153,agent_00490e668be8e0244229d1de5a,14707630575,919354220339,ended,"3/31/2025, 11:54:22 AM","3/31/2025, 11:54:37 AM",15,yksingh3514@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+",https://dxc03zgurdly9.cloudfront.net/e6f92150309acbad9520b2d86831fa4286c1093f84ba279c9b097c34173f629a/recording.wav,Neutral,True,"The agent, Tanya from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and offered assistance. The conversation likely revolved around helping the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
+$-,call_ae3940ce397b6653af480a52608,agent_00490e668be8e0244229d1de5a,14707630575,918591661807,error,"3/31/2025, 11:53:22 AM","3/31/2025, 11:53:22 AM",-,hiten.kakkad@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.01,call_89c7a5a5440d8222879b2c9e4ef,agent_00490e668be8e0244229d1de5a,14707630575,918591661807,ended,"3/31/2025, 11:53:03 AM","3/31/2025, 11:53:06 AM",3,hiten.kakkad@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/4bcf2baa6d3039fd7d1bf5b700a87dd015ff041f29ac605abb42b1da92305933/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that the intended recipient is unavailable to take the call at the moment.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$0.01,call_7bbfbb7fead03fab048e7958fc8,agent_00490e668be8e0244229d1de5a,14707630575,916304404510,ended,"3/31/2025, 11:51:57 AM","3/31/2025, 11:52:00 AM",3,challajaswanth123@gmail.com,"Agent: Hello, main Tanya 
+",https://dxc03zgurdly9.cloudfront.net/db12d5e1e839fa47dcea2e81c9b88e3d29038c2e437381e7b1131984fc540c14/recording.wav,Neutral,False,"The call began with the agent greeting the user, Tanya. However, there is no further information provided in the transcript to determine the outcome of the call or any actions taken.","elevenlabs_tts, gpt_4o, retell_platform",3,user_hangup
+$0.38,call_cea3d3476a8be46cf11f4624db7,agent_00490e668be8e0244229d1de5a,14707630575,918887937380,ended,"3/31/2025, 11:49:51 AM","3/31/2025, 11:52:48 AM",177,ritikn525@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
+User: इसमें खाली online payment का option है. शायद on delivery नहीं हो सकता?
+Agent: Arre Ritik ji, bilkul samajh sakti hoon! Aaj kal kaafi logon ko cash on delivery ka option chahiye hota hai. Lekin filhaal humare Trimfinity 1.0 Body & Ball Trimmer ke liye sirf online payment ka option available hai.Par ek baat bataun? Agar aap prepaid payment karte hain, toh aapko ₹100 ka extra discount milta hai! Iska matlab hai ki aap ₹1399 ke bajay ₹1299 mein le sakte hain. Aur payment process bilkul secure hai, toh tension lene ki zarurat nahi hai.Aapko aur kuch 
+User: हां 
+Agent: samajhne mein madad chahiye?
+User: पर हां पर अभी तो मैं एक cash हूं bank ही कैसे मेरे पास online में कोई option ही नहीं है मेरे पास.
+Agent: Arre Ritik ji, koi baat nahi, samajh sakta hoon ki kabhi-kabhi online payment karna mushkil ho jata hai. Aapke liye ek kaam karte hain—agar aap kisi family member ya friend ka help le sakein jo online payment kar sake, toh aap ₹100 ka prepaid discount bhi le sakte hain.Aur agar aapko lagta hai ki abhi nahi ho paayega, toh koi tension nahi, aap jab ready ho tab checkout kar lena. Waise ek baat bataun, yeh model kaafi fast sell hota hai, toh agar aap interested hain, toh mujhe bata dijiye, main aapke liye ek special 5% discount code bhi arrange kar sakti hoon—sirf aapke liye! 😊
+
+Aapko lagta hai yeh kaam karega?
+User: अरे अभी आप वह नहीं है कोई मैंने check किया बढ़िया है पर मैं ले लूंगा
+User: थोड़ा time अभी मैं office में हूं ना.
+Agent: Bilkul 
+User: यह मैं check कर रहा 
+Agent: Ritik ji, samajh sakta 
+User: था मैंने option check किए हैं सारे.
+Agent: Haan Ritik ji, bilkul theek hai! Aapne options check kiye, iska matlab aapko product pasand aaya 
+User: जी.
+Agent: hoga. Waise, main bas yeh kehna chahti thi ki Trimfinity 1.0 Body & Ball Trimmer kaafi advanced aur durable hai, aur is price range mein ekdum value-for-money hai.
+
+Aur waise bhi, agar aapko lagta hai ki thoda aur time chahiye, toh koi tension nahi. Lekin ek baat yaad rakhna, yeh model kaafi fast sell hota hai. Pichle hafte bhi stock out ho gaya tha. Toh agar aap interested ho, toh main aapke liye ek exclusive 5% discount code de sakti hoon—O-F-F-5. Isse aapka price aur kam ho jayega.
+
+Main abhi ek WhatsApp link bhej deti hoon, jab aap free ho, tab checkout kar lena. Theek hai?
+User: और यह interested है ना कोई वह तो नहीं है जैसे मैंने payment कर दिया है order में ना आए.
+Agent: Arre Ritik ji, bilkul tension mat lijiye!
+",https://dxc03zgurdly9.cloudfront.net/b44eca820609ca674da15582384f5f36309dfa2205798cdaf26b17935d4c30e0/recording.wav,Neutral,True,"The user, Ritik, inquired about the payment options for the Trimfinity 1.0 Body & Ball Trimmer, expressing a preference for cash on delivery, which is not available. The agent explained the benefits of online payment, including a discount, and offered assistance in finding a solution, while also emphasizing the product's popularity and urgency to purchase.","elevenlabs_tts, gpt_4o, retell_platform",177,max_duration_reached
