@@ -1,4 +1,63 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.23,call_a6029763b1bd51371f67d6b81ad,agent_013449690bb91bf30736266dc9,-,-,ended,"4/15/2025, 11:32:00 AM","4/15/2025, 11:33:44 AM",104,-,"Agent: हैलो, मैं मेहर बोल रही हूँ अर्बनयोग से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
+User: No, I don't feel like.
+Agent: Totally understand, {{name}}! Sometimes we just need a little time to decide. But if there’s anything holding you back—like the price, product details, or something else—let me know. I’d love to help you out! 😊  
+
+Also, just a heads-up, the {{title}} has been super popular lately and was out of stock last week. If you’re still considering it, I can hold today’s price for you. Let me know what you think!
+User: ठीक है. आज का price कितना है इसका बताओ.
+Agent: Bilkul, {{name}}! Aaj ka price hai ₹{{price}}. Aur agar aap aaj checkout karti hain, toh ek exclusive 5% ka discount bhi milega code ke saath: O – F – F – 5.  
+
+Agar aap UPI se payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi lag jayega—total savings aur bhi better ho jaayegi! 😊  
+
+Main aapko WhatsApp pe checkout link bhej doon? Aap jab free ho, bas click kar lena!
+Agent: {{name}}, lagta hai aap busy ho gayi hain—koi baat nahi! 😊 Main 
+",https://dxc03zgurdly9.cloudfront.net/7a251ff6605996fd49eec07765d22e3e0a1a1803eaf565f33869c8bdd6285521/recording.wav,Neutral,False,"The agent, Mehr from UrbanYog, reached out to the user regarding a product they added to their cart, offering a 5% discount. The user initially declined but later asked for the price, and the agent provided the price along with additional discount options and offered to send a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o, retell_platform",104,user_hangup
+$0.54,call_36e8e072b22b2c437da3998d700,agent_013449690bb91bf30736266dc9,-,-,ended,"4/15/2025, 11:24:52 AM","4/15/2025, 11:29:00 AM",249,-,"Agent: Hello, main Main Meher bol rahi hoon UrbanYog se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां,
+Agent: Wah, {{name}}! Aapne bilkul sahi decision liya. Main abhi aapko WhatsApp pe checkout link bhejti hoon. Aap bas uspe click karke apna order complete kar sakti hain. Aur agar aap UPI se payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi milega. Total savings aur bhi better ho jaayegi! 😊
+
+Koi confusion ho toh mujhe call ya WhatsApp pe message kar lena. Happy shopping!
+User: महंगा रहे
+Agent: Samajh sakti hoon, {{name}}. Kabhi kabhi premium products thoda mehenga lagta hai, lekin honestly, yeh {{title}} ek one-time investment hai jo aapki daily routine ko kaafi easy aur stress-free bana dega. Plus, salon trips ka time aur paisa dono bachega!
+
+Aur 
+User: Warranty warranty कितनी 
+Agent: waise, sirf aaj ke 
+User: है?
+Agent: Arre, bilkul {{name}}! UrbanYog ke products ke saath aapko 12 months ki warranty milti hai. Matlab ek saal tak aap bilkul tension-free reh sakti hain. Agar kuch issue ho, toh hum aapke saath hain! 😊
+
+Aur agar aap ready hain, toh main abhi aapko WhatsApp pe 
+User: एक minute.
+Agent: checkout link bhej deti hoon. Aap bas 
+User: और आपको अगर process क्या है इसका? Quantity का
+Agent: Bilkul {{name}}, main aapko step-by-step process samjha deti hoon! 😊
+
+1️⃣ Charge karna: Pehle device ko charge karna hota hai. Isme rechargeable battery hai jo ek baar charge karne par 3.5 ghante tak chalti hai.
+
+2️⃣ Roller Head Attach karna: Box mein 3 alag-alag roller heads milte hain. Aap apne skin ke texture ke hisaab se ek roller head attach kar sakti hain.
+
+3️⃣ Speed Select karna: Isme 2 speed settings hain—Normal (1900 RPM) aur Turbo (2100 RPM). Aap apne comfort ke hisaab se speed select kar sakti hain.
+
+4️⃣ Use karna: Device ko on karke dry callused areas par gently run karein. Bas halka sa pressure lagayein, aur soft, salon-style feet ghar par mil jayenge!
+
+Aur haan, ergonomic design ke wajah se use karna super easy hai. 😊
+
+Aapko aur kuch puchhna ho toh bataiye!
+User: Warrantty claim कैसे होगा?
+Agent: Arre, {{name}}, warranty claim karna bilkul simple hai! Agar kabhi product mein koi issue ho, toh bas yeh steps follow kariye:
+
+1️⃣ Warranty Card Sambhal Ke Rakhein: Jo box ke saath aapko warranty card milega, usse safe rakhna zaroori hai.
+
+2️⃣ Customer Support Se Contact Karein: Aap humein call kar sakti hain +91 7397810382 par ya email bhej sakti hain support@urbanyog.com par. Apne purchase details aur issue ke baare mein bataiye.
+
+3️⃣ Issue Resolve Hoga: Hum aapki problem ko jaldi se jaldi solve karenge. Agar zarurat hui, toh product replace bhi karenge.
+
+Aap bilkul tension-free ho ke use kijiye, hum aapke saath hain! 😊 Aur agar abhi order karna ho, toh bataiye, main link bhej deti hoon!
+User: लीजिए
+Agent: Perfect, {{name}}! Main abhi aapko WhatsApp pe checkout link bhejti hoon. Aap bas uspe click karke apna order complete kar sakti hain. Aur yaad rahe, agar aap UPI se payment karti hain, toh 5% ke saath ek extra 2% ka discount bhi milega. Total savings aur bhi better ho jaayegi! 😊
+
+Koi aur sawaal ho toh 
+",https://dxc03zgurdly9.cloudfront.net/34357805b054a942c3a183fe3312bf50b6dc45e2634dd114185609a9f1a7fb14/recording.wav,Neutral,True,"The user was informed about a special discount on a product they added to their cart. The agent provided detailed information about the product's warranty, usage instructions, and the process for claiming warranty, while also encouraging the user to complete their order via WhatsApp with additional discounts for UPI payments.","elevenlabs_tts, gpt_4o, retell_platform",249,user_hangup
 $0.11,call_8a75799d2cb8278867f50c43aed,agent_00490e668be8e0244229d1de5a,14707630575,918160162007,ended,"4/14/2025, 11:30:43 AM","4/14/2025, 11:31:35 AM",53,Deepjaisur7@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: No.
 Agent: Koi baat nahi, ji! Agar aapko kabhi lagta hai ki aapko product ke baare mein aur information chahiye ya kabhi order karna ho, toh aap humein contact kar sakte hain.Aap humein WhatsApp ya call kar sakte hain is number par: seven-three-nine-seven-eight-zero-five-three-four-seven.Aur agar kabhi mann badle, toh aap code O-F-F-5 use karke 5% ka discount le sakte hain. 😊  
@@ -3812,11 +3871,3 @@ Agent: Bilkul samajh gayi, Jatin ji. Agar cash on delivery hota toh aapke liye z
 ",https://dxc03zgurdly9.cloudfront.net/f22c4a826c9331505f365d9d7aa2173207041ea54b9e1ea7c2b48e2f8403e266/recording.wav,Negative,False,"The user expressed dissatisfaction with the lack of a cash on delivery option for a product they were interested in purchasing. The agent attempted to persuade the user by offering a prepaid discount and providing additional information about the product, but the user remained uninterested due to the payment method issue.","elevenlabs_tts, gpt_4o, retell_platform",178,max_duration_reached
 $0.01,call_1c88c9303d32623999fa3514439,agent_00490e668be8e0244229d1de5a,14707630575,919666096291,ended,"3/30/2025, 1:01:48 PM","3/30/2025, 1:01:51 PM",4,syedthoufeeq@yahoo.com,"User: Your call has been forwarded to voice mail.
 ",https://dxc03zgurdly9.cloudfront.net/f309e077b4d298f99461b7ab5f87cc35ec9811098d9806ea11d9fa224b7e3460/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to connect with a live agent.","elevenlabs_tts, gpt_4o, retell_platform",4,voicemail_reached
-$0.12,call_12d3a341f9b7dde1c025c0ed39f,agent_00490e668be8e0244229d1de5a,14707630575,919951996480,ended,"3/30/2025, 12:33:53 PM","3/30/2025, 12:34:49 PM",56,karthikkurnoothla@gmail.com,"Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti hoon?
-User: No, I need Order.
-Agent: Oh, perfect! Aapko Trimfinity 7000 Body and Ball Trimmer order karna hai, right? Main abhi aapko ek WhatsApp link bhej deti hoon, jisme aap directly checkout kar sakte ho.Aur waise, agar aap aaj hi order karte ho, toh main aapko ek exclusive 5% discount code de sakti hoon—O-F-F-5. Yeh sirf aaj ke liye valid hai!Main abhi link bhej rahi hoon, theek hai?
-Agent: Hello?
-",https://dxc03zgurdly9.cloudfront.net/6cd303eb5d7c543b17cfc962da56499ad962da5a69fb9128db556d263d16f5eb/recording.wav,Neutral,False,The user contacted the agent to place an order for the Trimfinity 7000 Body and Ball Trimmer. The agent confirmed the order and offered a WhatsApp link for direct checkout along with a 5% discount code valid for the day. The call ended abruptly with the agent asking if the user was still on the line.,"elevenlabs_tts, gpt_4o, retell_platform",56,user_hangup
-$0.02,call_19d16507f4ee296e1ca508c812d,agent_00490e668be8e0244229d1de5a,14707630575,919677102725,ended,"3/30/2025, 12:29:40 PM","3/30/2025, 12:29:50 PM",10,nanbanmurugesh.nm@gmail.com,"User: Hello.
-Agent: Hello, main Tanya Trimfinity se baat kar rahi hoon. Maine dekha ki aapne product cart mein add kiya tha. Main aapki kis tarah se madad kar sakti 
-",https://dxc03zgurdly9.cloudfront.net/bea1b4b2340538eca221d2cc96763f132b93d8401bb8d4adfa8a818e418045e9/recording.wav,Neutral,False,"The user initiated a call and the agent, Tanya from Trimfinity, acknowledged that the user had added a product to their cart and offered assistance. The call appears to be in the early stages of discussing the user's needs regarding their cart.","elevenlabs_tts, gpt_4o, retell_platform",10,user_hangup
