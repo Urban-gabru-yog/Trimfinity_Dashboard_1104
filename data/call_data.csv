@@ -1,5 +1,48 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
-$-,call_dde4e0116022311d1bb92da96c5,agent_00490e668be8e0244229d1de5a,14707630575,918668820473,ongoing,"4/17/2025, 10:50:09 AM",-,-,chiragdeeppatil89@gmail.com,-,-,-,False,-,,-,-
+$0.39,call_4c19d583dea6f7bb251b431589d,agent_013449690bb91bf30736266dc9,14429005795,919642445815,ended,"4/17/2025, 11:07:50 AM","4/17/2025, 11:10:49 AM",180,swetalinanayak456@gmail.com,"User: Hello. 
+Agent: हैलो, मैं 
+User: Hello.
+Agent: मेहर 
+Agent: हैलो, मैं मेहर बोल रही हूँ UrbanYog से। क्या मैं स्वेतलिना नायक से बात कर रही हूँ?
+User: हां, बोलिए.
+Agent: स्वेतलिना, सबसे पहले तो हाय!
+User: बोलिए? Hello.
+User: Hi.
+Agent: हाय स्वेतलिना! मैं मेहर बोल रही हूँ UrbanYog से। कल आपने Urban Yog Callus Remover 
+User: कल
+Agent: को लगभग खरीद ही लिया था, तो सोचा चेक कर लूं—सब कुछ ठीक था ना? कोई दिक्कत तो नहीं आई?
+Agent: अरे हां, शायद कल या परसों आपने Urban Yog Callus Remover को अपने कार्ट में ऐड किया था। बस ये जानना चाह रही थी कि आपको प्रोडक्ट पसंद आया था ना? या कुछ और सोच रही थीं?
+User: मुझे तो हो गया मतलब price ज़्यादा लगा मेरे को.
+User: Hello.
+User: hello hello hello
+Agent: हां, स्वेतलिना, मैं सुन रही हूं! आपने कहा कि प्राइस थोड़ा ज्यादा लग रहा है, सही कहा? मैं पूरी तरह समझ सकती हूं। लेकिन ये Urban Yog Callus Remover एक बार की इन्वेस्टमेंट है, और इससे आपको बार-बार पार्लर जाने की ज़रूरत नहीं पड़ेगी। घर पर ही सॉफ्ट, सलोन-स्टाइल पैरों का मज़ा ले सकती हैं।  
+
+वैसे, अगर आप चाहें तो मैं आपको एक छोटा सा डिस्काउंट ऑफर कर सकती हूं—5% का। क्या ये मदद करेगा?
+User: हां, ठीक है. पांच percent का discount है वह.
+Agent: बिल्कुल, स्वेतलिना! सिर्फ आज के लिए, आप O – F – 
+User: बता 
+Agent: F 
+User: भी दिया है क्या तूने कुछ?
+Agent: अरे हां, माफ करना स्वेतलिना! मैं बताने ही वाली थी। तो सुनिए, सिर्फ आज 
+User: मुझे दस percent 
+Agent: के लिए 
+User: चाहिए.
+Agent: स्वेतलिना, मैं समझ सकती हूं कि आप थोड़ा और बचत करना चाहती हैं। वैसे, अगर आप UPI से पेमेंट करती हैं, तो 5% के साथ एक एक्स्ट्रा 2% का डिस्काउंट भी मिल सकता है। मतलब टोटल 7% की बचत हो जाएगी।  
+
+क्या ये ठीक रहेगा?
+User: हां ठीक रहेगा तो फिर ना MRP कितना हो जाएगा कितना pay करना पड़ेगा मुझे?
+Agent: बिल्कुल, स्वेतलिना! तो Urban Yog Callus Remover की 
+",https://dxc03zgurdly9.cloudfront.net/6f2803f622f1bca24973151b97cd6e3a75ce1503796c73fa5c6b50fdb210944c/recording.wav,Neutral,True,"The user, Swetlina, was contacted by the agent, Mehr, from UrbanYog to follow up on a potential purchase of the Urban Yog Callus Remover. The user expressed concern about the price being too high, and the agent offered a 5% discount, along with an additional 2% discount for UPI payments, which the user found acceptable and inquired about the final price after discounts.","elevenlabs_tts, gpt_4o, retell_platform",180,max_duration_reached
+$0.09,call_dde4e0116022311d1bb92da96c5,agent_00490e668be8e0244229d1de5a,14707630575,918668820473,ended,"4/17/2025, 10:50:09 AM","4/17/2025, 10:50:51 AM",43,chiragdeeppatil89@gmail.com,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां, परम करना चाहूंगा.
+Agent: अरे वाह, बढ़िया! तो Ankit Patil जी, मैं आपको अभी एक WhatsApp लिंक भेजता हूं, जिससे आप आसानी से checkout कर सकते हैं। और हां, आपके लिए एक exclusive 5% discount code है: O-F-F-5. बस इसे apply कर लीजिए।
+
+अगर कोई और सवाल हो, तो आप मुझे बता सकते हैं। 😊
+User: Thank you.
+Agent: You're most welcome, Ankit Patil 
+",https://dxc03zgurdly9.cloudfront.net/e32eeba2aa0287c09ed369af1603791fa8d0b7c3a2b07297e5c74304b9cab88e/recording.wav,Positive,True,"The user, Ankit Patil, was contacted by the agent from Trimfinity regarding a product in their cart and was offered an additional 5% discount. The user accepted the offer, and the agent provided a WhatsApp link for checkout along with a discount code.","elevenlabs_tts, gpt_4o, retell_platform",43,user_hangup
 $0.08,call_7212a92dcbd51458efcf88054fa,agent_013449690bb91bf30736266dc9,14429005795,918668820473,ended,"4/17/2025, 10:48:02 AM","4/17/2025, 10:48:39 AM",38,chiragdeeppatil89@gmail.com,"User: Hello.
 Agent: हैलो, मैं मेहर बोल रही हूँ अर्बनयोग से। मैंने देखा कि आपने प्रोडक्ट कार्ट में ऐड किया था। आज के दिन आपके लिए अतिरिक्त 5% की छूट है। क्या आप इसे क्लेम करना चाहेंगे?
 User: हां claim 
@@ -2474,6 +2517,3 @@ $0.04,call_adbc0e1d149b2e7566a5c6c028f,agent_00490e668be8e0244229d1de5a,14707630
 $-,call_dd1d2537f2a56fe578f3116e583,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/11/2025, 2:41:11 PM","4/11/2025, 2:41:11 PM",-,upadhyaydeepak259@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $0.03,call_f7325a3d37427a11bbabe905455,agent_00490e668be8e0244229d1de5a,14707630575,919921461219,ended,"4/11/2025, 2:02:32 PM","4/11/2025, 2:02:44 PM",13,vijaynagargoje20@gmail.Com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/ca8e52504abd034864f78937ca0789f6861a396f3209173c3de6479c8a528d85/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",13,user_hangup
-$0.04,call_2753db1cf92f702a0e2d39d442a,agent_00490e668be8e0244229d1de5a,14707630575,916369298882,ended,"4/11/2025, 1:40:27 PM","4/11/2025, 1:40:47 PM",20,mk398137@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/ab8836b395e8eba1a1eba0fc413693019cf011d7b4e7922bad0a109be950ce81/recording.wav,Neutral,True,"The user was greeted by the agent, Aryan, from Trimfinity, who informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",20,inactivity
