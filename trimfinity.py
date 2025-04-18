@@ -6,6 +6,10 @@ from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.colored_header import colored_header
 import datetime
 
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+
+
 # PAGE CONFIG
 st.set_page_config(
     page_title="Customer Call & Sales Dashboard",
@@ -126,15 +130,40 @@ if 'Agent' in df_filtered.columns:
 # CUSTOMERS WHO MADE A PURCHASE
 colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
 
-if not customer_df.empty:
+# Try to identify the order timestamp column
+timestamp_column = None
+for col in df_filtered.columns:
+    if 'created' in col.lower() and 'at' in col.lower():
+        timestamp_column = col
+        break
+
+if not customer_df.empty and timestamp_column:
+    # Use the timestamp and format it
+    customer_df = df_filtered[df_filtered['order_number'].notna()][
+        ['call_date', 'Email', 'order_number', timestamp_column]
+    ].drop_duplicates()
+
+    customer_df[timestamp_column] = pd.to_datetime(customer_df[timestamp_column], errors='coerce')
+    customer_df['Order Time'] = customer_df[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
+
     customer_df = customer_df.rename(columns={
         "call_date": "Date",
         "Email": "Customer Email",
         "order_number": "Order Number"
-    })
+    })[["Date", "Customer Email", "Order Number", "Order Time"]]
+
     st.dataframe(customer_df, use_container_width=True)
+
+elif not customer_df.empty:
+    st.warning("⚠️ Could not detect a valid order time column.")
+    st.dataframe(customer_df.rename(columns={
+        "call_date": "Date",
+        "Email": "Customer Email",
+        "order_number": "Order Number"
+    }), use_container_width=True)
 else:
     st.info("No customer purchase data found in the selected date range.")
+
 
 # DOWNLOAD
 st.markdown("## 📁 Download Your Data")
