@@ -1,4 +1,18 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.13,call_105bf788ffd57519a9ab65bb730,agent_00490e668be8e0244229d1de5a,14707630575,918830793750,ended,"4/18/2025, 7:06:52 PM","4/18/2025, 7:07:50 PM",58,Chabarwal688@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: जी.
+Agent: Wah ji, 
+User: हां जी 
+Agent: badhiya! Aapke liye ek 
+User: हां.
+Agent: Theek hai ji! Aapke liye ek special discount code hai: O-F-F-5. Is code ko checkout ke time apply karna, aur aapko 5% ka discount mil jayega.Main abhi aapko ek WhatsApp link bhej deta hoon, jisme aap directly checkout kar sakte ho. Aapko aur koi help chahiye toh mujhe zarur batayein!
+User: 0SSS.
+Agent: Arre, lagta hai thoda confusion ho gaya! Aapka discount code hai: O-F-F-5. Isse checkout ke time apply karna, aur 5% ka discount mil 
+",https://dxc03zgurdly9.cloudfront.net/c55acf4920896829b3a9b83e97addec622e378e1450148bc353ab92f1d958a84/recording.wav,Positive,True,The agent offered the user a special discount of 5% on their cart items and provided a discount code 'O-F-F-5' to use at checkout. The agent also sent a WhatsApp link for direct checkout and encouraged the user to ask for further assistance if needed.,"elevenlabs_tts, gpt_4o, retell_platform",58,user_hangup
+$0.01,call_0ccd979a0c52e81fe65c0e0b8ca,agent_00490e668be8e0244229d1de5a,14707630575,918890888277,ended,"4/18/2025, 6:56:37 PM","4/18/2025, 6:56:40 PM",3,Nitinsankhalaraj@gmail.com,"User: Your call has been forwarded to mail.
+",https://dxc03zgurdly9.cloudfront.net/82b91e29cde7278a0e7d1698e3b4724898959060b3f76a7335c019ebe7883de7/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that the intended recipient is unavailable to take the call at the moment.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$0.04,call_da202f29a2559956a87f9ae09e9,agent_00490e668be8e0244229d1de5a,14707630575,918266030244,ended,"4/18/2025, 6:54:37 PM","4/18/2025, 6:54:56 PM",20,addisharma.sjs@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/bee0093edaae9e47beb3787a91e8d278a50e063125b34bd9e85213d96fb18c69/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",20,user_hangup
 $0.16,call_de691a6c536d32890ee839e5074,agent_00490e668be8e0244229d1de5a,14707630575,919363282677,ended,"4/18/2025, 6:18:13 PM","4/18/2025, 6:19:24 PM",72,yuvaraj62088@gmail.com,"Agent: Hello, 
 User: Hello.
 Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -2210,6 +2224,3 @@ Agent: जी बिलकुल, Cash on Delivery का ऑप्शन availa
 User: G 9.
 Agent: मुझे समझ 
 ",https://dxc03zgurdly9.cloudfront.net/ed5d1d21dffd76d1dd4518562df2c4dbe769b9c88a726dbf136bbe08f561ad38/recording.wav,Neutral,True,"The user inquired about the cash on delivery option for a product they added to their cart. The agent confirmed that cash on delivery is available and also mentioned an additional discount for prepaid orders, while encouraging the user to place their order quickly due to the product's popularity.","elevenlabs_tts, gpt_4o, retell_platform",78,user_hangup
-$-,call_762068dcc55d3c4144896f1bef0,agent_00490e668be8e0244229d1de5a,14707630575,917875006129,error,"4/13/2025, 1:11:54 PM","4/13/2025, 1:11:54 PM",-,anshuchaurasia1999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_d3a8e1f5f54a3405dc89ab04d50,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/13/2025, 1:11:35 PM","4/13/2025, 1:11:35 PM",-,anshuchaurasia1999@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_1125d0b12aa5a11ae324ab5ede4,agent_00490e668be8e0244229d1de5a,14707630575,918788174395,error,"4/13/2025, 12:58:20 PM","4/13/2025, 12:58:20 PM",-,meshramnandan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
