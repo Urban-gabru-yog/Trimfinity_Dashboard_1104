@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.12,call_317a29fea580f0b644533dff0e0,agent_00490e668be8e0244229d1de5a,14707630575,919528880727,ended,"4/20/2025, 10:59:41 PM","4/20/2025, 11:00:35 PM",55,rakeshsahni309@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां.
+Agent: Wah, badhiya! Aapne bilkul sahi 
+User: Hello.
+Agent: decision liya hai. Main abhi aapko WhatsApp pe ek checkout link bhej raha hoon. Uspe click karke bas payment complete kar lena, aur Trimfinity 1.0 Body & Ball Trimmer aapka ho jayega.
+
+Aur haan, aapko 5% ka discount code bhi de raha hoon—O-F-F-5. Isse apply karna mat bhoolna!
+
+Agar koi dikkat ho, toh mujhe ya support team ko call kar lena. Number hai: seven-three-nine-seven-eight-zero-five-three-four-seven.
+",https://dxc03zgurdly9.cloudfront.net/bb47cbce295d03ad12806556af4ef34d46fdc73579ca9cd0640a37e553bf94da/recording.wav,Positive,True,"The agent from Trimfinity contacted the user to inform them about an additional 5% discount on a product they added to their cart. The user accepted the offer, and the agent provided a checkout link via WhatsApp along with a discount code for the purchase.","elevenlabs_tts, gpt_4o, retell_platform",55,inactivity
 $-,call_200170daaac2ba3c47c9a3c785c,agent_00490e668be8e0244229d1de5a,14707630575,918009824690,error,"4/20/2025, 10:16:47 PM","4/20/2025, 10:16:47 PM",-,afreedsiddiqui1997@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.04,call_e90c7bf40e38dff962e58056f42,agent_00490e668be8e0244229d1de5a,14707630575,918826972767,ended,"4/20/2025, 10:10:55 PM","4/20/2025, 10:11:12 PM",17,jasxrajjxsinghh@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/136002415b09a92404943156458cf4c4c189ee7cdcc6e6f6370b6e9458ddad95/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",17,user_hangup
@@ -2337,4 +2347,3 @@ Agent: Oh, great! Aapne already purchase kar liya? Wah, that’s awesome! Agar a
 Aapka din shubh ho, KHUSHI ji! Bye!
 ",https://dxc03zgurdly9.cloudfront.net/9c6651c97f301aa5cdf533982a8f70f774643c0b4df07967460cd5df93078950/recording.wav,Positive,True,"The user, KHUSHI, was contacted by the agent regarding an abandoned cart item, the Urban Yog Electric Facial Hair Remover. The user confirmed that they had already completed the purchase and expressed no further questions, leading to a positive conclusion of the call.","elevenlabs_tts, gpt_4o, retell_platform",68,user_hangup
 $-,call_07aaebeab3a507b38d7f1211594,agent_00490e668be8e0244229d1de5a,14707630575,919920327091,error,"4/15/2025, 4:54:32 PM","4/15/2025, 4:54:32 PM",-,jadhavpradnya45@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1413e0303f5d957261162ecb830,agent_00490e668be8e0244229d1de5a,14707630575,919920327091,error,"4/15/2025, 4:54:26 PM","4/15/2025, 4:54:26 PM",-,jadhavpradnya45@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
