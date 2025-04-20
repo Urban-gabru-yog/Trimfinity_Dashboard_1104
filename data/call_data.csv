@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_c272c246c768c8db99ca8b2d116,agent_00490e668be8e0244229d1de5a,14707630575,918433989801,error,"4/20/2025, 12:16:51 PM","4/20/2025, 12:16:51 PM",-,Vivekgada143@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_3f140553663b9cf8551bc23e110,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/20/2025, 12:16:36 PM","4/20/2025, 12:16:36 PM",-,Vivekgada143@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.02,call_29dcb91c704bd74e4d29a79e1aa,agent_00490e668be8e0244229d1de5a,14707630575,917058553501,ended,"4/20/2025, 12:07:55 PM","4/20/2025, 12:08:04 PM",9,sumitshirguppe3501@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
+",https://dxc03zgurdly9.cloudfront.net/5f4e98d4fd7553013e073cc1598f6e15c7288bf3e6c0f7f344b26aeb6bb19d4b/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart.","elevenlabs_tts, gpt_4o, retell_platform",9,user_hangup
 $-,call_a30f467fc735c15e2882084cd00,agent_00490e668be8e0244229d1de5a,14707630575,919166118820,error,"4/19/2025, 9:00:21 PM","4/19/2025, 9:00:21 PM",-,rinkuyadav11480@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_8d9aa5c8d10a4a4f7179aa35c10,agent_00490e668be8e0244229d1de5a,14707630575,918698433977,error,"4/19/2025, 8:38:19 PM","4/19/2025, 8:38:19 PM",-,sambhajikadam5555@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_5b8679782fdf00e5925ede0ca61,agent_00490e668be8e0244229d1de5a,14707630575,919850695526,ended,"4/19/2025, 8:32:56 PM","4/19/2025, 8:33:04 PM",8,shaikhhuzef27@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
@@ -2227,6 +2233,3 @@ $0.01,call_9d6a510e1f6b480dd5c2a73ada8,agent_00490e668be8e0244229d1de5a,14707630
 $-,call_e88255c805c93aff7a0cab3471f,agent_00490e668be8e0244229d1de5a,14707630575,919078141474,error,"4/15/2025, 4:22:18 PM","4/15/2025, 4:22:18 PM",-,nagtruptirani@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_a6b4cfe09a4de5465c249518620,agent_00490e668be8e0244229d1de5a,14707630575,919078141474,error,"4/15/2025, 4:22:14 PM","4/15/2025, 4:22:14 PM",-,nagtruptirani@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_c064bc1adc197fc79fd53cb9304,agent_00490e668be8e0244229d1de5a,14707630575,919362419369,error,"4/15/2025, 4:19:21 PM","4/15/2025, 4:19:21 PM",-,toxicgamer8415@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_ce1d059c4b9d527977ed6804405,agent_00490e668be8e0244229d1de5a,14707630575,919362419369,error,"4/15/2025, 4:19:15 PM","4/15/2025, 4:19:15 PM",-,toxicgamer8415@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_f2bb09a22c7ce86eefabba39b87,agent_00490e668be8e0244229d1de5a,14707630575,917093532229,error,"4/15/2025, 4:18:27 PM","4/15/2025, 4:18:27 PM",-,nadempallivarshitha22097@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1c4f576d149d063d6cadfaa6632,agent_00490e668be8e0244229d1de5a,14707630575,918547135186,error,"4/15/2025, 4:18:13 PM","4/15/2025, 4:18:13 PM",-,meghavenu1313@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
