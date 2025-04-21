@@ -7,7 +7,7 @@ SHOPIFY_ACCESS_TOKEN = "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"
 def fetch_shopify_orders():
     try:
         # Define API Endpoint
-        url = f"https://{SHOPIFY_STORE}/admin/api/2023-01/orders.json?status=created&limit=250"
+        url = f"https://{SHOPIFY_STORE}/admin/api/2023-01/orders.json?status=any&limit=250"
 
         # Use X-Shopify-Access-Token for Authentication
         headers = {
