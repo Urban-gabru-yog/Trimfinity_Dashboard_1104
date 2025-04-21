@@ -6,9 +6,6 @@ from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.colored_header import colored_header
 import datetime
 
-import warnings
-warnings.filterwarnings("ignore", category=UserWarning)
-#latest commit
 
 # PAGE CONFIG
 st.set_page_config(
@@ -95,6 +92,36 @@ colored_header("📊 Calls vs Purchases", "", color_name="violet-70")
 df_grouped = df_filtered.groupby('call_date')['order_number'].count().reset_index()
 fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Purchases", color_discrete_sequence=["#6c5ce7"])
 st.plotly_chart(fig1, use_container_width=True)
+
+
+# HOURLY PURCHASE TRENDS
+colored_header("⏱️ Hourly Purchase Trends",)
+
+
+
+# Use created_at or order timestamp column
+order_time_col = None
+for col in df_filtered.columns:
+    if 'created' in col.lower() and 'at' in col.lower():
+        order_time_col = col
+        break
+
+if order_time_col:
+    df_filtered[order_time_col] = pd.to_datetime(df_filtered[order_time_col], errors='coerce')
+    df_filtered['order_hour'] = df_filtered[order_time_col].dt.hour
+
+    hourly_trend = df_filtered[df_filtered['order_number'].notna()].groupby('order_hour')['order_number'].count().reset_index()
+    hourly_trend.columns = ['Hour of Day', 'Purchases']
+
+    fig_hourly = px.line(hourly_trend, x='Hour of Day', y='Purchases',
+                         markers=True,
+                         title="📈 Purchases by Hour of Day",
+                         labels={'Hour of Day': 'Hour (0-23)', 'Purchases': 'Purchase Count'},
+                         line_shape="spline")
+
+    st.plotly_chart(fig_hourly, use_container_width=True)
+else:
+    st.warning("⚠️ Could not identify the order timestamp column to show hourly trends.")
 
 colored_header("⏳ Call Duration", "", color_name="blue-70")
 fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration Histogram", color_discrete_sequence=["#00b894"])
