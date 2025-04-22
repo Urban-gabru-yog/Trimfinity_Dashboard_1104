@@ -1,4 +1,40 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_4b5590040347756544c802ab9da,agent_00490e668be8e0244229d1de5a,14707630575,916378354106,error,"4/22/2025, 1:45:11 PM","4/22/2025, 1:45:11 PM",-,kaluram2096@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_85ae1c08deb135b44a0346229cb,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"4/22/2025, 1:44:51 PM","4/22/2025, 1:44:51 PM",-,kaluram2096@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.28,call_cf0fed26eca6fba4a9357e8af11,agent_00490e668be8e0244229d1de5a,14707630575,919537022552,ended,"4/22/2025, 1:37:41 PM","4/22/2025, 1:39:48 PM",128,mphysio.mv@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes,
+Agent: Hi! This is 
+User: yes
+Agent: Aryan from Trimfinity. I noticed you were checking out the Ultimate Duo Beard & Body Trimmer but didn’t complete the purchase. Just wanted to check—was there anything holding you back? Maybe I can help!
+User: Yes?
+Agent: Got it! So, what’s stopping you from completing the purchase? Is it the price, or are you unsure about the product features? Let me know—I’d love to help!
+User: Price.
+Agent: Ah, I totally get that! The price can feel a bit high, but let me tell you why it’s worth it. The Ultimate Duo Beard & Body Trimmer is designed with advanced technology and premium materials, so it gives you precise trimming and lasts much longer than regular trimmers. It’s like an investment in quality grooming.
+
+But hey, I want to make this easier for you. I can offer you an exclusive 5% discount with the code O-F-F-5, just for today. How does that sound?
+User: I want more discount.
+Agent: I hear you! Everyone loves a good deal, right? 😊 While the price is already discounted from ₹3,499 to ₹2,649, plus the 5% off with code O-F-F-5, let me sweeten the deal a bit more for you.
+
+If you’re ready to grab it today, I can also help you save an extra ₹100 on prepaid orders. So, you’re getting a premium trimmer at an even better price. What do you think? Should I send you the checkout link on WhatsApp?
+User: Yes.
+Agent: Awesome! I’ll send you the WhatsApp checkout link right away. Just click on it and complete your purchase—it’s super quick and easy. 😊
+
+If you need any help during checkout, feel free to reach out. And don’t forget to use the code O-F-F-5 for your 5% discount. Happy grooming! ✂️
+",https://dxc03zgurdly9.cloudfront.net/ca6dcdbba7de1a03c64a17f2196a0b78da876a431070300b621216d316e674c9/recording.wav,Positive,True,"The user was contacted by an agent from Trimfinity regarding an incomplete purchase of the Ultimate Duo Beard & Body Trimmer. The agent offered a 5% discount and additional savings for prepaid orders, which the user accepted, and the agent agreed to send a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o, retell_platform",128,user_hangup
+$0.21,call_22cf0ed829446a7078428100755,agent_00490e668be8e0244229d1de5a,14707630575,918789377647,ended,"4/22/2025, 1:37:03 PM","4/22/2025, 1:38:40 PM",98,Nk654834@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: बोलो ना अजय
+User: Return policy कैसा है इसका
+Agent: Arre Ajay bhai, return policy kaafi simple hai! Agar product damage ho ke aapko milta hai ya galat item deliver hota hai, toh hum replacement dete hain. Bas aapko delivery ke 7 din ke andar issue report karna hoga. Refund ka option unfortunately nahi hai, par replacement ka process fast aur smooth hai.Aur agar aapko aur details chahiye, toh humari customer support team se baat kar sakte ho—number hai seven-three-nine-seven-eight-zero-five-three-four-seven. 😊
+
+Waise, product kaafi solid hai, toh aapko return ki zarurat hi nahi padegi! Aap checkout karna chahenge?
+User: बोलो. ठीक है.
+User: Try करते हैं.
+Agent: Wah Ajay bhai, sahi decision! Trimfinity 1.0 Body & Ball Trimmer ekdum next-level hai—skin-safe blades aur waterproof design ke saath. Aapko grooming ka experience ekdum badhiya milega. 😎
+
+Main abhi aapko WhatsApp pe ek checkout link bhej deta hoon. Bas uspe click karke order complete kar lena. Aur haan, aapke liye exclusive 5% discount code bhi hai—O-F-F-5. Isse use karna mat bhoolna!Koi aur sawaal ho toh batao, bhai.
+",https://dxc03zgurdly9.cloudfront.net/300aca461de92778aef992a32d42ef9ca34646365792fbef93ac67bb8260b20d/recording.wav,Positive,True,"The user, Ajay, inquired about the return policy for a product he added to his cart. The agent explained the simple return policy and encouraged Ajay to proceed with the purchase, offering a 5% discount and sending a checkout link via WhatsApp.","elevenlabs_tts, gpt_4o, retell_platform",98,user_hangup
 $0.03,call_beac78bc1e7a6cfbf84ba3b703b,agent_00490e668be8e0244229d1de5a,14707630575,919302149789,ended,"4/22/2025, 1:16:40 PM","4/22/2025, 1:16:54 PM",14,adeshgehlot7@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/579c2395fc2fd3949d2ee9a60009afebdc09c10217df0155438735c0bfdbf354/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
 $0.05,call_74e4ec60140dc4bd3f863a2adfb,agent_00490e668be8e0244229d1de5a,14707630575,918458912375,ended,"4/22/2025, 1:15:16 PM","4/22/2025, 1:15:36 PM",21,rahul1810rv@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -2391,9 +2427,3 @@ $0.00,call_db3759c8ea9ac8120460bf7e37b,agent_00490e668be8e0244229d1de5a,14707630
 $-,call_c6e138b54e65a19bdeeba80a4a0,agent_00490e668be8e0244229d1de5a,14707630575,916260179968,error,"4/15/2025, 5:23:48 PM","4/15/2025, 5:23:48 PM",-,Ssghosh1919@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_4fa14de9d5f4cc9674b6ee69ac0,agent_00490e668be8e0244229d1de5a,14707630575,918499892353,error,"4/15/2025, 5:22:00 PM","4/15/2025, 5:22:00 PM",-,navyakandhibanda@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_42e49bc75c682a466cfab73bda8,agent_00490e668be8e0244229d1de5a,14707630575,918499892353,error,"4/15/2025, 5:21:55 PM","4/15/2025, 5:21:55 PM",-,navyakandhibanda@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_ea6c6412fdc4261544f4550ddd0,agent_00490e668be8e0244229d1de5a,14707630575,919370939940,error,"4/15/2025, 5:21:54 PM","4/15/2025, 5:21:54 PM",-,kanikamalu1978@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.03,call_2eec4574fd86904a32d1be44914,agent_00490e668be8e0244229d1de5a,14707630575,919370939940,ended,"4/15/2025, 5:21:42 PM","4/15/2025, 5:21:55 PM",14,kanikamalu1978@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/09946c3400a953afe1e64dd7224dcc4011bdd0a72e9cc0819d1233791a4bcfb8/recording.wav,Neutral,True,"The user was greeted by the agent, Aryan, from Trimfinity, who informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",14,user_hangup
-$-,call_58ff4c5e67b1410ad107c3dd910,agent_00490e668be8e0244229d1de5a,14707630575,918141483155,error,"4/15/2025, 5:21:21 PM","4/15/2025, 5:21:21 PM",-,jagruti.maheshwari95@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_ac5c3bfc123f736b951d3ba1efa,agent_00490e668be8e0244229d1de5a,14707630575,918141483155,error,"4/15/2025, 5:21:18 PM","4/15/2025, 5:21:18 PM",-,jagruti.maheshwari95@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
