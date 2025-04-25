@@ -1,4 +1,35 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_e7cbf7813326c204bcec5c1d636,agent_00490e668be8e0244229d1de5a,14707630575,917814803880,error,"4/25/2025, 4:15:36 PM","4/25/2025, 4:15:36 PM",-,sidhujodh21@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.20,call_46e1883ea4a804cefc946af88ca,agent_00490e668be8e0244229d1de5a,14707630575,918949173388,ended,"4/25/2025, 4:15:30 PM","4/25/2025, 4:17:02 PM",93,bhavukgupta822@gmail.com,"User: बोल hello
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
+User: हां. देखा 
+Agent: product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: कहां करना चाहेंगे?
+Agent: Arre Bhavuk ji, maine dekha ki aapne Trimfinity 1.0 Body & Ball Trimmer apne cart mein add kiya tha, bas checkout complete nahi kiya. Socha 
+User: हां,
+Agent: puch loon, koi dikkat toh nahi aayi? Aapko product pasand toh aaya na?
+User: हां आया ना?
+Agent: Wah Bhavuk ji, yeh sunke accha 
+User: (inaudible speech)
+Agent: laga! 😊 Toh phir bas price ka kuch soch rahe the ya aur kuch confusion hai? Bataiye, main help kar deta hoon.
+User: नहीं कोई confusion नहीं है.
+Agent: Arre, toh phir perfect hai Bhavuk ji! Aapko bata doon, yeh Trimfinity 1.0 Body & Ball Trimmer kaafi premium quality ka hai 
+User: अच्छा 
+Agent: aur advanced technology ke saath aata hai. Ek baar le liya toh lamba 
+User: अच्छा
+User: नीचे भी कर सकता हूं ना state में?
+Agent: Bilkul Bhavuk ji! Yeh trimmer specially sensitive areas ke liye design kiya gaya hai, jaise groin area. Iska 
+User: क्यों मैं तेरे भाई 
+Agent: stainless steel ceramic 
+User: से बात कर रहा तो तू भी पूछने पुछ रहा है
+Agent: Arre Bhavuk 
+User: अंडे के बाद ही साथ
+Agent: Arre Bhavuk ji, lagta hai aap mazaak kar rahe ho! 😄 Chalo, koi baat nahi. Aapko bas bata raha tha ki yeh trimmer kaafi advanced aur 
+User: अपने
+Agent: safe hai, aur agar 
+",https://dxc03zgurdly9.cloudfront.net/49b418dc31914c58681028243415822047b2bdb9fa6fb774c5873ba6cf4f7266/recording.wav,Positive,True,"The user interacted with the agent regarding a product they added to their cart, the Trimfinity 1.0 Body & Ball Trimmer. The agent offered an additional discount and confirmed that the user had no confusion about the product, while also providing details about its features.","elevenlabs_tts, gpt_4o, retell_platform",93,user_hangup
+$0.03,call_e7ed7d1266b6b45fe48b36d3f86,agent_00490e668be8e0244229d1de5a,14707630575,917814803880,ended,"4/25/2025, 4:05:29 PM","4/25/2025, 4:05:44 PM",15,sidhujodh21@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/b2769cdb7d52a6bd706a06cfa3e68f97bc354ad1ab8a07dc290cf0fd2c36020b/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
 $-,call_02f8240995b3b1a83e010f0f962,agent_00490e668be8e0244229d1de5a,14707630575,919799357871,error,"4/25/2025, 3:35:37 PM","4/25/2025, 3:35:37 PM",-,nikhilhockey22@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_befb27e442c4a7d18921cab1190,agent_00490e668be8e0244229d1de5a,14707630575,918639051636,error,"4/25/2025, 3:35:37 PM","4/25/2025, 3:35:37 PM",-,chinnamsuniel@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_1fbc59d7f5ffc9dfe64e05bdf96,agent_00490e668be8e0244229d1de5a,14707630575,917385143440,ended,"4/25/2025, 3:35:19 PM","4/25/2025, 3:35:28 PM",9,om2258565@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. 
@@ -2507,15 +2538,3 @@ $-,call_0bbd0d72df220bddae43f7ff89c,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_bed1f6a4b59f84884de1fe9de52,agent_00490e668be8e0244229d1de5a,14707630575,917527871763,error,"4/15/2025, 7:00:30 PM","4/15/2025, 7:00:30 PM",-,ppratima76@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_5a21dea9997b52f90a1186d12b7,agent_00490e668be8e0244229d1de5a,14707630575,917527871763,error,"4/15/2025, 7:00:29 PM","4/15/2025, 7:00:29 PM",-,ppratima76@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_d9b084272af82c962e3923fb6dc,agent_00490e668be8e0244229d1de5a,14707630575,919746709898,error,"4/15/2025, 6:59:57 PM","4/15/2025, 6:59:57 PM",-,meghapm888@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.03,call_4b72fb90b2e447fee15ef508edb,agent_00490e668be8e0244229d1de5a,14707630575,919746709898,ended,"4/15/2025, 6:59:36 PM","4/15/2025, 6:59:51 PM",15,meghapm888@gmail.com,"Agent: Hello, 
-User: Hello.
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/43cd8a7948d9fd5f209077cb4c12c53767decd9f9a7a42cae87995c907003ab2/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",15,user_hangup
-$0.05,call_f040fcdd0d9f318a5264bf68718,agent_00490e668be8e0244229d1de5a,14707630575,917045479090,ended,"4/15/2025, 6:56:28 PM","4/15/2025, 6:56:53 PM",25,ganesh.binu401@gmail.com,"Agent: Hello, 
-User: हां?
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart 
-Agent: अरे वाह, नमस्ते गणेश जी! मैं Trimfinity से बोल रहा हूँ। मैंने देखा कि आपने MakeMeeBold Complete Hairstyling Kit अपने कार्ट में डाली थी, लेकिन चेकआउट 
-",https://dxc03zgurdly9.cloudfront.net/209a1ccd21c3d0b84bb1d01a0ce9c8627a937220d02d8e0fb9d6c72298f3f95d/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user regarding a product, the MakeMeeBold Complete Hairstyling Kit, that the user had added to their cart but had not yet checked out.","elevenlabs_tts, gpt_4o, retell_platform",25,user_hangup
-$0.01,call_d60fae57b3881ed5f49d5810bc8,agent_00490e668be8e0244229d1de5a,14707630575,917045479090,ended,"4/15/2025, 6:56:07 PM","4/15/2025, 6:56:12 PM",5,ganesh.binu401@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
-",https://dxc03zgurdly9.cloudfront.net/d37cc4119a6df3b9414a8985d639e782ac6da0c4ea859d416e08c8cf49e5f26c/recording.wav,Neutral,False,"The call began with the user greeting the agent, who introduced himself as Aryan from Trimfinity. The agent acknowledged that the user had reached out, but the transcript does not provide further details on the conversation or any actions taken.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
