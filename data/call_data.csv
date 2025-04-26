@@ -1,4 +1,20 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_660759d84ef54d57065aaa4ca5f,agent_00490e668be8e0244229d1de5a,14707630575,919311844681,error,"4/26/2025, 3:35:57 PM","4/26/2025, 3:35:57 PM",-,harsh1000khurana@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.15,call_00dcebe71be5ddc58462bf51986,agent_00490e668be8e0244229d1de5a,14707630575,919311844681,ended,"4/26/2025, 3:25:38 PM","4/26/2025, 3:26:44 PM",67,harsh1000khurana@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां बिल्कुल.
+Agent: अरे वाह, Harsh जी! तो चलिए, मैं आपको एक एक्सक्लूसिव डिस्काउंट कोड दे देता हूं— O-F-F-5। इसे इस्तेमाल करके आपको 5% का सीधा फायदा मिलेगा। बस आज के लिए वैलिड है।  
+
+मैं आपको WhatsApp पर एक क्विक चेकआउट लिंक भेज देता हूं। आप बस उस पर क्लिक करके ऑर्डर पूरा कर सकते हैं। क्या ये ठीक रहेगा?
+User: Ok.
+User: ठीक रहेगा ok.
+Agent: बहुत बढ़िया, Harsh जी! मैं अभी आपको WhatsApp पर लिंक भेज रहा हूं। बस उस पर क्लिक करके चेकआउट कर लीजिए।  
+
+अगर आपको कोई और मदद चाहिए, तो आप हमें WhatsApp या कॉल पर भी संपर्क कर सकते हैं—हमारा नंबर है: सात-तीन-नौ-सात-आठ-शून्य-पांच-तीन-चार-सात।  
+
+ध्यान रखिए, ये ऑफर सिर्फ आज के लिए है!
+",https://dxc03zgurdly9.cloudfront.net/95fd58435167f9bcdff8775291c660d1c3206d3041261d26c1985309eb6ed253/recording.wav,Positive,True,"The user, Harsh, was offered an additional 5% discount on a product they added to their cart. The agent provided a discount code and sent a WhatsApp checkout link for the user to complete their order, emphasizing that the offer is valid only for today.","elevenlabs_tts, gpt_4o, retell_platform",67,user_hangup
 $-,call_34e1e94a3d7769e404fe14b00a3,agent_00490e668be8e0244229d1de5a,14707630575,918679899764,error,"4/26/2025, 3:15:55 PM","4/26/2025, 3:15:55 PM",-,shubu28chauhan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_2558a5b7d8fc79a0fcb6e79a67d,agent_00490e668be8e0244229d1de5a,14707630575,918679899764,ended,"4/26/2025, 3:05:49 PM","4/26/2025, 3:05:56 PM",7,shubu28chauhan@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya 
 ",https://dxc03zgurdly9.cloudfront.net/1d57ebbf9cc3d061c322db1727a0944ded0bfd6f706e88e841a8ec7239dcc9d3/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user added a product to their cart. The conversation likely continued to address the user's needs regarding the product.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
@@ -2591,8 +2607,3 @@ $-,call_cfd44bc84d2d148358396b0ccc1,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_40955128d2f0b0b0148ada692e8,agent_00490e668be8e0244229d1de5a,14707630575,919788686034,error,"4/15/2025, 7:56:03 PM","4/15/2025, 7:56:03 PM",-,mssprathyenkira@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_6e3800f6ea42b3123b63e2579cf,agent_00490e668be8e0244229d1de5a,14707630575,916361356747,ended,"4/15/2025, 7:56:00 PM","4/15/2025, 7:56:21 PM",22,Faizaahmareen@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/90157a320af7d602a7396b20d91caacb4c96effa78e006dd5064531f685aa341/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",22,inactivity
-$0.01,call_6be860eda6f57f9696f00be8709,agent_00490e668be8e0244229d1de5a,14707630575,916361356747,ended,"4/15/2025, 7:55:50 PM","4/15/2025, 7:55:54 PM",5,Faizaahmareen@gmail.com,"User: Voicemail. 
-Agent: Hello, main 
-User: The person you are trying to reach is not available.
-",https://dxc03zgurdly9.cloudfront.net/5e5541b851d28d4eecffbd5d8b9ad089c4b3febfa1bb5b6081b445cf44d1a4d2/recording.wav,Neutral,True,The call was a voicemail message indicating that the person the user is trying to reach is not available.,"elevenlabs_tts, gpt_4o, retell_platform",5,voicemail_reached
-$-,call_8d19226f0b9af152b6b650c93aa,agent_00490e668be8e0244229d1de5a,14707630575,919511567958,error,"4/15/2025, 7:55:01 PM","4/15/2025, 7:55:01 PM",-,darshni.sharma.12@gmail.com,-,-,Unknown,False,-,,-,dial_failed
