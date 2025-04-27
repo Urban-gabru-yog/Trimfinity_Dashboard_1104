@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_f7f7fae02d655c9b183766c2f24,agent_00490e668be8e0244229d1de5a,14707630575,919398824962,ended,"4/27/2025, 3:26:04 PM","4/27/2025, 3:26:26 PM",23,venkatsivaram4444@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: I can't understand sir.
+Agent: Oh, no problem, Sivaram! Let me explain. This is Aryan from 
+",https://dxc03zgurdly9.cloudfront.net/3b259492ee2fb6c9dbce26af021fb7c233edd9aaa532817d960b0ed6258577de/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Sivaram, to inform him about an additional 5% discount on a product he added to his cart. The user expressed difficulty in understanding the offer, prompting the agent to offer further clarification.","elevenlabs_tts, gpt_4o, retell_platform",23,user_hangup
 $0.01,call_77ddfab55595aeb7c05d5eff769,agent_00490e668be8e0244229d1de5a,14707630575,919398824962,ended,"4/27/2025, 3:16:18 PM","4/27/2025, 3:16:21 PM",4,venkatsivaram4444@gmail.com,"User: Your call 
 Agent: Hello, 
 User: has been forwarded to voicemail.
@@ -2615,4 +2619,3 @@ $-,call_490f96f6d2b3d8c21b43920bebc,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_ac093828b7ea8b9bb186b53fbd8,agent_00490e668be8e0244229d1de5a,14707630575,918075623556,error,"4/15/2025, 8:26:27 PM","4/15/2025, 8:26:27 PM",-,revathypushparajan1994@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_79a341a0df9ca80fb66704e01fd,agent_00490e668be8e0244229d1de5a,14707630575,918075623556,error,"4/15/2025, 8:26:23 PM","4/15/2025, 8:26:23 PM",-,revathypushparajan1994@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_2f27965a18f71e5ea6676ed475a,agent_00490e668be8e0244229d1de5a,14707630575,919446986255,error,"4/15/2025, 8:25:50 PM","4/15/2025, 8:25:50 PM",-,kalpanavijay1973@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_a2c763a66001a53200439328b49,agent_00490e668be8e0244229d1de5a,14707630575,919446986255,error,"4/15/2025, 8:25:44 PM","4/15/2025, 8:25:44 PM",-,kalpanavijay1973@gmail.com,-,-,Unknown,False,-,,-,dial_failed
