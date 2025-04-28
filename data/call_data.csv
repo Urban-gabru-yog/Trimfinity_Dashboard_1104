@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_97db86182749aa3f384099607b0,agent_00490e668be8e0244229d1de5a,14707630575,919137054748,error,"4/28/2025, 7:56:01 PM","4/28/2025, 7:56:01 PM",-,yashjain628@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_f2f99d0363172b61c67eb0a8ae3,agent_00490e668be8e0244229d1de5a,14707630575,919137054748,ended,"4/28/2025, 7:55:47 PM","4/28/2025, 7:55:50 PM",4,yashjain628@gmail.com,"User: Your 
+Agent: Hello, 
+User: call has been forwarded to voice now.
+",https://dxc03zgurdly9.cloudfront.net/9035f468dea427ebcd657dfc663c1ee19484f8bbf4591eade461f0fa147531ba/recording.wav,Neutral,False,The user informed the agent that their call has been forwarded to voice. The interaction appears to be brief and lacks further context or resolution.,"elevenlabs_tts, gpt_4o, retell_platform",4,voicemail_reached
 $-,call_5faef80349685a98dbe67e0965b,agent_00490e668be8e0244229d1de5a,14707630575,919137054748,error,"4/28/2025, 7:46:02 PM","4/28/2025, 7:46:02 PM",-,yashjain628@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_7ee6de869bf2e261e2bd0f4b969,agent_00490e668be8e0244229d1de5a,14707630575,919137054748,ended,"4/28/2025, 7:45:59 PM","4/28/2025, 7:46:02 PM",3,yashjain628@gmail.com,"User: Your call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/538359e8b739f76730e455919af7df68a0e719f2a4bbac88c1482d870c802403/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to connect with a live agent.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
@@ -2588,15 +2593,3 @@ Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart m
 ",https://dxc03zgurdly9.cloudfront.net/ad6b1e6667d2e20a5179f786812bb5dd2dfd8bdc6f9f465a2ff863ecd994c210/recording.wav,Neutral,True,"The user initiated the call with a greeting, and the agent identified themselves as Aryan from Trimfinity, mentioning that they noticed the user added a product to their cart.","elevenlabs_tts, gpt_4o, retell_platform",6,user_hangup
 $-,call_3c40edc0ae4e1d4f7c9bd1bbb90,agent_00490e668be8e0244229d1de5a,14707630575,919957650417,error,"4/15/2025, 9:04:51 PM","4/15/2025, 9:04:51 PM",-,juridevi85@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_b3a7d04328f7103cfb4a0aaab47,agent_00490e668be8e0244229d1de5a,14707630575,919957650417,error,"4/15/2025, 9:04:46 PM","4/15/2025, 9:04:46 PM",-,juridevi85@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.19,call_c8d1a2e62b0acbff60d6db580af,agent_00490e668be8e0244229d1de5a,14707630575,918637658869,ended,"4/15/2025, 9:04:08 PM","4/15/2025, 9:05:36 PM",89,dhiivyaskrishnan@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Ok. Hello?
-Agent: Hi dhiivya sayee krishnan! This is Aryan from Trimfinity. I noticed you were checking out the MakeMeeBold 3-in-1 Hot Air Brush by Urban Yog but didn’t complete the purchase. Just wanted to check—was there anything holding you back?
-User: No
-User: sir? 
-Agent: Got it, dhiivya 
-User: I have ordered that.
-Agent: Oh, that’s great to hear, dhiivya sayee krishnan! Thank you so much for your order. You’re going to love the MakeMeeBold 3-in-1 Hot Air Brush—it’s such a game-changer! If you have any questions or need help with anything, feel free to reach out. Have a great day!
-Agent: Hello? dhiivya sayee krishnan ji, are you still there? No worries if you're busy! If you need any help or have questions about your order, feel free to WhatsApp or call us at 7-3-9-7-8-0-5-3-4-7. Have a great day ahead!
-",https://dxc03zgurdly9.cloudfront.net/2585576c2cef35f6a459ee39206c4184576d4d1dc59e9a9de08eb09a23ef7ad4/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Dhiivya Sayee Krishnan, regarding an incomplete purchase of the MakeMeeBold 3-in-1 Hot Air Brush. The user confirmed they had already placed the order, and the agent expressed gratitude and offered assistance if needed.","elevenlabs_tts, gpt_4o, retell_platform",89,inactivity
-$0.04,call_ad1fa020ff1f9edba058a40f6b8,agent_00490e668be8e0244229d1de5a,14707630575,918637658869,ended,"4/15/2025, 9:03:48 PM","4/15/2025, 9:04:07 PM",20,dhiivyaskrishnan@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/0816fc676c4763ba87eefc2b9f5a22c8d6b2dc6d9650d50e5a5ecd37c5e34d82/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",20,user_hangup
