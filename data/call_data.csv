@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.22,call_19cff2e9f829f51ab77324afeef,agent_00490e668be8e0244229d1de5a,14707630575,918668820473,ended,"4/30/2025, 1:45:43 PM","4/30/2025, 1:47:23 PM",100,chiragdeeppatil89@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: क्या product add किया था?
+Agent: Namaste Ankit ji! Aapne Trimfinity 3 in 1 face trimmer apne cart mein add kiya tha. Yeh ek advanced trimmer hai jo face ke saath body grooming ke liye bhi perfect hai. Aap checkout karte karte rukh gaye the, toh bas puchna chahta tha ki koi dikkat ho rahi thi ya kuch aur 
+User: Price का 
+Agent: soch rahe the?
+User: ही issue था.
+Agent: Haan, samajh sakta hoon Ankit ji. Kabhi kabhi price thoda high lagta hai, lekin yeh trimmer apni quality aur features ke liye kaafi value-for-money hai. Isme ceramic blades hain jo long-lasting hain, aur 3-in-1 attachments ke saath aap face, body aur even eyebrows tak groom kar sakte ho.Waise, agar aap interested ho, toh mai aapke liye ek chhota sa special offer de sakta hoon—5% ka exclusive discount. Sirf aaj ke liye! Aapko kaisa lag raha 
+User: हां 
+Agent: hai?
+User: सही
+User: भेज दीजिए.
+Agent: Wah, badhiya baat hai Ankit ji! Toh mai aapko ek exclusive discount code de raha hoon—O-F-F-5. Isse aapko ₹1899 ke price par 5% ka discount milega. Bas aaj ke liye valid hai, toh jaldi checkout kar lena.Mai ek WhatsApp link bhej deta hoon, jisse aap directly 
+User: Thank 
+Agent: checkout kar sakte ho. Theek hai?
+User: you.
+Agent: Aapka bahut shukriya, Ankit ji! Mai abhi WhatsApp link bhej raha hoon. Agar koi aur sawal ho ya help chahiye ho, toh aap humein 
+User: हां जी
+Agent: support@trimfinity.in par email kar sakte hain 
+",https://dxc03zgurdly9.cloudfront.net/fb1986e07475ede0a5edd76458134f91e84a06f7cc3ba682456fb0e08557ba68/recording.wav,Positive,True,"The user, Ankit, was contacted by the agent regarding a product he added to his cart, the Trimfinity 3 in 1 face trimmer. After discussing the price concerns, the agent offered a 5% discount, which the user accepted, and the agent provided a discount code and a WhatsApp link for checkout.","elevenlabs_tts, gpt_4o, retell_platform",100,user_hangup
 $0.03,call_677a5dd03ac8eda301a27ecbacc,agent_00490e668be8e0244229d1de5a,14707630575,918248154196,ended,"4/29/2025, 12:15:39 PM","4/29/2025, 12:15:55 PM",16,vijayasarathygowtham38@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/88408c82bc29ab7785b3126135e129c8b789e422bedc0254c1bc21742a81da05/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",16,user_hangup
 $0.04,call_5d7d1f00eabca75fae6080e2901,agent_00490e668be8e0244229d1de5a,14707630575,918248154196,ended,"4/29/2025, 12:05:45 PM","4/29/2025, 12:06:01 PM",17,vijayasarathygowtham38@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine 
@@ -2614,4 +2634,3 @@ $-,call_1937f647221a3dfea219c488b81,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_c3d96f7b2c65c3dd559351c02fe,agent_00490e668be8e0244229d1de5a,14707630575,917034879109,error,"4/15/2025, 9:18:40 PM","4/15/2025, 9:18:40 PM",-,anusreeanjalee14@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_448ab260a5a107015849b09daec,agent_00490e668be8e0244229d1de5a,14707630575,919380883542,error,"4/15/2025, 9:14:17 PM","4/15/2025, 9:14:17 PM",-,chinnip906@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_1960bb8ac4103be73e4731621fa,agent_00490e668be8e0244229d1de5a,14707630575,919380883542,error,"4/15/2025, 9:14:12 PM","4/15/2025, 9:14:12 PM",-,chinnip906@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_e2a0554f7348de290cf7aedd352,agent_00490e668be8e0244229d1de5a,14707630575,919778569768,error,"4/15/2025, 9:12:05 PM","4/15/2025, 9:12:05 PM",-,patramousumi625@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
