@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_f8f78fb615a20fe91c4fe4838d3,agent_00490e668be8e0244229d1de5a,14707630575,917277755526,ended,"5/1/2025, 6:35:49 PM","5/1/2025, 6:35:55 PM",7,lsk99187@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki 
+User: Hello.
+Agent: aapne product cart mein add kiya tha. Aaj ke din 
+",https://dxc03zgurdly9.cloudfront.net/30ab99ca3cd6dac26d1c2aa1f85e06d64260e4b98a63b2f99ac3a9f18b730b50/recording.wav,Neutral,False,The agent identified themselves as Aryan from Trimfinity and mentioned that the user had added a product to their cart. The call seems to be in the early stages of discussing the user's cart activity.,"elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
 $-,call_46f3c63e6a283dcb6dfe6eb2b12,agent_00490e668be8e0244229d1de5a,14707630575,916282871648,error,"5/1/2025, 6:16:04 PM","5/1/2025, 6:16:04 PM",-,vichu.vishnukm@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_3f7cc3e921933920e56195714b6,agent_00490e668be8e0244229d1de5a,14707630575,917776887268,ended,"5/1/2025, 6:15:55 PM","5/1/2025, 6:16:19 PM",24,ravi.pakhre2015aurangabad@gmail.com,"Agent: Hello, main 
 User: Hello.
@@ -2762,4 +2766,3 @@ Agent: Hi Anuradha Kumari ji! Aryan here from Trimfinity.
 Agent:  I noticed you were checking out the Urban Yog Electric Facial Hair Remover For Women on our website. Just wanted to check if you faced any issues or had any questions about it?
 ",https://dxc03zgurdly9.cloudfront.net/e41338778daed64f65edf8bfea2590695deaec9abdeb727c8cc71233cfb3788e/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Anuradha Kumari, to offer assistance regarding a product she added to her cart, specifically the Urban Yog Electric Facial Hair Remover For Women. The agent also mentioned an additional 5% discount available for the day.","elevenlabs_tts, gpt_4o, retell_platform",51,user_hangup
 $-,call_f916fa404501ec9bcc52774adbd,agent_00490e668be8e0244229d1de5a,14707630575,917306717201,error,"4/16/2025, 10:26:37 AM","4/16/2025, 10:26:37 AM",-,achuammuvekathanam@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_bed319deb7f3f5a4902b54cf367,agent_00490e668be8e0244229d1de5a,14707630575,917306717201,error,"4/16/2025, 10:26:29 AM","4/16/2025, 10:26:29 AM",-,achuammuvekathanam@gmail.com,-,-,Unknown,False,-,,-,dial_failed
