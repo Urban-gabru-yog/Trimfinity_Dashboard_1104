@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_7d127d0d62cd23d7946fe69e050,agent_00490e668be8e0244229d1de5a,14707630575,918459730216,ended,"5/2/2025, 7:42:44 PM","5/2/2025, 7:42:46 PM",3,altafbagwan845845@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/bfdfe9b7af814e96453524dc70864d305f3ed2f2867f32e526dd66d571807cfd/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to connect with a live agent.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
 $-,call_c7b6b7c39148741b07823bcf148,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"5/2/2025, 7:15:09 PM","5/2/2025, 7:15:09 PM",-,shamsis867@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $0.09,call_7fc8a9eee00fbe484bd1f29da35,agent_00490e668be8e0244229d1de5a,14707630575,917906571009,ended,"5/2/2025, 7:15:00 PM","5/2/2025, 7:15:42 PM",42,shamsis867@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -2858,4 +2860,3 @@ User: अरे बोल ना मैंने hair hair fresher और bowler
 User: मतलब है ना इसमें बस ही होगा.
 ",https://dxc03zgurdly9.cloudfront.net/7dd962fee6729f4898c1fd65ad152a2f2418cd316169cc4c26ebc345922b1c2e/recording.wav,Positive,True,"The user confirmed that they ordered a hair fresher and a bowler from Trimfinity, and the agent acknowledged the user's order. The conversation indicates a follow-up on the user's cart activity.","elevenlabs_tts, gpt_4o, retell_platform",17,user_hangup
 $-,call_f67024f736a089d3989f0688821,agent_00490e668be8e0244229d1de5a,14707630575,917696997123,error,"4/16/2025, 10:54:09 AM","4/16/2025, 10:54:09 AM",-,simranbains5858@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_41eda829d62103caa7ba66d7382,agent_00490e668be8e0244229d1de5a,14707630575,917696997123,error,"4/16/2025, 10:54:06 AM","4/16/2025, 10:54:06 AM",-,simranbains5858@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
