@@ -1,4 +1,44 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.39,call_fffd007270fee4b4d1ad03ac788,agent_00490e668be8e0244229d1de5a,14707630575,919067636385,ended,"5/3/2025, 4:05:19 PM","5/3/2025, 4:08:16 PM",178,ajitvaidya9@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Sir यह मैंने पहले ही बात हो पाई है आपने मुझे code देना था जो चौदह सौ रुपए में दे रहे थे तो आपने भेजा ही नहीं.
+Agent: Arre Ajit Vitthal ji, maaf kijiye agar pehle kuch confusion ho gaya ho. Aapko code dena tha na? Chaliye, mai abhi aapko ek special code deta hoon jo aap use kar ke apne Trimfinity 7000 Pro Max Body & Ball trimmer ko discount pe le sakte hain.
+
+Code hai: O-F-F-5. Isse aapko 5% ka discount milega. Aap bas checkout karte waqt ye code apply kar lena.Aur agar aapko koi aur help chahiye ho, toh mujhe bataiye. Mai abhi WhatsApp pe 
+User: और 
+Agent: link bhej deta 
+User: कितना होगा यह चौदह सौ रुपए का है ना?
+User: Amount.
+Agent: Ajit Vitthal ji, Trimfinity 7000 Pro Max Body & Ball trimmer ka original price ₹2399 hai. Agar aap 5% discount code O-F-F-5 use karte hain, toh aapko ₹120 ka discount milega. Iske baad final price ₹2279 hoga.
+
+Lekin ₹1400 ka price toh thoda mushkil hai, kyunki ye already premium 
+User: चलिए सुनिए Hello?
+Agent: quality aur advanced features ke saath aata hai. Aapko iska value samajhne ke liye bata doon ki ye waterproof 
+User: हां पर आप 
+Agent: Haanji Ajit Vitthal ji, 
+User: मुझे यहां पर मुझे अभी मैंने जब सुबह बात हुई था तो चौदह सौ पचास रुपए मैं मुझे मिल रहा था तो आप चौदह सौ में मान लेते हैं कि कैसे क्या?
+User: कितना बता रहे हो?
+Agent: Ajit Vitthal ji, mujhe lagta hai kuch misunderstanding ho gayi hogi. Ye 
+User: नहीं misunderstanding 
+Agent: product ka original price 
+User: नहीं थी.
+Agent: Arre Ajit Vitthal ji, agar aapko pehle ₹1450 ka bola gaya tha, toh mujhe lagta hai ki aapko ek special offer diya gaya hoga. Chaliye, mai ek kaam karta hoon—mai aapke liye ek aur baar check karta hoon ki kya best price aapko de sakte hain.
+
+Aap thoda sa hold kariye, mai abhi confirm karta hoon aur aapko WhatsApp pe ek final price ke saath link bhejta hoon. Aapko bilkul 
+User: पर मुझे चौदह सौ में 
+Agent: tension lene ki zarurat nahi hai.
+User: चाहिए था. आपने मुझे चौदह सौ बोला था मुझे चौदह सौ में चाहिए अभी. क्योंकि नहीं कहा मैंने पहले से request किया था आपने दिया था तो नहीं अपने link भेजा.
+Agent: Ajit Vitthal ji, mujhe aapki baat samajh aa rahi hai, aur agar aapko pehle ₹1400 ka bola gaya tha, toh mujhe lagta hai ki aapko ek special consideration diya gaya hoga. Chaliye, mai ek kaam karta hoon—mai abhi apne manager se baat karta hoon aur confirm karta hoon ki kya hum aapko ₹1400 ka price de sakte hain.
+
+Aap thoda sa patience rakhiye, mai aapko turant WhatsApp pe update karta hoon. Aapko 
+",https://dxc03zgurdly9.cloudfront.net/857b0086bcdc9d76d7e4a97e5e382952e3bff370fdbd2721bb44ec0bb3359b5a/recording.wav,Negative,False,"The user, Ajit Vitthal, contacted the agent regarding a previously discussed discount code for a product priced at ₹2399. The agent provided a 5% discount code but the user insisted on a lower price of ₹1400 that was mentioned in a prior conversation. The agent acknowledged the misunderstanding and promised to check with a manager for the requested price, assuring the user of a follow-up via WhatsApp.","elevenlabs_tts, gpt_4o, retell_platform",178,max_duration_reached
+$-,call_4f824387f99f6508379684b0396,agent_00490e668be8e0244229d1de5a,14707630575,919019580961,error,"5/3/2025, 3:55:40 PM","5/3/2025, 3:55:40 PM",-,narasimhac808@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.11,call_a7e4868ca55840cdb23710a4cc4,agent_00490e668be8e0244229d1de5a,14707630575,919445903030,ended,"5/3/2025, 3:55:38 PM","5/3/2025, 3:56:27 PM",50,pathi22794@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: ""Hello Pasupathi ji, lagta hai aap thoda busy hain. Koi baat nahi, main bas yeh confirm karna chahta tha ki aapko Trimfinity 7000 Pro Max Body & Ball Trimmer ke baare mein koi sawaal ya confusion toh nahi hai. Agar aapko baad mein baat karni ho, toh mujhe zarur batayein!""
+",https://dxc03zgurdly9.cloudfront.net/f4c9739f43092fce6d577b04f15e2eee344c4a9f2df0025d5a1eb96a4c969c4c/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to Pasupathi to inform him about an additional 5% discount on a product he added to his cart. The agent confirmed if Pasupathi had any questions about the Trimfinity 7000 Pro Max Body & Ball Trimmer and offered to assist him later if needed.","elevenlabs_tts, gpt_4o, retell_platform",50,inactivity
+$0.01,call_aae5407b5b68f08946cd02ff5ac,agent_00490e668be8e0244229d1de5a,14707630575,919552666853,ended,"5/3/2025, 3:55:19 PM","5/3/2025, 3:55:22 PM",4,sandeshchaudhari58@gmail.com,"User: Your 
+Agent: Hello, main 
+User: call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/a8ec88b494ed72e46b9d0b096716ab8d963d1685d032db6f41115f7cbea32a05/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. There was no further interaction or resolution during the call.,"elevenlabs_tts, gpt_4o, retell_platform",4,voicemail_reached
 $-,call_a6ffe1d753aa5b9873fb6d531ad,agent_00490e668be8e0244229d1de5a,14707630575,918523091840,error,"5/3/2025, 3:45:40 PM","5/3/2025, 3:45:40 PM",-,skirfanskirfan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ae10404290b47fc2897e498fa36,agent_00490e668be8e0244229d1de5a,14707630575,919019580961,error,"5/3/2025, 3:45:40 PM","5/3/2025, 3:45:40 PM",-,narasimhac808@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.05,call_563ad74d847e846d31adcc3b617,agent_00490e668be8e0244229d1de5a,14707630575,918523091840,ended,"5/3/2025, 3:35:30 PM","5/3/2025, 3:35:50 PM",21,skirfanskirfan@gmail.com,"Agent: Hello, main 
@@ -2941,8 +2981,3 @@ $-,call_ed632945b155e1ced6ac46080d7,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_196d1ef32513e9a65b74f82d382,agent_00490e668be8e0244229d1de5a,14707630575,919673054388,error,"4/16/2025, 11:23:16 AM","4/16/2025, 11:23:16 AM",-,pratikshamadavi82@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1957e376094a37da83249ac00ec,agent_00490e668be8e0244229d1de5a,14707630575,919673054388,error,"4/16/2025, 11:23:07 AM","4/16/2025, 11:23:07 AM",-,pratikshamadavi82@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6c51dcd7c51c582282d732d67f9,agent_00490e668be8e0244229d1de5a,14707630575,918590893223,error,"4/16/2025, 11:22:10 AM","4/16/2025, 11:22:10 AM",-,medilinakim2@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1cdf0f0628176b13dc79d96bd02,agent_00490e668be8e0244229d1de5a,14707630575,918590893223,error,"4/16/2025, 11:22:06 AM","4/16/2025, 11:22:06 AM",-,medilinakim2@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_4bd886c1dc43b8b755764e2aa73,agent_00490e668be8e0244229d1de5a,14707630575,919601777130,error,"4/16/2025, 11:20:57 AM","4/16/2025, 11:20:57 AM",-,t37949331@Gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.04,call_f7b8ca4fddcdce89bd609b7e758,agent_00490e668be8e0244229d1de5a,14707630575,919601777130,ended,"4/16/2025, 11:20:40 AM","4/16/2025, 11:20:57 AM",17,t37949331@Gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/a9b56b5c990841cc4025aa73d6d26d5aad8d59cf5cecf055d366cba6196d67a2/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",17,user_hangup
-$-,call_778a36e24af984dbe02a836718d,agent_00490e668be8e0244229d1de5a,14707630575,917025665787,error,"4/16/2025, 11:20:05 AM","4/16/2025, 11:20:05 AM",-,aliyakabeer19@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
