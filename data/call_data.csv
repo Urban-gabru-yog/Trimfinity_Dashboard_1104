@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_73d1080d30e95eb88f09ab627a4,agent_00490e668be8e0244229d1de5a,14707630575,917708621177,ended,"5/3/2025, 7:03:59 PM","5/3/2025, 7:04:21 PM",22,skssahul59@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं चाहिए.
+Agent: Arre koi baat nahi, ji! Agar aapko 
+User: (inaudible speech)
+Agent: kabhi future mein zarurat ho, 
+",https://dxc03zgurdly9.cloudfront.net/e2adb68c0a796a5259deed554bcd11a07881ae39271a3b76d8f876ef6d6894af/recording.wav,Neutral,True,"The agent from Trimfinity reached out to the user, Aryan, to inform him about an additional 5% discount on a product he had added to his cart. However, the user declined the offer and the call ended shortly after.","elevenlabs_tts, gpt_4o, retell_platform",22,user_hangup
 $-,call_d5b5e02703b29ffec3d2629b725,agent_00490e668be8e0244229d1de5a,14707630575,919428818146,error,"5/3/2025, 6:43:27 PM","5/3/2025, 6:43:27 PM",-,yogendrasinhchavda@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1922819df803b82c623d84bb860,agent_00490e668be8e0244229d1de5a,14707630575,917851854123,error,"5/3/2025, 6:13:13 PM","5/3/2025, 6:13:13 PM",-,aman785185@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_cec51964186e4fc06a88b10c8e1,agent_00490e668be8e0244229d1de5a,14707630575,911234567890,error,"5/3/2025, 6:12:58 PM","5/3/2025, 6:12:58 PM",-,aman785185@gmail.com,-,-,Unknown,False,-,,-,dial_failed
@@ -3020,7 +3028,3 @@ Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart m
 User: हां.
 User: The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं, उसने आपकी call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं, उसने आपकी call को hold पर रखा है. कृपया line पर बने रहें. The person you
 ",https://dxc03zgurdly9.cloudfront.net/7aeff6a63dd821f65cdebead70d7e0daab31e216998da2035da7e49c0928e561/recording.wav,Neutral,False,"The user was contacted by an agent from Trimfinity regarding a product in their cart and was offered an additional 5% discount. The call was put on hold by the user, and the conversation was interrupted with repeated hold messages.","elevenlabs_tts, gpt_4o, retell_platform",47,user_hangup
-$0.01,call_e32e76dd7a2dffbdb7de60cdbca,agent_00490e668be8e0244229d1de5a,14707630575,916005635439,ended,"4/16/2025, 11:28:55 AM","4/16/2025, 11:28:58 AM",3,jasneetkour@ymail.com,"User: Your 
-Agent: Hello, main 
-User: call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/5bd7de1fe35a83f5d811e10da23f74ca41fbf812baaa463073b6a4d860e4c7a7/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. There was no further interaction or resolution during the call.,"elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
