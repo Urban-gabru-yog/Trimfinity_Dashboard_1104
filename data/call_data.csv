@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_973742160ce03b46372e7f05ae2,agent_00490e668be8e0244229d1de5a,14707630575,919975514544,error,"5/4/2025, 11:25:46 AM","5/4/2025, 11:25:46 AM",-,vinu5631@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_01c36f92f505f9a85de621d8001,agent_00490e668be8e0244229d1de5a,14707630575,919975514544,error,"5/4/2025, 11:15:48 AM","5/4/2025, 11:15:48 AM",-,vinu5631@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_3c4927660713a89f4f81e965b2d,agent_00490e668be8e0244229d1de5a,14707630575,917780239490,ended,"5/4/2025, 11:05:27 AM","5/4/2025, 11:05:41 AM",14,manuseena19@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -3048,4 +3049,3 @@ $0.05,call_6f4aad2cb0618d00c4f52163b19,agent_00490e668be8e0244229d1de5a,14707630
 Agent: ""Hello Mani Harish 
 ",https://dxc03zgurdly9.cloudfront.net/a68bea74d15db12e403934be659dbcffc2769f0304afd27f4d2be06be4d6af56/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Mani Harish, to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be an attempt to encourage the user to complete their purchase with the discount offer.","elevenlabs_tts, gpt_4o, retell_platform",25,user_hangup
 $-,call_91f83de2c649eab361081560c2b,agent_00490e668be8e0244229d1de5a,14707630575,918097067106,error,"4/16/2025, 11:39:50 AM","4/16/2025, 11:39:50 AM",-,Pradnyakoli@yahoo.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_65250626b53ccf50850342d7df2,agent_00490e668be8e0244229d1de5a,14707630575,918097067106,error,"4/16/2025, 11:39:47 AM","4/16/2025, 11:39:47 AM",-,Pradnyakoli@yahoo.com,-,-,Unknown,False,-,,-,dial_no_answer
