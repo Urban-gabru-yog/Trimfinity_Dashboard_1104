@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_7c31f5232985bdd09d27bb00239,agent_00490e668be8e0244229d1de5a,14707630575,918310290132,error,"5/5/2025, 8:45:40 PM","5/5/2025, 8:45:40 PM",-,alkarthik593@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_657b7410cd851a1053ff4650340,agent_00490e668be8e0244229d1de5a,14707630575,918310290132,ended,"5/5/2025, 8:35:22 PM","5/5/2025, 8:35:31 PM",10,alkarthik593@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya 
+",https://dxc03zgurdly9.cloudfront.net/0f05870d1606642ce217a4a533f7cb009ba4c07f67f1f964362e768b68f4ae5c/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be promotional in nature, aiming to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o, retell_platform",10,user_hangup
 $0.03,call_715765ee6543ba7f0ea38106951,agent_00490e668be8e0244229d1de5a,14707630575,916280631991,ended,"5/5/2025, 8:05:40 PM","5/5/2025, 8:05:52 PM",12,kaursoma566@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/c4f477ffa5e4162b09068565916ece1ce169a2d1c27ebcd32597f8c7e5625c4c/recording.wav,Positive,True,"The user was greeted by the agent, who identified themselves as Aryan from Trimfinity. The agent informed the user about an additional 5% discount available for a product they had added to their cart and asked if the user would like to claim it.","elevenlabs_tts, gpt_4o, retell_platform",12,user_hangup
@@ -3143,25 +3146,3 @@ $0.03,call_8bda7b9fb53e767bc8c69a60df9,agent_00490e668be8e0244229d1de5a,14707630
 ",https://dxc03zgurdly9.cloudfront.net/abfaa0795943c9f25b884388461efd2fd194605157bc3b22a2c74833622b5ce7/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",12,user_hangup
 $0.03,call_f86d30a17b309ffde442c49e6c6,agent_00490e668be8e0244229d1de5a,14707630575,917036886258,ended,"4/16/2025, 12:36:09 PM","4/16/2025, 12:36:21 PM",12,anushatirsigalla888@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
 ",https://dxc03zgurdly9.cloudfront.net/1dde1fa1c2db01191fdd4cad263171de1cc6836792f17affc46c4952a992830d/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",12,user_hangup
-$0.16,call_8109e89245145b8aa3af95b4023,agent_00490e668be8e0244229d1de5a,14707630575,919707791481,ended,"4/16/2025, 12:36:07 PM","4/16/2025, 12:37:18 PM",72,krishnasharma.svr@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. 
-Agent: Aap Krishna Sharma ji bol rahe hain? Maine dekha ki aapne 
-User: हां.
-Agent: Urban Yog Liposoluble Facial Wax Strips apne cart mein add ki thi, lekin checkout complete nahi kiya. Bas yeh puchna tha ki koi dikkat toh nahi aayi ya aapko product ke baare mein koi sawaal hai?
-User: The person you are speaking with has put your call on hold. Please stay on the line.
-User: आप जिस व्यक्ति से बात कर रहे हैं, उसने आपकी call को hold पर रखा है. कृपया line पर बने रहें.
-User: Call to 
-User: hold
-Agent: Bilkul, main line par hoon. Jab aap 
-User: The person 
-Agent: Bilkul, main line 
-User: you are speaking with, has put your call on hold. Please stay on the line.
-User: आप जिस व्यक्ति से बात कर रहे हैं, उसने आपकी call को hold पर रखा है. कृपया line पर बने रहें.
-Agent: Bilkul, main line par hoon. Jab aap free ho jayein, toh baat karte hain!
-User: (inaudible speech)
-User: The person you are speaking 
-Agent: Hello Krishna ji, aap wapas 
-User: with has put your call on hold. Please stay on the line.
-Agent: Bilkul, main line par hoon.
-",https://dxc03zgurdly9.cloudfront.net/cdd003c8b8921daffe15cacf1178b5fe745eb461070746ea85d0e02a62bc557a/recording.wav,Neutral,False,"The call involved an agent from Trimfinity reaching out to Krishna Sharma regarding an incomplete checkout for Urban Yog Liposoluble Facial Wax Strips. However, the user repeatedly put the call on hold, leading to a lack of progress in the conversation.","elevenlabs_tts, gpt_4o, retell_platform",72,user_hangup
-$-,call_6d67af35b6cb8b8d0e342be6f29,agent_00490e668be8e0244229d1de5a,14707630575,919058542789,error,"4/16/2025, 12:35:56 PM","4/16/2025, 12:35:56 PM",-,lalitabisht276@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
