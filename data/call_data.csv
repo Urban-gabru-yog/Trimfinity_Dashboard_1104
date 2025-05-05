@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_0b1f0fe527a63a6a07f4720a3d4,agent_00490e668be8e0244229d1de5a,14707630575,919470343280,error,"5/5/2025, 2:55:42 PM","5/5/2025, 2:55:42 PM",-,shubham9304025106@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a9aca1290a59d051bea13124468,agent_00490e668be8e0244229d1de5a,14707630575,919823053177,error,"5/5/2025, 2:55:41 PM","5/5/2025, 2:55:41 PM",-,sunny.saindane73@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_9b73e06250ef2d51d1d8aa09673,agent_00490e668be8e0244229d1de5a,14707630575,919823053177,error,"5/5/2025, 2:45:41 PM","5/5/2025, 2:45:41 PM",-,sunny.saindane73@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_8eaecf346ff928e60346f1d4bb4,agent_00490e668be8e0244229d1de5a,14707630575,918116042848,ended,"5/5/2025, 2:45:21 PM","5/5/2025, 2:45:23 PM",3,mukherjeemadhurima071@gmail.com,"User: Your call has been 
 Agent: Hello, 
@@ -3114,5 +3116,3 @@ Agent: Hot Air Brush
 User: जी बोलिए.
 Agent: Haan ji, main Aryan bol raha hoon Trimfinity se. Maine dekha ki aapne 
 ",https://dxc03zgurdly9.cloudfront.net/097463e524734672ca0fa5215cc8abec271024928215f9ab7698b07136e15971/recording.wav,Neutral,False,"The call was initiated by an agent named Aryan from Trimfinity, who was trying to discuss a product called MakeMeeBold 3-in-1 Hot Air Brush with the user. The user responded affirmatively but the conversation seemed to have some interruptions and confusion.","elevenlabs_tts, gpt_4o, retell_platform",33,user_hangup
-$-,call_288ad185d1332062e954540642e,agent_00490e668be8e0244229d1de5a,14707630575,919819044613,error,"4/16/2025, 12:21:09 PM","4/16/2025, 12:21:09 PM",-,monikapawar321@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_e0f7c3432eb2c0885365c0ed4a7,agent_00490e668be8e0244229d1de5a,14707630575,919819044613,error,"4/16/2025, 12:21:08 PM","4/16/2025, 12:21:08 PM",-,monikapawar321@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
