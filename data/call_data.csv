@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_f89add7f3fdcd0140bd8262ddca,agent_00490e668be8e0244229d1de5a,14707630575,919313436653,error,"5/5/2025, 3:35:40 PM","5/5/2025, 3:35:40 PM",-,desainand49@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_d9d2b5c1c8e5061ee1506f90393,agent_00490e668be8e0244229d1de5a,14707630575,919313436653,error,"5/5/2025, 3:25:40 PM","5/5/2025, 3:25:40 PM",-,desainand49@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_0b1f0fe527a63a6a07f4720a3d4,agent_00490e668be8e0244229d1de5a,14707630575,919470343280,error,"5/5/2025, 2:55:42 PM","5/5/2025, 2:55:42 PM",-,shubham9304025106@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_a9aca1290a59d051bea13124468,agent_00490e668be8e0244229d1de5a,14707630575,919823053177,error,"5/5/2025, 2:55:41 PM","5/5/2025, 2:55:41 PM",-,sunny.saindane73@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_9b73e06250ef2d51d1d8aa09673,agent_00490e668be8e0244229d1de5a,14707630575,919823053177,error,"5/5/2025, 2:45:41 PM","5/5/2025, 2:45:41 PM",-,sunny.saindane73@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -3101,18 +3103,3 @@ $-,call_cbaf21a005736c19d3a787262dc,agent_00490e668be8e0244229d1de5a,14707630575
 $-,call_af655595feb2c282ca26707cc61,agent_00490e668be8e0244229d1de5a,14707630575,918123442545,error,"4/16/2025, 12:22:47 PM","4/16/2025, 12:22:47 PM",-,rakshithabhatbenagal@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ee6e66b837b07c7ae456b0101ee,agent_00490e668be8e0244229d1de5a,14707630575,918123442545,error,"4/16/2025, 12:22:40 PM","4/16/2025, 12:22:40 PM",-,rakshithabhatbenagal@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_2d555b03ffd56e6f684919bc3f6,agent_00490e668be8e0244229d1de5a,14707630575,918287743531,error,"4/16/2025, 12:21:49 PM","4/16/2025, 12:21:49 PM",-,Shailytomer222@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_095ad7bf3e0c858721ee1073564,agent_00490e668be8e0244229d1de5a,14707630575,918287743531,error,"4/16/2025, 12:21:48 PM","4/16/2025, 12:21:48 PM",-,Shailytomer222@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$0.07,call_816b8daaa38b5e39e4d32ae53c2,agent_00490e668be8e0244229d1de5a,14707630575,918287743531,ended,"4/16/2025, 12:21:39 PM","4/16/2025, 12:22:12 PM",33,Shailytomer222@gmail.com,"Agent: Hello, main 
-User: Hello हां 
-Agent: Aryan hoon Trimfinity se. Maine dekha 
-User: जी.
-Agent: Hello जी! Aryan bol raha hoon Trimfinity 
-User: Hello? 
-Agent: se. Maine dekha ki aap 
-User: Hello.
-Agent: Haan ji, sunai de raha hai? Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap MakeMeeBold 3-in-1 
-User: हां 
-Agent: Hot Air Brush 
-User: जी बोलिए.
-Agent: Haan ji, main Aryan bol raha hoon Trimfinity se. Maine dekha ki aapne 
-",https://dxc03zgurdly9.cloudfront.net/097463e524734672ca0fa5215cc8abec271024928215f9ab7698b07136e15971/recording.wav,Neutral,False,"The call was initiated by an agent named Aryan from Trimfinity, who was trying to discuss a product called MakeMeeBold 3-in-1 Hot Air Brush with the user. The user responded affirmatively but the conversation seemed to have some interruptions and confusion.","elevenlabs_tts, gpt_4o, retell_platform",33,user_hangup
