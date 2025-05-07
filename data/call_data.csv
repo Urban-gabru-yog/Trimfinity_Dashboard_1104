@@ -3139,3 +3139,12 @@ Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
 $-,call_a878ce3ac609184758610bbbb8f,agent_00490e668be8e0244229d1de5a,14707630575,919350950149,error,"4/16/2025, 12:37:48 PM","4/16/2025, 12:37:48 PM",-,komaljolly125@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_e0fecf25e4371d02cc6ebc80f1b,agent_00490e668be8e0244229d1de5a,14707630575,919321132803,error,"4/16/2025, 12:36:53 PM","4/16/2025, 12:36:53 PM",-,vidyasawant45@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_057de8e9ac6d1629d6e70923820,agent_00490e668be8e0244229d1de5a,14707630575,919321132803,error,"4/16/2025, 12:36:53 PM","4/16/2025, 12:36:53 PM",-,vidyasawant45@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_c2144f69be4678baad79dfbb90b,agent_00490e668be8e0244229d1de5a,14707630575,919611266158,error,"4/16/2025, 12:36:39 PM","4/16/2025, 12:36:39 PM",-,priyankavs028@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.10,call_afd75a7d1346d78bc6cfd7f7946,agent_00490e668be8e0244229d1de5a,14707630575,919707791481,ended,"4/16/2025, 12:36:30 PM","4/16/2025, 12:37:15 PM",46,krishnasharma.svr@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes.
+Agent: Hi! Great to hear that you're interested. 😊 I noticed you were checking out the Urban Yog Liposoluble Facial Wax Strips for ₹299. Let me quickly help you out.
+
+You can use the exclusive 5% discount code: O-F-F-5 at checkout. It’s valid only for today, so it’s a perfect time to grab it! Should I send you a quick WhatsApp link to make the checkout super easy?
+",https://dxc03zgurdly9.cloudfront.net/80cca281ad5dd455dbb7c31d1bb15d6fb180747fc15925fe6daec128c1bed1cb/recording.wav,Positive,True,The user expressed interest in claiming a 5% discount on a product they added to their cart. The agent provided the discount code and offered to send a WhatsApp link for easy checkout.,"elevenlabs_tts, gpt_4o, retell_platform",46,user_hangup
