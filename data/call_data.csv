@@ -2901,3 +2901,5 @@ $0.06,call_598831c76d70d1bf685f35b2fb6,agent_00490e668be8e0244229d1de5a,14707630
 User: नहीं,
 Agent: Arre koi baat nahi, ji! Aapko product ke baare mein koi aur sawal ya confusion ho toh zarur batayein. Waise, Trimfinity 7000 ek kaafi advanced aur durable trimmer hai, jo 
 ",https://dxc03zgurdly9.cloudfront.net/d789d70c074686b429b89977e29f308fe8b4e2920ba77feca87a8a886d64fb4d/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user declined the offer but was encouraged by the agent to ask any questions about the product, specifically the Trimfinity 7000 trimmer.","elevenlabs_tts, gpt_4o, retell_platform",27,user_hangup
+$-,call_63bbf508d13eeacb006306eafe5,agent_00490e668be8e0244229d1de5a,14707630575,919555154295,error,"4/16/2025, 8:29:34 PM","4/16/2025, 8:29:34 PM",-,kumarpankaj88098@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_31fdd47ff31d2d08ae543fb30f1,agent_00490e668be8e0244229d1de5a,14707630575,919824825878,error,"4/16/2025, 8:08:14 PM","4/16/2025, 8:08:14 PM",-,modimeetk@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
