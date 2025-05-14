@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_4ed84e019d5b0512e1eb92ffc05,agent_00490e668be8e0244229d1de5a,12082140131,919727539105,error,"5/14/2025, 7:13:13 PM","5/14/2025, 7:13:13 PM",-,patelpappu1420@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_014c0951904de41620b98f0fc7f,agent_00490e668be8e0244229d1de5a,12082140131,919727539105,error,"5/14/2025, 7:08:39 PM","5/14/2025, 7:08:39 PM",-,patelpappu1420@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_7b3924dcc0d52ee376bc52615b4,agent_00490e668be8e0244229d1de5a,12082140131,919727539105,error,"5/14/2025, 7:03:46 PM","5/14/2025, 7:03:46 PM",-,patelpappu1420@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_bebee914c70da5497e304434bd6,agent_00490e668be8e0244229d1de5a,12082140131,919921975173,error,"5/14/2025, 6:52:59 PM","5/14/2025, 6:52:59 PM",-,rahuldoke7@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_eefd9bfe267c75d7ba1758335a3,agent_00490e668be8e0244229d1de5a,12082140131,917678331258,ended,"5/14/2025, 6:52:33 PM","5/14/2025, 6:52:37 PM",5,yadavtanuj933@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki 
+",https://dxc03zgurdly9.cloudfront.net/9732e642434eca87f6ccb12593344fc0d387ad382837c883705268f0d6ec662a/recording.wav,Neutral,False,"The call was initiated by an agent named Aryan from Trimfinity, but the transcript does not provide further details about the conversation or any actions taken.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
 $-,call_93c57f0d6f7f872140f10ffa0a9,agent_00490e668be8e0244229d1de5a,12082140131,919921975173,error,"5/14/2025, 6:42:56 PM","5/14/2025, 6:42:56 PM",-,rahuldoke7@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_7093be5adcb9cf592728ce8619a,agent_00490e668be8e0244229d1de5a,12082140131,919890810515,ended,"5/14/2025, 6:42:35 PM","5/14/2025, 6:42:42 PM",7,shivam.nimje5@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
