@@ -1,4 +1,25 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.11,call_c45ffdf5e37cb5870fb3db51740,agent_00490e668be8e0244229d1de5a,12082140131,919560138497,ended,"5/14/2025, 11:47:56 AM","5/14/2025, 11:48:48 AM",52,pinkibairw7339@gmail.com,"Agent: Hello, 
+User: Hello. हां जी 
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
+User: बोलो.
+User: हां हां. वह 
+Agent: Namaste Ajay ji! Main 
+User: cash on delivery वाला option आ ही नहीं रहा sir.
+Agent: Arre 
+User: Hello?
+Agent: Ajay ji, samajh gaya main! Cash on Delivery ka option abhi sirf selected pin codes ke liye available hai. Aapka pin code shayad usmein cover nahi ho raha hoga. Lekin tension mat lijiye, humare paas online payment ka option hai jo bilkul safe aur secure hai.Waise, aapko product pasand toh aaya na? Koi aur dikkat ya sawal toh nahi hai?
+User: आप सवाल कुछ भी नहीं sir लेकिन cash on delivery होता है थोड़ा और आसान रहता है ना?
+Agent: Bilkul Ajay ji, aapki baat sahi hai, Cash on Delivery kaafi convenient hota hai. Lekin main aapko bata doon, humara online payment system bhi bilkul safe aur hassle-free hai. Aur ek aur 
+",https://dxc03zgurdly9.cloudfront.net/f6a9042505d5785b5a5c6f0fe8b8f20f791099d60be36a79d37f4b611b4a8152/recording.wav,Neutral,True,"The user, Ajay, inquired about the cash on delivery option for a product but found it unavailable for his pin code. The agent explained that cash on delivery is only available for selected pin codes and suggested using the secure online payment option instead.","elevenlabs_tts, gpt_4o, retell_platform",52,user_hangup
+$-,call_eda53abf4143ebdb4220d18017e,agent_00490e668be8e0244229d1de5a,12082140131,919686859899,error,"5/14/2025, 11:47:56 AM","5/14/2025, 11:47:56 AM",-,Ichukumbla2020@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_03345c0b9d4e269c3a83f51000e,agent_00490e668be8e0244229d1de5a,12082140131,919560138497,ended,"5/14/2025, 11:47:39 AM","5/14/2025, 11:47:45 AM",7,pinkibairw7339@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello. 
+Agent: Trimfinity 
+User: हां जी.
+",https://dxc03zgurdly9.cloudfront.net/daec100ed607878c629c74d60165882ef461f3cac154a197ac75f2be44364463/recording.wav,Neutral,False,"The call begins with the agent introducing themselves as Aryan and the service as Trimfinity. The user responds affirmatively in Hindi, indicating they are engaged in the conversation.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
+$-,call_72278923c896ca92a3ba27fe221,agent_00490e668be8e0244229d1de5a,12082140131,919686859899,error,"5/14/2025, 11:44:07 AM","5/14/2025, 11:44:07 AM",-,Ichukumbla2020@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_9d16830b6dae1ad3fda5a5e5c06,agent_00490e668be8e0244229d1de5a,12082140131,919686859899,error,"5/14/2025, 11:43:11 AM","5/14/2025, 11:43:11 AM",-,Ichukumbla2020@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6498dbbb3e7bc4fb524640aeb09,agent_00490e668be8e0244229d1de5a,12082140131,918127026270,error,"5/13/2025, 9:18:15 PM","5/13/2025, 9:18:15 PM",-,akbark200@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_7d0857f05ac753334942c7c9a21,agent_00490e668be8e0244229d1de5a,12082140131,919953858849,ended,"5/13/2025, 9:17:55 PM","5/13/2025, 9:17:59 PM",5,omsaini5391@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
 ",https://dxc03zgurdly9.cloudfront.net/52acfea7cd483499ad66af7d0c971bd96abdacdc6452c64a76b70f8471743c31/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user named Aryan. The conversation appears to be in the early stages, with the agent likely reaching out for a specific purpose related to the user's account or service.","elevenlabs_tts, gpt_4o, retell_platform",5,user_hangup
