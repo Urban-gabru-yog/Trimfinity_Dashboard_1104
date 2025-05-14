@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_ce7652187699bb5db0aa03de951,agent_00490e668be8e0244229d1de5a,12082140131,918089893496,error,"5/14/2025, 7:58:54 PM","5/14/2025, 7:58:54 PM",-,sarankichu854@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.08,call_8c47037f0194679f30e088eeafa,agent_00490e668be8e0244229d1de5a,12082140131,918089893496,ended,"5/14/2025, 7:57:38 PM","5/14/2025, 7:58:13 PM",35,sarankichu854@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: 5? Hello?
+User: हां जी?
+Agent: अरे वाह, नमस्ते सरन जी! मैं आर्यन बोल रहा हूं Trimfinity से। मैंने देखा कि आपने Trimfinity 7000 Body and Ball Trimmer 
+",https://dxc03zgurdly9.cloudfront.net/2cdbd02516166b3da9e55d56112b55f560cdf7011aae9648b674718a9c70a477/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The conversation indicates that the user was engaged and responsive to the agent's offer.","elevenlabs_tts, gpt_4o, retell_platform",35,user_hangup
 $-,call_3424e09f9f7631b3b123eb9831e,agent_00490e668be8e0244229d1de5a,12082140131,919083404641,error,"5/14/2025, 7:43:03 PM","5/14/2025, 7:43:03 PM",-,subhammr07@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.11,call_9075009c08dc0cbd480d1b1dc34,agent_00490e668be8e0244229d1de5a,12082140131,919083404641,ended,"5/14/2025, 7:42:38 PM","5/14/2025, 7:43:28 PM",51,subhammr07@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 Agent: ""Subham ji, agar aap busy hain toh koi baat nahi, main bas yeh confirm karna chahta tha ki aapko Trimfinity 7000 Body and Ball Trimmer ke baare mein koi sawaal ya confusion toh nahi hai. Aapko product pasand toh aaya hoga, bas price ya kuch aur soch rahe the?""
