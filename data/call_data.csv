@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_735c7bfee9008b6758d7921f89c,agent_00490e668be8e0244229d1de5a,12082140131,919482050349,ended,"5/14/2025, 4:13:18 PM","5/14/2025, 4:13:20 PM",3,ibrahimpuzhakkal98@gmail.com,"User: Call has been 
+Agent: Hello, main 
+User: forwarded to voicemail.
+Agent: Aryan 
+",https://dxc03zgurdly9.cloudfront.net/242cf9914cb2cf618af201c2775ae2d62098c78a8f365b70572d2b9fd693bc21/recording.wav,Negative,False,The user attempted to make a call but was informed that the call has been forwarded to voicemail. The agent acknowledged the situation but did not provide further assistance.,"elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
+$0.03,call_348a3ea2b6bd185dd99706232dd,agent_00490e668be8e0244229d1de5a,12082140131,919482050349,ended,"5/14/2025, 4:12:51 PM","5/14/2025, 4:13:07 PM",16,ibrahimpuzhakkal98@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+",https://dxc03zgurdly9.cloudfront.net/158de737fd8833747de6c590530b5abb42a2c2895d458c907abb0787381e83bd/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user to inform them about an additional 5% discount on a product they added to their cart. However, the user only responded with a greeting and did not engage further with the offer.","elevenlabs_tts, gpt_4o, retell_platform",16,user_hangup
 $-,call_596707d31cecc61ca13dd2a8a1b,agent_00490e668be8e0244229d1de5a,12082140131,918767701500,error,"5/14/2025, 3:48:51 PM","5/14/2025, 3:48:51 PM",-,mb8308834747@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ce32c44cf62e994bb971e9b76d2,agent_00490e668be8e0244229d1de5a,12082140131,918767701500,error,"5/14/2025, 3:44:00 PM","5/14/2025, 3:44:00 PM",-,mb8308834747@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_66556200220097b116d5504e203,agent_00490e668be8e0244229d1de5a,12082140131,918767701500,error,"5/14/2025, 3:38:05 PM","5/14/2025, 3:38:05 PM",-,mb8308834747@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
