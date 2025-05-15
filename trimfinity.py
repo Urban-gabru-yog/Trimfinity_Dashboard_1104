@@ -5,9 +5,11 @@ from streamlit_extras.let_it_rain import rain
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.colored_header import colored_header
 import datetime
+import warnings
 
+warnings.filterwarnings("ignore", category=UserWarning)
 
-# PAGE CONFIG
+#  PAGE CONFIG
 st.set_page_config(
     page_title="Customer Call & Sales Dashboard",
     page_icon="📞",
@@ -93,36 +95,6 @@ df_grouped = df_filtered.groupby('call_date')['order_number'].count().reset_inde
 fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Purchases", color_discrete_sequence=["#6c5ce7"])
 st.plotly_chart(fig1, use_container_width=True)
 
-
-# HOURLY PURCHASE TRENDS
-colored_header("⏱️ Hourly Purchase Trends",)
-
-
-
-# Use created_at or order timestamp column
-order_time_col = None
-for col in df_filtered.columns:
-    if 'created' in col.lower() and 'at' in col.lower():
-        order_time_col = col
-        break
-
-if order_time_col:
-    df_filtered[order_time_col] = pd.to_datetime(df_filtered[order_time_col], errors='coerce')
-    df_filtered['order_hour'] = df_filtered[order_time_col].dt.hour
-
-    hourly_trend = df_filtered[df_filtered['order_number'].notna()].groupby('order_hour')['order_number'].count().reset_index()
-    hourly_trend.columns = ['Hour of Day', 'Purchases']
-
-    fig_hourly = px.line(hourly_trend, x='Hour of Day', y='Purchases',
-                         markers=True,
-                         title="📈 Purchases by Hour of Day",
-                         labels={'Hour of Day': 'Hour (0-23)', 'Purchases': 'Purchase Count'},
-                         line_shape="spline")
-
-    st.plotly_chart(fig_hourly, use_container_width=True)
-else:
-    st.warning("⚠️ Could not identify the order timestamp column to show hourly trends.")
-
 colored_header("⏳ Call Duration", "", color_name="blue-70")
 fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration Histogram", color_discrete_sequence=["#00b894"])
 st.plotly_chart(fig2, use_container_width=True)
@@ -191,7 +163,29 @@ elif not customer_df.empty:
 else:
     st.info("No customer purchase data found in the selected date range.")
 
-
-# DOWNLOAD
-st.markdown("## 📁 Download Your Data")
+# DOWNLOAD - Moved above OFF5 section
+st.markdown("## 📁 Download Filtered Data")
 st.download_button("⬇️ Download Filtered CSV", data=df_filtered.to_csv(index=False), file_name="filtered_data.csv", mime="text/csv")
+
+# OFF5 COUPON USED
+colored_header("🏷️ OFF5 Coupon Used", "", color_name="red-70")
+
+# Filter rows where 'OFF5' coupon was used
+off5_mask = df_filtered['discount_codes'].astype(str).str.contains("OFF5", case=False, na=False)
+off5_df = df_filtered[off5_mask]
+
+# Extract required columns and clean
+if not off5_df.empty:
+    off5_table = off5_df[['customer.first_name', 'customer.email', 'order_number']].dropna().drop_duplicates()
+    off5_table.columns = ['Customer Name', 'Customer Email', 'Order Number']
+    st.dataframe(off5_table, use_container_width=True)
+
+    # Add download button for OFF5-only data
+    st.download_button(
+        label="⬇️ Export OFF5 Coupon Data",
+        data=off5_table.to_csv(index=False),
+        file_name="off5_coupon_customers.csv",
+        mime="text/csv"
+    )
+else:
+    st.info("No 'OFF5' coupon usage found in the selected date range.")
