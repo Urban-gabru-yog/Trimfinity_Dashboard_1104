@@ -1,4 +1,26 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_9ab902d86dbae3687ff8c17e927,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/15/2025, 1:44:14 PM","5/15/2025, 1:44:14 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_553382560b4cde60c4c0d997c0c,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/15/2025, 1:43:58 PM","5/15/2025, 1:43:58 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_10bcbda46df7cffab2bff8b7bc2,agent_00490e668be8e0244229d1de5a,12082140131,919121692487,error,"5/15/2025, 1:27:46 PM","5/15/2025, 1:27:46 PM",-,shaikdadu6665@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_a43c113dbe806aa73ac29ac046f,agent_00490e668be8e0244229d1de5a,12082140131,917219312836,ended,"5/15/2025, 1:27:29 PM","5/15/2025, 1:27:39 PM",10,nikhilkundkar18@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
+User: चलो
+Agent: hai. Kya aap 
+",https://dxc03zgurdly9.cloudfront.net/845a1bca14ba97dc8ea7e5787f218d53e9299fd7958ece7c8c5a76191686228f/recording.wav,Positive,True,"The agent from Trimfinity reached out to the user, Aryan, to inform them about an additional 5% discount on a product they added to their cart. The user responded positively with 'चलो', indicating interest in the offer.","elevenlabs_tts, gpt_4o, retell_platform",10,user_hangup
+$-,call_0d77ca2ec7e721e83e3d482a071,agent_00490e668be8e0244229d1de5a,12082140131,919121692487,error,"5/15/2025, 1:23:59 PM","5/15/2025, 1:23:59 PM",-,shaikdadu6665@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.08,call_565ca2689fb460c7a2ab7be0f97,agent_00490e668be8e0244229d1de5a,12082140131,917219312836,ended,"5/15/2025, 1:23:37 PM","5/15/2025, 1:24:13 PM",36,nikhilkundkar18@gmail.com,"Agent: Hello, main 
+User: Hello. हां.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां. गाड़ी मार दो.
+Agent: Arre wah, Nikhil ji! Aap toh full ready lag rahe ho. Chaliye, mai abhi aapko ek WhatsApp link bhejta hoon checkout ke liye. Bas uspe click karke payment complete kar lena. Aur haan, aapke liye ek special 5% discount code hai: O-F-F-5. Isse apply karna mat bhoolna!
+
+Agar koi dikkat ho, toh mujhe ya support team ko call kar lena. Number 
+",https://dxc03zgurdly9.cloudfront.net/a22d04f4da761b3964cb9469d9075549255c12d1be8ba5c3cb9ed7c822f7e226/recording.wav,Positive,True,"The user, Nikhil, was offered a 5% discount on a product they added to their cart. The agent provided a WhatsApp link for checkout and shared a discount code for the user to apply during payment.","elevenlabs_tts, gpt_4o, retell_platform",36,user_hangup
+$-,call_9ca592d55c328f5fa5560d0684b,agent_00490e668be8e0244229d1de5a,12082140131,919121692487,error,"5/15/2025, 1:23:16 PM","5/15/2025, 1:23:16 PM",-,shaikdadu6665@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_f0290988ff0fcb91ba7110cd4d5,agent_00490e668be8e0244229d1de5a,12082140131,917219312836,ended,"5/15/2025, 1:22:54 PM","5/15/2025, 1:23:02 PM",8,nikhilkundkar18@gmail.com,"User: मैं 
+Agent: Hello, 
+User: तो माता
+Agent: Namaste Nikhil ji! Main Aryan bol raha 
+",https://dxc03zgurdly9.cloudfront.net/a7956f0015446cee7e6c155ef67461e800416179f3c6af8bcd4a62af7a01230f/recording.wav,Neutral,False,"The user initiated the call in Hindi, and the agent responded in a friendly manner, introducing himself as Aryan. The conversation appears to be in the early stages with a greeting exchange.","elevenlabs_tts, gpt_4o, retell_platform",8,user_hangup
 $-,call_44c9a7b057ec8cca5c86d1fca1f,agent_00490e668be8e0244229d1de5a,12082140131,919121692487,error,"5/15/2025, 1:19:12 PM","5/15/2025, 1:19:12 PM",-,shaikdadu6665@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_d5929651726f54d3cb897854e18,agent_00490e668be8e0244229d1de5a,12082140131,917718839610,error,"5/15/2025, 1:19:10 PM","5/15/2025, 1:19:10 PM",-,kaustubhkharat15@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_5e447afaf97e84ca98d3c6d85bf,agent_00490e668be8e0244229d1de5a,12082140131,917718839610,error,"5/15/2025, 1:19:09 PM","5/15/2025, 1:19:09 PM",-,kaustubhkharat15@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
