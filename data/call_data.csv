@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_d5785b19a6193947888b6018e86,agent_00490e668be8e0244229d1de5a,12082140131,919993937506,error,"5/15/2025, 6:28:43 PM","5/15/2025, 6:28:43 PM",-,sonalichouhan3193@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_ce407139b07af4d657145b656b8,agent_00490e668be8e0244229d1de5a,12082140131,919993937506,error,"5/15/2025, 6:28:30 PM","5/15/2025, 6:28:30 PM",-,sonalichouhan3193@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_ccea92d6ac16c8a0464261766a9,agent_00490e668be8e0244229d1de5a,12082140131,919993937506,error,"5/15/2025, 6:28:10 PM","5/15/2025, 6:28:10 PM",-,sonalichouhan3193@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a28f67b2b7de9f30a5c03106eee,agent_00490e668be8e0244229d1de5a,12082140131,919993937506,error,"5/15/2025, 6:23:08 PM","5/15/2025, 6:23:08 PM",-,sonalichouhan3193@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_0ceb91cbef267f0d8d4009dfc92,agent_00490e668be8e0244229d1de5a,12082140131,919993937506,error,"5/15/2025, 6:17:55 PM","5/15/2025, 6:17:55 PM",-,sonalichouhan3193@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_3cc4f345bd77f5b6421ce34123f,agent_00490e668be8e0244229d1de5a,12082140131,916300965119,error,"5/15/2025, 5:53:49 PM","5/15/2025, 5:53:49 PM",-,shivapentar6300@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_681e0d8f556948c07d4b5a5237e,agent_00490e668be8e0244229d1de5a,12082140131,916300965119,error,"5/15/2025, 5:48:32 PM","5/15/2025, 5:48:32 PM",-,shivapentar6300@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
