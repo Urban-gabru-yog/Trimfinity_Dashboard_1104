@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_ba56c888406244ec87234018369,agent_00490e668be8e0244229d1de5a,12082140131,917060543228,error,"5/15/2025, 9:18:47 PM","5/15/2025, 9:18:47 PM",-,nittigaur04@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_d849291af12f85e87c72882fe30,agent_00490e668be8e0244229d1de5a,12082140131,919188796563,ended,"5/15/2025, 9:18:38 PM","5/15/2025, 9:18:41 PM",3,aswinkichu123@gmail.com,"User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/f7f52e52549f3cdef5dfb4c891b1c1a78b35d3220eca990f114465efe9150751/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach a live agent.","elevenlabs_tts, gpt_4o, retell_platform",3,voicemail_reached
 $-,call_b439e5145f28b7f52fd8c125169,agent_00490e668be8e0244229d1de5a,12082140131,917357608094,error,"5/15/2025, 8:17:46 PM","5/15/2025, 8:17:46 PM",-,sdevi7514@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_dc0055c0517339f5b69ae28de92,agent_00490e668be8e0244229d1de5a,12082140131,917357608094,error,"5/15/2025, 8:13:42 PM","5/15/2025, 8:13:42 PM",-,sdevi7514@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_91dca678eb579263cce60855647,agent_00490e668be8e0244229d1de5a,12082140131,917357608094,error,"5/15/2025, 8:13:29 PM","5/15/2025, 8:13:29 PM",-,sdevi7514@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -9,12 +12,6 @@ Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add
 User: wait wait.
 ",https://dxc03zgurdly9.cloudfront.net/e2506cd1516926ef85dbeeb419358a59bdd256086e4e64bb3c3d325bbfdf3414/recording.wav,Neutral,False,"The user seems to be in a hurry and is asking the agent to wait multiple times. The agent, Aryan from Trimfinity, is trying to discuss a product that the user added to their cart but is interrupted by the user.","elevenlabs_tts, gpt_4o, retell_platform",7,user_hangup
 $-,call_83e5173838914a9404fe3e6d4c5,agent_00490e668be8e0244229d1de5a,12082140131,919528943567,error,"5/15/2025, 7:13:41 PM","5/15/2025, 7:13:41 PM",-,raoronit512@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.13,call_134ccce191f04556f38dbff1ade,agent_00490e668be8e0244229d1de5a,12082140131,919440542001,ended,"5/15/2025, 7:13:24 PM","5/15/2025, 7:14:22 PM",58,srijoe005@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi Srinivas! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer on our website. Just wanted to see if you had any questions or concerns about the product. How can I help you today?
-User: जी?
-User: AND. पान. MAR0L. Sir यह Google
-",https://dxc03zgurdly9.cloudfront.net/bc1150a5e1d665ac6d2f921f4d5c8f81611b45f6fddac44905473601fbfd8738/recording.wav,Negative,False,"The agent, Aryan from Trimfinity, reached out to the user, Srinivas, to offer an additional discount on a product he had added to his cart. However, the conversation became unclear as the user responded with confusion and unrelated phrases, indicating a lack of engagement or understanding.","elevenlabs_tts, gpt_4o, retell_platform",58,user_hangup
 $0.13,call_134ccce191f04556f38dbff1ade,agent_00490e668be8e0244229d1de5a,12082140131,919440542001,ended,"5/15/2025, 7:13:24 PM","5/15/2025, 7:14:22 PM",58,srijoe005@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: Hello.
 Agent: Hi Srinivas! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer on our website. Just wanted to see if you had any questions or concerns about the product. How can I help you today?
