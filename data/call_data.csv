@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_8268dabf8df66008dff76fb624f,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/16/2025, 1:02:59 PM","5/16/2025, 1:02:59 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.11,call_e05961f74e419400f647a969dd5,agent_00490e668be8e0244229d1de5a,12082140131,919377834563,ended,"5/16/2025, 1:02:42 PM","5/16/2025, 1:03:33 PM",52,gauravsurana1811@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes.
+Agent: Wah Gaurav ji, badhiya! Aapke liye ek exclusive discount code hai: O-F-F-5. Is code ko checkout ke time apply karna, aur aapko 5% ka discount mil jayega.
+
+Main abhi aapko ek WhatsApp link bhej deta hoon, jisme aap directly checkout kar sakte ho. Agar koi dikkat ho ya kuch aur puchhna ho, toh aap humein call ya WhatsApp kar sakte ho. Hamara number hai: seven-three-nine-seven-eight-zero-five-three-four-seven.
+
+Aapka din shubh ho, aur Trimfinity ke saath grooming ka maza lijiye!
+",https://dxc03zgurdly9.cloudfront.net/063ad2293c283948c2405ef633d017db955bd0c886e770c01004ae81f311234e/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, informed the user about an additional 5% discount on their cart items and provided a discount code 'O-F-F-5' for checkout. The agent also shared a WhatsApp link for direct checkout and offered assistance if needed.","elevenlabs_tts, gpt_4o, retell_platform",52,user_hangup
+$-,call_72dcb7ae72c7a1323a325bdc5c1,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/16/2025, 12:59:14 PM","5/16/2025, 12:59:14 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_d1c259cfb467622edbb15ac6bb7,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/16/2025, 12:58:53 PM","5/16/2025, 12:58:53 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_e81a474508d7ecfa6fa6925492f,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/16/2025, 12:53:06 PM","5/16/2025, 12:53:06 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_302837d93a80e16e4e5a873aee0,agent_00490e668be8e0244229d1de5a,12082140131,919503032701,error,"5/16/2025, 12:48:07 PM","5/16/2025, 12:48:07 PM",-,vikramvangikar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_fdde9375e411fa8a82854d011ae,agent_00490e668be8e0244229d1de5a,12082140131,919503032701,error,"5/16/2025, 12:44:00 PM","5/16/2025, 12:44:00 PM",-,vikramvangikar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_893cf4511685ca31a6a1dba03ca,agent_00490e668be8e0244229d1de5a,12082140131,919503032701,error,"5/16/2025, 12:42:52 PM","5/16/2025, 12:42:52 PM",-,vikramvangikar@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
