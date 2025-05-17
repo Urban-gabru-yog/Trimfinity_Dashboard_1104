@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_fb33de011ab0c3bf6c4aa784b21,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/17/2025, 6:17:48 PM","5/17/2025, 6:17:48 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_a0564672973afbae8c1b95d573b,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/17/2025, 6:13:04 PM","5/17/2025, 6:13:04 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_4c32cc717e39fb0876e147d70cc,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/17/2025, 6:02:56 PM","5/17/2025, 6:02:56 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_9f026d8947e660d0046e36a6fc6,agent_00490e668be8e0244229d1de5a,12082140131,919995949406,error,"5/17/2025, 5:23:01 PM","5/17/2025, 5:23:01 PM",-,Shoo4id@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_ec76840cee7f32fba7afc7cb386,agent_00490e668be8e0244229d1de5a,12082140131,919995949406,ended,"5/17/2025, 5:18:10 PM","5/17/2025, 5:18:23 PM",13,Shoo4id@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
