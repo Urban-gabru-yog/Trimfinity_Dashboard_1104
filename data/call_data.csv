@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_faa09a9aa1d70a4bd02d3b1bd5f,agent_00490e668be8e0244229d1de5a,12082140131,919619348452,error,"5/18/2025, 11:19:02 AM","5/18/2025, 11:19:02 AM",-,huzefavaziri@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_975951b7cef880ecbd2a0f80bb6,agent_00490e668be8e0244229d1de5a,12082140131,919619348452,ended,"5/18/2025, 11:18:53 AM","5/18/2025, 11:18:56 AM",4,huzefavaziri@gmail.com,"User: Your call has been 
+Agent: Hello, main Aryan 
+User: forwarded to voice now.
+",https://dxc03zgurdly9.cloudfront.net/36d9ec9cb8948ff23762e2546d5ba34197062f75ce1a0c94e5a1a3a30f8ed979/recording.wav,Neutral,True,"The user was informed that their call has been forwarded to voice. The agent greeted the user by name, indicating a personalized interaction.","elevenlabs_tts, gpt_4o",4,voicemail_reached
 $-,call_b64f40248af952c630a6ee339ee,agent_00490e668be8e0244229d1de5a,12082140131,919048805350,error,"5/18/2025, 10:48:01 AM","5/18/2025, 10:48:01 AM",-,Shaneej58@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_42164d5ccdc87656dc778660efe,agent_00490e668be8e0244229d1de5a,12082140131,919824114675,error,"5/18/2025, 10:48:00 AM","5/18/2025, 10:48:00 AM",-,rkbajari@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_2be7c90475671bf9af25bcbf7eb,agent_00490e668be8e0244229d1de5a,12082140131,918146911199,error,"5/18/2025, 10:43:08 AM","5/18/2025, 10:43:08 AM",-,Vikasgupta80@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
