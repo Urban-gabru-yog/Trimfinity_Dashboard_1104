@@ -1,4 +1,22 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.16,call_f47e5f77a21cfc52bcea4fdadbe,agent_00490e668be8e0244229d1de5a,12082140131,917972869697,ended,"5/18/2025, 8:47:33 PM","5/18/2025, 8:48:55 PM",82,mankarabhijeet81@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: ""Hello Abhijeet ji, lagta hai aap busy hain. Koi baat nahi, main bas yeh confirm karna chahta tha ki agar aapko Trimfinity 7000 Body and Ball Trimmer ke baare mein koi bhi sawaal ya confusion ho, toh aap mujhse pooch sakte hain. Waise yeh product kaafi popular hai aur stock jaldi khatam 
+Agent: ho jata hai. Aapko help chahiye toh bataiye, main yahin hoon!""
+User: हां, जी हां
+Agent: अरे वाह, अभिजीत जी! तो आपको Trimfinity 7000 Body and Ball Trimmer पसंद आया? ये तो सच में एक दमदार प्रोडक्ट है—स्टेनलेस स्टील सिरेमिक ब्लेड्स, 1.5 घंटे की बैटरी लाइफ और वॉटरप्रूफ डिज़ाइन के साथ आता है।  
+
+वैसे, क्या आपको प्राइस को लेकर कुछ सोच रहे थे या कोई और सवाल है?
+User: नहीं
+Agent: अच्छा, तो मतलब आपको प्रोडक्ट पसंद आया!
+User: जी.
+",https://dxc03zgurdly9.cloudfront.net/07d02a002f12f536a8fb815d6470e21b382b729dae498ea542295a3dde686dc3/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to Abhijeet to offer an additional 5% discount on the Trimfinity 7000 Body and Ball Trimmer that he had added to his cart. Abhijeet expressed interest in the product and confirmed that he liked it, indicating no further questions or concerns about the price.","elevenlabs_tts, gpt_4o",82,user_hangup
+$-,call_9a6f7164825261f580d56732e1c,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:44:03 PM","5/18/2025, 8:44:03 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_f5822fb5b07d8e4c452030f236a,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:38:56 PM","5/18/2025, 8:38:56 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_4dac84778e61d84a9f2501c1824,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:38:56 PM","5/18/2025, 8:38:56 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_89f1fe73a2c6c6225019b8e6ca9,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:37:59 PM","5/18/2025, 8:37:59 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_f5b8e5694192d3afc0dc2f81e4b,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:37:44 PM","5/18/2025, 8:37:44 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_9c6411a8138caabdf5d95d22bcb,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:32:44 PM","5/18/2025, 8:32:44 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_0f0268784faf8eb98785298c025,agent_00490e668be8e0244229d1de5a,12082140131,918281539953,error,"5/18/2025, 8:32:37 PM","5/18/2025, 8:32:37 PM",-,vishakvj44@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_a397c1da4166ef7969d63fc84ec,agent_00490e668be8e0244229d1de5a,12082140131,916239003366,ended,"5/18/2025, 7:38:33 PM","5/18/2025, 7:38:36 PM",3,Sahilnarang1901@gmail.com,"Agent: Hello, 
 User: Your call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/9d67d6f86216aba675d78492412245e87d178d14e2f21fd526d704f0383ae637/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent, as the call was forwarded to voicemail immediately.","elevenlabs_tts, gpt_4o",3,voicemail_reached
