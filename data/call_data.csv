@@ -1,4 +1,25 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_b64f40248af952c630a6ee339ee,agent_00490e668be8e0244229d1de5a,12082140131,919048805350,error,"5/18/2025, 10:48:01 AM","5/18/2025, 10:48:01 AM",-,Shaneej58@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_42164d5ccdc87656dc778660efe,agent_00490e668be8e0244229d1de5a,12082140131,919824114675,error,"5/18/2025, 10:48:00 AM","5/18/2025, 10:48:00 AM",-,rkbajari@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_2be7c90475671bf9af25bcbf7eb,agent_00490e668be8e0244229d1de5a,12082140131,918146911199,error,"5/18/2025, 10:43:08 AM","5/18/2025, 10:43:08 AM",-,Vikasgupta80@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.07,call_75ba10f98d75308ab919bbded3f,agent_00490e668be8e0244229d1de5a,12082140131,919824114675,ended,"5/18/2025, 10:42:52 AM","5/18/2025, 10:43:25 AM",34,rkbajari@gmail.com,"User: Hello. हां जी.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart 
+Agent: Hello 
+User: Hello.
+Agent: Sachin ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap Trimfinity 7000 Body and Ball Trimmer checkout kar rahe the, par order complete nahi hua. Bas yeh puchna tha ki koi dikkat toh nahi aayi ya kuch sawal hai jo main help kar sakoon?
+User: Hello.
+Agent: Hi Sachin ji! How are you doing?
+",https://dxc03zgurdly9.cloudfront.net/aa9f7c2fe25f807fdf7ceb495bf17d7936920ea7a6b0713ed230d6db5434841f/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Sachin, to inquire about an incomplete order for the Trimfinity 7000 Body and Ball Trimmer. The agent offered assistance in case there were any issues or questions regarding the order.","elevenlabs_tts, gpt_4o",34,user_hangup
+$0.05,call_ca738c930c183445081d3e61498,agent_00490e668be8e0244229d1de5a,12082140131,919048805350,ended,"5/18/2025, 10:42:46 AM","5/18/2025, 10:43:10 AM",24,Shaneej58@gmail.com,"Agent: Hello, main 
+User: Hello. Hello
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hello, Shaneej ji, can you hear 
+",https://dxc03zgurdly9.cloudfront.net/7bebc830a8c6ca5199926138f4962186628c75e8d8e3002d881a246d22de3d70/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call seems to have been interrupted or disconnected before the user could respond clearly.","elevenlabs_tts, gpt_4o",24,user_hangup
+$-,call_5abee6ef7df34cab2820a996e73,agent_00490e668be8e0244229d1de5a,12082140131,918951234796,error,"5/18/2025, 10:23:09 AM","5/18/2025, 10:23:09 AM",-,saiyadbisti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_c55924054083a01748ddcafced3,agent_00490e668be8e0244229d1de5a,12082140131,918951234796,ended,"5/18/2025, 10:22:38 AM","5/18/2025, 10:22:49 AM",12,saiyadbisti@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
+",https://dxc03zgurdly9.cloudfront.net/6951c5bd80b04f0ddf3b1cec84162d30909212d1abfe70b91cf555440d01b52a/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to assist the user in claiming this offer.","elevenlabs_tts, gpt_4o",12,user_hangup
 $-,call_63f59863065b6109b9bcb099be4,agent_00490e668be8e0244229d1de5a,12082140131,918951234796,error,"5/18/2025, 10:18:41 AM","5/18/2025, 10:18:41 AM",-,saiyadbisti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_4203bc91518264bba100d974d0b,agent_00490e668be8e0244229d1de5a,12082140131,918951234796,error,"5/18/2025, 10:17:58 AM","5/18/2025, 10:17:58 AM",-,saiyadbisti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_c6f827c01e2020d7082696b77c4,agent_00490e668be8e0244229d1de5a,12082140131,918951234796,error,"5/18/2025, 10:12:44 AM","5/18/2025, 10:12:44 AM",-,saiyadbisti@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
