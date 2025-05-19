@@ -137,21 +137,30 @@ for col in df_filtered.columns:
         break
 
 if not customer_df.empty and timestamp_column:
-    # Use the timestamp and format it
+    # Filter and format relevant columns
     customer_df = df_filtered[df_filtered['order_number'].notna()][
-        ['call_date', 'Email', 'order_number', timestamp_column]
-    ].drop_duplicates()
+        ['call_date', 'Email', 'order_number', timestamp_column, 'StartTimestamp']
+    ].copy()
 
+    # Convert datetime fields
     customer_df[timestamp_column] = pd.to_datetime(customer_df[timestamp_column], errors='coerce')
     customer_df['Order Time'] = customer_df[timestamp_column].dt.strftime('%Y-%m-%d %H:%M:%S')
+    customer_df['StartTimestamp'] = pd.to_datetime(customer_df['StartTimestamp'], errors='coerce')
+    customer_df['Call Time'] = customer_df['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
+    # Keep only the earliest call per order
+    customer_df = customer_df.sort_values('StartTimestamp').drop_duplicates(subset='order_number', keep='first')
+
+    # Rename and reorder columns
     customer_df = customer_df.rename(columns={
         "call_date": "Date",
         "Email": "Customer Email",
         "order_number": "Order Number"
-    })[["Date", "Customer Email", "Order Number", "Order Time"]]
+    })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time"]]
 
     st.dataframe(customer_df, use_container_width=True)
+
+
 
 elif not customer_df.empty:
     st.warning("⚠️ Could not detect a valid order time column.")
