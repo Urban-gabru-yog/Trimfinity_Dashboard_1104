@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_17575aef8738929bf398958427e,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:50:37 AM","5/19/2025, 10:50:40 AM",4,ramwatane@gmail.com,"Agent: Hello, main Aryan hoon 
+User: The recipient's mail box is full.
+",https://dxc03zgurdly9.cloudfront.net/735f669f13167f4aad96c374b13fa45886cccaf2dcae438882059e23e53ad0a6/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating that they are unable to send an email. The agent acknowledged the issue but did not provide a resolution during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
+$0.01,call_b10453314aa679fea063a8b2745,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:48:50 AM","5/19/2025, 10:48:54 AM",4,ramwatane@gmail.com,"Agent: Hello, main Aryan 
+User: The recipient's mail box is full.
+",https://dxc03zgurdly9.cloudfront.net/56ab6ddf200d8824bb440d503b993068e17c5117bc576c0e2ec16f8e66fc95c4/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating an issue with sending messages. The agent did not provide a resolution during this brief interaction.","elevenlabs_tts, gpt_4o",4,voicemail_reached
+$0.01,call_48a6e577403f5e4e151fd79b40a,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:47:53 AM","5/19/2025, 10:47:57 AM",4,ramwatane@gmail.com,"User: The recipient's mail box 
+Agent: Hello, main Aryan hoon Trimfinity 
+User: is full.
+",https://dxc03zgurdly9.cloudfront.net/d57a8a2d18f721fd9bbb4867b2bf165be6ec479aa3d829aefb6c73bb9b86c202/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, which likely indicates an issue with sending an email. The agent introduced themselves but did not provide a solution or further assistance during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
 $-,call_1ad0f7ac45df98131075ca25ee6,agent_00490e668be8e0244229d1de5a,12082140131,917898026900,error,"5/18/2025, 10:19:31 PM","5/18/2025, 10:19:31 PM",-,Pankajparmar1104@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_5bcd24b3bef57d39f87414c6c03,agent_00490e668be8e0244229d1de5a,12082140131,919666143163,error,"5/18/2025, 10:19:29 PM","5/18/2025, 10:19:29 PM",-,bathininagaraj85@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_a17e6454f0fb68c9d29d3a279c3,agent_00490e668be8e0244229d1de5a,12082140131,918488828515,ended,"5/18/2025, 10:19:24 PM","5/18/2025, 10:19:28 PM",4,hili8488828515@gmail.com,"User: Your call has been forwarded to voicemail.
