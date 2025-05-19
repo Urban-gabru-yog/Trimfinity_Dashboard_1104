@@ -1,4 +1,33 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_7a49194f99bcfddf785fbd9a277,agent_00490e668be8e0244229d1de5a,12082140131,917348853488,ended,"5/19/2025, 11:36:37 AM","5/19/2025, 11:36:52 AM",16,kishore09.M@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/e92e3e18a42326fa8f03a87c88a6cb197d14651970b9cef45dc99e276e511a41/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",16,user_hangup
+$0.32,call_c76c6a54d85648a248d41c45acc,agent_00490e668be8e0244229d1de5a,12082140131,917348853488,ended,"5/19/2025, 11:32:54 AM","5/19/2025, 11:35:32 AM",158,kishore09.M@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: (inaudible speech)
+User: Same 
+Agent: ""Namaste 
+User: करना चाहिए.
+User: Hello?
+Agent: kishore ji, main samajh gaya. Aapko Trimfinity 7000 Body and Ball Trimmer pasand toh aaya tha, hai na? Bas price ya kuch aur soch rahe the? Bataiye, main aapki help karne ki poori koshish karunga!""
+User: Yes.
+User: कुछ भी नहीं.
+Agent: Arre, koi baat nahi kishore ji! Bas aapko yeh puchhna tha ki product ke baare mein koi doubt ya question toh nahi hai? Yeh trimmer kaafi advanced hai aur long-lasting bhi, toh aapko value for money milega. Aapko lagta hai price thoda zyada hai ya kuch aur baat hai?
+User: Yes.
+User: ज़्यादा 
+Agent: Samajh gaya, kishore 
+User: है. थोड़ा कम कम मिलेगा.
+Agent: Samajh gaya, kishore ji! Haan, price thoda lagta hai, lekin yeh Trimfinity 7000 ki quality aur advanced features ke wajah se hai. Yeh ekdum smooth aur safe trimming ke liye design kiya gaya hai, aur kaafi durable bhi hai.
+
+Lekin, aapke liye ek kaam kar sakta hoon. Normally main discount nahi deta, par aapke liye ek special 5% ka discount de sakta hoon. Aapko bas code ""O-F-F-5"" use karna hoga. Par yeh sirf aaj ke liye hai. Kya lagta hai, chalega?
+User: 10 percent discount चाहिए.
+Agent: Arre kishore ji, aap toh expert negotiator nikle! Dekhiye, 10% toh mushkil hai, lekin aapke liye ek aur option hai—agar aap ek aur product add karte hain, toh aapko ₹250 ka extra discount milega ""OFF250"" code ke saath.Aur agar aapko 
+User: नहीं 
+Agent: sirf yeh trimmer chahiye, toh 
+User: 01:10 percent discount रहता है और लंबी रहेगा.
+User: book करे 
+Agent: Arre kishore ji, aap 
+User: तो.
+Agent: Arre kishore ji, aap toh pakka deal master ho! Dekhiye, 10% ka discount toh regular policy mein nahi hai, lekin aapke liye ek special offer kar sakta hoon. Aapko 5% ka discount code ""O-F-F-5"" ke saath milega, aur yeh sirf aaj ke liye valid hai.Aur ek baat, yeh model kaafi fast sell hota hai, pichle hafte bhi stock out ho gaya tha. Toh agar aap interested hain, main abhi ek WhatsApp link bhej deta hoon, aap turant checkout kar sakte hain. Kya lagta hai?
+",https://dxc03zgurdly9.cloudfront.net/e3e5e1105634a43536109af8d2efef24f834e86b0ac221bd373fb6f4282198aa/recording.wav,Neutral,False,"The agent offered the user a 5% discount on the Trimfinity 7000 Body and Ball Trimmer, which the user was interested in but felt the price was too high. The agent attempted to negotiate by suggesting an additional discount for purchasing another product, but the user insisted on a 10% discount and ultimately expressed interest in booking the product.","elevenlabs_tts, gpt_4o",158,inactivity
 $0.01,call_011a213c5170415730911d785d9,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:17:53 AM","5/19/2025, 11:17:56 AM",3,Kmumeer63@gmail.com,"User: Your 
 Agent: Hello, main 
 User: call has been forwarded to voicemail.
