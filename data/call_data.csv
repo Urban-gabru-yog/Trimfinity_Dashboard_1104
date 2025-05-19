@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_eb462631a046cf38844a2680ba5,agent_00490e668be8e0244229d1de5a,12082140131,919925771077,ended,"5/19/2025, 6:52:09 PM","5/19/2025, 6:52:32 PM",23,r.keval110@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hey Keval, are you still 
+",https://dxc03zgurdly9.cloudfront.net/22b0f84125b355eb7a70d8e5d1b90821f811f2152de99941b08e197abf8fd27d/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Keval, to inform him about an additional 5% discount on a product he had added to his cart. The call seems to have been cut off before the user could respond to the offer.","elevenlabs_tts, gpt_4o",23,user_hangup
 $0.21,call_10813dbdd13d2171b6f50c4457a,agent_00490e668be8e0244229d1de5a,12082140131,919306000561,ended,"5/19/2025, 6:31:59 PM","5/19/2025, 6:33:45 PM",106,raodeepakkharwal@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: भाई मैं कल या परसों में कर देता हूं मेरी payment आए ठीक वह आगे लेकिन फिर वह code डलकर रुक गया था वह हो गया phone पर.
 Agent: Arre Deepak bhai, samajh gaya! Kabhi kabhi payment ka tension hota hai, aur code ka issue bhi aa jata 
