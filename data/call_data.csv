@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_46c3dc3c773efbff9963c700e79,agent_00490e668be8e0244229d1de5a,12082140131,918770971195,error,"5/20/2025, 6:17:51 PM","5/20/2025, 6:17:51 PM",-,razzytheking00@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_4b81942941b47f8841fc8bee3f7,agent_00490e668be8e0244229d1de5a,12082140131,919818154855,ended,"5/20/2025, 5:32:54 PM","5/20/2025, 5:33:04 PM",10,Nipunnarang75@icloud.com,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise 
+",https://dxc03zgurdly9.cloudfront.net/8a8d10ad84d2089dc55c96d7b026c3b0914e129e5afbc09f6de01b54dea06e2f/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user, Aryan, to inform him about an additional 5% discount on a product he had added to his cart. The call appears to be an attempt to encourage Aryan to complete his purchase.","elevenlabs_tts, gpt_4o",10,user_hangup
 $0.01,call_438ee3c46f6133ce44169c85500,agent_00490e668be8e0244229d1de5a,12082140131,919886630450,ended,"5/20/2025, 5:17:08 PM","5/20/2025, 5:17:11 PM",3,mkrameshanand@gmail.com,"User: Order to 
 Agent: Hello, main Aryan 
 User: voicemail.
