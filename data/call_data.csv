@@ -1,4 +1,34 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_5e7830d8b6e6b36f0530e7890bb,agent_00490e668be8e0244229d1de5a,12082140131,919336004355,ended,"5/20/2025, 1:03:19 PM","5/20/2025, 1:03:22 PM",4,aaazmi01@gmail.com,"Agent: Hello, 
+User: Your call has been forwarded 
+Agent: main Aryan 
+User: to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/1548787fae2f98eda513efab40ff7a34983ec49b372f036e743845579b3fc442/recording.wav,Neutral,False,"The user indicated that the call has been forwarded to voicemail, suggesting that they were unable to connect with the intended recipient. The agent did not complete any task during this interaction.","elevenlabs_tts, gpt_4o",4,voicemail_reached
+$-,call_6e9a98d994772d6cb6a72093d2f,agent_00490e668be8e0244229d1de5a,12082140131,919104855177,error,"5/20/2025, 12:53:24 PM","5/20/2025, 12:53:24 PM",-,hitendrasinhp47@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.15,call_b62e25568fe0d811db53e76d39d,agent_00490e668be8e0244229d1de5a,12082140131,919336004355,ended,"5/20/2025, 12:53:15 PM","5/20/2025, 12:54:27 PM",73,aaazmi01@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: जी करना चाहेंगे.
+Agent: Wah, Asad ji! Aapne bilkul sahi decision liya. Main abhi aapko WhatsApp pe ek checkout link bhej raha hoon. Uspe click karke bas payment complete kar dijiye, aur Ultimate Duo Beard & Body Trimmer aapka ho jayega.Aur haan, aapko 5% ka special discount code bhi de raha hoon: O-F-F-5. Isse apply karna mat bhooliyega! Agar koi dikkat ho, toh mujhe zarur batayein.
+User: Ok,
+Agent: Shukriya, Asad ji! Main abhi link bhej raha hoon. Agar kuch aur madad chahiye ho, toh bas ek message kar dijiye. Aapka din shubh ho!
+User: Ok. Thank you.
+Agent: Aapka bhi shukriya, Asad ji! 😊 Agar kuch aur zarurat ho, toh hum hamesha yahan hain. Aapka din accha guzre!
+User: Ok ok thank you, thank you sir.
+Agent: Arre, 
+",https://dxc03zgurdly9.cloudfront.net/1a224ebc712690ef97528908386608967eefc413f9a3ae0d546763b07ba9daea/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, offered the user a special 5% discount on a product they had added to their cart. The user accepted the offer, and the agent provided a checkout link via WhatsApp along with a discount code, ensuring the user had all the necessary information to complete the purchase.","elevenlabs_tts, gpt_4o",73,user_hangup
+$0.01,call_949c551f55f494972f0992f62cb,agent_00490e668be8e0244229d1de5a,12082140131,916397826226,ended,"5/20/2025, 12:53:14 PM","5/20/2025, 12:53:20 PM",6,choudharyakki15@gmail.com,"Agent: Hello, main Aryan 
+User: Your call has been forwarded to The person you are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/b1b3d97c3db85ee3ab822884c773bad5e93c6ad4100aeb65b8c7b9504217024e/recording.wav,Negative,False,The user attempted to reach a specific person but was informed that the call has been forwarded and that the person is not available.,"elevenlabs_tts, gpt_4o",6,voicemail_reached
+$-,call_f84ee1e126b18ff367d23ffdc96,agent_00490e668be8e0244229d1de5a,12082140131,919104855177,error,"5/20/2025, 12:52:13 PM","5/20/2025, 12:52:13 PM",-,hitendrasinhp47@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_4d3e97512c88ddd3e48b758ca56,agent_00490e668be8e0244229d1de5a,12082140131,916397826226,ended,"5/20/2025, 12:52:07 PM","5/20/2025, 12:52:10 PM",4,choudharyakki15@gmail.com,"Agent: Hello, main 
+User: Your call has been forwarded to voice mail.
+",https://dxc03zgurdly9.cloudfront.net/38e5c23e486b4a66a0ca502b774cd5cec731607827ef9c3d02c84f98357d2833/recording.wav,Negative,False,"The user was unable to connect with the agent as the call was forwarded to voicemail, indicating that the agent was not available to assist at that moment.","elevenlabs_tts, gpt_4o",4,voicemail_reached
+$0.09,call_224752fb63a293be42146d366ac,agent_00490e668be8e0244229d1de5a,12082140131,919336004355,ended,"5/20/2025, 12:51:51 PM","5/20/2025, 12:52:33 PM",43,aaazmi01@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: जी जी.
+Agent: Wah, Asad ji! Aapne bilkul sahi decision liya. Main abhi aapko WhatsApp pe ek checkout link bhej raha hoon. Aap bas uspe click karke apna order complete kar lijiye. Aur haan, aapko 5% ka discount code bhi milega—O-F-F-5. Isse apply karna 
+User: हो 
+Agent: mat 
+User: सकता है Ok ok sir.
+",https://dxc03zgurdly9.cloudfront.net/7a48a1a5bce9308f6a7c3eb9c4f73184fcb946ae670b87c3533d669593b3a5fd/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, informed the user about an additional 5% discount on their cart items and successfully guided them to complete their order via a WhatsApp checkout link. The user acknowledged the information and seemed to understand the process.","elevenlabs_tts, gpt_4o",43,user_hangup
 $-,call_faa2be2f061446b6800774b230d,agent_00490e668be8e0244229d1de5a,12082140131,919104855177,error,"5/20/2025, 12:47:11 PM","5/20/2025, 12:47:11 PM",-,hitendrasinhp47@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_f85aed4e79c87e3da44d9a0f6c4,agent_00490e668be8e0244229d1de5a,12082140131,916397826226,ended,"5/20/2025, 12:47:02 PM","5/20/2025, 12:47:05 PM",4,choudharyakki15@gmail.com,"User: Your call 
 Agent: Hello, main 
