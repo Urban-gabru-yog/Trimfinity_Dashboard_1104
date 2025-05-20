@@ -1,4 +1,20 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_3a47650c14e00446479a5a4cc29,agent_00490e668be8e0244229d1de5a,12082140131,918839262017,error,"5/20/2025, 11:28:35 AM","5/20/2025, 11:28:35 AM",-,somanyadav646@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_efd395cef97ea0043769d5eb538,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/20/2025, 11:28:33 AM","5/20/2025, 11:28:33 AM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.08,call_6990604ea733e8705818f635126,agent_00490e668be8e0244229d1de5a,12082140131,918839262017,ended,"5/20/2025, 11:28:26 AM","5/20/2025, 11:29:04 AM",38,somanyadav646@gmail.com,"User: Your 
+Agent: Hello, main 
+User: call has been
+Agent: Hello, main Aryan bol raha hoon Trimfinity se. Kya main 
+User: हां बोले
+Agent: Somu ji se baat kar raha hoon?
+Agent: Namaste Somu ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aapne Trimfinity 
+User: company
+Agent: 7000 Body and Ball Trimmer apne cart mein add kiya tha, par checkout complete nahi kiya. Bas yeh puchna tha ki koi dikkat toh nahi aayi ya kuch sawal hain jo main help kar sakoon?
+",https://dxc03zgurdly9.cloudfront.net/a85596aaf3abe3bb889f3f13709cfa228728c57c4c759808bffb3757b7ad0de3/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Somu, regarding an incomplete checkout for a Body and Ball Trimmer that was added to the cart. The agent inquired if there were any issues or questions that the user needed help with.","elevenlabs_tts, gpt_4o",38,inactivity
+$0.01,call_a34a6f1299bc1b52e17ed55f0f3,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,ended,"5/20/2025, 11:28:14 AM","5/20/2025, 11:28:18 AM",4,chiragdeeppatil89@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki 
+",https://dxc03zgurdly9.cloudfront.net/ef2aec1234fdad0e9d478230f0a40490a2a123cf25bfd88a755e18e2fd47308c/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who introduced himself as Aryan. However, the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o",4,user_hangup
+$0.03,call_8a269ece1547e8b0aa5ec4cea54,agent_00490e668be8e0244229d1de5a,12082140131,918839262017,ended,"5/20/2025, 11:26:39 AM","5/20/2025, 11:26:54 AM",15,somanyadav646@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/36560832183d1ffd036cb407b15e7b0a0c0b20a11aab2d2812ac36a8353bd460/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o",15,user_hangup
 $-,call_f84d8a757b1a11d08dd79887cf6,agent_00490e668be8e0244229d1de5a,12082140131,917972869697,error,"5/19/2025, 9:12:40 PM","5/19/2025, 9:12:40 PM",-,mankarabhijeet81@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_43eb5fa88e70289d613b507b69f,agent_00490e668be8e0244229d1de5a,12082140131,918984101876,error,"5/19/2025, 9:12:39 PM","5/19/2025, 9:12:39 PM",-,rishabagrawal97182@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_cef79dd7fab6b5328230a89d134,agent_00490e668be8e0244229d1de5a,12082140131,917972869697,error,"5/19/2025, 9:07:49 PM","5/19/2025, 9:07:49 PM",-,mankarabhijeet81@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
