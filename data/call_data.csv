@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_438ee3c46f6133ce44169c85500,agent_00490e668be8e0244229d1de5a,12082140131,919886630450,ended,"5/20/2025, 5:17:08 PM","5/20/2025, 5:17:11 PM",3,mkrameshanand@gmail.com,"User: Order to 
+Agent: Hello, main Aryan 
+User: voicemail.
+",https://dxc03zgurdly9.cloudfront.net/9dcac629e4f02fed203034274051169e2e4baed2a90681a4472aa9552d80f4b6/recording.wav,Neutral,False,"The user attempted to place an order but was interrupted by the agent's greeting. The user then mentioned 'voicemail', indicating a possible issue with the call or a request for voicemail assistance.","elevenlabs_tts, gpt_4o",3,voicemail_reached
+$0.04,call_8914cf58fd35cc5ad48e0fa4fb8,agent_00490e668be8e0244229d1de5a,12082140131,917510150037,ended,"5/20/2025, 5:17:01 PM","5/20/2025, 5:17:20 PM",19,safvanmohammedkc@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello.
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/04bc38a6860124d50b06d78208da759d87c0f0c497c5a58fecb6a758ea7e22bc/recording.wav,Neutral,True,"The agent greeted the user and informed them about an additional 5% discount on a product they had added to their cart, asking if they would like to claim it.","elevenlabs_tts, gpt_4o",19,user_hangup
 $-,call_4ffda60eec131b5aa41ec127553,agent_00490e668be8e0244229d1de5a,12082140131,919886630450,error,"5/20/2025, 4:27:20 PM","5/20/2025, 4:27:20 PM",-,mkrameshanand@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.01,call_1d8e8de98827419d966847bea85,agent_00490e668be8e0244229d1de5a,12082140131,919962473363,ended,"5/20/2025, 4:26:58 PM","5/20/2025, 4:27:04 PM",7,zaheer90hussain@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj 
 ",https://dxc03zgurdly9.cloudfront.net/b109c2e0818ee7fa84766478cd54b7c71e7005ce6d14fee27b42aafdd8ba0f24/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call to follow up on a product that the user had added to their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o",7,user_hangup
