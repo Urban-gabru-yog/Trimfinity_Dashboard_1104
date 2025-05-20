@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_9f4050f9e95e9392c91e9cfabb7,agent_00490e668be8e0244229d1de5a,12082140131,917736668451,ended,"5/20/2025, 1:57:06 PM","5/20/2025, 1:57:14 PM",8,naveenbineesh1@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha 
+User: Not available. At the 
+Agent: ki aapne product cart mein add kiya tha. Aaj ke 
+User: time please record your message.
+",https://dxc03zgurdly9.cloudfront.net/ea7cb124ef69640d7a095d0ff57a670a0e64cfddb4cc40122d3791e3c1b25d71/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity who mentioned that the user had added a product to their cart. However, the user was not available to continue the conversation and requested the agent to record a message instead.","elevenlabs_tts, gpt_4o",8,voicemail_reached
 $0.22,call_6798c9d84baf05500573e9da5c4,agent_00490e668be8e0244229d1de5a,12082140131,918801316834,ended,"5/20/2025, 1:32:00 PM","5/20/2025, 1:33:48 PM",108,mohaasad2059@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
