@@ -1,4 +1,33 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_a790aef758d1badb75c4523dac7,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:12:13 PM","5/21/2025, 1:12:13 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.14,call_95cee90d070c0934245775a47f2,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:11:55 PM","5/21/2025, 1:13:03 PM",68,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: No.
+Agent: Koi baat nahi, Mohammad ji! Agar aapko kabhi lagta hai ki aapko koi sawaal puchhna hai ya product ke baare mein aur details chahiye, toh aap humein kabhi bhi contact kar sakte hain. Main aapko ek WhatsApp link bhej deta hoon, agar aap future mein checkout karna chahein toh asaan ho. Aapka din shubh ho!
+User: Ok.
+Agent: Shukriya, Mohammad ji! Agar kabhi zarurat ho, toh hum hamesha yahan hain madad ke liye. Aapka din accha guzre!
+User: Ok.
+Agent: Theek hai, Mohammad ji! Dhyan rakhiye aur agar kabhi zarurat ho, toh bas ek message kar dijiye. Bye!
+User: पर
+Agent: Haan Mohammad ji, 
+",https://dxc03zgurdly9.cloudfront.net/5a5b57f0d3139df2e85cf3f6b2b45de71d91b42adff46ee75183d959c727b5db/recording.wav,Neutral,True,"The agent contacted the user, Mohammad, to inform him about an additional 5% discount on a product he had added to his cart. The user declined the offer but was provided with a WhatsApp link for future inquiries, and the call ended on a positive note with the agent encouraging the user to reach out if needed.","elevenlabs_tts, gpt_4o",68,user_hangup
+$0.01,call_76bd6d170f14055a575467cd5ac,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:28 PM",6,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add 
+",https://dxc03zgurdly9.cloudfront.net/4a7ca024aa8507b4496ad9d570c514421c1426206e322f71701232465cc48727/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who acknowledged that the user had added a product to their cart. The conversation likely revolved around assisting the user with their shopping experience or addressing any questions they had about the product.","elevenlabs_tts, gpt_4o",6,user_hangup
+$-,call_90dbf288b2e8b47d7bdf0893856,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:23 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_69b243eceb6cd6de80d96b6f5a2,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:23 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.11,call_3d95932248d8fd858656ca6fc47,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:08:03 PM","5/21/2025, 1:08:58 PM",55,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं.
+User: No sir. Oh no no.
+User: नहीं 
+Agent: Arre, 
+User: वह मां
+User: Diabetes line
+Agent: Arre Mohammad bhai, koi tension nahi! Bas aap se casually baat kar raha tha. Waise, Trimfinity 7000 Body and Ball Trimmer kaafi popular hai, aur log isse kaafi pasand karte hain. Aapko product pasand toh aaya tha na? Ya price ya kuch aur soch rahe the?
+User: Ok?
+",https://dxc03zgurdly9.cloudfront.net/af5c56d988e4f2385b8fde7177dbfa01a70fd2f397eea19ab6fadb7b1c832e45/recording.wav,Negative,False,"The agent from Trimfinity reached out to the user, Aryan, to offer an additional discount on a product in their cart. The user declined the offer multiple times and seemed uncertain about the conversation, but the agent continued to promote a popular product.","elevenlabs_tts, gpt_4o",55,user_hangup
+$0.04,call_3882db8cb3bd256d0750da51f9d,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:07:01 PM","5/21/2025, 1:07:22 PM",21,monis.com2002@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/356e95554c4ca68e3296aace2db8a50d511efddb74a515ea253a02257d2408f1/recording.wav,Neutral,True,The agent from Trimfinity reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.,"elevenlabs_tts, gpt_4o",21,inactivity
 $0.02,call_13a71417abba24d107761117cc7,agent_00490e668be8e0244229d1de5a,12082140131,917317786676,ended,"5/21/2025, 12:46:26 PM","5/21/2025, 12:46:34 PM",8,fydyd7t7y8533@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
 ",https://dxc03zgurdly9.cloudfront.net/263e44bef365727a410446949043779b29e210af8259a171af90f93cd6803c36/recording.wav,Neutral,False,"The user initiated a call with the agent from Trimfinity, who acknowledged that the user had added a product to their cart and mentioned an additional offer for the day. The conversation appears to be focused on promoting the product and possibly completing a sale.","elevenlabs_tts, gpt_4o",8,user_hangup
