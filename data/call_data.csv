@@ -1,4 +1,15 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_1dfe7ac98c57b49f1083c698f80,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:22:17 PM","5/21/2025, 1:22:17 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_8e515c7bfaeef1b825b31e11156,agent_00490e668be8e0244229d1de5a,12082140131,919048805350,ended,"5/21/2025, 1:22:16 PM","5/21/2025, 1:22:19 PM",3,Shaneej58@gmail.com,"Agent: Hello, main Aryan 
+User: Call has been forwarded to voice
+",https://dxc03zgurdly9.cloudfront.net/093a0cc26c5edb050b0f432ab1fe7b59c13bb1e4339976f5f3a22fcbbc3fe7e3/recording.wav,Neutral,False,"The user indicated that their call has been forwarded to voicemail, suggesting they were unable to connect with the agent directly.","elevenlabs_tts, gpt_4o",3,voicemail_reached
+$0.01,call_1c3f70cc8fc7fdb92d5f03a7fe2,agent_00490e668be8e0244229d1de5a,12082140131,919048805350,ended,"5/21/2025, 1:22:09 PM","5/21/2025, 1:22:12 PM",3,Shaneej58@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/013db33e4b867ac7aee8bc503868eefcca8e2306e805397759a39d80ddbd56bd/recording.wav,Neutral,False,"The call was initiated by an agent introducing themselves as Aryan from Trimfinity, but the user did not engage and the call was forwarded to voicemail instead.","elevenlabs_tts, gpt_4o",3,voicemail_reached
+$0.02,call_d43af192b64331d247edd84eab2,agent_00490e668be8e0244229d1de5a,12082140131,917703995820,ended,"5/21/2025, 1:21:56 PM","5/21/2025, 1:22:04 PM",8,ns4929348@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine 
+User: Hello? बाहर मतलब सब सारी चीज़ मतलब बाहर बंद ही है.
+Agent: Hello, 
+",https://dxc03zgurdly9.cloudfront.net/46534f152d03869976f11fa9d7b12eb9259d8a4d507495ca1762fee40c5ca569/recording.wav,Negative,False,"The user seems to be confused or frustrated about something being closed outside, but the agent is trying to establish communication. The call does not progress beyond this point due to a lack of clarity from the user.","elevenlabs_tts, gpt_4o",8,user_hangup
 $-,call_a790aef758d1badb75c4523dac7,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:12:13 PM","5/21/2025, 1:12:13 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.14,call_95cee90d070c0934245775a47f2,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:11:55 PM","5/21/2025, 1:13:03 PM",68,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: No.
