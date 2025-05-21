@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_7d9d2d243f094f84633d1eac939,agent_00490e668be8e0244229d1de5a,12082140131,917992455524,error,"5/21/2025, 5:27:10 PM","5/21/2025, 5:27:10 PM",-,shashankmahaseth3321@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_bd8fdf635cadd90a1eb27e16529,agent_00490e668be8e0244229d1de5a,12082140131,919306992390,ended,"5/21/2025, 2:56:58 PM","5/21/2025, 2:57:14 PM",17,ritiksaroha012@gmail.com,"Agent: Hello, main 
 User: Hello.
 Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
