@@ -1,4 +1,13 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.07,call_c91c1c01906434d2209059ec1eb,agent_00490e668be8e0244229d1de5a,12082140131,919182849466,ended,"5/22/2025, 3:46:46 PM","5/22/2025, 3:47:19 PM",33,nishikarpagadala521@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं.
+Agent: Arre Nishikar ji, koi baat nahi! Waise aapko Trimfinity 7000 Body and Ball Trimmer pasand toh aaya tha na? Bas price ka kuch soch rahe the ya aur kuch tension hai? Bataiye, main help karne ki koshish karta hoon.
+User: (inaudible speech)
+Agent: Hello? Nishikar ji, aap abhi bhi line par 
+",https://dxc03zgurdly9.cloudfront.net/f945ea4686468231e32153d95d088dcf398e3a6b30724cf1358f2a06e8ccf165/recording.wav,Neutral,False,"The user, Nishikar, was contacted by the agent from Trimfinity regarding a product in their cart and an additional discount offer. However, the user declined the offer and did not provide clear feedback, leading to an unclear end to the conversation.","elevenlabs_tts, gpt_4o",33,user_hangup
+$-,call_b7a45a136e49c64a84364093703,agent_00490e668be8e0244229d1de5a,12082140131,919182849466,error,"5/22/2025, 3:42:52 PM","5/22/2025, 3:42:52 PM",-,nishikarpagadala521@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_9543c1ec6612b5fe3bb562b3c01,agent_00490e668be8e0244229d1de5a,12082140131,919111230078,error,"5/22/2025, 3:27:17 PM","5/22/2025, 3:27:17 PM",-,jbilawliya@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.31,call_2f4fd6a2567ccbf099fa333ef32,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,ended,"5/22/2025, 2:42:18 PM","5/22/2025, 2:44:52 PM",154,kalpeshpurohit1411@gmail.com,"User: Hello.
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: हां claim हां प्रेम कर सकता हूं लेकिन आपको मेरी बात समझ आ रही है कि नहीं आ रही है?
