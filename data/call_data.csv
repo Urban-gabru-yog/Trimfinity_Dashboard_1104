@@ -1777,17 +1777,3 @@ User: Person you are speaking with has put your call on hold. Please stay on the
 Agent: Sure, no problem! I'll hold. Let me know when you're back, Naveen ji.
 ",https://dxc03zgurdly9.cloudfront.net/0b8f296e8fd7eec25984a2fafe02b510da65fbc7addb631f39a6c6d7f382026a/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user put the call on hold, indicating they needed time to consider the offer.","elevenlabs_tts, gpt_4o, retell_platform",26,user_hangup
 $-,call_0c61109e42b5eacc1a64dc9e0ab,agent_00490e668be8e0244229d1de5a,12082140131,919566609019,error,"5/14/2025, 12:49:16 PM","5/14/2025, 12:49:16 PM",-,nn.naveenkumar.b@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_de9ed64076a56c8faed91f2510f,agent_00490e668be8e0244229d1de5a,12082140131,918082201720,error,"5/14/2025, 12:48:17 PM","5/14/2025, 12:48:17 PM",-,ayazmansuri0786@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.22,call_a536e5e2f22ed7aba48d6483267,agent_00490e668be8e0244229d1de5a,12082140131,919566609019,ended,"5/14/2025, 12:48:00 PM","5/14/2025, 12:49:39 PM",100,nn.naveenkumar.b@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi Naveen! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to check if you had any questions or needed help with anything?
-User: Yes?
-Agent: Great! So, did you like the product? Were you just thinking about the price, or was there something else holding you back from completing the purchase? Let me know—I’d love to help!
-User: Product I will send the money but not product receive.
-Agent: Oh, I see, Naveen! Don’t worry at all. Let me explain how it works. Once you complete the payment, we’ll process your order immediately, and you’ll receive a confirmation email with all the details. After that, the product will be shipped to your address, and you’ll get tracking updates so you can follow its journey.
-
-If you have any concerns, I’m here to assist. Does that sound good?
-User: Ok.
-Agent: Perfect, Naveen! To make it even better, I can offer you an exclusive 5% discount today with the code O-F-F-5. This will bring the price down a bit for you.Should I send you a quick WhatsApp link to complete the checkout? It’ll be super easy!
-",https://dxc03zgurdly9.cloudfront.net/4ce2dc033bf045eab16147e7a3ec19dfc3bfa231e9e62671f7c4c0ca3f52c0fc/recording.wav,Neutral,True,"The user, Naveen, expressed concern about not receiving the product after payment. The agent, Aryan, reassured him about the order process and offered a 5% discount to encourage the purchase, suggesting to send a WhatsApp link for easy checkout.","elevenlabs_tts, gpt_4o, retell_platform",100,user_hangup
-$-,call_c98cdd3c4d9511e41835e5da6e0,agent_00490e668be8e0244229d1de5a,12082140131,918082201720,error,"5/14/2025, 12:44:23 PM","5/14/2025, 12:44:23 PM",-,ayazmansuri0786@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
