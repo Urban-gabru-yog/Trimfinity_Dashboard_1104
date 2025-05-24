@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_4e7702052f6cf2c4352ba2c9abe,agent_00490e668be8e0244229d1de5a,12082140131,918857876523,ended,"5/24/2025, 6:46:59 PM","5/24/2025, 6:47:03 PM",4,spshubham9970@gmail.com,"User: Your call 
+Agent: Hello, main 
+User: has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/bd1fc95aadde64514de6be038f1515c81b9aab23d0911b9a9f2672547f524438/recording.wav,Neutral,False,"The user attempted to make a call but was informed that the call has been forwarded to voicemail, indicating that the intended recipient is unavailable.","elevenlabs_tts, gpt_4o",4,voicemail_reached
 $0.02,call_bf35463c3ba3e575c321d184dfb,agent_00490e668be8e0244229d1de5a,12082140131,919474065284,ended,"5/24/2025, 6:07:04 PM","5/24/2025, 6:07:12 PM",9,subratanayak.iitkgp@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
@@ -1485,4 +1489,3 @@ $-,call_1c92dfebfee93cf2b75125b1a58,agent_00490e668be8e0244229d1de5a,12082140131
 $0.04,call_00d4896b5ed19e885d478f349f5,agent_00490e668be8e0244229d1de5a,12082140131,919952276853,ended,"5/16/2025, 10:33:00 AM","5/16/2025, 10:33:18 AM",18,gopichandrappa8@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/9cbdf5bf6d80fdbbfac2db603e8a2074e292bc97b5976ed156d967ffb3a87592/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, retell_platform",18,user_hangup
 $-,call_2b594ce049375d9c5f9b74561d8,agent_00490e668be8e0244229d1de5a,12082140131,919736815280,error,"5/15/2025, 9:54:13 PM","5/15/2025, 9:54:13 PM",-,shashikumar0283@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_4962ecba4eeac38c695114d3e42,agent_00490e668be8e0244229d1de5a,12082140131,919736815280,error,"5/15/2025, 9:53:57 PM","5/15/2025, 9:53:57 PM",-,shashikumar0283@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
