@@ -1222,6 +1222,3 @@ $0.01,call_af525415796cbfa0f5d96bf7b14,agent_00490e668be8e0244229d1de5a,12082140
 User: Hello.
 Agent: mein add kiya 
 ",https://dxc03zgurdly9.cloudfront.net/2cac01e55c866c9f76bdecb03e4117321ace8f2ecb0bb8df7f1342340dd4cbaf/recording.wav,Neutral,False,The agent introduced himself as Aryan from Trimfinity and mentioned that the user had added a product to their cart. The call seems to be in the early stages of discussing the user's cart.,"elevenlabs_tts, gpt_4o",6,user_hangup
-$-,call_63c61747dafc20ce6dda4a2e71e,agent_00490e668be8e0244229d1de5a,12082140131,918086808647,error,"5/18/2025, 4:08:00 PM","5/18/2025, 4:08:00 PM",-,sreejithsreeniva@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.02,call_42413e42d6ae4b9595be5ec4a75,agent_00490e668be8e0244229d1de5a,12082140131,917025063039,ended,"5/18/2025, 4:07:40 PM","5/18/2025, 4:07:48 PM",9,vishnukv1231@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
-",https://dxc03zgurdly9.cloudfront.net/e9f13ab5f0376c4559a996399af1f57643248e9e293a65eafb9c8b14962f0087/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user regarding a product they added to their cart, offering an additional 5% discount for the day.","elevenlabs_tts, gpt_4o",9,user_hangup
