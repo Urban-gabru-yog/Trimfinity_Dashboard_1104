@@ -1112,38 +1112,3 @@ $-,call_e489a10108788d71dc4b6d9fd64,agent_00490e668be8e0244229d1de5a,12082140131
 $0.01,call_5ef103e7361ff74adc649c1357f,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:11:57 AM","5/19/2025, 11:12:00 AM",4,Kmumeer63@gmail.com,"Agent: Hello, main 
 User: Your call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/25efa77e7b1fc1d48deea5a7fb860b3993e6bd3f2e9d8ad39be98134524b8cbe/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent as the call was forwarded to voicemail, indicating that the agent was unable to assist the user directly during this call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_1672ef7c46da21a24cd4de4fcff,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:57:18 AM","5/19/2025, 10:57:21 AM",4,ramwatane@gmail.com,"User: The recipient's 
-Agent: Hello, main Aryan hoon 
-User: mail box is full.
-",https://dxc03zgurdly9.cloudfront.net/ebe53c2ef9769092441f577729bc429a5d9475f570330532595af8abe44a3acf/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating an issue with sending emails. The agent responded but did not provide a solution or further assistance during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.03,call_bc31e98a8a88a49649c6be0a057,agent_00490e668be8e0244229d1de5a,12082140131,919109603250,ended,"5/19/2025, 10:53:39 AM","5/19/2025, 10:53:55 AM",17,rk0875958@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/302a594ca053e77a245576955239e056823d945696ec046fcffcfc644d7a2f4d/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o",17,user_hangup
-$0.01,call_e15329d52cfc42fb53a5001da73,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:53:35 AM","5/19/2025, 10:53:39 AM",4,ramwatane@gmail.com,"Agent: Hello, main Aryan hoon 
-User: The recipient's mail box is full.
-",https://dxc03zgurdly9.cloudfront.net/29c05bce52b6a542886445bb45142f586c7d478296d12833c8fc6bd6b980dbbf/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating that they are unable to send an email. The agent acknowledged the issue but did not provide a resolution during this brief interaction.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.04,call_cb826e0156a962627967e1e3a3a,agent_00490e668be8e0244229d1de5a,12082140131,919109603250,ended,"5/19/2025, 10:52:54 AM","5/19/2025, 10:53:12 AM",19,rk0875958@gmail.com,"Agent: Hello, main Aryan 
-User: Hello.
-Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/233dfb1f24ae1d2cc72ff524bf07587a96725db211c10907bf2d7363cc177126/recording.wav,Neutral,True,"The agent from Trimfinity reached out to the user, Aryan, to inform him about an additional 5% discount on a product he had added to his cart. The call was focused on offering this promotion to encourage the user to complete his purchase.","elevenlabs_tts, gpt_4o",19,user_hangup
-$0.01,call_e75e7d578664da2c3a9ce29204b,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:52:41 AM","5/19/2025, 10:52:45 AM",4,ramwatane@gmail.com,"User: The recipient's mail box 
-Agent: Hello, main Aryan hoon Trimfinity 
-User: is full.
-",https://dxc03zgurdly9.cloudfront.net/3b0cbf5fc9184aaf77715b49132947a1b18a920460dcd38bd4b061cb191284e7/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, which likely indicates an issue with sending an email. The agent introduced themselves but did not provide a solution or further assistance during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_17575aef8738929bf398958427e,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:50:37 AM","5/19/2025, 10:50:40 AM",4,ramwatane@gmail.com,"Agent: Hello, main Aryan hoon 
-User: The recipient's mail box is full.
-",https://dxc03zgurdly9.cloudfront.net/735f669f13167f4aad96c374b13fa45886cccaf2dcae438882059e23e53ad0a6/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating that they are unable to send an email. The agent acknowledged the issue but did not provide a resolution during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_b10453314aa679fea063a8b2745,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:48:50 AM","5/19/2025, 10:48:54 AM",4,ramwatane@gmail.com,"Agent: Hello, main Aryan 
-User: The recipient's mail box is full.
-",https://dxc03zgurdly9.cloudfront.net/56ab6ddf200d8824bb440d503b993068e17c5117bc576c0e2ec16f8e66fc95c4/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating an issue with sending messages. The agent did not provide a resolution during this brief interaction.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_48a6e577403f5e4e151fd79b40a,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:47:53 AM","5/19/2025, 10:47:57 AM",4,ramwatane@gmail.com,"User: The recipient's mail box 
-Agent: Hello, main Aryan hoon Trimfinity 
-User: is full.
-",https://dxc03zgurdly9.cloudfront.net/d57a8a2d18f721fd9bbb4867b2bf165be6ec479aa3d829aefb6c73bb9b86c202/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, which likely indicates an issue with sending an email. The agent introduced themselves but did not provide a solution or further assistance during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$-,call_1ad0f7ac45df98131075ca25ee6,agent_00490e668be8e0244229d1de5a,12082140131,917898026900,error,"5/18/2025, 10:19:31 PM","5/18/2025, 10:19:31 PM",-,Pankajparmar1104@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_5bcd24b3bef57d39f87414c6c03,agent_00490e668be8e0244229d1de5a,12082140131,919666143163,error,"5/18/2025, 10:19:29 PM","5/18/2025, 10:19:29 PM",-,bathininagaraj85@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.01,call_a17e6454f0fb68c9d29d3a279c3,agent_00490e668be8e0244229d1de5a,12082140131,918488828515,ended,"5/18/2025, 10:19:24 PM","5/18/2025, 10:19:28 PM",4,hili8488828515@gmail.com,"User: Your call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/deb5925998ef504c93de0aa2e6b5228b75b49421d8d4b7ad5638e2396e7910bf/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to voicemail, indicating that they were unable to reach the intended recipient directly.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_2e41588610821c7886298a5c992,agent_00490e668be8e0244229d1de5a,12082140131,918488828515,ended,"5/18/2025, 10:17:56 PM","5/18/2025, 10:17:59 PM",3,hili8488828515@gmail.com,"Agent: Hello, 
-User: Your call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/a6e4873dfa45fa48c21e743b4e4bcb7af114ab16bd652de5db9e99339f6ab019/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent, as the call was forwarded to voicemail immediately.","elevenlabs_tts, gpt_4o",3,voicemail_reached
-$-,call_f068b2636c764f387a2939f573e,agent_00490e668be8e0244229d1de5a,12082140131,917366022808,error,"5/18/2025, 10:14:09 PM","5/18/2025, 10:14:09 PM",-,rajaryan.sharma455@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
