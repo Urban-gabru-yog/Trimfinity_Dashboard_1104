@@ -714,18 +714,3 @@ $0.02,call_d43af192b64331d247edd84eab2,agent_00490e668be8e0244229d1de5a,12082140
 User: Hello? बाहर मतलब सब सारी चीज़ मतलब बाहर बंद ही है.
 Agent: Hello, 
 ",https://dxc03zgurdly9.cloudfront.net/46534f152d03869976f11fa9d7b12eb9259d8a4d507495ca1762fee40c5ca569/recording.wav,Negative,False,"The user seems to be confused or frustrated about something being closed outside, but the agent is trying to establish communication. The call does not progress beyond this point due to a lack of clarity from the user.","elevenlabs_tts, gpt_4o",8,user_hangup
-$-,call_a790aef758d1badb75c4523dac7,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:12:13 PM","5/21/2025, 1:12:13 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.14,call_95cee90d070c0934245775a47f2,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:11:55 PM","5/21/2025, 1:13:03 PM",68,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: No.
-Agent: Koi baat nahi, Mohammad ji! Agar aapko kabhi lagta hai ki aapko koi sawaal puchhna hai ya product ke baare mein aur details chahiye, toh aap humein kabhi bhi contact kar sakte hain. Main aapko ek WhatsApp link bhej deta hoon, agar aap future mein checkout karna chahein toh asaan ho. Aapka din shubh ho!
-User: Ok.
-Agent: Shukriya, Mohammad ji! Agar kabhi zarurat ho, toh hum hamesha yahan hain madad ke liye. Aapka din accha guzre!
-User: Ok.
-Agent: Theek hai, Mohammad ji! Dhyan rakhiye aur agar kabhi zarurat ho, toh bas ek message kar dijiye. Bye!
-User: पर
-Agent: Haan Mohammad ji, 
-",https://dxc03zgurdly9.cloudfront.net/5a5b57f0d3139df2e85cf3f6b2b45de71d91b42adff46ee75183d959c727b5db/recording.wav,Neutral,True,"The agent contacted the user, Mohammad, to inform him about an additional 5% discount on a product he had added to his cart. The user declined the offer but was provided with a WhatsApp link for future inquiries, and the call ended on a positive note with the agent encouraging the user to reach out if needed.","elevenlabs_tts, gpt_4o",68,user_hangup
-$0.01,call_76bd6d170f14055a575467cd5ac,agent_00490e668be8e0244229d1de5a,12082140131,919518699824,ended,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:28 PM",6,monis.com2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add 
-",https://dxc03zgurdly9.cloudfront.net/4a7ca024aa8507b4496ad9d570c514421c1426206e322f71701232465cc48727/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who acknowledged that the user had added a product to their cart. The conversation likely revolved around assisting the user with their shopping experience or addressing any questions they had about the product.","elevenlabs_tts, gpt_4o",6,user_hangup
-$-,call_90dbf288b2e8b47d7bdf0893856,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:23 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_69b243eceb6cd6de80d96b6f5a2,agent_00490e668be8e0244229d1de5a,12082140131,919021142929,error,"5/21/2025, 1:08:23 PM","5/21/2025, 1:08:23 PM",-,sushantgaikwad8671@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
