@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_1bdfae77ce433e3b150b9634025,agent_00490e668be8e0244229d1de5a,12082140131,918220720715,error,"5/26/2025, 6:02:34 PM","5/26/2025, 6:02:34 PM",-,mathi07051999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_7df09712279dcd875f81b6899df,agent_00490e668be8e0244229d1de5a,12082140131,918220720715,error,"5/26/2025, 5:57:02 PM","5/26/2025, 5:57:02 PM",-,mathi07051999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.03,call_b4d856a9fa2f8abd03d9bf721c5,agent_00490e668be8e0244229d1de5a,12082140131,919828110014,ended,"5/26/2025, 5:42:36 PM","5/26/2025, 5:42:51 PM",15,waqureshi2@yahoo.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/69638be6d96b906f1478e629dec6e1e8c92d3dda31dc4fb9aa0e735c4b905022/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",15,user_hangup
 $0.08,call_54c6455f12655027e340ea19e4d,agent_00490e668be8e0244229d1de5a,12082140131,916264063841,ended,"5/26/2025, 5:06:50 PM","5/26/2025, 5:07:31 PM",41,somuvarma86@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: हां.
 Agent: Wah Somu ji, 
