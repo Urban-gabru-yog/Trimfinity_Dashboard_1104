@@ -1,4 +1,9 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_31f494108e13b4112b7309f409e,agent_00490e668be8e0244229d1de5a,12082140131,916371629987,error,"5/26/2025, 11:12:00 AM","5/26/2025, 11:12:00 AM",-,lacyanide350@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b13c0f51090e4db66730ae5deae,agent_00490e668be8e0244229d1de5a,12082140131,916371629987,error,"5/26/2025, 11:11:59 AM","5/26/2025, 11:11:59 AM",-,lacyanide350@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_2d91c11764490e9ca74b267718c,agent_00490e668be8e0244229d1de5a,12082140131,916371629987,error,"5/26/2025, 11:07:47 AM","5/26/2025, 11:07:47 AM",-,lacyanide350@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_4783ee52749e90a145bff681591,agent_00490e668be8e0244229d1de5a,12082140131,916371629987,error,"5/26/2025, 11:07:46 AM","5/26/2025, 11:07:46 AM",-,lacyanide350@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_361bc40fd78d84fb89a6524b7bb,agent_00490e668be8e0244229d1de5a,12082140131,916371629987,error,"5/26/2025, 11:02:51 AM","5/26/2025, 11:02:51 AM",-,lacyanide350@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_40a54798eca511d284d18928433,agent_00490e668be8e0244229d1de5a,12082140131,917006306254,error,"5/26/2025, 10:47:09 AM","5/26/2025, 10:47:09 AM",-,farhat0011@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_bb4a626190459a90c6e52c7b492,agent_00490e668be8e0244229d1de5a,12082140131,917006306254,error,"5/26/2025, 10:37:08 AM","5/26/2025, 10:37:08 AM",-,farhat0011@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $-,call_be984f144ba57054553216585ec,agent_00490e668be8e0244229d1de5a,12082140131,919542322740,error,"5/25/2025, 9:32:53 PM","5/25/2025, 9:32:53 PM",-,alishetti10@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -1068,53 +1073,3 @@ Agent: performance zarur pasand aayega. Agar kabhi koi help chahiye ho ya aur ku
 ",https://dxc03zgurdly9.cloudfront.net/69693075df2ca16e2e65337da243bd1b9561cd7607a0c151bc8312759cf6f487/recording.wav,Positive,True,The user confirmed that they have already purchased the Trimfinity 7000 Body and Ball Trimmer. The agent congratulated the user on their purchase and offered assistance for any future queries.,"elevenlabs_tts, gpt_4o",45,user_hangup
 $0.03,call_7a49194f99bcfddf785fbd9a277,agent_00490e668be8e0244229d1de5a,12082140131,917348853488,ended,"5/19/2025, 11:36:37 AM","5/19/2025, 11:36:52 AM",16,kishore09.M@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/e92e3e18a42326fa8f03a87c88a6cb197d14651970b9cef45dc99e276e511a41/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",16,user_hangup
-$0.32,call_c76c6a54d85648a248d41c45acc,agent_00490e668be8e0244229d1de5a,12082140131,917348853488,ended,"5/19/2025, 11:32:54 AM","5/19/2025, 11:35:32 AM",158,kishore09.M@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: (inaudible speech)
-User: Same 
-Agent: ""Namaste 
-User: करना चाहिए.
-User: Hello?
-Agent: kishore ji, main samajh gaya. Aapko Trimfinity 7000 Body and Ball Trimmer pasand toh aaya tha, hai na? Bas price ya kuch aur soch rahe the? Bataiye, main aapki help karne ki poori koshish karunga!""
-User: Yes.
-User: कुछ भी नहीं.
-Agent: Arre, koi baat nahi kishore ji! Bas aapko yeh puchhna tha ki product ke baare mein koi doubt ya question toh nahi hai? Yeh trimmer kaafi advanced hai aur long-lasting bhi, toh aapko value for money milega. Aapko lagta hai price thoda zyada hai ya kuch aur baat hai?
-User: Yes.
-User: ज़्यादा 
-Agent: Samajh gaya, kishore 
-User: है. थोड़ा कम कम मिलेगा.
-Agent: Samajh gaya, kishore ji! Haan, price thoda lagta hai, lekin yeh Trimfinity 7000 ki quality aur advanced features ke wajah se hai. Yeh ekdum smooth aur safe trimming ke liye design kiya gaya hai, aur kaafi durable bhi hai.
-
-Lekin, aapke liye ek kaam kar sakta hoon. Normally main discount nahi deta, par aapke liye ek special 5% ka discount de sakta hoon. Aapko bas code ""O-F-F-5"" use karna hoga. Par yeh sirf aaj ke liye hai. Kya lagta hai, chalega?
-User: 10 percent discount चाहिए.
-Agent: Arre kishore ji, aap toh expert negotiator nikle! Dekhiye, 10% toh mushkil hai, lekin aapke liye ek aur option hai—agar aap ek aur product add karte hain, toh aapko ₹250 ka extra discount milega ""OFF250"" code ke saath.Aur agar aapko 
-User: नहीं 
-Agent: sirf yeh trimmer chahiye, toh 
-User: 01:10 percent discount रहता है और लंबी रहेगा.
-User: book करे 
-Agent: Arre kishore ji, aap 
-User: तो.
-Agent: Arre kishore ji, aap toh pakka deal master ho! Dekhiye, 10% ka discount toh regular policy mein nahi hai, lekin aapke liye ek special offer kar sakta hoon. Aapko 5% ka discount code ""O-F-F-5"" ke saath milega, aur yeh sirf aaj ke liye valid hai.Aur ek baat, yeh model kaafi fast sell hota hai, pichle hafte bhi stock out ho gaya tha. Toh agar aap interested hain, main abhi ek WhatsApp link bhej deta hoon, aap turant checkout kar sakte hain. Kya lagta hai?
-",https://dxc03zgurdly9.cloudfront.net/e3e5e1105634a43536109af8d2efef24f834e86b0ac221bd373fb6f4282198aa/recording.wav,Neutral,False,"The agent offered the user a 5% discount on the Trimfinity 7000 Body and Ball Trimmer, which the user was interested in but felt the price was too high. The agent attempted to negotiate by suggesting an additional discount for purchasing another product, but the user insisted on a 10% discount and ultimately expressed interest in booking the product.","elevenlabs_tts, gpt_4o",158,inactivity
-$0.01,call_011a213c5170415730911d785d9,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:17:53 AM","5/19/2025, 11:17:56 AM",3,Kmumeer63@gmail.com,"User: Your 
-Agent: Hello, main 
-User: call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/aa7c6d62a91d0853821eee473ca0f7665ec1b358a4b2de3d3344a647237e00e0/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. There was no further interaction or resolution during the call.,"elevenlabs_tts, gpt_4o",3,voicemail_reached
-$0.01,call_552a20ea677660f3be7949fef7b,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:16:59 AM","5/19/2025, 11:17:04 AM",6,Kmumeer63@gmail.com,"User: Your call has 
-Agent: Hello, main 
-User: been forwarded to voicemail. The person you are trying to reach is not available.
-",https://dxc03zgurdly9.cloudfront.net/21bd48b5d312a19012b4d88d9e7c7c37eacf40225c6f4e7f6f29546c931e1bd6/recording.wav,Neutral,True,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available.,"elevenlabs_tts, gpt_4o",6,voicemail_reached
-$-,call_784586bab51f58cfa46b0a43296,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/19/2025, 11:12:21 AM","5/19/2025, 11:12:21 AM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.03,call_66ff6586b597622fd3d5f81cb8d,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:12:19 AM","5/19/2025, 11:12:31 AM",13,Kmumeer63@gmail.com,"Agent: Hello, main 
-User: Hello हां.
-Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/7f063f8c5a6097dac4db9b8ff4e9bfd56a37709774186dff6ccd6791ddb63e22/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",13,user_hangup
-$-,call_dd7bf4765b31e015763836e632c,agent_00490e668be8e0244229d1de5a,12082140131,919023880232,error,"5/19/2025, 11:12:15 AM","5/19/2025, 11:12:15 AM",-,themafiaxzx@gmail.com,-,-,Unknown,False,-,,-,dial_failed
-$-,call_6058e282e43e8c70cf57f2546b2,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/19/2025, 11:12:06 AM","5/19/2025, 11:12:06 AM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_e489a10108788d71dc4b6d9fd64,agent_00490e668be8e0244229d1de5a,12082140131,919023880232,error,"5/19/2025, 11:12:05 AM","5/19/2025, 11:12:05 AM",-,themafiaxzx@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.01,call_5ef103e7361ff74adc649c1357f,agent_00490e668be8e0244229d1de5a,12082140131,917025595911,ended,"5/19/2025, 11:11:57 AM","5/19/2025, 11:12:00 AM",4,Kmumeer63@gmail.com,"Agent: Hello, main 
-User: Your call has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/25efa77e7b1fc1d48deea5a7fb860b3993e6bd3f2e9d8ad39be98134524b8cbe/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent as the call was forwarded to voicemail, indicating that the agent was unable to assist the user directly during this call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
-$0.01,call_1672ef7c46da21a24cd4de4fcff,agent_00490e668be8e0244229d1de5a,12082140131,919109050508,ended,"5/19/2025, 10:57:18 AM","5/19/2025, 10:57:21 AM",4,ramwatane@gmail.com,"User: The recipient's 
-Agent: Hello, main Aryan hoon 
-User: mail box is full.
-",https://dxc03zgurdly9.cloudfront.net/ebe53c2ef9769092441f577729bc429a5d9475f570330532595af8abe44a3acf/recording.wav,Negative,False,"The user reported that the recipient's mailbox is full, indicating an issue with sending emails. The agent responded but did not provide a solution or further assistance during the call.","elevenlabs_tts, gpt_4o",4,voicemail_reached
