@@ -630,27 +630,3 @@ Agent: Hello? Nishikar ji, aap abhi bhi line par
 ",https://dxc03zgurdly9.cloudfront.net/f945ea4686468231e32153d95d088dcf398e3a6b30724cf1358f2a06e8ccf165/recording.wav,Neutral,False,"The user, Nishikar, was contacted by the agent from Trimfinity regarding a product in their cart and an additional discount offer. However, the user declined the offer and did not provide clear feedback, leading to an unclear end to the conversation.","elevenlabs_tts, gpt_4o",33,user_hangup
 $-,call_b7a45a136e49c64a84364093703,agent_00490e668be8e0244229d1de5a,12082140131,919182849466,error,"5/22/2025, 3:42:52 PM","5/22/2025, 3:42:52 PM",-,nishikarpagadala521@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_9543c1ec6612b5fe3bb562b3c01,agent_00490e668be8e0244229d1de5a,12082140131,919111230078,error,"5/22/2025, 3:27:17 PM","5/22/2025, 3:27:17 PM",-,jbilawliya@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.31,call_2f4fd6a2567ccbf099fa333ef32,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,ended,"5/22/2025, 2:42:18 PM","5/22/2025, 2:44:52 PM",154,kalpeshpurohit1411@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: हां claim हां प्रेम कर सकता हूं लेकिन आपको मेरी बात समझ आ रही है कि नहीं आ रही है?
-Agent: जी हां, TCR Tiger Chehar जी, मुझे आपकी बात पूरी तरह समझ आ रही है! 😊 तो आप Trimfinity 7000 Body and Ball Trimmer खरीदने का सोच रहे थे, है ना? अगर आपको 
-User: हां.
-Agent: कोई सवाल या दिक्कत है, 
-User: अरे QR board भेजा QR code भेजो, QR code कितनी बार बोलूं आपको?
-User: अपनी वाली 
-Agent: अरे TCR Tiger 
-User: मत सुनो. अपनी वाली मत सुनो QR code भेजो.
-Agent: अरे हां, TCR Tiger Chehar जी, बिल्कुल! मैं अभी आपको WhatsApp पर 
-User: Link नहीं 
-Agent: एक लिंक 
-User: QR code भेजा link नहीं QR code link नहीं चाहिए QR code चाहिए. Link से मुझे payment करना नहीं आता है QR code भेजो. मैं QR code पर भरोसा करता हूं.
-Agent: ओह, समझ गया TCR Tiger Chehar जी! आप QR code से ही payment करना चाहते हैं। कोई टेंशन नहीं, मैं अभी आपके WhatsApp पर QR code भेजता हूं। बस एक मिनट दीजिए, और आप आराम से scan करके payment कर सकते हैं। 😊
-User: फिर मैं आपको screenshot send कर दूंगा मेरा parcel
-Agent: बिल्कुल सही, TCR Tiger Chehar जी! आप QR code से payment करके screenshot भेज दीजिए, और मैं तुरंत आपका parcel process करवा दूंगा। 😊 बस एक मिनट में QR code आपके WhatsApp पर भेज रहा हूं। कोई और सवाल हो तो बताइए!
-User: नहीं नहीं मैं screenshot भेज दूंगा payment करके app मेरा वह parcel निकलवा देना आज का आज
-Agent: बिल्कुल TCR Tiger Chehar जी, आप payment का screenshot भेज दीजिए, और मैं आज ही आपका parcel dispatch करवा दूंगा। आप tension-free रहिए, आपका काम priority पर होगा! 😊 अभी QR code भेज रहा हूं WhatsApp पर।
-User: कितने दिन में मिलेगा?
-User: Hello.
-Agent: Hello TCR Tiger Chehar जी! आपका parcel dispatch होते ही 3-5 working days में आपको deliver हो जाएगा। 😊 जैसे ही dispatch होगा, आपको tracking details भी भेज दी जाएंगी। कोई और सवाल हो तो बताइए!
-User: नहीं give a good विजय जल्दी ok bye.
-",https://dxc03zgurdly9.cloudfront.net/3e646c995187518871f31f57f4bb202575f73fc1eca9c2058a475bb13e3cc21e/recording.wav,Positive,True,"The user, TCR Tiger Chehar, contacted the agent to claim a 5% discount on a product they added to their cart. The user specifically requested a QR code for payment instead of a link, and the agent confirmed they would send the QR code via WhatsApp. The user was assured that their parcel would be dispatched the same day after payment confirmation.","elevenlabs_tts, gpt_4o",154,user_hangup
