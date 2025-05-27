@@ -558,18 +558,3 @@ $0.01,call_b4a3140ae24cfffa000bb94a6f6,agent_00490e668be8e0244229d1de5a,12082140
 ",https://dxc03zgurdly9.cloudfront.net/83ceab11d805137388837cbc5f91a9659eed2e0e6480d3467611d1b158768c8a/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user, Aryan, regarding a product inquiry. The conversation likely involved discussing product details or assistance, but the transcript is incomplete to provide further context.","elevenlabs_tts, gpt_4o",5,user_hangup
 $0.03,call_f2f10393d769637696a180f308f,agent_00490e668be8e0244229d1de5a,12082140131,918667020056,ended,"5/23/2025, 10:57:44 AM","5/23/2025, 10:58:00 AM",16,romanraheemrr@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/ea51a54f3af303de4c45978cf63eb63d9916dbb5dcdddd2f4534ba985b163f35/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",16,user_hangup
-$0.01,call_629c033515df471e4f4494d97a5,agent_00490e668be8e0244229d1de5a,12082140131,919537005256,ended,"5/23/2025, 10:52:13 AM","5/23/2025, 10:52:18 AM",6,jagjeetkathi75@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha 
-User: The person you are trying 
-Agent: ki aapne 
-User: to reach is not available.
-",https://dxc03zgurdly9.cloudfront.net/0c521e98fca29d20846bfb4ac6343b5662af569e9d1d276856b330828943c417/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, but the user indicated that the person they were trying to reach is not available.","elevenlabs_tts, gpt_4o",6,voicemail_reached
-$0.08,call_e45f10a5250af7db7b778bc3e8f,agent_00490e668be8e0244229d1de5a,12082140131,918667020056,ended,"5/23/2025, 10:52:03 AM","5/23/2025, 10:52:43 AM",40,romanraheemrr@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi Abdul! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to check if you had any questions or if there was anything stopping you from completing your purchase?
-User: तमिल पर लिया था,
-Agent: अरे वाह, Abdul bhai! Tamil 
-",https://dxc03zgurdly9.cloudfront.net/37ccc4a4ac503ce7b3c57aa1c3b290a828601dd3a051c1337d7ddc4a829887d9/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Abdul, to offer an additional 5% discount on the Trimfinity 7000 Body and Ball Trimmer that he had added to his cart. The conversation included a brief exchange about the user's interest in Tamil, but it did not progress towards completing the purchase.","elevenlabs_tts, gpt_4o",40,user_hangup
-$0.01,call_75c1e8d8adef5ef0a81902394fa,agent_00490e668be8e0244229d1de5a,12082140131,918580858486,ended,"5/22/2025, 9:11:36 PM","5/22/2025, 9:11:38 PM",3,gnaneshwarguruji@gmail.com,"User: Your call 
-Agent: Hello, main Aryan 
-User: has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/2f3f952968900874c89fb4538d92249f110168c0bd5254ae64551a98839fa5ee/recording.wav,Neutral,False,"The user attempted to reach someone but was informed that the call has been forwarded to voicemail, indicating that the intended recipient is unavailable.","elevenlabs_tts, gpt_4o",3,voicemail_reached
