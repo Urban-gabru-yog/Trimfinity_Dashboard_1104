@@ -618,12 +618,3 @@ $0.02,call_a58d7c2e2361971bbbed95e62ca,agent_00490e668be8e0244229d1de5a,12082140
 ",https://dxc03zgurdly9.cloudfront.net/b01acfbf1e79dbcc4d84ae0cfa0e7d650c5b675049099cf135e126300bcd71f1/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user regarding a product that was added to their cart, likely to encourage a purchase or provide assistance.","elevenlabs_tts, gpt_4o",8,user_hangup
 $-,call_b03783f47c289c62f9ac81f5464,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/22/2025, 5:07:47 PM","5/22/2025, 5:07:47 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_66e2917e394b80a5bbc774b8166,agent_00490e668be8e0244229d1de5a,12082140131,919526117076,error,"5/22/2025, 5:07:46 PM","5/22/2025, 5:07:46 PM",-,ajithrk25ajith@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_aedc60d4d3df665e58c5889edb5,agent_00490e668be8e0244229d1de5a,12082140131,919526117076,error,"5/22/2025, 5:02:37 PM","5/22/2025, 5:02:37 PM",-,ajithrk25ajith@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_935cf53bf8ff0a0e4fb17577f29,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/22/2025, 5:02:36 PM","5/22/2025, 5:02:36 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_cc4598f6ce1627d6d28684bc160,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/22/2025, 5:02:09 PM","5/22/2025, 5:02:09 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.06,call_b746d97805834ee54d4aa600c89,agent_00490e668be8e0244229d1de5a,12082140131,919526117076,ended,"5/22/2025, 5:01:48 PM","5/22/2025, 5:02:17 PM",29,ajithrk25ajith@gmail.com,"Agent: Hello, main Aryan 
-User: Hello.
-Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Yes?
-Agent: Hi Ajith! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 3 in 1 face trimmer on our website but didn’t complete the purchase. I just wanted to check if you had any questions or concerns about the product?
-",https://dxc03zgurdly9.cloudfront.net/f08cdd0ffdf28ea9b587979bf4f6e234203a3b5a3833cd447a64b579552bfd2e/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Ajith, to inform him about an additional 5% discount on a product he had added to his cart but did not purchase. The agent offered assistance in case Ajith had any questions or concerns regarding the product.","elevenlabs_tts, gpt_4o",29,user_hangup
