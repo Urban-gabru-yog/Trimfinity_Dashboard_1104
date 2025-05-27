@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_5e3211128d027d7b29ffa5a6e21,agent_00490e668be8e0244229d1de5a,12082140131,916284556979,ended,"5/27/2025, 7:46:39 PM","5/27/2025, 7:46:47 PM",8,parsanjitsingh171296@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Ok,
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
+",https://dxc03zgurdly9.cloudfront.net/f4f03b9dd1357e064cda9c7e7c0c9f993487aed955db16326d9f3eacc67d8a75/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and mentioned an additional offer for the day. The conversation appears to be focused on promoting the product and encouraging the user to complete their purchase.","elevenlabs_tts, gpt_4o",8,user_hangup
+$0.01,call_f227b99632e76cb4c60acf194bf,agent_00490e668be8e0244229d1de5a,12082140131,919037773005,ended,"5/27/2025, 7:21:41 PM","5/27/2025, 7:21:47 PM",6,shanib.vn007@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha 
+User: Hello
+Agent: ki aapne product cart mein add kiya tha. 
+",https://dxc03zgurdly9.cloudfront.net/3a7ef18979df6f69d663f9104ebae42c45ee83ba954cf9469cfe61c652683645/recording.wav,Neutral,False,The agent identified themselves and mentioned that the user had added a product to their cart. The call appears to be in the initial stages of discussing the user's cart activity.,"elevenlabs_tts, gpt_4o",6,user_hangup
 $-,call_08b5645b5e8a5d24fa3722cf2bc,agent_00490e668be8e0244229d1de5a,12082140131,918006193435,error,"5/27/2025, 5:47:06 PM","5/27/2025, 5:47:06 PM",-,fardeen22012@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ea0fba020ad734ebb38ebcc91a5,agent_00490e668be8e0244229d1de5a,12082140131,919474065284,error,"5/27/2025, 5:02:05 PM","5/27/2025, 5:02:05 PM",-,subratanayak.iitkgp@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_82a9643e6a44adb798bf7d0eda5,agent_00490e668be8e0244229d1de5a,12082140131,919833867353,error,"5/27/2025, 2:22:04 PM","5/27/2025, 2:22:04 PM",-,adityagupta0627@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
