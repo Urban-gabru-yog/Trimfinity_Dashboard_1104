@@ -1,4 +1,37 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.30,call_034f60a129f1b74000d43e241f0,agent_00490e668be8e0244229d1de5a,12082140131,917666347636,ended,"5/28/2025, 12:06:54 PM","5/28/2025, 12:09:22 PM",149,banarasesarthak@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+Agent: Hi Sarthak! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Pro Max Body & Ball Trimmer on our website. Just wanted to check if you had any questions or if there was anything stopping you from completing the purchase?
+User: हां.
+User: Hello?
+Agent: Haan Sarthak ji, main sun raha hoon. Aapko product pasand toh aaya? Bas price ka kuch soch rahe the ya aur kuch tension hai?
+User: Price का सोच रहा तो.
+Agent: Bilkul samajh sakta hoon, Sarthak ji. Dekhiye, Trimfinity 7000 Pro Max thoda premium hai, lekin iska reason hai—yeh advanced technology aur high-quality materials ke saath aata hai, jo long-lasting aur safe trimming experience deta hai. Ek baar le liya toh kaafi time tak tension-free rahenge.
+
+Lekin agar aapko thoda aur push chahiye, toh ek kaam karte hain—main aapke liye ek exclusive 5% discount de sakta hoon. Sirf aaj ke liye, theek hai? Code hai: O-F-F-5. Aapko bas checkout karte time apply karna hai. Kaisa 
+Agent: laga?
+User: ठीक है
+User: WhatsApp पर एक message कर 
+Agent: Wah, Sarthak 
+User: देना link WhatsApp पर उसकी एक link भेज देना.
+Agent: Bilkul Sarthak ji! Main abhi aapko WhatsApp par ek checkout link bhej deta hoon. Aap 
+User: ठीक है. WhatsApp पर 
+Agent: bas uspe click karke apna order complete kar 
+User: ही
+User: coupon code भी WhatsApp पर ही भेज देना.
+Agent: Bilkul Sarthak ji! Main abhi aapko WhatsApp par checkout link ke saath coupon code bhi bhej deta hoon. Code hai: O-F-F-5. Aap bas checkout karte time apply kar lena. Agar koi aur help chahiye ho toh mujhe bata dena.
+User: ठीक है.
+Agent: Shukriya, Sarthak ji! Main 
+User: ठीक है.
+Agent: abhi WhatsApp par link aur coupon code bhej raha hoon. Agar aur kuch madad chahiye ho, toh bina jhijhak mujhe contact kar lena. Aapka din shubh ho!
+",https://dxc03zgurdly9.cloudfront.net/568bf24944b5e512173250048a035d39c76ad846800deda30927520768dc3422/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Sarthak, who was considering purchasing the Trimfinity 7000 Pro Max Body & Ball Trimmer. After discussing the product and offering a 5% discount, the agent agreed to send the checkout link and coupon code via WhatsApp as requested by the user.","elevenlabs_tts, gpt_4o",149,user_hangup
+$0.12,call_f1274416c03c41b3d2c98b7b3b3,agent_00490e668be8e0244229d1de5a,12082140131,919560863013,ended,"5/28/2025, 11:51:37 AM","5/28/2025, 11:52:38 AM",62,singhdigvijay348@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: 019195 06:08. 6 
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: 03:01 3. Please don't hang up and hold on a moment.
+Agent: Of course, take your time, DIGVIJAY PRATAP ji. I'm here, let me know whenever you're ready!
+Agent: DIGVIJAY PRATAP ji, main disturb nahi karna chahta, bas yaad dilane ke liye pooch raha hoon—kya aapko Trimfinity 1.0 Body & Ball Trimmer ke baare mein koi sawaal ya madad chahiye? Main yahin hoon, ready to help!
+",https://dxc03zgurdly9.cloudfront.net/4c4e518314b5e415cf6efa459c5f1adba8b594c3271eb009116afd22511db39d/recording.wav,Neutral,False,"The user, DIGVIJAY PRATAP, was informed by the agent about an additional 5% discount on a product they added to their cart. The user requested a moment to think, and the agent assured them they could take their time while offering assistance with the product.","elevenlabs_tts, gpt_4o",62,inactivity
 $-,call_dba164dbe307d19df5c1a767394,agent_00490e668be8e0244229d1de5a,12082140131,918630559610,error,"5/28/2025, 11:47:06 AM","5/28/2025, 11:47:06 AM",-,saaurabhsingh9897@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6f787e5a3295b7a9353b74f04b4,agent_00490e668be8e0244229d1de5a,12082140131,919560863013,error,"5/28/2025, 11:47:05 AM","5/28/2025, 11:47:05 AM",-,singhdigvijay348@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_33a86cb8c82b0e60a0b70dae705,agent_00490e668be8e0244229d1de5a,12082140131,918630559610,ended,"5/28/2025, 11:36:50 AM","5/28/2025, 11:37:00 AM",11,saaurabhsingh9897@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
@@ -610,4 +643,3 @@ $-,call_0aea677ad2ce00bf417851e6c81,agent_00490e668be8e0244229d1de5a,12082140131
 $-,call_942e7cc9e24aa9e7e52f228d8eb,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/23/2025, 1:12:41 PM","5/23/2025, 1:12:41 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
 $-,call_7f3ff80f66e330079a7a8efb690,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/23/2025, 1:12:36 PM","5/23/2025, 1:12:36 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $-,call_eb350a446cfdd2e41a63275c6d3,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/23/2025, 1:08:43 PM","5/23/2025, 1:08:43 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
-$-,call_5e145f5bdd58790f68ac4d8ace4,agent_00490e668be8e0244229d1de5a,12082140131,918668820473,error,"5/23/2025, 1:02:47 PM","5/23/2025, 1:02:47 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,,-,dial_busy
