@@ -1,4 +1,51 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_7baf1d709400749d687ab19959d,agent_00490e668be8e0244229d1de5a,12082140131,919944749982,ended,"5/28/2025, 10:47:42 AM","5/28/2025, 10:47:56 AM",15,svimaldon@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/d7d50101eb964fcc024f225e4225a4b4ed0f000fecfc7dbbfbdb77bf5f157d3d/recording.wav,Neutral,True,The agent introduced themselves and informed the user about an additional 5% discount on a product they had added to their cart. The call was focused on offering the user a promotional discount.,"elevenlabs_tts, gpt_4o",15,user_hangup
+$0.27,call_8e35ecdaa3df06325439362df06,agent_00490e668be8e0244229d1de5a,12082140131,917499502721,ended,"5/28/2025, 10:26:28 AM","5/28/2025, 10:28:41 AM",134,Babiskarakshay31@gmail.com,"User: बाकी 
+Agent: Hello, main Aryan hoon 
+User: चुत में Hello.
+User: Hello
+Agent: Arre Akshay bhai, lagta hai mood thoda mast hai aapka! Main Aryan bol raha hoon Trimfinity se. Aapne Trimfinity 
+User: हर तेरी मांी को इतनी बार call करता है क्या भाई मां इधर चोर जितनी बार मत call करते तेरी मां का बहुत सारा complaint कर दूंगा police ने तेरे लिए तेरी मां की चुस्कने पैर
+Agent: Mujhe khed hai agar aapko pareshaani hui ho. Main bas aapki madad karne ke liye call kar raha tha.
+User: मेरी मां 
+Agent:  Agar aapko 
+User: कब हो sir तेरी मां का बहुत सारा benchू तूने से आठ बार call कर दी थी मां के अभी आ गए call आया ना मां कसम तेरे को बहुत तेरा complaint कर दूंगा तेरी मां की choose. को.
+Agent: Mujhe khed hai agar aapko pareshaani hui ho. Main bas aapki madad karne ke liye call kar raha tha. Agar aapko aur calls nahi chahiye, main ensure karunga ki aapko future mein disturb na kiya jaye. Dhanyawaad!
+User: आज के बाद अगर call आई तो तुम्हारी company की मां का बहुत सारा चंदा तुमने मां नहीं पुछ पा रहा.
+Agent: Samajh gaya, Akshay ji. Aap bilkul 
+User: समझ जी कह रहे हैं 
+Agent: chinta mat kijiye, 
+User: भाई हां अभियान पूरा phone करती है ना अब बिन माही को जिसके बाद को ठंडे आना चाहिए तुम्हारा. समझ गए गालियां मत दो बजे.
+Agent: Akshay ji, mujhe khed hai agar aapko pareshaani hui ho. Main aapko disturb nahi karunga. Agar aapko aur koi madad chahiye ho, toh aap humein email ya WhatsApp par contact kar sakte hain. Dhanyawaad aur 
+User: मुझे
+Agent: aapka din shubh ho!
+User: मुझे आपको block करना है तो क्या करना पड़ेगा?
+Agent: Akshay ji, agar aap humein block karna chahte hain ya future mein calls nahi chahiye, toh bas ek simple kaam kijiye. Aap humein WhatsApp ya email par ek message bhej dijiye ki ""Do Not Call,"" aur hum ensure karenge ki aapko future 
+User: Ok. Ok 
+Agent: mein disturb na kiya jaye.WhatsApp number: 
+User: what आपका WhatsApp number दो.
+Agent: Bilkul Akshay ji! Aap humein WhatsApp par contact kar sakte hain is number par: 73978-05347. Agar aap ""Do Not Call"" message bhejte 
+",https://dxc03zgurdly9.cloudfront.net/2fc280694f1438911e9e87980ce8f3ac723d15ee95daf3e49a88fafa0c85cbc0/recording.wav,Negative,False,"The user, Akshay, expressed frustration over receiving multiple calls from the agent's company, Trimfinity. The agent, Aryan, attempted to reassure the user and offered a solution to stop future calls by sending a 'Do Not Call' message via WhatsApp or email. The call ended with the user asking for the WhatsApp number to block future communications.","elevenlabs_tts, gpt_4o",134,user_hangup
+$0.10,call_be6580e180cde0b5beec6c7f566,agent_00490e668be8e0244229d1de5a,12082140131,917499502721,ended,"5/28/2025, 10:21:37 AM","5/28/2025, 10:22:27 AM",51,Babiskarakshay31@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
+User: मां की छुट घंछो जितनी बार call कर 
+Agent: Aaj ke din aapke liye additional 5% off 
+User: रहा है अभी. अबे साले इतनी बार phone मत कर
+User: नहीं बोल दिया ना मैंने.
+User: मैं भेजती ठाक माररे को कर रहा है क्या?
+Agent: Arre Akshay bhai, maaf karna agar disturb kiya ho. Bas ek baar check 
+User: कौन रखो? अभी आज के 
+Agent: kar raha tha ki koi dikkat toh nahi ho rahi thi. Agar aap interested nahi 
+User: बाद phone.
+User: आज के बाद कभी phone मत करना.
+Agent: Bilkul Akshay bhai, aap bilkul 
+User: (inaudible speech)
+Agent: tension mat lo. Aapko dobara call nahi karenge. Agar kabhi future mein zarurat ho toh hum hamesha available hain. Dhanyawaad aur aapka din shubh ho!
+User: अभी शुभ करना और दिन तो अभी इसके बाद call मत करना.
+Agent: Bilkul Akshay 
+",https://dxc03zgurdly9.cloudfront.net/2305c244c0e8049ee6ccbcfcb01915c4fc6b6d46d7e1a226e78c635aa121f735/recording.wav,Negative,False,"The user expressed frustration over receiving multiple calls from the agent regarding a product in their cart. Despite the agent offering a discount, the user firmly requested not to be contacted again, and the agent assured them that they would not receive further calls.","elevenlabs_tts, gpt_4o",51,user_hangup
 $0.36,call_ab2614705f403d480f649c7b905,agent_00490e668be8e0244229d1de5a,12082140131,917499502721,ended,"5/28/2025, 10:17:13 AM","5/28/2025, 10:20:10 AM",178,Babiskarakshay31@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: ना ना
 User: बिल्कुल ना.
@@ -575,7 +622,3 @@ $-,call_c1d1d0e8ffbe7de953f68d1ebab,agent_00490e668be8e0244229d1de5a,12082140131
 $-,call_3f97716b10d08ada7be979db6f1,agent_00490e668be8e0244229d1de5a,12082140131,919991652193,error,"5/23/2025, 11:47:25 AM","5/23/2025, 11:47:25 AM",-,raosk15yadav@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
 $0.01,call_41656f81f3182c01ed78a7c7139,agent_00490e668be8e0244229d1de5a,12082140131,919892795586,ended,"5/23/2025, 11:46:45 AM","5/23/2025, 11:46:50 AM",6,devrajgohilgohil786@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
 ",https://dxc03zgurdly9.cloudfront.net/9f15567767cb223f28badca7ad670d2e902a97586bdedee80ec046d1026b5e20/recording.wav,Neutral,False,"The call was initiated by the agent, Aryan from Trimfinity, who noticed that the user had items in their product cart. The conversation likely revolved around assisting the user with their cart or product inquiries.","elevenlabs_tts, gpt_4o",6,user_hangup
-$-,call_d8fcfc7550b64c379b2b666f985,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,error,"5/23/2025, 11:37:21 AM","5/23/2025, 11:37:21 AM",-,kalpeshpurohit1411@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_6a10b211c239c0cc5407beda2cd,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,error,"5/23/2025, 11:33:24 AM","5/23/2025, 11:33:24 AM",-,kalpeshpurohit1411@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_406faeb37aa29d032e221f9721f,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,error,"5/23/2025, 11:33:24 AM","5/23/2025, 11:33:24 AM",-,kalpeshpurohit1411@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_93cfcecdfdf1f1a8b056f6fb36a,agent_00490e668be8e0244229d1de5a,12082140131,917227095357,error,"5/23/2025, 11:32:01 AM","5/23/2025, 11:32:01 AM",-,kalpeshpurohit1411@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
