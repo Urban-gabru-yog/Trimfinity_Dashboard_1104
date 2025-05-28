@@ -705,4 +705,3 @@ $0.01,call_d3423e51e0f6cf109338999b9d5,agent_00490e668be8e0244229d1de5a,12082140
 Agent: Hello, main Aryan hoon 
 User: call has been fored to the person you trying to reach is not available. At the town,
 ",https://dxc03zgurdly9.cloudfront.net/260620e46c2771aab3606bf0d6da7b12f9bd5c24386d13aa165c1dbd0922f6cd/recording.wav,Neutral,False,The user attempted to reach a specific person but was informed that the call was forwarded and that the person is not available at the moment. The conversation was brief and did not lead to a resolution.,"elevenlabs_tts, gpt_4o",6,voicemail_reached
-$-,call_920a3d0f40653b9b22eaa3d0f14,agent_00490e668be8e0244229d1de5a,12082140131,918851166097,error,"5/23/2025, 1:58:32 PM","5/23/2025, 1:58:32 PM",-,Nitindrall15@gmail.com,-,-,Unknown,False,-,,-,error_no_audio_received
