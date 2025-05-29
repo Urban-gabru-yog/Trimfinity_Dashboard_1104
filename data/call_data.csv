@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_21c99eec9a6f37880e7ec811dbe,agent_00490e668be8e0244229d1de5a,12082140131,917889789049,error,"5/29/2025, 9:16:52 PM","5/29/2025, 9:16:52 PM",-,ashupathan978@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_5506aae5d122391fc940ca24cd6,agent_00490e668be8e0244229d1de5a,12082140131,918592817211,ended,"5/29/2025, 9:16:28 PM","5/29/2025, 9:16:31 PM",3,Shahidshapvl@gmail.com,"User: Your call 
+Agent: Hello, main Aryan hoon 
+User: has been forwarded to voice now.
+",https://dxc03zgurdly9.cloudfront.net/4597e023863304a1ad71a7f305115f83fdcaf041f9fbcb3d41f95acb522e7eff/recording.wav,Neutral,False,The user was informed that their call has been forwarded to a voice agent. The agent introduced themselves as Aryan.,"elevenlabs_tts, gpt_4o",3,voicemail_reached
+$-,call_bec5b14925d97967e04302d7b38,agent_00490e668be8e0244229d1de5a,12082140131,917889789049,error,"5/29/2025, 9:12:04 PM","5/29/2025, 9:12:04 PM",-,ashupathan978@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_2326b064e2c3ccb296509c19021,agent_00490e668be8e0244229d1de5a,12082140131,918592817211,ended,"5/29/2025, 9:11:44 PM","5/29/2025, 9:11:54 PM",11,Shahidshapvl@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
+",https://dxc03zgurdly9.cloudfront.net/ecf495f8296ddca8e54e824d6528bd8f6dbb6e3d323ec642f9c8bbe20ea232c5/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o",11,user_hangup
 $-,call_edb29f554a5a9f00b95b336adb8,agent_00490e668be8e0244229d1de5a,12082140131,918089499435,error,"5/29/2025, 8:02:58 PM","5/29/2025, 8:02:58 PM",-,anandu0536@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.03,call_735b3f0e97f55f271fde7ddf628,agent_00490e668be8e0244229d1de5a,12082140131,918089499435,ended,"5/29/2025, 8:02:41 PM","5/29/2025, 8:02:57 PM",17,anandu0536@gmail.com,"Agent: Hello, main Aryan 
 User: Hello.
@@ -598,12 +606,3 @@ $-,call_8d5d503cf63eeead19821bc9332,agent_00490e668be8e0244229d1de5a,12082140131
 $-,call_f89fea4bce8421cd56073106a36,agent_00490e668be8e0244229d1de5a,12082140131,918899928503,error,"5/25/2025, 4:37:40 PM","5/25/2025, 4:37:40 PM",-,aashiqpeer2@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_89eeda4b01f0381e62d684f7289,agent_00490e668be8e0244229d1de5a,12082140131,919992626958,error,"5/25/2025, 4:37:40 PM","5/25/2025, 4:37:40 PM",-,Reenaawana26@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_77a7e54e60ba49a19bfcbb96c96,agent_00490e668be8e0244229d1de5a,12082140131,918899928503,error,"5/25/2025, 4:37:39 PM","5/25/2025, 4:37:39 PM",-,aashiqpeer2@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_b13f3fc961d47609ea9cf5f2bf9,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:28:01 PM","5/25/2025, 2:28:01 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_a13b208de58a433aaee635ad89b,agent_00490e668be8e0244229d1de5a,12082140131,919447514508,error,"5/25/2025, 2:28:01 PM","5/25/2025, 2:28:01 PM",-,sinoshmattappallil@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_01103cd28d17ddc38adef566fa5,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:28:00 PM","5/25/2025, 2:28:00 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_f06a0bc3711182c6ff659e0fa3b,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:59 PM","5/25/2025, 2:27:59 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_ff1cf9119781d4f07bc5e886ac2,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:58 PM","5/25/2025, 2:27:58 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_f2af0cf892cb733746ecf445187,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:44 PM","5/25/2025, 2:27:44 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_0bf1b280dde2a98297282852095,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:43 PM","5/25/2025, 2:27:43 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_b3bb441f8580f1ba2c5f4b04a3b,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:42 PM","5/25/2025, 2:27:42 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_2790687378806c1eb3c6ec8c081,agent_00490e668be8e0244229d1de5a,12082140131,918089280834,error,"5/25/2025, 2:27:40 PM","5/25/2025, 2:27:40 PM",-,asp65137@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
