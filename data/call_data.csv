@@ -652,6 +652,3 @@ Agent: Hello, main Aryan hoon
 User: call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/d61fb3afd6a05898808920ae9df74241937d54b33e9e1db32b84940a0074e9c9/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. The agent introduced themselves as Aryan but did not provide further assistance.,"elevenlabs_tts, gpt_4o",3,voicemail_reached
 $-,call_7ddedaf8ca04060997fdeb4fa26,agent_00490e668be8e0244229d1de5a,12082140131,918888949401,error,"5/24/2025, 2:27:11 PM","5/24/2025, 2:27:11 PM",-,vikas100285@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_d1ac428f16647dce8cddbed809f,agent_00490e668be8e0244229d1de5a,12082140131,917972869697,error,"5/24/2025, 2:02:12 PM","5/24/2025, 2:02:12 PM",-,mankarabhijeet81@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_431899341a30103011456461739,agent_00490e668be8e0244229d1de5a,12082140131,919923067088,error,"5/24/2025, 2:02:11 PM","5/24/2025, 2:02:11 PM",-,purvjignesh1.gp@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_1d78abaceed7d9294a43e675f09,agent_00490e668be8e0244229d1de5a,12082140131,916372698539,error,"5/24/2025, 2:02:10 PM","5/24/2025, 2:02:10 PM",-,nba.10aryan@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
