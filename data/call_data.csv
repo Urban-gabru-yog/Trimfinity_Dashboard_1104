@@ -1,4 +1,11 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_1c61501f7ed224bfdb5e2019e07,agent_00490e668be8e0244229d1de5a,12082140131,918428888111,error,"5/29/2025, 3:02:51 PM","5/29/2025, 3:02:51 PM",-,balamarathon2018@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_f767e587f0b1d0383c69ca911bd,agent_00490e668be8e0244229d1de5a,12082140131,918870529809,error,"5/29/2025, 3:02:50 PM","5/29/2025, 3:02:50 PM",-,kboopathi707@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_6b6dd3d3836074852526c28af6c,agent_00490e668be8e0244229d1de5a,12082140131,918428888111,error,"5/29/2025, 3:02:35 PM","5/29/2025, 3:02:35 PM",-,balamarathon2018@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_aa1a11924282814846a232e831c,agent_00490e668be8e0244229d1de5a,12082140131,918870529809,error,"5/29/2025, 3:02:34 PM","5/29/2025, 3:02:34 PM",-,kboopathi707@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_be469d323eeb2e2936b2901de7d,agent_00490e668be8e0244229d1de5a,12082140131,917994949401,error,"5/29/2025, 2:56:54 PM","5/29/2025, 2:56:54 PM",-,Sijocr7@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.01,call_964125e994ae8d1b436e763f2a3,agent_00490e668be8e0244229d1de5a,12082140131,918870529809,ended,"5/29/2025, 2:56:53 PM","5/29/2025, 2:57:00 PM",7,kboopathi707@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din 
+",https://dxc03zgurdly9.cloudfront.net/216b680bbded1f3412cb87405932de992282e0b1a0242688c23ae1be1fc045d6/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation likely continued to discuss the user's interest in the product and any assistance needed.","elevenlabs_tts, gpt_4o",7,user_hangup
 $-,call_741c7bff8ee2874bc91e18f6cc2,agent_00490e668be8e0244229d1de5a,12082140131,917994949401,error,"5/29/2025, 2:48:11 PM","5/29/2025, 2:48:11 PM",-,Sijocr7@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_b4ccf64579f9e53bb083b00c0c9,agent_00490e668be8e0244229d1de5a,12082140131,917994949401,error,"5/29/2025, 2:47:57 PM","5/29/2025, 2:47:57 PM",-,Sijocr7@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $0.01,call_ca5d24c95677517bf7be89e9829,agent_00490e668be8e0244229d1de5a,12082140131,919001089884,ended,"5/29/2025, 2:41:42 PM","5/29/2025, 2:41:45 PM",4,sutharvishnu751@gmail.com,"User: Your call has been 
@@ -646,12 +653,3 @@ User: हां
 Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne 
 ",https://dxc03zgurdly9.cloudfront.net/6e854a63bfcedeeda005253e80cb1792f5cdbc0a4c06f3a2efc8e96be3b85347/recording.wav,Neutral,False,"The call began with the agent introducing himself as Aryan from Trimfinity, but the conversation is incomplete and does not provide further details about the user's inquiry or the purpose of the call.","elevenlabs_tts, gpt_4o",5,user_hangup
 $-,call_6fbb73ef89d103eca121c659b76,agent_00490e668be8e0244229d1de5a,12082140131,917202890038,error,"5/24/2025, 5:22:50 PM","5/24/2025, 5:22:50 PM",-,vijaybhaiParmar490@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.01,call_8a14611fec6e74b7651f9843f98,agent_00490e668be8e0244229d1de5a,12082140131,917202890038,ended,"5/24/2025, 5:17:27 PM","5/24/2025, 5:17:33 PM",7,vijaybhaiParmar490@gmail.com,"Agent: Hello, main 
-User: Hello.
-Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
-",https://dxc03zgurdly9.cloudfront.net/a7d08bfcbc9f154d81e2e6e8420d2d30fbd18a116cf906e4b21546dad1622319/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation appears to be in the early stages, focusing on the user's shopping activity.","elevenlabs_tts, gpt_4o",7,user_hangup
-$-,call_a8fcbb9aac91f4f3726b24fcad3,agent_00490e668be8e0244229d1de5a,12082140131,917013149196,error,"5/24/2025, 4:52:25 PM","5/24/2025, 4:52:25 PM",-,saihariharanvemula@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.03,call_2696850d408d3bb64d6062e4ff8,agent_00490e668be8e0244229d1de5a,12082140131,917013149196,ended,"5/24/2025, 4:46:53 PM","5/24/2025, 4:47:08 PM",15,saihariharanvemula@gmail.com,"Agent: Hello, 
-User: Hello.
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/20f84c81c2a0e836add169cfb564645092bbcc0afe67f617b581993fdfa41782/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",15,user_hangup
