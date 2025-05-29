@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.03,call_859959f9e28d0b781facf845e54,agent_00490e668be8e0244229d1de5a,12082140131,918860636703,ended,"5/29/2025, 1:11:46 PM","5/29/2025, 1:12:02 PM",16,maurya.sadanand17@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/ce437db381251846856e1032cd8036e0f7b0398849231a9ea2f882d99838308b/recording.wav,Neutral,True,"The user was greeted by the agent, who identified themselves as Aryan from Trimfinity. The agent informed the user about an additional 5% discount available for a product they had added to their cart and asked if the user would like to claim it.","elevenlabs_tts, gpt_4o",16,user_hangup
 $0.02,call_f7fa6b37ac0c4b4fe5579b956f1,agent_00490e668be8e0244229d1de5a,12082140131,917973641961,ended,"5/29/2025, 11:46:55 AM","5/29/2025, 11:47:03 AM",9,rinkumidha66593@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
@@ -651,4 +654,3 @@ $0.01,call_cdbecf6ad2417fd551bd87107f3,agent_00490e668be8e0244229d1de5a,12082140
 Agent: Hello, main Aryan hoon 
 User: call has been forwarded to voicemail.
 ",https://dxc03zgurdly9.cloudfront.net/d61fb3afd6a05898808920ae9df74241937d54b33e9e1db32b84940a0074e9c9/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. The agent introduced themselves as Aryan but did not provide further assistance.,"elevenlabs_tts, gpt_4o",3,voicemail_reached
-$-,call_7ddedaf8ca04060997fdeb4fa26,agent_00490e668be8e0244229d1de5a,12082140131,918888949401,error,"5/24/2025, 2:27:11 PM","5/24/2025, 2:27:11 PM",-,vikas100285@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
