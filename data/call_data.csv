@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_2be17ad293b85b7f1ab79c50f8c,agent_00490e668be8e0244229d1de5a,12082140131,919413792110,error,"5/29/2025, 3:47:43 PM","5/29/2025, 3:47:43 PM",-,asgar110133@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1c61501f7ed224bfdb5e2019e07,agent_00490e668be8e0244229d1de5a,12082140131,918428888111,error,"5/29/2025, 3:02:51 PM","5/29/2025, 3:02:51 PM",-,balamarathon2018@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_f767e587f0b1d0383c69ca911bd,agent_00490e668be8e0244229d1de5a,12082140131,918870529809,error,"5/29/2025, 3:02:50 PM","5/29/2025, 3:02:50 PM",-,kboopathi707@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_6b6dd3d3836074852526c28af6c,agent_00490e668be8e0244229d1de5a,12082140131,918428888111,error,"5/29/2025, 3:02:35 PM","5/29/2025, 3:02:35 PM",-,balamarathon2018@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
@@ -641,15 +642,3 @@ $0.02,call_5e98fbd7735b64002dcb6aaa665,agent_00490e668be8e0244229d1de5a,12082140
 User: Hello.
 Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
 ",https://dxc03zgurdly9.cloudfront.net/fc64a0f1cdc614c934ea23ec06104db69e8b53a13a1db1017c8a8f46712088e6/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and was likely offering assistance or a promotion related to that product.","elevenlabs_tts, gpt_4o",8,user_hangup
-$0.01,call_01c7a7f135cf592b25d66e9a8db,agent_00490e668be8e0244229d1de5a,12082140131,919846769819,ended,"5/24/2025, 5:37:26 PM","5/24/2025, 5:37:31 PM",6,Bazz039.hassan@gmail.com,"User: Your call 
-Agent: Hello, main 
-User: has been forwarded to Watchme. The person you are trying to reach is not available.
-",https://dxc03zgurdly9.cloudfront.net/6c76895e701e66ecb72c21c45382d324f5400c44b7477f18cd34de42e1171cac/recording.wav,Neutral,False,"The user was informed that their call has been forwarded to Watchme, but the person they were trying to reach is not available.","elevenlabs_tts, gpt_4o",6,voicemail_reached
-$0.01,call_63995af0654a57c207c1d402285,agent_00490e668be8e0244229d1de5a,12082140131,919846769819,ended,"5/24/2025, 5:36:58 PM","5/24/2025, 5:37:01 PM",3,Bazz039.hassan@gmail.com,"Agent: Hello, 
-User: Your call has been forwarded to voice mail.
-",https://dxc03zgurdly9.cloudfront.net/168aef03fc60c4c2881e9694c87f8b6a27cd8657424ddb0215c1e9d3fe6ac147/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent, as the call was forwarded to voicemail immediately after the agent's greeting.","elevenlabs_tts, gpt_4o",3,voicemail_reached
-$0.01,call_6ff938541e9c7f45f5e4c72368a,agent_00490e668be8e0244229d1de5a,12082140131,917202890038,ended,"5/24/2025, 5:27:03 PM","5/24/2025, 5:27:08 PM",5,vijaybhaiParmar490@gmail.com,"Agent: Hello, 
-User: हां
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne 
-",https://dxc03zgurdly9.cloudfront.net/6e854a63bfcedeeda005253e80cb1792f5cdbc0a4c06f3a2efc8e96be3b85347/recording.wav,Neutral,False,"The call began with the agent introducing himself as Aryan from Trimfinity, but the conversation is incomplete and does not provide further details about the user's inquiry or the purpose of the call.","elevenlabs_tts, gpt_4o",5,user_hangup
-$-,call_6fbb73ef89d103eca121c659b76,agent_00490e668be8e0244229d1de5a,12082140131,917202890038,error,"5/24/2025, 5:22:50 PM","5/24/2025, 5:22:50 PM",-,vijaybhaiParmar490@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
