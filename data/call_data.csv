@@ -1,4 +1,17 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_5bfda371fd7533d76e5de0d2719,agent_00490e668be8e0244229d1de5a,12082140131,916309795492,ended,"5/30/2025, 8:12:28 PM","5/30/2025, 8:12:30 PM",3,saqibahmed192003@gmail.com,"User: Your call 
+Agent: Hello, main Aryan hoon 
+User: has been forwarded
+",https://dxc03zgurdly9.cloudfront.net/12f81ae5a9640fa5048fb8013e6329c7c675528770df82f2891892c389d85fb7/recording.wav,Neutral,False,The user initiated the call but it seems to have been forwarded to another agent named Aryan. There is no further information provided about the purpose of the call or any actions taken.,"elevenlabs_tts, gpt_4o",3,voicemail_reached
+$0.01,call_94ca0dffdda9eed78a5253279e4,agent_00490e668be8e0244229d1de5a,12082140131,916309795492,ended,"5/30/2025, 8:11:42 PM","5/30/2025, 8:11:48 PM",7,saqibahmed192003@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke 
+",https://dxc03zgurdly9.cloudfront.net/95be8f722df0f18ade1be963d22b13391cf36fc44d56be4f03a996295864e5aa/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by addressing the user and mentioning that they noticed a product was added to the user's cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o",7,user_hangup
+$-,call_0c1aea7588ad0307da399b752fc,agent_00490e668be8e0244229d1de5a,12082140131,919619776685,error,"5/30/2025, 8:08:10 PM","5/30/2025, 8:08:10 PM",-,siddheshmore11@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_12364dc2b5f493a027d3bc238f8,agent_00490e668be8e0244229d1de5a,12082140131,919619776685,error,"5/30/2025, 8:07:13 PM","5/30/2025, 8:07:13 PM",-,siddheshmore11@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.02,call_c03b12a1a53d10585d43a01328c,agent_00490e668be8e0244229d1de5a,12082140131,919619776685,ended,"5/30/2025, 7:57:47 PM","5/30/2025, 7:57:58 PM",11,siddheshmore11@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/8836ec52e21cecc58b3ecc22da0fd453acaa108faabb305ffba7ceafa96c6f02/recording.wav,Neutral,False,"The user was greeted by the agent, Aryan from Trimfinity, who informed them about an additional 5% discount available for a product they had added to their cart. The agent offered to help the user claim the discount.","elevenlabs_tts, gpt_4o",11,user_hangup
 $-,call_8dbed33b229a1b32db46920127d,agent_00490e668be8e0244229d1de5a,12082140131,918984824381,error,"5/30/2025, 7:43:19 PM","5/30/2025, 7:43:19 PM",-,murmugopal739@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.02,call_73f3eabb031d8138843ca50c851,agent_00490e668be8e0244229d1de5a,12082140131,918838519104,ended,"5/30/2025, 7:42:35 PM","5/30/2025, 7:42:44 PM",10,pugazhenthipugazhenthi06@gmail.com,"Agent: Hello, main Aryan 
 User: Hello.
@@ -1000,13 +1013,3 @@ $0.03,call_805ae44dc88fe7023b1a9a5cc94,agent_00490e668be8e0244229d1de5a,12082140
 ",https://dxc03zgurdly9.cloudfront.net/71ddb4034c12b380810254c1c57a805b6b3d6e6845af3d29c9485f14600ba27f/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o",13,user_hangup
 $-,call_d85a412f7c7481baef00105fb71,agent_00490e668be8e0244229d1de5a,12082140131,919789946123,error,"5/26/2025, 6:22:09 PM","5/26/2025, 6:22:09 PM",-,karthiksiva5070@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_1bdfae77ce433e3b150b9634025,agent_00490e668be8e0244229d1de5a,12082140131,918220720715,error,"5/26/2025, 6:02:34 PM","5/26/2025, 6:02:34 PM",-,mathi07051999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_7df09712279dcd875f81b6899df,agent_00490e668be8e0244229d1de5a,12082140131,918220720715,error,"5/26/2025, 5:57:02 PM","5/26/2025, 5:57:02 PM",-,mathi07051999@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.03,call_b4d856a9fa2f8abd03d9bf721c5,agent_00490e668be8e0244229d1de5a,12082140131,919828110014,ended,"5/26/2025, 5:42:36 PM","5/26/2025, 5:42:51 PM",15,waqureshi2@yahoo.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/69638be6d96b906f1478e629dec6e1e8c92d3dda31dc4fb9aa0e735c4b905022/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",15,user_hangup
-$0.08,call_54c6455f12655027e340ea19e4d,agent_00490e668be8e0244229d1de5a,12082140131,916264063841,ended,"5/26/2025, 5:06:50 PM","5/26/2025, 5:07:31 PM",41,somuvarma86@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: हां.
-Agent: Wah Somu ji, 
-User: Hello.
-Agent: badhiya! Main abhi aapko WhatsApp pe ek checkout link bhej raha hoon. Uspe click karke aap apna order complete kar sakte hain. Aur haan, aapko bas code ""O-F-F-5"" apply karna hai, aur 5% ka discount mil jayega.Agar koi dikkat ho, toh mujhe zarur batayein.
-User: हां ठीक है.
-",https://dxc03zgurdly9.cloudfront.net/bdfeb4bfb88c87ed9a00ef15bd3cd43283280f9299ee6a613b599f89d39fae72/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, contacted the user to inform them about an additional 5% discount on their cart items. The user agreed to the offer, and the agent sent a WhatsApp checkout link along with a discount code for the user to complete their order.","elevenlabs_tts, gpt_4o",41,user_hangup
