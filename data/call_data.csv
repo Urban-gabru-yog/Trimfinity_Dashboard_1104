@@ -1,4 +1,70 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.35,call_f3f4cf9b7d357e1ed262ab3d450,agent_00490e668be8e0244229d1de5a,12082140131,919814682964,ended,"5/30/2025, 2:41:44 PM","5/30/2025, 2:44:38 PM",174,gurpinderp2002@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं sir. नहीं sir.
+Agent: अरे, कोई बात 
+User: नहीं
+Agent: नहीं Gurpinder जी! बस जानना चाह रहा था कि आपको Trimfinity 1.0 Body & Ball Trimmer पसंद आया था या नहीं? क्या price को लेकर सोच रहे थे, या कोई और confusion है?
+User: नहीं sir मैंने मुझे चाहिए नहीं वह.
+Agent: अच्छा, कोई बात नहीं Gurpinder जी! बस एक बात बताना चाहूंगा—Trimfinity 1.0 Body & Ball Trimmer काफी popular है, और इसकी quality और features इसे 
+User: क्या क्या 
+Agent: अलग 
+User: feature है sir इसमें?
+Agent: अरे वाह, Gurpinder जी! ये तो सही सवाल पूछा आपने! देखिए, Trimfinity 1.0 Body & Ball Trimmer में कुछ जबरदस्त features हैं:
+
+1. Safe Design, Zero Cuts - Stainless steel ceramic blade है, जो sensitive areas में भी बिना cuts के smooth trimming देता है।  
+2. IPX6 Waterproof - इसे आप shower में भी use कर सकते हैं, और cleaning भी super easy है।  
+3. Dual-Mode Motor - Normal mode (6500 RPM) और Turbo mode (7000 RPM) है, जो thick और curly hair के लिए perfect है।  
+4. LED Light - Low-light areas में भी precise trimming के लिए built-in LED light है।  
+5. Long Battery Life - 90 minutes की runtime है, और fast charging base के साथ आता है।  
+6. Travel Lock - Travel करते वक्त accidental activation से बचने के लिए lock feature है।  
+7. Adjustable Combs - 4 comb attachments (3mm, 
+User: चलो ठीक है sir मुझे 
+Agent: 6mm, 9mm, 
+User: चाहिए मेरा. कोई नहीं जब lockdown भी मैं कर लूंगा auto.
+Agent: अरे वाह, Gurpinder जी, ये तो बढ़िया बात है! चलिए, मैं आपको अभी WhatsApp पर एक quick checkout link भेज देता हूं। बस उस पर क्लिक करके आराम से payment कर लीजिए। अगर कोई दिक्कत हो, तो मुझे ज़रूर बताइएगा। 😊
+User: नहीं sir, मुझे चाहिए नहीं अब.
+Agent: अरे, कोई बात नहीं Gurpinder जी! अगर आपको कभी future में चाहिए हो, तो बस Trimfinity याद रखिएगा। वैसे, अगर आप 
+User: हां हां मुझे पता है sir thank you so much. Bye sir, ok. Thank you.
+Agent: अरे, कोई बात नहीं Gurpinder जी! आपका दिन बढ़िया जाए, और अगर कभी जरूरत हो तो हम यहीं हैं। Thank you, bye!
+",https://dxc03zgurdly9.cloudfront.net/1ca42defada8beddb52f5cd8181929917b2a1ef129ef2b561a0479ccd06b8408/recording.wav,Neutral,False,"The user, Gurpinder, was contacted by the agent from Trimfinity regarding a product in their cart, offering an additional discount. Despite the agent's attempts to provide information about the product features, Gurpinder declined the offer and expressed no interest in purchasing the item, ending the call on a polite note.","elevenlabs_tts, gpt_4o",174,user_hangup
+$0.25,call_016e5ac572ade2f3bd5eb9bbd28,agent_00490e668be8e0244229d1de5a,12082140131,919814682964,ended,"5/30/2025, 2:32:43 PM","5/30/2025, 2:34:48 PM",125,gurpinderp2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: No.
+User: No.
+Agent: Koi 
+User: नहीं.
+Agent: baat nahi, Gurpinder ji! Agar aapko kabhi future mein koi sawaal ho ya product ke baare mein help chahiye ho, toh aap humein WhatsApp ya call kar sakte hain. Hum hamesha madad ke liye tayar hain. 😊
+
+Aur haan, agar kabhi mann badle toh aap code O-F-F-5 use karke 5% ka discount le sakte hain. Yeh sirf limited time ke liye hai. Aapka din shubh ho!
+User: Ok. Ok.
+User: ठीक है. Ok.
+User: ठीक 
+User: है.
+Agent: ठीक है, गुरपिंदर जी! 😊 अगर आपको कभी Trimfinity 1.0 Body & Ball Trimmer खरीदने का मन हो, तो बस याद रखिए 
+User: मैंने ले लिया है sir वह.
+User: मैंने ले लिया है.
+Agent: अरे वाह, गुरपिंदर जी! ये तो बहुत बढ़िया खबर है! 🎉 Trimfinity 1.0 Body & Ball Trimmer आपके लिए एकदम सही रहेगा. अगर आपको कभी इस्तेमाल करते वक्त कोई सवाल हो या मदद चाहिए, तो हमसे बेझिझक संपर्क कर सकते हैं.आपका दिन शानदार हो, और नए ट्रिमर के साथ मज़े कीजिए!
+User: Ok,
+User: Ok.
+Agent: ठीक 
+User: Ok.
+Agent: है, गुरपिंदर जी! 😊 अगर आपको और किसी चीज़ की ज़रूरत हो, तो हमसे बेझिझक संपर्क करें. आपका दिन बढ़िया जाए!
+User: Ok sir, thank you.
+Agent: You're most welcome, Gurpinder ji! 😊 Thank you for choosing Trimfinity. If you ever need help or have any questions, feel free to reach out to us on WhatsApp or call.
+User: Ok 
+Agent:  Have a great day and enjoy your new trimmer!
+User: sir. Ok sir.
+Agent: Shukriya, Gurpinder ji!
+",https://dxc03zgurdly9.cloudfront.net/e6f1ce8ee3b354ac2ab21a4c4ddef9e199ec06c0ad5f0f702cff43e5d3c73f8e/recording.wav,Positive,True,"The user, Gurpinder, was offered a 5% discount on a product but declined the offer. The agent confirmed that Gurpinder had already purchased the Trimfinity 1.0 Body & Ball Trimmer and provided reassurance for future assistance, ending the call on a positive note.","elevenlabs_tts, gpt_4o",125,user_hangup
+$0.01,call_83fe7e8e501c7885d81241f0741,agent_00490e668be8e0244229d1de5a,12082140131,919814682964,ended,"5/30/2025, 2:31:55 PM","5/30/2025, 2:32:01 PM",6,gurpinderp2002@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
+",https://dxc03zgurdly9.cloudfront.net/aea0e3482552aac266a7a8fd832ee7662fd69cc68ae54a38e380308f9aed2d51/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation appears to be in the early stages, focusing on the user's interest in the product.","elevenlabs_tts, gpt_4o",6,user_hangup
+$0.04,call_880bf23723e72350e05ca8f9491,agent_00490e668be8e0244229d1de5a,12082140131,918849753376,ended,"5/30/2025, 2:27:30 PM","5/30/2025, 2:27:49 PM",19,Anshpate9577@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Right
+",https://dxc03zgurdly9.cloudfront.net/6384432c46f5c0f1423311aecff715978f5f0f7f02bd064eb7ddc07736c8dc44/recording.wav,Positive,True,"The agent from Trimfinity reached out to the user, Aryan, to inform them about an additional 5% discount on a product they added to their cart. The user expressed interest by responding positively.","elevenlabs_tts, gpt_4o",19,user_hangup
+$-,call_3eddf506a66c40177849cfdf6d0,agent_00490e668be8e0244229d1de5a,12082140131,918849753376,error,"5/30/2025, 2:27:29 PM","5/30/2025, 2:27:29 PM",-,Anshpate9577@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_e00934ec54c5d661860d6371d8d,agent_00490e668be8e0244229d1de5a,12082140131,918849753376,error,"5/30/2025, 2:18:09 PM","5/30/2025, 2:18:09 PM",-,Anshpate9577@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.36,call_810e6b4aab61b4c6bf98f8c0229,agent_00490e668be8e0244229d1de5a,12082140131,918923334987,ended,"5/30/2025, 2:17:05 PM","5/30/2025, 2:20:02 PM",178,sparshkumar657@gmail.com,"Agent: Hello, 
 User: हां बोल. अच्छा
