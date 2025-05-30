@@ -1,4 +1,11 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.05,call_065db37f2e1797ad37c773258fc,agent_00490e668be8e0244229d1de5a,12082140131,918103564259,ended,"5/30/2025, 10:47:37 AM","5/30/2025, 10:48:00 AM",23,harshdewangan66@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hey 
+",https://dxc03zgurdly9.cloudfront.net/0b1786fbd3f8f8526569646cc9b62288819237c67bb6308e21d57a9370f87830/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call seems to be in the early stages, with the user responding but no further details provided.","elevenlabs_tts, gpt_4o",23,user_hangup
+$-,call_93277bc36ec274929f1de8598ce,agent_00490e668be8e0244229d1de5a,12082140131,917034120532,error,"5/30/2025, 10:27:26 AM","5/30/2025, 10:27:26 AM",-,aswanthb32@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_72e3504a6871c885a54679e1a4f,agent_00490e668be8e0244229d1de5a,12082140131,917034120532,error,"5/30/2025, 10:22:28 AM","5/30/2025, 10:22:28 AM",-,aswanthb32@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.12,call_25fa971bc093079a8907720eed1,agent_00490e668be8e0244229d1de5a,12082140131,919633769627,ended,"5/30/2025, 10:06:49 AM","5/30/2025, 10:07:46 AM",58,Pramodivine5@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: Hello.
 Agent: Hi Pramod! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 3 in 1 face trimmer on our website. Just wanted to see if you had any questions or needed help completing your order?
