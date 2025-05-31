@@ -1,4 +1,64 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.35,call_e375bd21329d60a8fa722081ca5,agent_00490e668be8e0244229d1de5a,12082140131,918309931907,ended,"5/31/2025, 5:06:47 PM","5/31/2025, 5:09:44 PM",177,riyaz.014ahmed@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: निर्माणाचारे 
+User: व्यक्ति
+Agent: Hello Riyaz ji, lagta hai aap busy ho gaye the. Bas yaad dilana tha ki aapke cart mein Trimfinity 7000 Body and Ball 
+User: आपका call hold पर है. Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par hoon. Aapka time le raha hoon, jab aap free ho 
+User: आपका call hold पर 
+Agent: jaayein toh baat karte hain.
+User: है. Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Koi baat nahi Riyaz ji, main line par hoon. Aap jab free ho jaayein, tab baat karte hain.
+User: आपका call hold पर है. Line पर बने रहें या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Theek hai Riyaz ji, main line par hoon. Aap apna time lijiye, main yahin hoon jab aap 
+User: आपका call hold पर 
+Agent: ready ho baat karne ke liye.
+User: है. Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par hoon. Aap apna time lijiye, main intezaar kar raha hoon.
+User: आपका call hold 
+Agent:  Jab aap free ho jaayein, tab 
+User: पर है. Line पर बने रहें या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Theek hai Riyaz ji, main line par hoon. Aap apna kaam khatam kijiye, main yahin hoon jab aap 
+User: आपका call hold पर 
+Agent: ready ho baat karne ke liye.
+User: है. Line पर बने रहें या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par hoon. Aap apna time lijiye, main yahin hoon jab aap baat karne ke liye 
+User: आपका call 
+Agent: free ho jaayein.
+User: hold पर है. Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Theek hai Riyaz ji, main line par hoon. Jab aap free ho jaayein, tab baat karte hain. Main 
+User: आपका call hold पर 
+Agent: yahin hoon, aapka intezaar kar raha 
+User: है. Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par 
+User: आपका call hold पर 
+Agent: hoon. Aap apna time 
+User: है. Line पर बने
+",https://dxc03zgurdly9.cloudfront.net/3cefd34b0803f253a57348e1c52115e4bea13a8d1ea407ad6f0a4c076a7b110e/recording.wav,Neutral,False,"The call involved an agent reaching out to a user, Riyaz, to remind him about a product in his cart and an additional discount offer. However, the user repeatedly indicated that the call was on hold, suggesting he was unable to continue the conversation at that moment.","elevenlabs_tts, gpt_4o",177,max_duration_reached
+$0.09,call_87ca4c67e5f0604032fb65121d2,agent_00490e668be8e0244229d1de5a,12082140131,918309931907,ended,"5/31/2025, 5:02:16 PM","5/31/2025, 5:02:58 PM",43,riyaz.014ahmed@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes.
+Agent: Wah Riyaz ji, badhiya! Aapne bilkul sahi decision liya. Main aapko abhi ek WhatsApp link bhejta hoon jisme aapko checkout karte waqt code ""O - F - F - 5"" apply karna hai. Isse aapko 5% ka discount mil jayega.Aap bas link pe click karke payment complete kar lijiye. Agar koi dikkat ho, toh mujhe zarur batayiye.
+",https://dxc03zgurdly9.cloudfront.net/e60bff35364af14167cb73de8625a3bc636f26441756913a11f5e53b10c50feb/recording.wav,Positive,True,The agent informed the user about an additional 5% discount on their cart and confirmed that the user wanted to claim it. The agent then provided a WhatsApp link for checkout and instructed the user to apply the discount code during payment.,"elevenlabs_tts, gpt_4o",43,user_hangup
+$0.12,call_e5cd46f3acfd073be089d595833,agent_00490e668be8e0244229d1de5a,12082140131,918309931907,ended,"5/31/2025, 5:01:59 PM","5/31/2025, 5:02:59 PM",61,riyaz.014ahmed@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: (inaudible speech)
+Agent: ""Hello Riyaz ji, main Aryan bol raha hoon Trimfinity se. Aapne 
+User: आपका call hold पर 
+Agent: Trimfinity 7000 
+User: है. Line पर बने रहे
+Agent: Bilkul Riyaz ji, 
+User: करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par hoon. Aapka time le raha hoon, aapka 
+User: आपका call hold पर है. 
+Agent: call hold par hai, main 
+User: Line पर बने रहे या कुछ देर बाद कोशिश करें. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Riyaz ji, main line par hoon. Aapka time le raha hoon, aapka call hold par hai, 
+User: आपका call
+Agent: main yahin hoon jab tak 
+",https://dxc03zgurdly9.cloudfront.net/148fc04a0773bf1008d4b66d41c0fd367e848338712f11ddc6e58dfbfe984642/recording.wav,Neutral,False,"The call involved an agent named Aryan from Trimfinity reaching out to a user named Riyaz regarding a product in their cart and offering an additional discount. However, the call was interrupted multiple times with the user putting the call on hold, leading to a lack of resolution.","elevenlabs_tts, gpt_4o",61,user_hangup
+$0.02,call_7b646f57f310a7ee1ac01285016,agent_00490e668be8e0244229d1de5a,12082140131,918309931907,ended,"5/31/2025, 4:57:17 PM","5/31/2025, 4:57:26 PM",9,riyaz.014ahmed@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
+",https://dxc03zgurdly9.cloudfront.net/1cce8556eae8ec424e68693a97e247ef9b40372f842e4977d1c5f30db38e06bd/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart.","elevenlabs_tts, gpt_4o",9,user_hangup
 $0.02,call_424674d44c66bea1b72d721b46f,agent_00490e668be8e0244229d1de5a,12082140131,919023574642,ended,"5/31/2025, 4:41:44 PM","5/31/2025, 4:41:56 PM",12,kishanchavda9886@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/c17cc674c63d2a57c49ebbd3f617d8c76ebfbf3eb5c61d5b6aade729fc369536/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o",12,user_hangup
 $0.10,call_33e62243ef98eb6bd0a9e7f457e,agent_00490e668be8e0244229d1de5a,12082140131,916282076019,ended,"5/31/2025, 2:52:42 PM","5/31/2025, 2:53:32 PM",50,chandru6282@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
@@ -1046,4 +1106,3 @@ Agent: ki aapne product cart mein add kiya tha.
 ",https://dxc03zgurdly9.cloudfront.net/3a7ef18979df6f69d663f9104ebae42c45ee83ba954cf9469cfe61c652683645/recording.wav,Neutral,False,The agent identified themselves and mentioned that the user had added a product to their cart. The call appears to be in the initial stages of discussing the user's cart activity.,"elevenlabs_tts, gpt_4o",6,user_hangup
 $-,call_08b5645b5e8a5d24fa3722cf2bc,agent_00490e668be8e0244229d1de5a,12082140131,918006193435,error,"5/27/2025, 5:47:06 PM","5/27/2025, 5:47:06 PM",-,fardeen22012@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_ea0fba020ad734ebb38ebcc91a5,agent_00490e668be8e0244229d1de5a,12082140131,919474065284,error,"5/27/2025, 5:02:05 PM","5/27/2025, 5:02:05 PM",-,subratanayak.iitkgp@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_82a9643e6a44adb798bf7d0eda5,agent_00490e668be8e0244229d1de5a,12082140131,919833867353,error,"5/27/2025, 2:22:04 PM","5/27/2025, 2:22:04 PM",-,adityagupta0627@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
