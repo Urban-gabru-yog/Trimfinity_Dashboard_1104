@@ -1,4 +1,19 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_b23372a8237895428d497aa9297,agent_00490e668be8e0244229d1de5a,12082140131,918010352016,ended,"5/31/2025, 1:36:48 PM","5/31/2025, 1:36:51 PM",3,nirmalmahale2307@gmail.com,"User: Your call 
+Agent: Hello, main 
+User: has been forwarded.
+",https://dxc03zgurdly9.cloudfront.net/5e9211b6621b1925f089a38811e103faccc11d2a359dc5e6ac5bbb9bc3bc5d24/recording.wav,Neutral,False,"The user informed the agent that their call has been forwarded, but there was no further interaction or resolution provided in the transcript.","elevenlabs_tts, gpt_4o",3,voicemail_reached
+$0.09,call_8db9a1bebf0b8aed35fcfc7d41f,agent_00490e668be8e0244229d1de5a,12082140131,918010352016,ended,"5/31/2025, 1:31:34 PM","5/31/2025, 1:32:20 PM",47,nirmalmahale2307@gmail.com,"Agent: Hello, main 
+User: Ok.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं,
+Agent: अरे, 
+User: No.
+Agent: कोई बात नहीं Nirmal Suryakant जी! अगर आपको कोई सवाल हो या कभी खरीदने का मन बने, तो बस मुझे बताइए। वैसे, ये Trimfinity 7000 Body and 
+User: रख दो phone.
+Agent: ठीक है Nirmal Suryakant जी, कोई दिक्कत हो तो हमें कभी भी कॉल या मैसेज कर सकते हैं। आपका दिन शुभ हो!
+User: नहीं,
+",https://dxc03zgurdly9.cloudfront.net/0aba8f41a666ff95944761c0800dd2a68125f5d31375d17ab245305be30a1771/recording.wav,Negative,True,"The user was contacted by an agent from Trimfinity regarding a product in their cart and an additional discount offer. The user declined the offer and ended the conversation politely, indicating they were not interested in purchasing at this time.","elevenlabs_tts, gpt_4o",47,user_hangup
 $-,call_cf9d3f97b84965f61125969e7ba,agent_00490e668be8e0244229d1de5a,12082140131,918319491209,error,"5/31/2025, 12:53:09 PM","5/31/2025, 12:53:09 PM",-,Www.hemlal@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_7096cc897170c800508c9757495,agent_00490e668be8e0244229d1de5a,12082140131,919868499314,error,"5/31/2025, 12:53:08 PM","5/31/2025, 12:53:08 PM",-,ggauravsharma085@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_d937b1e209ef89558fe2d03dfb5,agent_00490e668be8e0244229d1de5a,12082140131,918890133822,error,"5/31/2025, 12:53:07 PM","5/31/2025, 12:53:07 PM",-,tribhawan.sb1997@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
