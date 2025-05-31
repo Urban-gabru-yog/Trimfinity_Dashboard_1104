@@ -1,4 +1,19 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.10,call_33e62243ef98eb6bd0a9e7f457e,agent_00490e668be8e0244229d1de5a,12082140131,916282076019,ended,"5/31/2025, 2:52:42 PM","5/31/2025, 2:53:32 PM",50,chandru6282@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
+User: Hello. Hello 
+Agent: add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: No.
+Agent: No problem, S Chandran! Just wanted to check if there was 
+User: (inaudible speech)
+Agent: anything holding you back from completing the purchase? Maybe the price, or you had some questions about the product? Let me know—I’d be happy to help!
+User: I am not ready with the plan right now.
+Agent: Got it, S Chandran! No worries at all. Sometimes it takes a little time to decide. Just so you know, we’re offering an exclusive 5% discount with the code O-F-F-5, valid 
+User: Can you call me 
+Agent: only for today.
+User: back? हां.
+",https://dxc03zgurdly9.cloudfront.net/019d8239333d74fbb8ca74ca1b0d14752804736fbca3af283c59a659aa5f565b/recording.wav,Neutral,False,"The user, S Chandran, was contacted by an agent from Trimfinity regarding a product in their cart and was offered a 5% discount. The user declined the offer and mentioned they were not ready to make a purchase, requesting a callback instead.","elevenlabs_tts, gpt_4o",50,user_hangup
+$0.03,call_1d8ef2a4c3ada0a67e81876d1f8,agent_00490e668be8e0244229d1de5a,12082140131,916282076019,ended,"5/31/2025, 2:51:55 PM","5/31/2025, 2:52:10 PM",16,chandru6282@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/d31a693aff51fcc4c099a68674ac52d474effa6f09a54e0a34896a99cce617ed/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o",16,user_hangup
 $0.01,call_52ab26a215c681e53505b6c583b,agent_00490e668be8e0244229d1de5a,12082140131,916282076019,ended,"5/31/2025, 2:33:03 PM","5/31/2025, 2:33:09 PM",6,chandru6282@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
 ",https://dxc03zgurdly9.cloudfront.net/758c7100903f9e96a12161bd256efebf4505fdb565ba7d51e40f15333d5132fc/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation likely continued to discuss the user's interest in the product or assistance with the purchase process.","elevenlabs_tts, gpt_4o",6,user_hangup
 $0.01,call_b23372a8237895428d497aa9297,agent_00490e668be8e0244229d1de5a,12082140131,918010352016,ended,"5/31/2025, 1:36:48 PM","5/31/2025, 1:36:51 PM",3,nirmalmahale2307@gmail.com,"User: Your call 
