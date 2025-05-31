@@ -1116,4 +1116,3 @@ $0.01,call_f227b99632e76cb4c60acf194bf,agent_00490e668be8e0244229d1de5a,12082140
 User: Hello
 Agent: ki aapne product cart mein add kiya tha. 
 ",https://dxc03zgurdly9.cloudfront.net/3a7ef18979df6f69d663f9104ebae42c45ee83ba954cf9469cfe61c652683645/recording.wav,Neutral,False,The agent identified themselves and mentioned that the user had added a product to their cart. The call appears to be in the initial stages of discussing the user's cart activity.,"elevenlabs_tts, gpt_4o",6,user_hangup
-$-,call_08b5645b5e8a5d24fa3722cf2bc,agent_00490e668be8e0244229d1de5a,12082140131,918006193435,error,"5/27/2025, 5:47:06 PM","5/27/2025, 5:47:06 PM",-,fardeen22012@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
