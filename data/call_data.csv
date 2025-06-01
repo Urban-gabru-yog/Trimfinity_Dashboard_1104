@@ -1,4 +1,30 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.09,call_6a41edc1ea45cfb4ecd01ba9658,agent_00490e668be8e0244229d1de5a,12082140131,919447762360,ended,"6/1/2025, 1:16:43 PM","6/1/2025, 1:17:29 PM",47,uvakshay@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hello Akshay ji, lagta hai aap busy ho gaye. Bas yaad dilana chahta tha ki aapke cart mein Trimfinity Edge Shave hai, aur aaj ke din aapke liye ek special 5% off available hai. Agar aapko koi sawaal ya help chahiye ho, toh bataiye!
+",https://dxc03zgurdly9.cloudfront.net/44a716dba5cbaad7bc40cc96b48e6cceff83f445a45fdd8f24cbed8adae82cad/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Akshay to remind him about a product in his cart and offered an additional 5% discount for the day. However, it seems that Akshay was busy and did not engage in the conversation.","elevenlabs_tts, gpt_4o",47,inactivity
+$0.20,call_12ceff3c8449a48a185e9888e9f,agent_00490e668be8e0244229d1de5a,12082140131,919447762360,ended,"6/1/2025, 1:13:00 PM","6/1/2025, 1:14:41 PM",102,uvakshay@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes.
+Agent: Wah 
+User: I 
+Agent: Akshay ji, badhiya!
+User: wish to check. Yes
+User: Hello, 
+Agent: Perfect, Akshay ji!
+User: tell me.
+Agent:  Main 
+Agent: Perfect, Akshay! So, I noticed you were checking out the Trimfinity Edge Shave for ₹2599. I just wanted to check if you had any questions or concerns before completing your purchase? Let me know how I can help!
+User: Nothing.
+Agent: Alright, Akshay! Just a quick heads-up—this model is quite popular and tends to sell out fast. Last week, it went out of stock, so if you're interested, now might be a good time to grab it.Also, since you're special to us, I can offer you an exclusive 5% discount with the code O-F-F-5. This is valid only for today. Should I send you a quick WhatsApp link to make the checkout easier?
+User: Yes.
+Agent: Great, Akshay! I'll send you a WhatsApp 
+User: Wecent decent.
+Agent: link right away. Just click on it, apply the code O-F-F-5 during checkout, and you'll get your exclusive 5% discount. Let me know if you need any help while completing the purchase. Thank you for choosing Trimfinity!
+User: Nothing more.
+Agent: Got it, Akshay! I've sent the WhatsApp link to you. If you need any help or have any questions, feel free to reach out. Thanks for your time, and I hope you enjoy your Trimfinity Edge Shave! Have a great day!
+",https://dxc03zgurdly9.cloudfront.net/4a9cf8728dc2bd4389cec615d7d9bbccb5420703cec6d8e193d6e30afa09752c/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, offered the user, Akshay, a 5% discount on the Trimfinity Edge Shave product he was interested in. After confirming his interest, the agent sent a WhatsApp link for easier checkout and provided the discount code, ensuring Akshay had no further questions before concluding the call.","elevenlabs_tts, gpt_4o",102,user_hangup
+$-,call_c8ad7b6f07a315653721ad3dbb5,agent_00490e668be8e0244229d1de5a,12082140131,919711353504,error,"6/1/2025, 1:02:31 PM","6/1/2025, 1:02:31 PM",-,tyagilalit661@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.01,call_73874b1930e0d2d228bfe6eeda4,agent_00490e668be8e0244229d1de5a,12082140131,919711353504,ended,"6/1/2025, 1:01:50 PM","6/1/2025, 1:01:57 PM",7,tyagilalit661@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din 
+",https://dxc03zgurdly9.cloudfront.net/4d0e0ade4f39de43062d084c23b63072f774983c359577dcd6a3e2471ab83f76/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call to follow up on a product that the user had added to their cart. The conversation likely involved discussing the user's interest in the product and possibly addressing any questions or concerns they had.","elevenlabs_tts, gpt_4o",7,user_hangup
 $-,call_bcb3d6512b6b4bacbf208419fd6,agent_00490e668be8e0244229d1de5a,12082140131,918423504520,error,"6/1/2025, 12:37:25 PM","6/1/2025, 12:37:25 PM",-,am7861898@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_580209a380ba062a5e80e7b7585,agent_00490e668be8e0244229d1de5a,12082140131,918871324676,error,"6/1/2025, 12:28:31 PM","6/1/2025, 12:28:31 PM",-,Sunnysolanki1995@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.22,call_6852ab271982d55f512d229012f,agent_00490e668be8e0244229d1de5a,12082140131,918423504520,ended,"6/1/2025, 12:28:11 PM","6/1/2025, 12:30:01 PM",111,am7861898@gmail.com,"Agent: Hello, main Aryan 
@@ -1099,38 +1125,3 @@ $0.05,call_e2657cde196eec39534becb12c5,agent_00490e668be8e0244229d1de5a,12082140
 Agent: ""Hello Vishnu ji, lagta hai aap 
 ",https://dxc03zgurdly9.cloudfront.net/70844c6c5ce2675251ec5198e6814d4886cb09ba0f3ab7adf860a7a7b58cee03/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Vishnu to inform him about an additional 5% discount on a product he added to his cart. The call was initiated to encourage Vishnu to claim the discount.","elevenlabs_tts, gpt_4o",25,user_hangup
 $-,call_e098e1fea9c4e6eccde212c2439,agent_00490e668be8e0244229d1de5a,12082140131,919995436172,error,"5/28/2025, 12:23:02 PM","5/28/2025, 12:23:02 PM",-,vishnusadanandan91@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.30,call_034f60a129f1b74000d43e241f0,agent_00490e668be8e0244229d1de5a,12082140131,917666347636,ended,"5/28/2025, 12:06:54 PM","5/28/2025, 12:09:22 PM",149,banarasesarthak@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi Sarthak! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Pro Max Body & Ball Trimmer on our website. Just wanted to check if you had any questions or if there was anything stopping you from completing the purchase?
-User: हां.
-User: Hello?
-Agent: Haan Sarthak ji, main sun raha hoon. Aapko product pasand toh aaya? Bas price ka kuch soch rahe the ya aur kuch tension hai?
-User: Price का सोच रहा तो.
-Agent: Bilkul samajh sakta hoon, Sarthak ji. Dekhiye, Trimfinity 7000 Pro Max thoda premium hai, lekin iska reason hai—yeh advanced technology aur high-quality materials ke saath aata hai, jo long-lasting aur safe trimming experience deta hai. Ek baar le liya toh kaafi time tak tension-free rahenge.
-
-Lekin agar aapko thoda aur push chahiye, toh ek kaam karte hain—main aapke liye ek exclusive 5% discount de sakta hoon. Sirf aaj ke liye, theek hai? Code hai: O-F-F-5. Aapko bas checkout karte time apply karna hai. Kaisa 
-Agent: laga?
-User: ठीक है
-User: WhatsApp पर एक message कर 
-Agent: Wah, Sarthak 
-User: देना link WhatsApp पर उसकी एक link भेज देना.
-Agent: Bilkul Sarthak ji! Main abhi aapko WhatsApp par ek checkout link bhej deta hoon. Aap 
-User: ठीक है. WhatsApp पर 
-Agent: bas uspe click karke apna order complete kar 
-User: ही
-User: coupon code भी WhatsApp पर ही भेज देना.
-Agent: Bilkul Sarthak ji! Main abhi aapko WhatsApp par checkout link ke saath coupon code bhi bhej deta hoon. Code hai: O-F-F-5. Aap bas checkout karte time apply kar lena. Agar koi aur help chahiye ho toh mujhe bata dena.
-User: ठीक है.
-Agent: Shukriya, Sarthak ji! Main 
-User: ठीक है.
-Agent: abhi WhatsApp par link aur coupon code bhej raha hoon. Agar aur kuch madad chahiye ho, toh bina jhijhak mujhe contact kar lena. Aapka din shubh ho!
-",https://dxc03zgurdly9.cloudfront.net/568bf24944b5e512173250048a035d39c76ad846800deda30927520768dc3422/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Sarthak, who was considering purchasing the Trimfinity 7000 Pro Max Body & Ball Trimmer. After discussing the product and offering a 5% discount, the agent agreed to send the checkout link and coupon code via WhatsApp as requested by the user.","elevenlabs_tts, gpt_4o",149,user_hangup
-$0.12,call_f1274416c03c41b3d2c98b7b3b3,agent_00490e668be8e0244229d1de5a,12082140131,919560863013,ended,"5/28/2025, 11:51:37 AM","5/28/2025, 11:52:38 AM",62,singhdigvijay348@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
-User: 019195 06:08. 6 
-Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: 03:01 3. Please don't hang up and hold on a moment.
-Agent: Of course, take your time, DIGVIJAY PRATAP ji. I'm here, let me know whenever you're ready!
-Agent: DIGVIJAY PRATAP ji, main disturb nahi karna chahta, bas yaad dilane ke liye pooch raha hoon—kya aapko Trimfinity 1.0 Body & Ball Trimmer ke baare mein koi sawaal ya madad chahiye? Main yahin hoon, ready to help!
-",https://dxc03zgurdly9.cloudfront.net/4c4e518314b5e415cf6efa459c5f1adba8b594c3271eb009116afd22511db39d/recording.wav,Neutral,False,"The user, DIGVIJAY PRATAP, was informed by the agent about an additional 5% discount on a product they added to their cart. The user requested a moment to think, and the agent assured them they could take their time while offering assistance with the product.","elevenlabs_tts, gpt_4o",62,inactivity
-$-,call_dba164dbe307d19df5c1a767394,agent_00490e668be8e0244229d1de5a,12082140131,918630559610,error,"5/28/2025, 11:47:06 AM","5/28/2025, 11:47:06 AM",-,saaurabhsingh9897@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$-,call_6f787e5a3295b7a9353b74f04b4,agent_00490e668be8e0244229d1de5a,12082140131,919560863013,error,"5/28/2025, 11:47:05 AM","5/28/2025, 11:47:05 AM",-,singhdigvijay348@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
