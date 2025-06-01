@@ -1,4 +1,42 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_b28c1d288d56c5660d18f5b6581,agent_00490e668be8e0244229d1de5a,12082140131,919567315780,error,"6/1/2025, 1:38:40 PM","6/1/2025, 1:38:40 PM",-,shuhaibch68@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.36,call_98768429c3c0337b1e906891b21,agent_00490e668be8e0244229d1de5a,12082140131,917666347636,ended,"6/1/2025, 1:38:03 PM","6/1/2025, 1:41:00 PM",178,banarasesarthak@gmail.com,"Agent: Hello, main Aryan 
+User: Hello. हां
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Offer में हूं दो हज़ार तक के दिन लगेगा क्या pro max?
+User: Hello?
+Agent: Haan Sarthak ji, main samajh sakta hoon ki aap ₹2000 ke budget mein soch rahe hain. Dekhiye, Trimfinity 7000 Pro Max ek premium trimmer hai, jo advanced technology aur high-quality material ke saath aata hai, isliye iska price ₹2399 hai.Lekin, aapke liye ek kaam karte hain—main aapko ek exclusive 5% discount de sakta hoon. Aap bas code O-F-F-5 use karke ₹2279 mein ise le sakte hain. Par yeh offer sirf aaj ke liye hai, kyunki yeh model kaafi fast sell hota hai.Aapko lagta hai yeh theek rahega?
+User: मैंने मैंने 80 c 01:50 लगाया तो 225 में लग रहा है वह. 2250. दो हज़ार दो सौ पचास में.
+Agent: Haan Sarthak ji, bilkul sahi pakda aapne! Agar aap code OFF5 lagate hain, toh price ₹2250 ho jayega. Yeh ek exclusive deal hai jo aapke liye available hai. Aur honestly, yeh model kaafi 
+User: दो 
+Agent: jaldi 
+User: हज़ार में नहीं होंगे क्या वह?
+Agent: Sarthak ji, main samajh sakta hoon ki aap ₹2000 ke budget mein soch rahe hain. Lekin honestly, Trimfinity 7000 Pro Max ki jo quality aur features hain, woh is price range mein milna mushkil hai. Yeh ek long-lasting aur advanced trimmer hai jo aapke grooming kaafi easy aur smooth bana dega.
+
+Lekin ek kaam karte hain—agar 
+User: Attachment क्या क्या आते हैं 
+Agent: aap ek aur product add karte 
+User: उसमें?
+Agent: Achha sawaal hai, Sarthak ji! Trimfinity 7000 Pro Max ke saath aapko kaafi useful attachments milte hain:
+
+1. Adjustable Comb Attachments - Aap alag-alag lengths ke liye use kar sakte hain, chahe aapko close trim chahiye ya thoda longer look.
+2. Charging Cable - Easy charging ke liye.
+3. Cleaning Brush - Trimmer ko saaf aur hygienic rakhne ke liye.
+4. LED Display - Jo aapko battery percentage aur Turbo Mode ka status dikhata hai.
+
+Aur iska ergonomic design aur stainless steel ceramic blades toh icing on the cake hai! Aapko aur kuch specific chahiye jo main clarify kar sakoon?
+User: कुछ तो नहीं है. वह price का ही बोल रहा था मैं दो हज़ार तक हो गया offer लगा के तो थोड़ा अच्छा हो जाएगा.
+Agent: Samajh gaya, Sarthak ji. Aap price ko lekar thoda aur comfortable feel karna chahte hain. Dekhiye, honestly, ₹2250 jo discount ke baad price hai, woh already ek special deal hai, kyunki yeh trimmer premium quality aur advanced 
+",https://dxc03zgurdly9.cloudfront.net/699d54985f402683a600ffd89af2a3cf6461ed361c8f1f50af13083861498d70/recording.wav,Neutral,False,"The user, Sarthak, inquired about a trimmer priced at ₹2399 and expressed a budget concern of ₹2000. The agent offered a 5% discount bringing the price down to ₹2250, and provided details about the product's features and attachments, but the user seemed hesitant about the price.","elevenlabs_tts, gpt_4o",178,max_duration_reached
+$0.01,call_e6b3684ada41113c9352f8e7de4,agent_00490e668be8e0244229d1de5a,12082140131,919567315780,ended,"6/1/2025, 1:37:08 PM","6/1/2025, 1:37:13 PM",6,shuhaibch68@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add 
+",https://dxc03zgurdly9.cloudfront.net/c0fb3f6cdde72bb25941667a8d77589b0466c7cd7ce261780d9ff336ae34fe5f/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation appears to be in the early stages, focusing on the user's shopping activity.","elevenlabs_tts, gpt_4o",6,user_hangup
+$0.06,call_a9c29926555e083299f0690cf36,agent_00490e668be8e0244229d1de5a,12082140131,919567315780,ended,"6/1/2025, 1:31:39 PM","6/1/2025, 1:32:08 PM",29,shuhaibch68@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: No.
+Agent: Koi baat nahi, Mohammed ji! Agar aapko kabhi lagta hai ki aapko product ke baare mein aur information chahiye ya kabhi future mein lena ho, toh bas humein bata dijiyega. Main aapko ek WhatsApp link bhej deta 
+",https://dxc03zgurdly9.cloudfront.net/425d781877b4b02e323fd964bdc4a823e667bfb34e8af946d07092217359a437/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user declined the offer, and the agent offered to send a WhatsApp link for future inquiries.","elevenlabs_tts, gpt_4o",29,user_hangup
+$-,call_a869035a57ade405fe5b509ff19,agent_00490e668be8e0244229d1de5a,12082140131,919567315780,error,"6/1/2025, 1:28:15 PM","6/1/2025, 1:28:15 PM",-,shuhaibch68@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $0.09,call_6a41edc1ea45cfb4ecd01ba9658,agent_00490e668be8e0244229d1de5a,12082140131,919447762360,ended,"6/1/2025, 1:16:43 PM","6/1/2025, 1:17:29 PM",47,uvakshay@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 Agent: Hello Akshay ji, lagta hai aap busy ho gaye. Bas yaad dilana chahta tha ki aapke cart mein Trimfinity Edge Shave hai, aur aaj ke din aapke liye ek special 5% off available hai. Agar aapko koi sawaal ya help chahiye ho, toh bataiye!
 ",https://dxc03zgurdly9.cloudfront.net/44a716dba5cbaad7bc40cc96b48e6cceff83f445a45fdd8f24cbed8adae82cad/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Akshay to remind him about a product in his cart and offered an additional 5% discount for the day. However, it seems that Akshay was busy and did not engage in the conversation.","elevenlabs_tts, gpt_4o",47,inactivity
@@ -1105,23 +1143,3 @@ $0.01,call_97fb502afabc5e8fa91dc9d6bf9,agent_00490e668be8e0244229d1de5a,12082140
 Agent: Hello, main Aryan 
 User: has been forwarded to voice now.
 ",https://dxc03zgurdly9.cloudfront.net/666601d38d13ae4071b2028021fa4c7de7f47a2120baa5cce32d33573782866e/recording.wav,Neutral,False,"The user initiated a call and was connected to an agent named Aryan. The call was then forwarded to a voice system, indicating a transition in the call process.","elevenlabs_tts, gpt_4o",3,voicemail_reached
-$-,call_128c6200ed429b1507bcc67b253,agent_00490e668be8e0244229d1de5a,12082140131,917676252594,error,"5/28/2025, 12:57:54 PM","5/28/2025, 12:57:54 PM",-,vssantoshkumar7676@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.04,call_fc4846aa566fb8381dbf2318943,agent_00490e668be8e0244229d1de5a,12082140131,917676252594,ended,"5/28/2025, 12:57:08 PM","5/28/2025, 12:57:25 PM",18,vssantoshkumar7676@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
-User: Hello.
-Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise 
-User: I ordered in Flipkart.
-User: I 
-Agent: Oh, I see, 
-User: ordered this product in
-",https://dxc03zgurdly9.cloudfront.net/a880845933577c37d9f909d007d4c89262fa83ca8cd49a6b5c76be79777d6163/recording.wav,Neutral,False,"The user is interacting with an agent from Trimfinity regarding a product they added to their cart, but the user clarifies that they ordered the product from Flipkart instead. The agent acknowledges this information.","elevenlabs_tts, gpt_4o",18,user_hangup
-$0.08,call_b878825ac5af9cd7c8cbcf2f8f0,agent_00490e668be8e0244229d1de5a,12082140131,917676252594,ended,"5/28/2025, 12:52:33 PM","5/28/2025, 12:53:12 PM",39,vssantoshkumar7676@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-Agent: Hello Santosh ji, lagta hai aap busy ho gaye. Koi baat nahi! Bas yaad dilana tha ki aapke cart mein Trimfinity 7000 Body and Ball Trimmer abhi bhi hai. Agar aapko koi bhi sawal ya confusion ho, toh mujhe zarur batayein. Waise, yeh model kaafi 
-",https://dxc03zgurdly9.cloudfront.net/45d0b391f2ddfac5bdf61470a459841a30884d173caef1a9dbef87fdf880e614/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Santosh to remind him about a product in his cart and offered an additional 5% discount. The call seemed to indicate that Santosh was busy, and the agent encouraged him to ask any questions about the product.","elevenlabs_tts, gpt_4o",39,user_hangup
-$0.01,call_bf2cbdb6e88f0d6c6e1086afa5a,agent_00490e668be8e0244229d1de5a,12082140131,917676252594,ended,"5/28/2025, 12:51:40 PM","5/28/2025, 12:51:46 PM",7,vssantoshkumar7676@gmail.com,"User: Hello.
-Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya 
-",https://dxc03zgurdly9.cloudfront.net/ba82db1f9d75693fff884f37ca04dc1724ce406628aae8a0fbe1580cf55b8712/recording.wav,Neutral,False,"The user initiated a call with the agent from Trimfinity, who acknowledged that the user had added a product to their cart. The conversation appears to be in the early stages, focusing on the user's interest in a product.","elevenlabs_tts, gpt_4o",7,user_hangup
-$-,call_9c1659810ad87c20737dcc92c4c,agent_00490e668be8e0244229d1de5a,12082140131,917676252594,error,"5/28/2025, 12:37:13 PM","5/28/2025, 12:37:13 PM",-,vssantoshkumar7676@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
-$0.05,call_e2657cde196eec39534becb12c5,agent_00490e668be8e0244229d1de5a,12082140131,919995436172,ended,"5/28/2025, 12:32:43 PM","5/28/2025, 12:33:08 PM",25,vishnusadanandan91@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-Agent: ""Hello Vishnu ji, lagta hai aap 
-",https://dxc03zgurdly9.cloudfront.net/70844c6c5ce2675251ec5198e6814d4886cb09ba0f3ab7adf860a7a7b58cee03/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Vishnu to inform him about an additional 5% discount on a product he added to his cart. The call was initiated to encourage Vishnu to claim the discount.","elevenlabs_tts, gpt_4o",25,user_hangup
-$-,call_e098e1fea9c4e6eccde212c2439,agent_00490e668be8e0244229d1de5a,12082140131,919995436172,error,"5/28/2025, 12:23:02 PM","5/28/2025, 12:23:02 PM",-,vishnusadanandan91@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
