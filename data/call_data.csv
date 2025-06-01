@@ -1,4 +1,93 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_d9a6cda5870931783cf782b48bd,agent_00490e668be8e0244229d1de5a,12082140131,918088183502,error,"6/1/2025, 5:18:02 PM","6/1/2025, 5:18:02 PM",-,bas.kumar2808@gmail.com,-,-,Unknown,False,-,,-,dial_busy
+$0.26,call_aec2af960f85e6e0f5b67d4ceda,agent_00490e668be8e0244229d1de5a,12082140131,919747662882,ended,"6/1/2025, 5:17:40 PM","6/1/2025, 5:19:48 PM",129,labeebat111@gmail.com,"Agent: Hello, main Aryan 
+User: Hello, मैंने आ 
+Agent: hoon Trimfinity se. 
+User: गया बहुत Liberty से.
+Agent: Arre wah, Mohammed 
+User: आ रहे 
+Agent: bhai! Aap 
+User: हुआ. वहां में फ़ायदा. आपने but
+Agent: Mohammed 
+User: वहां में 
+Agent: bhai, lagta hai 
+User: सही लगता है
+Agent: Mohammed bhai, 
+User: हमें सही लगता 
+Agent: lagta hai aap thoda busy 
+User: है अब
+User: वाह 
+Agent: Arre wah, Mohammed bhai! Agar 
+User: वहां में. अगर आपको
+Agent: Haan Mohammed 
+User: मोहम्मद भाई 
+Agent: bhai, lagta 
+User: लगता है
+User: हां 
+Agent: Haan Mohammed bhai, lagta hai 
+User: मोहम्मद ताहिर. लगता है आप
+Agent: Haan Mohammed 
+User: हां मोहितेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपेपे 
+Agent: bhai, lagta hai aap thoda 
+User: लगता
+Agent: Haan Mohammed 
+User: आपको हमें भाई 
+Agent: bhai, lagta hai aap mazaak 
+User: लगता है आप मज़ाक के
+Agent: Arre Mohammed bhai, 
+User: अरे महावीर, 
+Agent: aap toh bade mazaakhiya 
+User: आप तो बड़े मज़ाकिया हो.
+Agent: Haan Mohammed 
+User: आन मोहम्मद 
+Agent: bhai, aap toh sach mein bade 
+User: भाई, आप तो सच में बड़े मत
+Agent: Haan Mohammed 
+User: नाम मोहम्मद 
+Agent: bhai, aap toh sach mein 
+User: भाई, आप तो सच में बढ़े.
+Agent: Haan Mohammed 
+User: नाम मोहम्मद 
+Agent: bhai, aap toh 
+User: भाई, आप तो सच
+Agent: Haan Mohammed bhai, aap toh 
+User: हां मोहम्मद आप सच में 
+Agent: sach mein bade interesting ho!
+User: बड़े ही interesting हो.
+Agent: Bilkul Mohammed bhai!
+User: बिल्कुल मुहम्मद 
+Agent:  Aapke saath baat karke 
+User: भाई आपके साथ बात करके तो
+Agent: Bilkul Mohammed 
+User: बिल्कुल मुहम्मद 
+Agent: bhai, aapke saath 
+User: भाई. आपके साथ बात
+Agent: Bilkul Mohammed 
+User: बिल्कुल मुहम्मद 
+Agent: bhai, aapke saath 
+User: भाई आपके साथ
+Agent: Bilkul Mohammed 
+User: बिल्कुल मोहम्मद 
+Agent: bhai, aapke saath 
+User: भाई. आपके साथ बात
+Agent: Bilkul Mohammed bhai, 
+User: बिल्कुल मुहम्मद भाई आपके 
+Agent: aapke saath baat karke toh maza 
+User: साथ बात करके तो मज़ा ही
+User: मुहम्मद भाई आपके साथ बात 
+Agent: Bilkul Mohammed bhai, aapke saath baat karke toh maza hi aa 
+User: करके तो मज़ा
+",https://dxc03zgurdly9.cloudfront.net/b1e6e8c45ae9c5072e5ee1f03e587d423afb9bb18a2c926fb42500c4aecba4e7/recording.wav,Positive,True,"The call involved a light-hearted conversation between the user, Mohammed, and the agent, where they exchanged pleasantries and engaged in friendly banter. The user expressed enjoyment in talking with the agent, indicating a positive interaction.","elevenlabs_tts, gpt_4o",129,user_hangup
+$0.01,call_a30fb7416960b43c59c3b8be3be,agent_00490e668be8e0244229d1de5a,12082140131,919747662882,ended,"6/1/2025, 5:12:42 PM","6/1/2025, 5:12:47 PM",6,labeebat111@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: The person you 
+Agent: se. Maine dekha ki 
+User: are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/ffc58e5e64f12e78705b02aa6d3742407091fbb6d861be0fb26570a5734ca063/recording.wav,Neutral,False,The user informed the agent that the person they were trying to reach is not available. The call did not progress further as the user indicated the unavailability of the intended contact.,"elevenlabs_tts, gpt_4o",6,voicemail_reached
+$-,call_e403d4eadc2e85cf3040f62f4af,agent_00490e668be8e0244229d1de5a,12082140131,918088183502,error,"6/1/2025, 5:12:39 PM","6/1/2025, 5:12:39 PM",-,bas.kumar2808@gmail.com,-,-,Unknown,False,-,,-,dial_busy
+$0.01,call_2d5fb98d385b68c0e0cccb8efd0,agent_00490e668be8e0244229d1de5a,12082140131,919747662882,ended,"6/1/2025, 5:06:41 PM","6/1/2025, 5:06:44 PM",3,labeebat111@gmail.com,"Agent: Hello, 
+User: Your call has been forwarded to voice now.
+",https://dxc03zgurdly9.cloudfront.net/a56e0728ab3cc4868b57738241c32a842595c238f5bfd9f7a3ca36cc655eb78c/recording.wav,Neutral,False,"The call was initiated by the user, but it appears to have been forwarded to a voicemail system without any interaction or resolution of issues.","elevenlabs_tts, gpt_4o",3,voicemail_reached
+$-,call_75931833e1830aa8c183fda25ee,agent_00490e668be8e0244229d1de5a,12082140131,918088183502,error,"6/1/2025, 5:06:19 PM","6/1/2025, 5:06:19 PM",-,bas.kumar2808@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $0.02,call_f301075a406b8730f4d9f011805,agent_00490e668be8e0244229d1de5a,12082140131,919567917752,ended,"6/1/2025, 4:16:55 PM","6/1/2025, 4:17:02 PM",8,vigneshvichu2002@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
 ",https://dxc03zgurdly9.cloudfront.net/533348b49a3db04070d5265e13052159841727ffd1c4fdeb62aaa15070a5a7dc/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and was likely offering assistance or a promotion related to it.","elevenlabs_tts, gpt_4o",8,user_hangup
 $-,call_3c30d2d9ddcfc4756948a5516d0,agent_00490e668be8e0244229d1de5a,12082140131,919946065658,error,"6/1/2025, 4:13:19 PM","6/1/2025, 4:13:19 PM",-,Vadakara.ajmalvp@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
