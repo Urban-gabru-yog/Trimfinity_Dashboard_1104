@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_08716e01a6bac5b9fc27062eba5,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:18:20 PM","6/2/2025, 2:18:20 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$0.09,call_6aaef6197c4294d51d8ff24edfc,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 2:12:29 PM","6/2/2025, 2:13:11 PM",43,ra7740198@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं. कौन?
+User: अरे भाई दिमाग ना खो खा रहे हैं कितना phone?
+User: Hello.
+Agent: Arre, sorry Abdulraheeman bhai! Lagta hai galat time pe call kar diya. Main Aryan bol raha 
+User: Diabetes line आप जिस 
+Agent: hoon Trimfinity se. Aapne Trimfinity 7000 
+User: व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहे. The person you are speaking with has put your call on hold. Please stay
+",https://dxc03zgurdly9.cloudfront.net/2f84b914d348bee22390d9ca35e5728775a7ac6ed2fc53c99a2abcdc5de22b38/recording.wav,Negative,False,"The call involved an agent from Trimfinity offering a discount to the user, but the user expressed confusion and frustration, indicating that the call was not well-received. The call was interrupted as the user was placed on hold by another person.","elevenlabs_tts, gpt_4o",43,user_hangup
+$-,call_9437bc3478897f79944d5ce1aa4,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:03:23 PM","6/2/2025, 2:03:23 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_167e70d642626225c5f14a1eb5f,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 1:52:03 PM","6/2/2025, 1:52:03 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $0.02,call_acd52f6d2ca58b55e3c313dc2e0,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 1:41:51 PM","6/2/2025, 1:42:02 PM",11,ra7740198@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/eb63b6946ca8e150f26cee19887ea63f8dfb97d0610d126a600efe01cef14ab1/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on offering this promotion to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o",11,user_hangup
 $-,call_2c27be9f44d5ccfb2cfae1cef6b,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 1:32:26 PM","6/2/2025, 1:32:26 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
