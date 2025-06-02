@@ -1,4 +1,30 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_a1570a69c20db39b7a841727295,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 5:18:07 PM","6/2/2025, 5:18:07 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_10e13824a470e01a485c7b0003c,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 5:12:32 PM","6/2/2025, 5:12:32 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$0.08,call_11ba89bb5f6f9b59c3b0577c7e7,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 5:12:18 PM","6/2/2025, 5:12:58 PM",40,ra7740198@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello. Hello
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: (inaudible speech)
+User: नहीं करना चाहता हूं sir.
+Agent: Arre, koi baat nahi 
+Agent: Abdulraheeman 
+User: नहीं करना है.
+Agent: Bilkul theek, 
+User: ठीक है sir.
+Agent: Bilkul theek, Abdulraheeman 
+User: बाल ठीक है. ठीक. 
+Agent: ji. Koi tension ki baat nahi hai. Agar kabhi future mein 
+User: Ok.
+User: फिर 
+Agent: Haan bilkul, Abdulraheeman 
+User: थोड़ा busy हूं मैं आप. थोड़ा अच्छी.
+Agent: Bilkul, Abdulraheeman ji, main 
+User: (inaudible speech)
+Agent: samajh sakta hoon aap busy hain. Koi 
+",https://dxc03zgurdly9.cloudfront.net/c0d7ff11a1e085181c00378d0531e0cf41da6756188b3241236be7a85521ddb8/recording.wav,Neutral,True,"The agent reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The user declined the offer, indicating they were busy and not interested in the promotion.","elevenlabs_tts, gpt_4o",40,user_hangup
+$-,call_4af0815b9a9db9472b48c55355d,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 5:06:31 PM","6/2/2025, 5:06:31 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
+$-,call_89af858ad88834407285f7e57a3,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:52:36 PM","6/2/2025, 4:52:36 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_b1c24c228683528156ae9d69ecf,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:51:48 PM","6/2/2025, 4:51:48 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_276e480bca1e5dadad0035909cf,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:46:42 PM","6/2/2025, 4:46:42 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $-,call_d7f64b265e06a99bf05b3a64bac,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:42:05 PM","6/2/2025, 4:42:05 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $-,call_121c7a6f91d94d49f02ecaf5dd9,agent_00490e668be8e0244229d1de5a,12283350337,919306324905,error,"6/2/2025, 4:23:15 PM","6/2/2025, 4:23:15 PM",-,mohitrp573321@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
