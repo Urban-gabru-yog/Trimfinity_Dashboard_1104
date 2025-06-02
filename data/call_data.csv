@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$-,call_a88446534b88a327dd2bd78fe0f,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:41:52 PM","6/2/2025, 3:41:52 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_busy
+$-,call_172dc44f2478afafb14348fdb28,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:23:15 PM","6/2/2025, 3:23:15 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
+$-,call_fcc0a65dff0c227cd017093c023,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:22:36 PM","6/2/2025, 3:22:36 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_c2c7ffd6a4dc780aabab9ec1b80,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:18:11 PM","6/2/2025, 3:18:11 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
 $-,call_f8f45a587d9c93b675f4328e9a7,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:03:03 PM","6/2/2025, 3:03:03 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_busy
 $-,call_a5c719f18a119101179b3e0e8ea,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 3:02:46 PM","6/2/2025, 3:02:46 PM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_no_answer
