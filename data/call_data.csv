@@ -1,4 +1,42 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.34,call_dc3915c837e205e2ab9a90101c2,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 11:31:56 AM","6/2/2025, 11:34:45 AM",170,ra7740198@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: ले रहे हो उसे हज़ार रुपए देकर.
+Agent: Arre Abdulraheeman bhai, ₹1000 mein toh aapko aise advanced trimmer milna mushkil hai!
+User: जी.
+Agent:  Trimfinity 7000 Body and Ball Trimmer ekdum premium quality ka hai—skin-safe blades, waterproof design, aur LED light ke saath. Yeh ekdum long-lasting hai aur sensitive areas ke liye perfect hai.Lekin agar aapko price ka tension hai, toh mai aapke liye ek chhota sa special offer de sakta hoon—5% ka discount. Sirf aaj ke liye! Code hai O-F-F-5. Kya lagta hai, chalega?
+User: नहीं.
+User: कुछ 
+User: भी
+Agent: Arre Abdulraheeman bhai, samajh sakta hoon ki price kaafi 
+Agent: Arre Abdulraheeman 
+User: वह return कर दिया फिर.
+Agent: Arre Abdulraheeman bhai, agar aapko 
+User: अब और है?
+Agent: lagta hai ki product 
+Agent: Haan bilkul, Abdulraheeman bhai! Trimfinity 7000 abhi stock mein hai, lekin yeh model kaafi fast sell hota hai. Pichle hafte bhi out of stock ho gaya tha. Agar aap interested ho, toh mai aapke liye ek special 5% discount ka offer kar sakta 
+User: आपको offer offer 
+Agent: hoon—sirf aaj ke liye! Code 
+User: आपको अगर नहीं नहीं है तो नहीं है तो return कर दिया amount.
+Agent: Arre Abdulraheeman bhai, lagta hai kuch confusion ho gaya hai. Agar aapne product return kiya hai, toh refund process ke liye aapko support@trimfinity.in par email karna hoga. Refund usually 3-5 business days mein ho jata hai. Agar 
+User: कितना? कितना?
+Agent: aapko koi aur help chahiye, toh bas bata dijiye!
+User: फिर वह 
+Agent: Abdulraheeman 
+User: 1000 का ही क्या?
+Agent: Abdulraheeman bhai, ₹1000 ka toh nahi ho sakta, kyunki Trimfinity 7000 ek premium product hai jo ₹1699 ka hai. Lekin agar aapko price ka tension hai, toh mai aapke liye ek special 5% ka discount de sakta hoon. Sirf aaj ke liye! Code hai O-F-F-5. Isse price ₹1614 ho jayega. Kya lagta hai, chalega?
+User: नहीं.
+Agent: Arre Abdulraheeman bhai, koi tension nahi! Agar aapko lagta hai ki abhi nahi lena hai, toh koi baat nahi. Lekin ek baat bataun—Trimfinity 7000 kaafi log pasand karte hain, aur yeh sensitive areas ke liye ekdum safe aur reliable hai. Agar kabhi future mein lena ho, toh bas mujhe ya team ko 
+User: थोड़ा आगे 
+Agent: bata dena.
+User: ले.
+User: 3 months 
+Agent: Samajh gaya 
+User: का EMI है ना उस पर?
+Agent: Haan bilkul, Abdulraheeman 
+",https://dxc03zgurdly9.cloudfront.net/5469ae0f7de3696f1f23da7e14e1582c27716603df691319729221d40a1ded55/recording.wav,Negative,False,"The user, Abdulraheeman, was offered a 5% discount on the Trimfinity 7000 Body and Ball Trimmer, but he expressed dissatisfaction with the price and mentioned returning the product. The agent provided information about the refund process and confirmed that the product is available for purchase with a discount, but the user declined the offer.","elevenlabs_tts, gpt_4o",170,user_hangup
+$-,call_61db65216aacb7cd1253234e8fe,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:31:45 AM","6/2/2025, 11:31:45 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_cfcb01fb01d867860d4b5bf8991,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:07:08 AM","6/2/2025, 11:07:08 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_3d44773981c138abb1bacb4e378,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:06:41 AM","6/2/2025, 11:06:41 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
 $-,call_420e94552116ba7143cc9a91426,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:01:46 AM","6/2/2025, 11:01:46 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,,-,dial_failed
