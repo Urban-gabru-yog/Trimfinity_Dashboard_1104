@@ -1,4 +1,31 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.09,call_9c30a74228584e7650c8c04ebb9,agent_00490e668be8e0244229d1de5a,12283350337,918780952050,ended,"6/3/2025, 8:51:46 PM","6/3/2025, 8:52:23 PM",38,vipulshahcomputer@gmail.com,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes,
+User: हां हां.
+Agent: Hi Shah! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer for ₹1799. Just wanted to check if you had any questions or if something was holding you back from completing the purchase?
+",https://dxc03zgurdly9.cloudfront.net/0fc6566c98052332b088bbd6800c1e5f6b386198a508f4f32f14206666fda2ba/recording.wav,Positive,True,"The user, Aryan, was contacted by an agent from Trimfinity regarding a product in their cart, the Trimfinity 7000 Body and Ball Trimmer. The agent offered an additional 5% discount to encourage the user to complete the purchase and inquired if the user had any questions or concerns.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",38,inactivity
+$0.24,call_e225fe0d0f9f795af5b42b4a46d,agent_00490e668be8e0244229d1de5a,12283350337,918780952050,ended,"6/3/2025, 8:51:26 PM","6/3/2025, 8:53:06 PM",101,vipulshahcomputer@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes yes,
+Agent: Hi Shah! Great to hear from you. So, I noticed you were checking 
+User: समय चीज़
+Agent: out the Trimfinity 7000 Body and Ball Trimmer for ₹1799. Did you 
+User: hold पर रखे आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहे. The person you are speaking with has put your call on hold. Please stay on the line.
+Agent: Bilkul Shah ji, main line par hoon.
+User: Hold पर 
+Agent:  Aapka time le raha 
+User: रखिए
+Agent: Bilkul Shah 
+User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहे. The person you are speaking with has put your call on hold.
+User: Hello.
+Agent: Hi Shah ji!
+User: Hello
+Agent:  Welcome back. So, as I was saying, I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer. Koi dikkat thi ya kuch sawal jo main help kar sakoon?
+User: इसका चाहिए.
+Agent: Wah Shah ji, badhiya choice hai! Trimfinity 7000 ekdum advanced aur safe hai, aur sensitive areas ke liye perfect hai. Main abhi aapko ek WhatsApp link bhejta hoon, bas uspe click karke checkout kar lijiye. Aur haan, aaj ke liye ek special 5% discount code bhi hai: O-F-F-5. Jaldi kariye, stock limited hai!
+",https://dxc03zgurdly9.cloudfront.net/02c4d90a9c318c40c081cc274cb43ee7460260ffb2ce91e3b9cf5257284e1b7e/recording.wav,Positive,True,"The user, Shah, was contacted by the agent from Trimfinity regarding a product in their cart, the Trimfinity 7000 Body and Ball Trimmer. After a brief hold, the agent provided information about the product and offered a special 5% discount, sending a WhatsApp link for checkout.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",101,user_hangup
 $0.42,call_c544e3b3cbc917fbe6da6963309,agent_00490e668be8e0244229d1de5a,12283350337,917021082562,ended,"6/3/2025, 7:47:35 PM","6/3/2025, 7:50:32 PM",178,ashishajyadav@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: Hello.
 Agent: Hi Ashish! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to see if you had any questions or if there was anything stopping you from completing the purchase?
