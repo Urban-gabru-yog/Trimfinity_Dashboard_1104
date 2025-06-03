@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_4c62186e351dc4cfaeb04384ca7,agent_00490e668be8e0244229d1de5a,12283350337,918452962111,ended,"6/3/2025, 1:16:56 PM","6/3/2025, 1:16:59 PM",4,batitasingh234@gmail.com,"User: Your 
+Agent: Hello, main 
+User: call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/56b2e0b9988a59c8d955a0b19cf14f9fed60135f6211c53a68beaef7d833359d/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail. No further actions were taken during the call.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.01,call_ed46b7ace64e1a68ecccd821f2a,agent_00490e668be8e0244229d1de5a,12283350337,918452962111,ended,"6/3/2025, 1:12:58 PM","6/3/2025, 1:13:04 PM",6,batitasingh234@gmail.com,"User: कहां 
+Agent: Hello, main Aryan hoon 
+User: से बात कर रहे हो ना? Hello.
+Agent: Hello, main Aryan bol 
+",https://dxc03zgurdly9.cloudfront.net/5768abf0620716cc6481fa8cdb488326f31464b86e62497ca9804d104295527c/recording.wav,Neutral,False,"The user initiated the call but seemed confused about the agent's identity, asking for clarification. The agent introduced himself as Aryan, but the conversation did not progress further due to the user's uncertainty.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,user_hangup
+$0.01,call_5f746ba96d1abc606589b75fb4a,agent_00490e668be8e0244229d1de5a,12283350337,918452962111,ended,"6/3/2025, 1:07:06 PM","6/3/2025, 1:07:12 PM",6,batitasingh234@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Has been forwarded. The person you are trying to reach not able to
+",https://dxc03zgurdly9.cloudfront.net/5cbdd18bd4d2ac8776dc17f9c7c64af8d5d1021f872424b4f032ec816bc262d6/recording.wav,Neutral,False,The user attempted to reach a specific person but was informed that the person is currently unavailable. The call did not progress further as the user did not engage with the agent after the initial response.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
 -,call_6f30608c3859c7fe402f69088ef,agent_00490e668be8e0244229d1de5a,12283350337,917385072205,error,"6/3/2025, 12:07:39 PM","6/3/2025, 12:07:39 PM",-,Ninadtawle@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_c2abfa15b8f2c437cb1bcb0307e,agent_00490e668be8e0244229d1de5a,12283350337,919602947907,ended,"6/3/2025, 12:07:01 PM","6/3/2025, 12:07:09 PM",9,Prashanttak35@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya 
 ",https://dxc03zgurdly9.cloudfront.net/5baef45bb264e95e02259bb02a02c184bba4696bee828f3ec937c0b805421b87/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user regarding a product they added to their cart, informing them about an additional 5% discount available for the day.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
