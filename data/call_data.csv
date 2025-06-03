@@ -1,4 +1,45 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_5de0acea2ca96199e51be4e1a82,agent_00490e668be8e0244229d1de5a,12283350337,916394945933,ended,"6/3/2025, 2:46:47 PM","6/3/2025, 2:46:50 PM",3,arpit1267singh@gmail.com,"User: Call 
+Agent: Hello, main Aryan hoon 
+User: has been forwarded to voice now.
+",https://dxc03zgurdly9.cloudfront.net/066268068829ade9e093a9e848f4a5d64b57ca8c67743dac104fab018269bc66/recording.wav,Neutral,False,"The user initiated a call and was connected to an agent named Aryan. The call seems to have been forwarded to a voice system, but the context of the conversation is unclear due to the limited transcript.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",3,voicemail_reached
+$0.42,call_dec5b9cd2685920bd470a061ae2,agent_00490e668be8e0244229d1de5a,12283350337,919638749184,ended,"6/3/2025, 2:46:30 PM","6/3/2025, 2:49:27 PM",178,arjunborana146@gmail.com,"Agent: Hello, 
+User: Hello. हां. 
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product 
+User: हां.
+Agent: Namaste Borana ji! Kaise hain aap? Main Trimfinity se Aryan bol raha hoon. Maine dekha ki 
+User: हां.
+Agent: aapne Trimfinity 1.0 Body & Ball Trimmer apne cart mein add kiya tha, par checkout complete nahi kiya. Bas yeh puchna tha ki koi dikkat toh nahi aayi ya kuch confusion hai? Main help kar sakta hoon!
+User: मेरे को अभी तक order नहीं मिला. Courier नहीं मिला.
+Agent: Arre Borana 
+User: Hello? हां.
+Agent: ji, lagta hai thoda confusion ho gaya hai. Aapne abhi tak order place nahi kiya hai, bas product apne cart mein add kiya tha. Agar aapko lag raha tha ki order ho gaya hai, toh shayad checkout complete nahi hua hoga.Koi baat nahi, agar aap interested hain, toh main abhi aapko ek WhatsApp link bhej deta hoon jahan se aap asaani se checkout kar sakte hain. Aapko product ke baare mein aur kuch puchna hai?
+User: अरे मैंने order भी कर दिया है पैसे भी cut गए.
+Agent: Ohh, Borana ji! Agar aapka payment ho gaya hai aur order place ho chuka hai, toh zarur kuch technical issue ho sakta hai. Aap tension mat lijiye, main abhi aapki help karta hoon.
+
+Aap mujhe ek kaam kijiye, apne order ka confirmation email ya message check karke dekhiye. Agar aapko confirmation nahi mila hai, toh ho sakta hai payment stuck ho gaya ho. Aap mujhe apna registered email ID ya order details de dijiye, main abhi check karke aapko update deta hoon.
+
+Aur agar kuch aur issue ho, toh aap humein support@trimfinity.in par email kar sakte hain ya WhatsApp pe 7397805347 par message kar dijiye. Hum turant aapki problem solve karenge!
+User: मैंने order कर दिया है, पैसे भी cut गए हैं. और order निकल भी चुका है, निकल में आ ही गया है, पर receive नहीं हुआ अभी अभी.
+Agent: Ohh, samajh gaya Borana ji! Agar aapka order dispatch ho chuka hai aur abhi tak receive nahi hua, toh ho sakta hai courier partner ke end pe thoda delay ho gaya ho. Aap tension mat lijiye, main aapko guide karta hoon.
+
+Aapko ek delivery confirmation WhatsApp ya email message mila hoga, usme tracking details honi chahiye. Aap ek baar apne order ka tracking status check karke dekhiye. Agar phir bhi kuch samajh nahi aaye, toh aap humein turant WhatsApp ya email kar dijiye.
+
+Aap WhatsApp pe 7397805347 par message karke apna issue bata sakte hain, ya support@trimfinity.in par apni details bhej dijiye. Hum courier partner se contact karke aapka issue jaldi se resolve karenge. Aapka product jaldi hi aapke paas hoga, Borana ji!
+User: आपसे WhatsApp
+",https://dxc03zgurdly9.cloudfront.net/d8456d3fd381c0a0a6ec118afcb45317062ac99abaef1b627f2ad3b46f9711e3/recording.wav,Neutral,True,"The user, Borana ji, contacted the agent regarding an order they believed was placed but not received. The agent clarified that the order was not completed, but after further discussion, it was confirmed that the payment was made and the order was dispatched. The agent provided guidance on checking tracking details and offered support for any further issues.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",178,max_duration_reached
+$0.02,call_0436f930eb67836e12251bed914,agent_00490e668be8e0244229d1de5a,12283350337,919638749184,ended,"6/3/2025, 2:42:27 PM","6/3/2025, 2:42:36 PM",10,arjunborana146@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya 
+",https://dxc03zgurdly9.cloudfront.net/f7978b6795df4c98d2272d2f5bc578aaeac8a24ab2068d8e7e5d6d22baf04092/recording.wav,Neutral,False,"The user initiated a call and the agent, Aryan from Trimfinity, informed the user about an additional 5% discount on a product they had added to their cart. The conversation appears to be in the early stages, with the agent trying to engage the user regarding the offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
+$0.14,call_09143a5460df8e1d74577c3e17f,agent_00490e668be8e0244229d1de5a,12283350337,919638749184,ended,"6/3/2025, 2:41:38 PM","6/3/2025, 2:42:36 PM",59,arjunborana146@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं.
+Agent: Arre Borana ji, koi baat nahi! Bas aapko help karne ke liye call kiya tha. Waise, aapko Trimfinity 1.0 Body & Ball Trimmer pasand toh aaya tha na? Koi tension ya sawal ho toh bataiye, main zarur madad karunga.
+Agent: Borana ji, aap abhi busy lag rahe hain shayad? Koi baat nahi, main bas yeh kehna chahta tha ki agar aapko Trimfinity 1.0 Body & Ball Trimmer ke baare mein kuch bhi puchna ho ya koi confusion ho, toh mujhe zarur batayein. Waise yeh model kaafi fast sell hota 
+User: आप जिस 
+Agent: hai, toh agar 
+User: व्यक्ति
+",https://dxc03zgurdly9.cloudfront.net/cd482e054971d79bf5eed87a4510a5fb69edd11bff6e31a5d94558e5b9d4738d/recording.wav,Neutral,False,"The user received a call from an agent offering a 5% discount on a product they had added to their cart. The user declined the offer and seemed busy, while the agent continued to offer assistance regarding the product.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",59,user_hangup
 $0.02,call_defb733d6240948499565938713,agent_00490e668be8e0244229d1de5a,12283350337,919008451349,ended,"6/3/2025, 2:07:22 PM","6/3/2025, 2:07:29 PM",8,geetanjaliwaster5713@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
 ",https://dxc03zgurdly9.cloudfront.net/1199db19218c5c882280be1d10631e6f19f81b7eae19794b1c02f5a2fa5c421c/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and was likely offering assistance or a promotion related to that product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
 $0.05,call_26db15f1e804c4e852eb72641f2,agent_00490e668be8e0244229d1de5a,12283350337,919835262406,ended,"6/3/2025, 2:07:01 PM","6/3/2025, 2:07:21 PM",21,tanweer944@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
