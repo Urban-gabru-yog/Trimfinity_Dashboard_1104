@@ -1,4 +1,32 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_c391bb5957e4b3a1116a3131144,agent_00490e668be8e0244229d1de5a,12283350337,917770055223,error,"6/3/2025, 4:47:59 PM","6/3/2025, 4:47:59 PM",-,vinsim.2010@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.17,call_e2cb4d89f9d1b71812ae09448aa,agent_00490e668be8e0244229d1de5a,12283350337,917770055223,ended,"6/3/2025, 4:47:33 PM","6/3/2025, 4:48:43 PM",71,vinsim.2010@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes, I want to claim.
+Agent: Great choice, Vinay! Aapke liye ek exclusive 5% discount code hai: O - F - F - 5. Bas checkout karte waqt ye code apply kar lena, aur aapka price ₹1799 se aur kam ho jayega.
+
+Main abhi ek WhatsApp link bhej deta hoon aapko, taaki aap jaldi se checkout kar sako. Aapko aur koi help chahiye toh bataiye!
+User: I don't want any help it.
+Agent: Bilkul theek, Vinay ji! Main bas abhi aapko WhatsApp pe link bhej deta hoon, taaki aap apne time pe checkout kar sako. Agar kabhi bhi koi sawal ho ya help chahiye ho, toh bas humein contact kar lena.
+
+Aapka din shubh ho!
+User: Thank you.
+Agent: Aapka bhi shukriya, Vinay ji! 😊 Agar kuch aur zarurat ho, toh humein zarur batayein. Have a great day!
+",https://dxc03zgurdly9.cloudfront.net/e87ae2773a279f409f55d377e3508d6b6b17834ee7ed1e1c17ffa0568643cdc5/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, offered the user, Vinay, an additional 5% discount on a product in his cart. Vinay accepted the offer and received a discount code along with a WhatsApp link for easy checkout. The call ended positively with Vinay expressing gratitude.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",71,user_hangup
+$0.14,call_d3f7acf8204a93b8b1f0191db2c,agent_00490e668be8e0244229d1de5a,12283350337,917770055223,ended,"6/3/2025, 4:41:48 PM","6/3/2025, 4:42:47 PM",59,vinsim.2010@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello?
+Agent: Hi 
+User: Hello
+Agent: Vinay! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to see if you had any 
+User: Yes yes yes sir.
+User: yes I 
+Agent: Great to hear from you, 
+User: want to play.
+Agent: Great to hear that, Vinay! So, you’re interested in the Trimfinity 7000 Body and Ball Trimmer? It’s an amazing choice—super advanced and built to last. Do you have any questions about it, or should I help you with the checkout?
+User: No no
+Agent: No problem, Vinay! If you’re not ready right now, that’s totally fine. But just a heads-up—this model sells out pretty fast. Last week, it went out of stock.By the way, I can offer you an 
+",https://dxc03zgurdly9.cloudfront.net/653726622b722ba01b873682720a9dbf07024bbb217b9ce60749ddf8cfbf5b9b/recording.wav,Neutral,False,"The user, Vinay, was contacted by Aryan from Trimfinity regarding a product he added to his cart, the Trimfinity 7000 Body and Ball Trimmer. Aryan offered an additional discount and provided information about the product, but the user did not express a desire to proceed with the purchase at this time.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",59,user_hangup
 -,call_3f278c90c0e8b33106f2862a7f4,agent_00490e668be8e0244229d1de5a,12283350337,918000037570,error,"6/3/2025, 4:18:05 PM","6/3/2025, 4:18:05 PM",-,Rajukorat@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_f348eb6f4c9d954c2f30c611795,agent_00490e668be8e0244229d1de5a,12283350337,919890810515,error,"6/3/2025, 4:18:04 PM","6/3/2025, 4:18:04 PM",-,shivam.nimje5@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.19,call_09a6220ddf8b777fd23a5298b3e,agent_00490e668be8e0244229d1de5a,12283350337,918090664948,ended,"6/3/2025, 4:12:07 PM","6/3/2025, 4:13:26 PM",80,adarshagrawal272@gmail.com,"Agent: Hello, 
