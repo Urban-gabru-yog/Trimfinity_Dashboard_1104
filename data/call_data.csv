@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_3f278c90c0e8b33106f2862a7f4,agent_00490e668be8e0244229d1de5a,12283350337,918000037570,error,"6/3/2025, 4:18:05 PM","6/3/2025, 4:18:05 PM",-,Rajukorat@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_f348eb6f4c9d954c2f30c611795,agent_00490e668be8e0244229d1de5a,12283350337,919890810515,error,"6/3/2025, 4:18:04 PM","6/3/2025, 4:18:04 PM",-,shivam.nimje5@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.19,call_09a6220ddf8b777fd23a5298b3e,agent_00490e668be8e0244229d1de5a,12283350337,918090664948,ended,"6/3/2025, 4:12:07 PM","6/3/2025, 4:13:26 PM",80,adarshagrawal272@gmail.com,"Agent: Hello, 
+User: Hello.
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: नहीं,
+Agent: Namaste Adarsh ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap Drin-Finity Hair Dryer For Men checkout kar rahe the, par order complete nahi kiya. Kya aapko product ke baare mein koi sawal ya confusion hai? Main madad kar sakta hoon!
+User: नहीं,
+Agent: Samajh gaya, Adarsh ji. Shayad aap abhi decide nahi kar pa rahe hain. Waise, yeh hair dryer kaafi advanced hai—2200W motor ke saath, thick aur fine hair dono ke liye perfect hai. Aur iska ionic technology frizz-free aur smooth finish deta hai.Agar price ka concern hai, toh main aapke liye ek special 5% discount code de sakta hoon—O-F-F-5. Par yeh sirf aaj ke liye valid hai. Aapko lagta hai yeh kaam karega?
+User: नहीं.
+Agent: Koi baat nahi, Adarsh ji! Agar aap kabhi future mein interested ho ya aur koi sawal ho, toh humein zarur contact kariyega. Main aapka din acha jaaye yeh hi wish karta hoon. Dhanyavaad aur apna khayal rakhiye!
+",https://dxc03zgurdly9.cloudfront.net/f73432e5b71de9cb250a5631474b3c8f59b5945be9f656a4d27fcf3f96957dcc/recording.wav,Negative,False,"The user, Adarsh, was contacted by the agent Aryan from Trimfinity regarding a product he added to his cart, the Drin-Finity Hair Dryer. Despite the agent offering a 5% discount and providing product details, the user declined the offer and expressed no interest in completing the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",80,user_hangup
+$0.02,call_17bbae5f1a84decb71fdb9f7f0b,agent_00490e668be8e0244229d1de5a,12283350337,918000037570,ended,"6/3/2025, 4:12:00 PM","6/3/2025, 4:12:07 PM",8,Rajukorat@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. 
+User: (inaudible speech)
+Agent: Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
+",https://dxc03zgurdly9.cloudfront.net/a5bebb5b1a6f2d1a2e6a72f69f7c1cf4066b263925eeababa2b630192384d215/recording.wav,Neutral,False,"The agent identified themselves and acknowledged that the user had added a product to their cart, indicating a follow-up on the user's interest in the product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
+$0.01,call_12141ab2af7fa01d2e3da737c42,agent_00490e668be8e0244229d1de5a,12283350337,919890810515,ended,"6/3/2025, 4:11:57 PM","6/3/2025, 4:12:02 PM",5,shivam.nimje5@gmail.com,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein 
+",https://dxc03zgurdly9.cloudfront.net/41a19a67014aee649d0eba5dad051415275fc4d7ec82b1b282deb7a561c8b0ca/recording.wav,Neutral,False,"The call began with the agent introducing themselves as Aryan from Trimfinity, indicating that they noticed the user had items in their product cart. The conversation seems to be focused on assisting the user with their cart items.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
 $0.01,call_5de0acea2ca96199e51be4e1a82,agent_00490e668be8e0244229d1de5a,12283350337,916394945933,ended,"6/3/2025, 2:46:47 PM","6/3/2025, 2:46:50 PM",3,arpit1267singh@gmail.com,"User: Call 
 Agent: Hello, main Aryan hoon 
 User: has been forwarded to voice now.
