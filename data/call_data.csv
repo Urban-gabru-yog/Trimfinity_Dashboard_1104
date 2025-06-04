@@ -1,4 +1,45 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_73727e46f55d6aa001267591776,agent_00490e668be8e0244229d1de5a,12283350337,919605686946,error,"6/4/2025, 8:46:43 PM","6/4/2025, 8:46:43 PM",-,mahboobfff@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.16,call_b0afcae0739a28112ab042288f9,agent_00490e668be8e0244229d1de5a,12283350337,919605686946,ended,"6/4/2025, 8:46:29 PM","6/4/2025, 8:47:36 PM",68,mahboobfff@gmail.com,"Agent: Hello, main 
+User: Hello, मैं आर्यन हूं Trinity 
+Agent: Aryan hoon Trimfinity se. Maine dekha ki 
+User: से. मैंने देखा कि आपने
+Agent: Hello 
+User: Hello, papa फिर ठीक है. 
+Agent: Mohammed ji, main Aryan 
+User: मैं आर्यन
+Agent: Hello Mohammed ji, main Aryan bol raha hoon Trimfinity 
+User: Hello, मोहम्मद मैं again बोल रहा हूं InCred से.
+Agent: Hello Mohammed ji, 
+User: Hello, मोहम्मद 
+Agent: main Aryan bol 
+User: जी, मैं आर्यन बोल रहा हूं
+Agent: Hello Mohammed ji, 
+User: Hello, मोहम्मद जी, मैं 
+Agent: main Aryan bol raha hoon 
+User: आर्यन बोल रहा हूं
+Agent: Hello Mohammed 
+User: Hello, मोहित जी. 
+Agent: ji, main Aryan bol raha 
+User: मैं आर्यन बोल रहा हूं
+Agent: Hello Mohammed ji, main Aryan bol raha hoon 
+User: मोहम्मद मैं आर्यन बोल रहा हूं
+Agent: Hello Mohammed 
+User: hello मोहम्मद 
+Agent: ji, main Aryan bol 
+User: जी मैं आर्यन बोल रहा हूं.
+Agent: Hello Mohammed 
+User: Hello मोहम्मद जी. 
+Agent: ji, main Aryan bol 
+User: मैं आर्यन बोल रहा हूं.
+Agent: Hello Mohammed ji, main Aryan bol raha hoon 
+User: Hello Hello मोहम्मद जी, मैं आर्यन बोल रहा हूं
+Agent: Hello Mohammed 
+User: Hello मोहम्मद जी, मैं 
+Agent: ji, main Aryan bol raha hoon 
+User: आर्यन बोल रहा हूं
+Agent: Hello Mohammed ji, main 
+",https://dxc03zgurdly9.cloudfront.net/dc29ece5e28ff0e9f9a6ffc39397fa707eadb6c282dacff0b4de27b9dcccaf0b/recording.wav,Negative,False,"The call appears to be a repetitive exchange where the user, Aryan, is trying to communicate with the agent, Mohammed, but there is significant confusion and redundancy in their conversation. The interaction does not progress to any clear resolution or task completion.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",68,user_hangup
 -,call_9966fdd20669549522cd1c68d77,agent_00490e668be8e0244229d1de5a,12283350337,917496912683,error,"6/4/2025, 8:16:42 PM","6/4/2025, 8:16:42 PM",-,sr5340405@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_aa040eaf49182c8df88df9d5274,agent_00490e668be8e0244229d1de5a,12283350337,919887595822,error,"6/4/2025, 8:01:42 PM","6/4/2025, 8:01:42 PM",-,seemaanil2012@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_85f12f91ebf78b0c75bfaed7df7,agent_00490e668be8e0244229d1de5a,12283350337,919924442308,error,"6/4/2025, 7:31:42 PM","6/4/2025, 7:31:42 PM",-,kalpeshchavda913@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
