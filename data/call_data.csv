@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.11,call_89e7cb77d59d68c4d13f4fc1e71,agent_00490e668be8e0244229d1de5a,12283350337,918714484566,ended,"6/4/2025, 10:12:08 AM","6/4/2025, 10:12:52 AM",45,raheesrasheed4412@gmail.com,"Agent: Hello, main 
+User: Hello.
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello?
+Agent: Hi Mohammed! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to see if you had any questions or needed help with anything?
+User: Ok.
+Agent: Great! So, did you like the product? Were you just thinking about the price, or was there something else on your mind that’s holding you back? Let me 
+",https://dxc03zgurdly9.cloudfront.net/493d28d8266842127818ce7f146264c49587efc99767a3980596b51c957149f1/recording.wav,Neutral,False,"The user was contacted by an agent from Trimfinity regarding a product they added to their cart, offering an additional discount. The agent inquired about the user's interest in the product and if they had any questions or concerns.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",45,user_hangup
 $0.09,call_9c30a74228584e7650c8c04ebb9,agent_00490e668be8e0244229d1de5a,12283350337,918780952050,ended,"6/3/2025, 8:51:46 PM","6/3/2025, 8:52:23 PM",38,vipulshahcomputer@gmail.com,"Agent: Hello, main Aryan 
 User: Hello.
 Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
