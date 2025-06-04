@@ -1,4 +1,24 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.04,call_ad2141fa3abf3a04ef113038d59,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,ended,"6/4/2025, 4:10:37 PM","6/4/2025, 4:10:55 PM",19,chiragdeeppatil89@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/fd718c778e7e19ac6b274183a7bd220fb012587f070b46ab713090a29f448d0c/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",19,user_hangup
+-,call_5d1e469435e502745be1fea4a66,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 4:01:37 PM","6/4/2025, 4:01:37 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_8f84a00af4bd158da719fe4b410,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 4:00:37 PM","6/4/2025, 4:00:37 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_3ddedb580a5f54534c247e82eb3,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 3:59:34 PM","6/4/2025, 3:59:34 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
+-,call_3deb85df39eadd8a7e463c14d93,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 3:57:01 PM","6/4/2025, 3:57:01 PM",-,chiragdeeppatil89@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.27,call_5f55f33cbd2d011f4880b526594,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,ended,"6/4/2025, 3:54:30 PM","6/4/2025, 3:56:24 PM",114,chiragdeeppatil89@gmail.com,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: कौन सा product का?
+Agent: Namaste Ankit ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aapne Trimfinity 3 in 1 face trimmer apne cart mein add kiya tha, jo ₹1899 ka hai. Bas yeh puchna tha ki aapko product pasand aaya ya koi dikkat ho rahi thi checkout karne mein?
+User: जी जी जी.
+Agent: Wah, badhiya! Toh Ankit ji, aapko product pasand aaya? Kya price ko lekar soch rahe the ya kuch aur confusion hai? Main aapki madad karne ke liye hoon!
+User: Discount.
+Agent: Haan Ankit ji, samajh sakta hoon ki price thoda sochne pe majboor karta hai. Dekhiye, yeh trimmer advanced technology aur premium quality ke saath aata hai, jo long-lasting aur kaafi effective hai.Lekin, aapke liye ek kaam kar sakta hoon. Normally main discount nahi deta, par aaj ke liye ek special offer de sakta hoon—5% ka discount code: O-F-F-5. Yeh sirf aaj ke liye valid hai. Kaisa laga?
+User: अच्छा है.
+Agent: Wah, badhiya baat hai, Ankit ji! Toh mai abhi aapko WhatsApp pe ek quick checkout link bhej deta hoon. Aap bas uspe click karke apna order complete kar lena. Aur yaad rahe, yeh 5% discount sirf aaj ke liye hai. Aapko aur kuch puchna ho toh zarur batayein!
+User: (inaudible speech)
+Agent: Theek hai Ankit ji, main abhi aapko WhatsApp pe link bhej raha hoon. Agar aapko kuch aur madad chahiye ho toh mujhe zarur batayein. Aapka din shubh ho!
+",https://dxc03zgurdly9.cloudfront.net/ce446e9e71a12fa525a4c153838d746daa9301cc79f47b9ad6aaa5b2a9cbc4c8/recording.wav,Positive,True,"The user, Ankit, was contacted by the agent Aryan from Trimfinity regarding a product in his cart, the Trimfinity 3 in 1 face trimmer. The agent offered a special 5% discount and provided a checkout link via WhatsApp, which the user accepted positively.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",114,user_hangup
 -,call_8e43dda2d55f665929a698cbe0f,agent_00490e668be8e0244229d1de5a,12283350337,919328495539,error,"6/4/2025, 3:45:29 PM","6/4/2025, 3:45:29 PM",-,kalwanikrish61@gmail.com,-,-,Unknown,False,-,-,-,dial_busy
 -,call_3520d55a865a7516410ae20386c,agent_00490e668be8e0244229d1de5a,12283350337,919328495539,error,"6/4/2025, 3:22:52 PM","6/4/2025, 3:22:52 PM",-,kalwanikrish61@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_7dd748cab76b4e9028ab9fc3973,agent_00490e668be8e0244229d1de5a,12283350337,919328495539,error,"6/4/2025, 3:12:44 PM","6/4/2025, 3:12:44 PM",-,kalwanikrish61@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
