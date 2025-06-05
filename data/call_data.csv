@@ -1,4 +1,16 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.33,call_74a3ce602de937b4905370af607,agent_00490e668be8e0244229d1de5a,12283350337,917902285538,ended,"6/5/2025, 7:16:47 PM","6/5/2025, 7:19:07 PM",140,ashikzakkeer.az@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+Agent: Hey Ashik! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer on our website. Just wanted to check if you had any questions or if something was holding you back from completing the purchase?
+Agent: Great, Ashik! So, what’s on your mind? Were you thinking about the price, or is there something else you’d like to know about the trimmer? Let me help you out!
+Agent: Ah, I see! Maybe you're thinking about the price? Let me tell you, Ashik, the Trimfinity 1.0 is designed with advanced technology and premium 
+User: (inaudible speech)
+Agent: materials, which is why it’s such a great investment. It’s durable, efficient, and perfect for precise grooming.But hey, if price is still a concern, I can do something special for you. I can offer you an exclusive 5% discount with the code O-F-F-5, but it’s only valid for today. How does that sound?
+Agent: Hey Ashik, just wanted to quickly check back—did that 5% discount help make things easier for you? Remember, the code O-F-F-5 is valid only for today. Let me know if you’d like me to send you a quick WhatsApp link to complete your checkout!
+Agent: Alright, Ashik! I’ll send you a WhatsApp link right now for a quick and easy checkout. Just click on it whenever you’re ready to complete your purchase. And don’t forget to use the code O-F-F-5 for your 5% discount—it’s valid only for today! Let me know if you need any more help. Have a great day!
+",https://dxc03zgurdly9.cloudfront.net/6a64c536072846626f43c98c90299940753796997a6a965b4b6eedee4346febe/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Ashik, to assist with a product in the cart, offering a 5% discount to encourage the purchase. The agent provided information about the product and sent a WhatsApp link for easy checkout, reminding Ashik of the discount's limited validity.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",140,user_hangup
 $0.01,call_16c5c8843bd9c0768d5bd25f54c,agent_00490e668be8e0244229d1de5a,12283350337,919755341111,ended,"6/5/2025, 6:31:58 PM","6/5/2025, 6:32:01 PM",4,mananrohra123@gmail.com,"User: Your call has been 
 Agent: Hello, main Aryan 
 User: forwarded to voicemail.
