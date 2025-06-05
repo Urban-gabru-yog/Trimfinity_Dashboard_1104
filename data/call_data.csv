@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_9523b2a809500bdcfaf7c9e99d0,agent_00490e668be8e0244229d1de5a,12283350337,918129005530,error,"6/5/2025, 7:32:00 PM","6/5/2025, 7:32:00 PM",-,sunilmadhave15@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.33,call_74a3ce602de937b4905370af607,agent_00490e668be8e0244229d1de5a,12283350337,917902285538,ended,"6/5/2025, 7:16:47 PM","6/5/2025, 7:19:07 PM",140,ashikzakkeer.az@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity 
 User: Hello
 Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
@@ -1076,5 +1077,3 @@ Agent: Haan bilkul, Abdulraheeman
 ",https://dxc03zgurdly9.cloudfront.net/5469ae0f7de3696f1f23da7e14e1582c27716603df691319729221d40a1ded55/recording.wav,Negative,False,"The user, Abdulraheeman, was offered a 5% discount on the Trimfinity 7000 Body and Ball Trimmer, but he expressed dissatisfaction with the price and mentioned returning the product. The agent provided information about the refund process and confirmed that the product is available for purchase with a discount, but the user declined the offer.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",170,user_hangup
 -,call_61db65216aacb7cd1253234e8fe,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:31:45 AM","6/2/2025, 11:31:45 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
 -,call_cfcb01fb01d867860d4b5bf8991,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:07:08 AM","6/2/2025, 11:07:08 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
--,call_3d44773981c138abb1bacb4e378,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:06:41 AM","6/2/2025, 11:06:41 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
--,call_420e94552116ba7143cc9a91426,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 11:01:46 AM","6/2/2025, 11:01:46 AM",-,ra7740198@gmail.com,-,-,Unknown,False,-,-,-,dial_failed
