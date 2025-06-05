@@ -1,4 +1,12 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.04,call_9b36249c81b1a02fdc5496752c5,agent_00490e668be8e0244229d1de5a,12283350337,918136910514,ended,"6/5/2025, 1:16:42 PM","6/5/2025, 1:17:01 PM",19,amtarimbra@gmail.com,"Agent: Hello, main Aryan hoon 
+User: This call is now being recorded.
+Agent: Trimfinity se. Maine dekha ki aapne product 
+Agent: Of course, Asiludheen! No problem at all. How can I assist you today?
+",https://dxc03zgurdly9.cloudfront.net/14783f42182bc979ac9e858e9fded99002fc64b9be14ed30d842eafedf7fedb5/recording.wav,Neutral,False,"The call began with the agent introducing themselves and confirming the recording of the call. The agent then acknowledged the user and asked how they could assist them today, indicating a willingness to help.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",19,user_hangup
+$0.02,call_6beb6fa246e4bb4db8b8e7c9bd7,agent_00490e668be8e0244229d1de5a,12283350337,919074858014,ended,"6/5/2025, 1:16:38 PM","6/5/2025, 1:16:44 PM",7,linoharidas@gmail.com,"User: Hello.
+Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
+",https://dxc03zgurdly9.cloudfront.net/9f245118de25e0645556c6f2f5295e240fdb7653f309e1c4c96a41a99decfa9d/recording.wav,Neutral,True,"The user initiated the call with a greeting, and the agent, Aryan from Trimfinity, acknowledged the user's action of adding a product to their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
 -,call_66945e7e54e837e3af2cc8cf3b2,agent_00490e668be8e0244229d1de5a,12283350337,919407630880,error,"6/5/2025, 12:32:00 PM","6/5/2025, 12:32:00 PM",-,gawdedinesh123456@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_c59a6f811e220d20e8afd221a14,agent_00490e668be8e0244229d1de5a,12283350337,916371935174,error,"6/5/2025, 12:31:59 PM","6/5/2025, 12:31:59 PM",-,psanjeeb927@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_e16edeffefe43d39c2139b7c27d,agent_00490e668be8e0244229d1de5a,12283350337,919515521744,ended,"6/5/2025, 12:31:46 PM","6/5/2025, 12:31:50 PM",5,maqsoodhussaini5024@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein 
