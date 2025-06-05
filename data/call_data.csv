@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_d789fe25733a0c312cc77a6d58b,agent_00490e668be8e0244229d1de5a,12283350337,919925116721,error,"6/5/2025, 12:16:59 PM","6/5/2025, 12:16:59 PM",-,surejasanjay25@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.04,call_feb80085521ad0cb8c8b80af675,agent_00490e668be8e0244229d1de5a,12283350337,919020804087,ended,"6/5/2025, 12:16:51 PM","6/5/2025, 12:17:09 PM",18,Amardevseetha@gmail.com,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+",https://dxc03zgurdly9.cloudfront.net/83a6fb5f4e7e143936b03d1e51c054f95b12e0e372de22e34822876c3acefe4b/recording.wav,Neutral,False,"The agent introduced themselves and informed the user about a special offer of an additional 5% off on a product they added to their cart. The user responded with a greeting, but the conversation did not progress further.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",18,user_hangup
+-,call_00045574aaeb49680936498ad66,agent_00490e668be8e0244229d1de5a,12283350337,919072915456,error,"6/5/2025, 12:02:01 PM","6/5/2025, 12:02:01 PM",-,richujoseph@ymail.com,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_1000e10d67c088b38df2293b9ea,agent_00490e668be8e0244229d1de5a,12283350337,917405277992,error,"6/5/2025, 12:02:00 PM","6/5/2025, 12:02:00 PM",-,Kush.bhatia.1991@gmail.com,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_ed30eca6f4c405ba0fb1012bedb,agent_00490e668be8e0244229d1de5a,12283350337,917096891606,ended,"6/5/2025, 11:46:56 AM","6/5/2025, 11:47:09 AM",13,samchavda26.sc@gmail.com,"Agent: Hello, main Aryan hoon 
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
