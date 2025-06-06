@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_54d769194163229beb40af4e10b,agent_00490e668be8e0244229d1de5a,12283350337,917988288589,ended,"6/6/2025, 4:30:51 PM","6/6/2025, 4:30:55 PM",4,lokeshkharb9@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki 
+",https://dxc03zgurdly9.cloudfront.net/9591a3033f3aaa06029384da2bdfbb1ce5a5ac3214b4bf49481f89dd32b709e2/recording.wav,Neutral,False,"The call began with the agent introducing themselves as Aryan from Trimfinity, but the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,user_hangup
 -,call_ae8a49cd2ab1d7b2f99615c6292,agent_00490e668be8e0244229d1de5a,12283350337,918219829484,error,"6/6/2025, 4:16:04 PM","6/6/2025, 4:16:04 PM",-,ankush48012@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
 $0.02,call_37dbe73379ddfd9be8f15400912,agent_00490e668be8e0244229d1de5a,12283350337,919211792053,ended,"6/6/2025, 4:15:52 PM","6/6/2025, 4:15:59 PM",8,abhisharma7430@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
 ",https://dxc03zgurdly9.cloudfront.net/516dea7db513d293085daf622f5dcbfd285538301d81b2216aef23660ec6dd54/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and was likely offering assistance or a promotion related to that product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
@@ -1037,29 +1039,3 @@ Agent: ""Hello Mohit ji, lagta hai aap busy ho gaye the. Koi baat nahi! Main bas
 -,call_63122ac2a1dce3a843fbb2fef1e,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:56:26 PM","6/2/2025, 2:56:26 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_failed
 -,call_63dc96c2cbdc9a82e1bbfca2c8b,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:53:10 PM","6/2/2025, 2:53:10 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_2cb25242ad2bcb30c830d3be7f3,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:52:40 PM","6/2/2025, 2:52:40 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
--,call_0feb742551444d620ed96ae300a,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:47:57 PM","6/2/2025, 2:47:57 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.04,call_7060c1c9e01bd56ca9323b112a6,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 2:46:59 PM","6/2/2025, 2:47:15 PM",16,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity 
-User: अरे परेशान रखो कर रहे 
-Agent: se. Maine dekha ki aapne 
-User: हैं मेरे बड़े भाई.
-Agent: अरे 
-User: Cancel कर दो फिर.
-User: Cancel कर दो.
-",https://dxc03zgurdly9.cloudfront.net/d85bf00161ce7ba277a89b6697ef7664609f3c3e5fb42a93a0d4a40601c1de5f/recording.wav,Negative,False,The user expressed frustration and requested to cancel a service. The agent acknowledged the user's request but did not provide further assistance or confirmation of the cancellation during the call.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
-$0.10,call_032784eaebcd72346b5f0b5a757,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 2:46:34 PM","6/2/2025, 2:47:17 PM",43,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: अरे हटाना अरे भाई उससे मुझे cancel कराना है परेशान ना show कर.
-Agent: अरे कोई बात नहीं, Abdulraheeman भाई! अगर आपको cancel करना है 
-User: Diabetes line आप 
-Agent: तो मैं आपकी 
-User: जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहे. The person you are speaking with has put your call
-",https://dxc03zgurdly9.cloudfront.net/2088453a9c0857ff2febdbac02bcde76de47bb3a9c965581b18cb9bcf0009f1d/recording.wav,Negative,False,"The user, Abdulraheeman, expressed frustration and requested to cancel a product rather than proceed with a promotion. The call was interrupted when the user was put on hold, indicating a potential transfer to another representative.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",43,user_hangup
-$0.08,call_1b18a4e9eb5afed0ae691bfdd1d,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,ended,"6/2/2025, 2:42:50 PM","6/2/2025, 2:43:24 PM",35,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main 
-User: ठीक है 
-Agent: Aryan hoon Trimfinity 
-User: sir.
-Agent: Namaste Abdulraheeman ji! Main Aryan bol raha hoon Trimfinity se. Aapne Trimfinity 7000 Body and Ball Trimmer checkout karne ka socha tha, toh bas puchna chahta tha ki koi dikkat toh nahi aayi?
-User: मुझे cancel कराना है.
-Agent: Arre Abdulraheeman ji, cancel karne ka soch rahe ho? Koi khaas wajah hai? Agar aapko product ya price ko lekar kuch 
-",https://dxc03zgurdly9.cloudfront.net/727facb2d670aa3740cf65aa02c9449c0769222128f451e49cd64b8a20e11bc2/recording.wav,Negative,False,"The user, Abdulraheeman, contacted the agent, Aryan from Trimfinity, to cancel their order for the Trimfinity 7000 Body and Ball Trimmer. The agent inquired about the reason for the cancellation and offered assistance regarding any issues with the product or pricing.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",35,user_hangup
--,call_422568627dc648070cb2e93865f,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:41:46 PM","6/2/2025, 2:41:46 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_failed
--,call_b463c9e406df1322d8c3290cb7d,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 2:41:27 PM","6/2/2025, 2:41:27 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_failed
