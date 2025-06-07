@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_106b4067338745cfe80f477223b,agent_00490e668be8e0244229d1de5a,12283350337,919019263555,error,"6/7/2025, 12:01:34 PM","6/7/2025, 12:01:34 PM",-,msomanath1983@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_7f64243ed9df1e95d6f4d5b0882,agent_00490e668be8e0244229d1de5a,12283350337,919967658148,error,"6/7/2025, 12:01:33 PM","6/7/2025, 12:01:33 PM",-,gamotmohit@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_5fa2f8dad67ffb688ac9a47a601,agent_00490e668be8e0244229d1de5a,12283350337,918541916727,error,"6/7/2025, 12:01:31 PM","6/7/2025, 12:01:31 PM",-,amitj8093@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.05,call_c65788416280cd4986ee8c0120d,agent_00490e668be8e0244229d1de5a,12283350337,918129745901,ended,"6/7/2025, 11:46:12 AM","6/7/2025, 11:46:32 AM",20,ujwalpradeep123@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"User: हां hello
 Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 User: नहीं,
@@ -1073,5 +1076,3 @@ Agent: samajh sakta hoon aap busy hain. Koi
 -,call_b1c24c228683528156ae9d69ecf,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:51:48 PM","6/2/2025, 4:51:48 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_failed
 -,call_276e480bca1e5dadad0035909cf,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:46:42 PM","6/2/2025, 4:46:42 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
 -,call_d7f64b265e06a99bf05b3a64bac,agent_00490e668be8e0244229d1de5a,12283350337,919307561711,error,"6/2/2025, 4:42:05 PM","6/2/2025, 4:42:05 PM",-,ra7740198@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
--,call_121c7a6f91d94d49f02ecaf5dd9,agent_00490e668be8e0244229d1de5a,12283350337,919306324905,error,"6/2/2025, 4:23:15 PM","6/2/2025, 4:23:15 PM",-,mohitrp573321@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_4760f708e0bae1dbc6c9ce1b8bb,agent_00490e668be8e0244229d1de5a,12283350337,919306324905,error,"6/2/2025, 4:22:11 PM","6/2/2025, 4:22:11 PM",-,mohitrp573321@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
