@@ -1,4 +1,7 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.06,call_ba38d2576f88eb8b6978f1a42da,agent_00490e668be8e0244229d1de5a,12283350337,916395022523,ended,"6/8/2025, 4:01:26 PM","6/8/2025, 4:01:49 PM",24,pt409801@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: ""Hello Praveen 
+",https://dxc03zgurdly9.cloudfront.net/10a50f9986db44c4639fbe819f7279742517bb41cc37ac808b8e166873066c9e/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to Praveen to inform him about an additional 5% discount on a product he added to his cart. The call seems to be focused on encouraging Praveen to claim the discount.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",24,user_hangup
 $0.01,call_896150ff95ba4f4db2ff5a5aa88,agent_00490e668be8e0244229d1de5a,12283350337,919720666630,ended,"6/8/2025, 3:46:40 PM","6/8/2025, 3:46:43 PM",4,tavishtaha78900@icloud.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call has been 
 Agent: Hello, main 
 User: forwarded to voicemail.
