@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_741190c11744f4f93582c0193cd,agent_00490e668be8e0244229d1de5a,12283350337,918435255555,ended,"6/8/2025, 5:16:34 PM","6/8/2025, 5:16:40 PM",6,Vijaywargiya.pawan164@gmail.com,Ultimate Duo Beard & Body Trimmer,"User: Your 
+Agent: Hello, main Aryan hoon Trimfinity 
+User: call has been forwarded to voice mail. The person you are trying to reach is not available.
+",https://dxc03zgurdly9.cloudfront.net/973ffdbee8897b0af4bad3c6c90abae082b5dd4a9fa619e4b28987e03ecaca07/recording.wav,Negative,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
 -,call_c9a20cdb6e3e5cf35af5aca86d1,agent_00490e668be8e0244229d1de5a,12283350337,916238096136,error,"6/8/2025, 4:46:46 PM","6/8/2025, 4:46:46 PM",-,firozakku17@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.01,call_2b9eadf91770a1610a3bacb9dfd,agent_00490e668be8e0244229d1de5a,12283350337,919394814006,ended,"6/8/2025, 4:46:37 PM","6/8/2025, 4:46:40 PM",4,dilipmani2@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call has been 
 Agent: Hello, main Aryan 
@@ -1038,8 +1042,3 @@ Agent: Koi baat nahi, Kevadiya
 $0.01,call_f5e5c4479c634989b889c511365,agent_00490e668be8e0244229d1de5a,12283350337,917016912510,ended,"6/3/2025, 10:46:52 AM","6/3/2025, 10:46:58 AM",6,snehbalar3030@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,"Agent: Hello, main Aryan hoon 
 User: Your call has been for The person you are trying to reach is not available.
 ",https://dxc03zgurdly9.cloudfront.net/06987818f63d26fc40726b05ed3da10cb1a04dec97d05efa00a67459302aaab2/recording.wav,Negative,False,The user attempted to reach a person but was informed that the person is not available. The call did not progress beyond this point.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
--,call_c08b8117035cf721ec1a5843bb3,agent_00490e668be8e0244229d1de5a,12283350337,917016912510,ended,"6/3/2025, 10:46:51 AM","6/3/2025, 10:46:51 AM",-,snehbalar3030@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,user_hangup
-$0.01,call_337c0a006301711fbb14ef6ffb5,agent_00490e668be8e0244229d1de5a,12283350337,917016912510,ended,"6/3/2025, 10:42:49 AM","6/3/2025, 10:42:52 AM",3,snehbalar3030@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call 
-Agent: Hello, main Aryan 
-User: has been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/1641b29e8141840c247850c06e352170419b33b981a746c98b5930512186cb67/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",3,voicemail_reached
