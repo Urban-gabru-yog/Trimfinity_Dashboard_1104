@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_50811197e65db028ba4528ce726,agent_00490e668be8e0244229d1de5a,12283350337,919116490215,error,"6/8/2025, 8:16:45 PM","6/8/2025, 8:16:45 PM",-,mukul.menaria002@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_67813491fb3d6b1220fe338d946,agent_00490e668be8e0244229d1de5a,12283350337,917975062594,error,"6/8/2025, 7:16:35 PM","6/8/2025, 7:16:35 PM",-,keerthesh96@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
 $0.10,call_a4021081b51bfda27ce09fdfd06,agent_00490e668be8e0244229d1de5a,12283350337,917975062594,ended,"6/8/2025, 7:16:33 PM","6/8/2025, 7:17:16 PM",44,keerthesh96@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan 
 User: Hello.
@@ -1035,4 +1036,3 @@ User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya 
 ",https://dxc03zgurdly9.cloudfront.net/9448e0a5586265a7679967d711abdfd1ee726d8cafb30968fb6b0a41e0170feb/recording.wav,Neutral,True,"The agent, Aryan, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to complete their purchase with the new offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",10,user_hangup
 -,call_422bfc5c7a50909418be96ce3fa,agent_00490e668be8e0244229d1de5a,12283350337,917657876920,error,"6/3/2025, 11:28:34 AM","6/3/2025, 11:28:34 AM",-,harvin.palli79@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_bfe33469d6611abcc74f2fbbb38,agent_00490e668be8e0244229d1de5a,12283350337,917657876920,error,"6/3/2025, 11:27:38 AM","6/3/2025, 11:27:38 AM",-,harvin.palli79@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
