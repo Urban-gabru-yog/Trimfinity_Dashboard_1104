@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_1ee4f15906f5e703c2ed63afa06,agent_00490e668be8e0244229d1de5a,12283350337,919447744337,error,"6/9/2025, 10:31:40 AM","6/9/2025, 10:31:40 AM",-,adithyaivk@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_3b0926e309645d84d62112882a0,agent_00490e668be8e0244229d1de5a,12283350337,919680314820,error,"6/9/2025, 10:31:39 AM","6/9/2025, 10:31:39 AM",-,Shreekamalsolanki@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_0d0e0d25830930ccd4123a37928,agent_00490e668be8e0244229d1de5a,12283350337,919495994802,error,"6/9/2025, 10:16:41 AM","6/9/2025, 10:16:41 AM",-,nandusalila@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.13,call_80a0fa342062e2230d0718e2ff2,agent_00490e668be8e0244229d1de5a,12283350337,919920535321,ended,"6/9/2025, 10:16:37 AM","6/9/2025, 10:17:32 AM",56,prasadkrrishkoli@yahoo.in,Trimfinity 7000 Pro Max Body & Ball trimmer,"Agent: Hello, main Aryan hoon 
 User: Hello. Hello. 
