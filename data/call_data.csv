@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_54a459bb6ad3f9d5f6e571c6595,agent_00490e668be8e0244229d1de5a,12283350337,919990710778,error,"6/9/2025, 11:16:40 AM","6/9/2025, 11:16:40 AM",-,mohitnagar425@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_1ee4f15906f5e703c2ed63afa06,agent_00490e668be8e0244229d1de5a,12283350337,919447744337,error,"6/9/2025, 10:31:40 AM","6/9/2025, 10:31:40 AM",-,adithyaivk@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_3b0926e309645d84d62112882a0,agent_00490e668be8e0244229d1de5a,12283350337,919680314820,error,"6/9/2025, 10:31:39 AM","6/9/2025, 10:31:39 AM",-,Shreekamalsolanki@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_0d0e0d25830930ccd4123a37928,agent_00490e668be8e0244229d1de5a,12283350337,919495994802,error,"6/9/2025, 10:16:41 AM","6/9/2025, 10:16:41 AM",-,nandusalila@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -1061,6 +1062,3 @@ Agent: Hello, main Aryan hoon
 User: से बात कर रहे हो ना? Hello.
 Agent: Hello, main Aryan bol 
 ",https://dxc03zgurdly9.cloudfront.net/5768abf0620716cc6481fa8cdb488326f31464b86e62497ca9804d104295527c/recording.wav,Neutral,False,"The user initiated the call but seemed confused about the agent's identity, asking for clarification. The agent introduced himself as Aryan, but the conversation did not progress further due to the user's uncertainty.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,user_hangup
-$0.01,call_5f746ba96d1abc606589b75fb4a,agent_00490e668be8e0244229d1de5a,12283350337,918452962111,ended,"6/3/2025, 1:07:06 PM","6/3/2025, 1:07:12 PM",6,batitasingh234@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
-User: Has been forwarded. The person you are trying to reach not able to
-",https://dxc03zgurdly9.cloudfront.net/5cbdd18bd4d2ac8776dc17f9c7c64af8d5d1021f872424b4f032ec816bc262d6/recording.wav,Neutral,False,The user attempted to reach a specific person but was informed that the person is currently unavailable. The call did not progress further as the user did not engage with the agent after the initial response.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
