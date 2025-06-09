@@ -1004,32 +1004,3 @@ $0.01,call_12141ab2af7fa01d2e3da737c42,agent_00490e668be8e0244229d1de5a,12283350
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein 
 ",https://dxc03zgurdly9.cloudfront.net/41a19a67014aee649d0eba5dad051415275fc4d7ec82b1b282deb7a561c8b0ca/recording.wav,Neutral,False,"The call began with the agent introducing themselves as Aryan from Trimfinity, indicating that they noticed the user had items in their product cart. The conversation seems to be focused on assisting the user with their cart items.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
-$0.01,call_5de0acea2ca96199e51be4e1a82,agent_00490e668be8e0244229d1de5a,12283350337,916394945933,ended,"6/3/2025, 2:46:47 PM","6/3/2025, 2:46:50 PM",3,arpit1267singh@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Call 
-Agent: Hello, main Aryan hoon 
-User: has been forwarded to voice now.
-",https://dxc03zgurdly9.cloudfront.net/066268068829ade9e093a9e848f4a5d64b57ca8c67743dac104fab018269bc66/recording.wav,Neutral,False,"The user initiated a call and was connected to an agent named Aryan. The call seems to have been forwarded to a voice system, but the context of the conversation is unclear due to the limited transcript.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",3,voicemail_reached
-$0.42,call_dec5b9cd2685920bd470a061ae2,agent_00490e668be8e0244229d1de5a,12283350337,919638749184,ended,"6/3/2025, 2:46:30 PM","6/3/2025, 2:49:27 PM",178,arjunborana146@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, 
-User: Hello. हां. 
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product 
-User: हां.
-Agent: Namaste Borana ji! Kaise hain aap? Main Trimfinity se Aryan bol raha hoon. Maine dekha ki 
-User: हां.
-Agent: aapne Trimfinity 1.0 Body & Ball Trimmer apne cart mein add kiya tha, par checkout complete nahi kiya. Bas yeh puchna tha ki koi dikkat toh nahi aayi ya kuch confusion hai? Main help kar sakta hoon!
-User: मेरे को अभी तक order नहीं मिला. Courier नहीं मिला.
-Agent: Arre Borana 
-User: Hello? हां.
-Agent: ji, lagta hai thoda confusion ho gaya hai. Aapne abhi tak order place nahi kiya hai, bas product apne cart mein add kiya tha. Agar aapko lag raha tha ki order ho gaya hai, toh shayad checkout complete nahi hua hoga.Koi baat nahi, agar aap interested hain, toh main abhi aapko ek WhatsApp link bhej deta hoon jahan se aap asaani se checkout kar sakte hain. Aapko product ke baare mein aur kuch puchna hai?
-User: अरे मैंने order भी कर दिया है पैसे भी cut गए.
-Agent: Ohh, Borana ji! Agar aapka payment ho gaya hai aur order place ho chuka hai, toh zarur kuch technical issue ho sakta hai. Aap tension mat lijiye, main abhi aapki help karta hoon.
-
-Aap mujhe ek kaam kijiye, apne order ka confirmation email ya message check karke dekhiye. Agar aapko confirmation nahi mila hai, toh ho sakta hai payment stuck ho gaya ho. Aap mujhe apna registered email ID ya order details de dijiye, main abhi check karke aapko update deta hoon.
-
-Aur agar kuch aur issue ho, toh aap humein support@trimfinity.in par email kar sakte hain ya WhatsApp pe 7397805347 par message kar dijiye. Hum turant aapki problem solve karenge!
-User: मैंने order कर दिया है, पैसे भी cut गए हैं. और order निकल भी चुका है, निकल में आ ही गया है, पर receive नहीं हुआ अभी अभी.
-Agent: Ohh, samajh gaya Borana ji! Agar aapka order dispatch ho chuka hai aur abhi tak receive nahi hua, toh ho sakta hai courier partner ke end pe thoda delay ho gaya ho. Aap tension mat lijiye, main aapko guide karta hoon.
-
-Aapko ek delivery confirmation WhatsApp ya email message mila hoga, usme tracking details honi chahiye. Aap ek baar apne order ka tracking status check karke dekhiye. Agar phir bhi kuch samajh nahi aaye, toh aap humein turant WhatsApp ya email kar dijiye.
-
-Aap WhatsApp pe 7397805347 par message karke apna issue bata sakte hain, ya support@trimfinity.in par apni details bhej dijiye. Hum courier partner se contact karke aapka issue jaldi se resolve karenge. Aapka product jaldi hi aapke paas hoga, Borana ji!
-User: आपसे WhatsApp
-",https://dxc03zgurdly9.cloudfront.net/d8456d3fd381c0a0a6ec118afcb45317062ac99abaef1b627f2ad3b46f9711e3/recording.wav,Neutral,True,"The user, Borana ji, contacted the agent regarding an order they believed was placed but not received. The agent clarified that the order was not completed, but after further discussion, it was confirmed that the payment was made and the order was dispatched. The agent provided guidance on checking tracking details and offered support for any further issues.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",178,max_duration_reached
