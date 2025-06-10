@@ -1,4 +1,25 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_1410b4cb9f61495915cd7957fd9,agent_00490e668be8e0244229d1de5a,12283350337,917452911711,error,"6/10/2025, 6:31:34 PM","6/10/2025, 6:31:34 PM",-,vinayakshasatri09@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_2620fd1850f3888662b33cebad4,agent_00490e668be8e0244229d1de5a,12283350337,918838062992,error,"6/10/2025, 6:31:33 PM","6/10/2025, 6:31:33 PM",-,suriya24112004@gmail.com,Trimfinity 3 in 1 face trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_a62636d5047fe9088857971c35e,agent_00490e668be8e0244229d1de5a,12283350337,918838062992,error,"6/10/2025, 6:31:25 PM","6/10/2025, 6:31:25 PM",-,suriya24112004@gmail.com,Trimfinity 3 in 1 face trimmer,-,-,Unknown,False,-,-,-,dial_busy
+$0.14,call_9df9c38ad7f77cad7a8241566a7,agent_00490e668be8e0244229d1de5a,12283350337,919575316996,ended,"6/10/2025, 6:31:15 PM","6/10/2025, 6:32:12 PM",58,monuchandel2005@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main 
+User: This call is now being recorded.
+Agent: Aryan hoon Trimfinity se. Maine 
+Agent: Bilkul Monu ji, no problem! Yeh call bas quality aur training ke liye record ho rahi hai. Aapko koi dikkat ho toh bataiye.
+User: Hello.
+Agent: Hello 
+User: Hello
+Agent: Monu ji! Main Aryan bol raha hoon Trimfinity se. Aapne apne cart mein Trimfinity 1.0 Body & Ball Trimmer add kiya tha, toh bas check kar raha tha ki koi dikkat toh nahi aayi checkout karte waqt? Ya aapke paas koi questions hain?
+User: Yes sir.
+User: Hello?
+User: तो अभी तो deliver 
+Agent: Haan Monu 
+User: नहीं हुआ है sir.
+User: अच्छा sir वह deliver 
+Agent: Arre 
+User: नहीं हुई?
+Agent: Arre Monu ji, lagta hai thoda confusion ho gaya! Aapne abhi tak checkout complete nahi kiya hai, isliye product dispatch nahi hua. Aapne bas apne cart mein add kiya tha. Agar aap interested 
+",https://dxc03zgurdly9.cloudfront.net/29d1ff7ce93d1548feec826a549197c8ebce84e9e06b6f68c5a089d7f0a75ccd/recording.wav,Neutral,True,"The user, Monu, was contacted by Aryan from Trimfinity to check on the status of an order. It was clarified that the user had not completed the checkout process for the Trimfinity 1.0 Body & Ball Trimmer, which is why the product had not been dispatched yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",58,user_hangup
 $0.01,call_5487c395e7a9eedbc34ede10154,agent_00490e668be8e0244229d1de5a,12283350337,917707835081,ended,"6/10/2025, 6:16:26 PM","6/10/2025, 6:16:29 PM",4,Dhimanjatin719@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,"Agent: Hello, 
 User: Your call has been forwarded to voice now.
 ",https://dxc03zgurdly9.cloudfront.net/3e270be1ed9f220f5c2eca56194f527acf0d3103ebe1e4897af1754af97c4631/recording.wav,Neutral,False,"The call was initiated by the user, but it appears to have been forwarded to a voicemail system without any interaction or resolution of issues.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
