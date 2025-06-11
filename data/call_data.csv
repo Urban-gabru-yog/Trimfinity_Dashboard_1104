@@ -1,4 +1,8 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_1f699ed3605dbdc698c89869f83,agent_00490e668be8e0244229d1de5a,12283350337,918383960186,ended,"6/11/2025, 5:01:06 PM","6/11/2025, 5:01:12 PM",7,vikaschouhan289@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj 
+",https://dxc03zgurdly9.cloudfront.net/6fe0ae57b9b380ec8aa141fb73987c87223e0438ab626c67da31bf0f72e62281/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user, Aryan, to discuss a product that was added to the user's cart. The call appears to be in the early stages of conversation.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
 -,call_af85b791750749c6f650c9bb703,agent_00490e668be8e0244229d1de5a,12283350337,918866150430,error,"6/11/2025, 4:01:11 PM","6/11/2025, 4:01:11 PM",-,patelsunil886615@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_f2034e8592c377ea8a253ad1b70,agent_00490e668be8e0244229d1de5a,12283350337,918866150430,error,"6/11/2025, 4:01:10 PM","6/11/2025, 4:01:10 PM",-,patelsunil886615@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_a233da344115257e06e318729c5,agent_00490e668be8e0244229d1de5a,12283350337,919814545063,error,"6/11/2025, 4:01:02 PM","6/11/2025, 4:01:02 PM",-,sogigora123@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
@@ -1046,13 +1050,3 @@ User: नहीं no.
 Agent: Koi baat nahi, Shubham ji! Agar aapko kabhi lage ki aapko product chahiye ya koi aur sawal ho, toh aap humein WhatsApp ya call kar sakte hain—73978-05347 pe. Hum hamesha madad ke liye tayar hain. Aapka din shubh ho!
 ",https://dxc03zgurdly9.cloudfront.net/3f827e5bba64f400c73677f9b40d6cdafeb7e1a26bbe8edfe7c790362f370bf2/recording.wav,Positive,True,The agent offered the user a special discount of 5% on a product they added to their cart. The user accepted the offer and received a discount code along with a checkout link via WhatsApp. The call ended with the agent encouraging the user to reach out for any further questions.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",61,user_hangup
 -,call_518db76bcf3d1cebada7159ca69,agent_00490e668be8e0244229d1de5a,12283350337,919890810515,error,"6/4/2025, 5:11:39 PM","6/4/2025, 5:11:39 PM",-,shivam.nimje5@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_4d17e1e970048e1dd119bfed5f6,agent_00490e668be8e0244229d1de5a,12283350337,919348252813,error,"6/4/2025, 5:11:38 PM","6/4/2025, 5:11:38 PM",-,biswajeet4814@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.15,call_59de582337fbde28f70c421d09f,agent_00490e668be8e0244229d1de5a,12283350337,917378495970,ended,"6/4/2025, 5:11:12 PM","6/4/2025, 5:12:14 PM",62,shubhamghatage525@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: हां.
-User: Yes.
-Agent: Wah Shubham ji, badhiya! Main aapko ek exclusive discount code de raha hoon—O-F-F-5. Is code ko checkout ke time apply karna, aur aapko 5% ka discount mil jayega.Main abhi aapko WhatsApp pe ek quick checkout link bhej deta hoon, bas uspe click karke order complete kar lena. Koi aur sawal ya madad chahiye toh mujhe zarur batayein!
-User: No, thank you.
-Agent: Koi baat nahi, Shubham ji! Agar aap kabhi future mein decide karein, toh hum hamesha yahan hain. Aur agar kabhi aur questions ho ya help chahiye ho, toh aap humein WhatsApp ya call kar sakte hain—73978-05347. Aapka din shubh ho!
-User: Thank you.
-Agent: You're most welcome, 
-",https://dxc03zgurdly9.cloudfront.net/e28ac2e138b7552d4b060e118c72e5dd84a1836bd37ea4dd322d4660e0c30c69/recording.wav,Positive,True,The agent offered the user an additional 5% discount on a product they added to their cart. The user accepted the offer and received a discount code along with a checkout link via WhatsApp. The call concluded with the user expressing gratitude and no further questions.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",62,user_hangup
