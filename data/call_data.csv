@@ -1,4 +1,6 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_a87db5566f2b15fbfb0bdc4f42e,agent_00490e668be8e0244229d1de5a,12283350337,917620669321,ended,"6/11/2025, 10:30:50 AM","6/11/2025, 10:30:58 AM",8,Manojyogee.hil@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye 
+",https://dxc03zgurdly9.cloudfront.net/f03166a474a0cf0564ef9bfc324367b9105b9135a2bc3103839a6660e9eaf502/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart and was likely offering assistance or a promotion related to that product.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
 $0.01,call_99908039843529fcc491ebb8cd3,agent_00490e668be8e0244229d1de5a,12283350337,916354601246,ended,"6/10/2025, 9:16:28 PM","6/10/2025, 9:16:31 PM",4,parmarkaushik597@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"User: Your call 
 Agent: Hello, main Aryan hoon 
 User: has been forwarded to voicemail.
