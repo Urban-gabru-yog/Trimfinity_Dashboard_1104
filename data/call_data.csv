@@ -1,4 +1,11 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.02,call_9b5dc2860acd289c4482ba9427b,agent_00490e668be8e0244229d1de5a,12283350337,919361017176,ended,"6/11/2025, 8:16:01 PM","6/11/2025, 8:16:08 PM",8,arun214121@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan 
+User: Hello.
+Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke 
+",https://dxc03zgurdly9.cloudfront.net/549822eb910f3a12514eeea5ffff9e84ac264a8b58b46d6755e1abf3b6332a91/recording.wav,Neutral,False,"The agent from Trimfinity reached out to the user, Aryan, to discuss a product that was added to the user's cart. The call appears to be in the early stages of conversation without any clear resolution or task completion.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
+$0.01,call_d5dbab2f650a5dd1154fc008782,agent_00490e668be8e0244229d1de5a,12283350337,919994090966,ended,"6/11/2025, 8:15:59 PM","6/11/2025, 8:16:02 PM",3,prabhuprema909@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
+User: Call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/0ca86566fe0b367ce4b8e097288047cfd786f182d5c244f99ca45f033f68d3dc/recording.wav,Neutral,False,"The call was initiated by the agent, but the user did not engage and the call was forwarded to voicemail instead.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",3,voicemail_reached
 $0.07,call_57c23012d6341dc61453d04e642,agent_00490e668be8e0244229d1de5a,12283350337,918425960169,ended,"6/11/2025, 6:15:53 PM","6/11/2025, 6:16:23 PM",30,rishi2006.m@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan 
 User: Hello.
 Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
@@ -1036,4 +1043,3 @@ Agent: Hello Mohammed ji, main
 -,call_ed8691134bcf563f1226a55fdf6,agent_00490e668be8e0244229d1de5a,12283350337,919109684615,error,"6/4/2025, 6:31:42 PM","6/4/2025, 6:31:42 PM",-,Kaifrehmani42@gmail.com,Ultimate Duo Beard & Body Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_d3b62919ed0a02817d596130a59,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 6:16:44 PM","6/4/2025, 6:16:44 PM",-,chiragdeeppatil89@gmail.com,Drin-Finity Hair Dryer For Men,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_0f293871c5fa3ba7bda5a53a034,agent_00490e668be8e0244229d1de5a,12283350337,918668820473,error,"6/4/2025, 6:01:42 PM","6/4/2025, 6:01:42 PM",-,chiragdeeppatil89@gmail.com,Drin-Finity Hair Dryer For Men,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_79613b52b9e99c04989c6d224ca,agent_00490e668be8e0244229d1de5a,12283350337,919109684615,error,"6/4/2025, 5:45:03 PM","6/4/2025, 5:45:03 PM",-,Kaifrehmani42@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
