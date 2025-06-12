@@ -1,4 +1,18 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_0250bab37455e8d9d6bf47ab486,agent_00490e668be8e0244229d1de5a,12283350337,917507487773,error,"6/12/2025, 1:31:23 PM","6/12/2025, 1:31:23 PM",-,ssagency927@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.16,call_5be32a19342e1f386aa1d691611,agent_00490e668be8e0244229d1de5a,12283350337,918878838882,ended,"6/12/2025, 1:31:04 PM","6/12/2025, 1:32:12 PM",69,noorsheikh1155@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Yes.
+Agent: Wah, NOOR ji! Aapne bilkul sahi decision liya. Main aapko ek exclusive discount code de raha hoon—O-F-F-5. Is code ko checkout ke time apply karna, aur aapko 5% ka discount mil jayega.
+
+Main abhi aapko ek WhatsApp link bhej deta hoon, jisme aap directly checkout kar sakte hain. Aapko aur kuch help chahiye toh mujhe zarur bataye!
+User: Cash payment.
+User: On delivery.
+Agent: Bilkul NOOR ji, cash payment ka option bhi available hai. Aap 
+User: है?
+Agent: ""Cash on Delivery"" select kar sakte hain checkout ke time. Mai abhi aapko WhatsApp pe ek link bhejta hoon, bas uspe click karke apna order confirm kar lijiye.
+
+Aur haan, agar aap prepaid payment karte hain toh ₹50 ka extra discount milega. Aapko jo convenient lage, wahi choose kar lijiye.
+",https://dxc03zgurdly9.cloudfront.net/b79d36275913ec47c9e342d306f2d3a1268781b09decba44b023d00df6188c1d/recording.wav,Positive,True,The agent informed the user about an additional 5% discount on their cart and provided a discount code. The user opted for cash on delivery and the agent confirmed this option while also mentioning an extra discount for prepaid payment.,"elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",69,user_hangup
 $0.02,call_9480b60e719c15cf15b38b99838,agent_00490e668be8e0244229d1de5a,12283350337,919895527394,ended,"6/12/2025, 1:16:03 PM","6/12/2025, 1:16:12 PM",9,sabaricu@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. 
 ",https://dxc03zgurdly9.cloudfront.net/ccbededf529ff286b1408ac37e5462d1fdcc9704365ef89c50ba48357f96c9ef/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to inform the user about an additional 5% discount on a product they had added to their cart.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
 -,call_af5a13449f62b792a89a9390037,agent_00490e668be8e0244229d1de5a,12283350337,917507487773,error,"6/12/2025, 1:01:28 PM","6/12/2025, 1:01:28 PM",-,ssagency927@gmail.com,Ultimate Duo Beard & Body Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
