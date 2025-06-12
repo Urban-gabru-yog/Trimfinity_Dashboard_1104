@@ -81,63 +81,68 @@ picked_up_calls = call_data[
     (call_data['TotalDuration (in sec)'] > 1)
 ]
 
-# Prepare customer_df and metric
-customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
-total_purchases = len(customer_df)
-
 # METRICS
 st.title("Trimfinity Voice Agent Dashboard")
 
 total_calls = len(df_filtered)
 connected_calls = len(picked_up_calls)
-conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
 total_call_cost = df_filtered['TotalCost'].sum()
 total_call_duration_sec = df_filtered['TotalDuration (in sec)'].sum()
 total_call_duration_hms = str(datetime.timedelta(seconds=int(total_call_duration_sec)))
-total_revenue = df_filtered.drop_duplicates(subset='order_number')['total_price'].dropna().sum()
 
-# METRIC DISPLAY
-col1, col2, col3, col4, col5, col6, col7, col8, col9 = st.columns(9)
+# Placeholder for dynamic metrics
+total_purchases = 0
+conversion = 0
+total_revenue = 0
+
+# First row
+col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("📞 Total Calls", total_calls)
 col2.metric("✅ Connected Calls", connected_calls)
-col3.metric("🛍️ Purchases", total_purchases)
-col4.metric("💯 Conversion", f"{conversion}%")
+col3_placeholder = col3.empty()
+col4_placeholder = col4.empty()
 col5.metric("📞 Total Call Cost (INR)", f"₹{total_call_cost:,.2f}")
-col6.metric("⏱️ Total Call Duration", total_call_duration_hms)
-col7.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
 
-# PRODUCT PURCHASE DISTRIBUTION
-if not customer_df.empty and 'title' in customer_df.columns:
+# Second row
+col6, col7, col8, col9 = st.columns(4)
+col6.metric("⏱️ Total Call Duration", total_call_duration_hms)
+col7_placeholder = col7.empty()
+
+style_metric_cards()
+
+# PRODUCT PURCHASE DISTRIBUTION (based on cleaned purchase data)
+customer_dist_df = df_filtered[df_filtered['order_number'].notna()][['Email', 'title']].drop_duplicates()
+
+if not customer_dist_df.empty and 'title' in customer_dist_df.columns:
+    customer_dist_df = customer_dist_df.rename(columns={"title": "Product Purchased"})
+    
     colored_header("Product Purchased Distribution", "", color_name="green-70")
-    product_counts = customer_df['title'].value_counts().reset_index()
+    product_counts = customer_dist_df['Product Purchased'].value_counts().reset_index()
     product_counts.columns = ['Product', 'Count']
-    fig_product = px.pie(product_counts, names='Product', values='Count', hole=0.4, title="Product Purchased", color_discrete_sequence=px.colors.qualitative.Set3)
+
+    fig_product = px.pie(
+        product_counts,
+        names='Product',
+        values='Count',
+        hole=0.4,
+        title="Product Purchased",
+        color_discrete_sequence=px.colors.qualitative.Set3
+    )
     st.plotly_chart(fig_product, use_container_width=True)
+
+
 
 # CALLS VS PURCHASES
 colored_header("📊 Calls vs Purchases", "", color_name="violet-70")
-df_grouped = df_filtered.groupby('call_date')['order_number'].count().reset_index()
-fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Purchases", color_discrete_sequence=["#6c5ce7"])
+unique_orders_df = df_filtered[df_filtered['order_number'].notna()].drop_duplicates(subset='order_number')
+df_grouped = unique_orders_df.groupby('call_date')['order_number'].count().reset_index()
+fig1 = px.bar(df_grouped, x="call_date", y="order_number", title="Daily Unique Purchases", color_discrete_sequence=["#6c5ce7"])
 st.plotly_chart(fig1, use_container_width=True)
 
 # CALL DURATION HISTOGRAM
 colored_header("⏳ Call Duration", "", color_name="blue-70")
 fig2 = px.histogram(df_filtered, x="DurationSeconds", nbins=20, title="Duration Histogram", color_discrete_sequence=["#00b894"])
 st.plotly_chart(fig2, use_container_width=True)
-
-# DISCONNECTION REASONS
-st.subheader("📞 Disconnection Reasons")
-fig = px.bar(df_filtered, x="DisconnectionReason", title="Disconnection Reasons Breakdown")
-st.plotly_chart(fig, use_container_width=True)
-
-# CALL OUTCOMES
-if 'CallSuccessful' in df_filtered.columns:
-    colored_header("🎯 Call Outcome", "", color_name="yellow-70")
-    outcome_counts = df_filtered['CallSuccessful'].value_counts().reset_index()
-    outcome_counts.columns = ['Status', 'Count']
-    fig5 = px.bar(outcome_counts, x="Status", y="Count", color="Status", text="Count", color_discrete_map={0: "red", 1: "green"})
-    fig5.update_traces(texttemplate='%{text}', textposition='outside')
-    st.plotly_chart(fig5, use_container_width=True)
 
 # CUSTOMERS WHO MADE A PURCHASE
 colored_header("👤 Customers Who Made a Purchase", "", color_name="gray-70")
@@ -147,6 +152,9 @@ for col in df_filtered.columns:
     if 'created' in col.lower() and 'at' in col.lower():
         timestamp_column = col
         break
+
+customer_df = df_filtered[df_filtered['order_number'].notna()][['call_date', 'Email', 'order_number', 'title']].drop_duplicates()
+
 
 if not customer_df.empty and timestamp_column:
     customer_df_full = df_filtered[df_filtered['order_number'].notna()][
@@ -158,7 +166,8 @@ if not customer_df.empty and timestamp_column:
     customer_df_full['StartTimestamp'] = pd.to_datetime(customer_df_full['StartTimestamp'], errors='coerce')
     customer_df_full['Call Time'] = customer_df_full['StartTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S')
 
-    customer_df_full = customer_df_full.sort_values('StartTimestamp').drop_duplicates(subset='order_number', keep='first')
+    customer_df_full = customer_df_full.sort_values('StartTimestamp')
+    customer_df_full = customer_df_full.drop_duplicates(subset='Email', keep='first')
 
     customer_df_full = customer_df_full.rename(columns={
         "call_date": "Date",
@@ -169,6 +178,14 @@ if not customer_df.empty and timestamp_column:
     })[["Date", "Customer Email", "Order Number", "Call Time", "Order Time", "Product Purchased", "Price", "COGS"]]
 
     st.dataframe(customer_df_full, use_container_width=True)
+
+    total_purchases = customer_df_full['Customer Email'].nunique()
+    conversion = round(total_purchases / connected_calls * 100, 2) if connected_calls > 0 else 0
+    total_revenue = customer_df_full['Price'].sum()
+
+    col3_placeholder.metric("👝 Purchases", total_purchases)
+    col4_placeholder.metric("🔀 Conversion", f"{conversion}%")
+    col7_placeholder.metric("💰 Total Revenue", f"₹{total_revenue:,.2f}")
 
     total_cogs_value = customer_df_full['COGS'].sum()
     col8.metric("📦 Total COGS Price", f"₹{total_cogs_value:,.2f}")
