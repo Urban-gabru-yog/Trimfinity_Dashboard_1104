@@ -1,4 +1,14 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_8b6ff205f46bc4978a7c5f3680b,agent_00490e668be8e0244229d1de5a,12283350337,918667744779,error,"6/12/2025, 3:46:20 PM","6/12/2025, 3:46:20 PM",-,ranjithsingh003@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
+$0.01,call_f63f11b55c070741f7872345667,agent_00490e668be8e0244229d1de5a,12283350337,918921492038,ended,"6/12/2025, 3:46:11 PM","6/12/2025, 3:46:14 PM",4,roshanphilipose8@gmail.com,Trimfinity 3 in 1 face trimmer,"Agent: Hello, main 
+User: Your call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/bd848aaf7863d3ab6925ad9d6babecd23c4f1f543d23d09f512f71dbc882fbc9/recording.wav,Neutral,False,"The user did not engage in a conversation with the agent, as the call was forwarded to voicemail immediately.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.02,call_69dd4a5d85ffb98b8b15016aaf9,agent_00490e668be8e0244229d1de5a,12283350337,919729612362,ended,"6/12/2025, 3:46:03 PM","6/12/2025, 3:46:10 PM",8,devanshdhawan14@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
+User: Hello. क्या आ रही है 
+Agent: Trimfinity se. Maine dekha ki 
+User: pocket cell बना के.
+Agent: Arre 
+",https://dxc03zgurdly9.cloudfront.net/269aaabe0cff887e4b6a898e50fd00c93f0e3e26dffaa67d1509f6639e495846/recording.wav,Neutral,False,"The call involves a conversation between the user and the agent from Trimfinity, but the dialogue is fragmented and unclear. The user seems to be asking about a specific service or product related to 'pocket cell', but the agent's response is incomplete.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",8,user_hangup
 -,call_b0cd071446074dcf138cac72ddb,agent_00490e668be8e0244229d1de5a,12283350337,918667744779,error,"6/12/2025, 3:16:22 PM","6/12/2025, 3:16:22 PM",-,ranjithsingh003@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
 -,call_26c72810c6ea0dd31bea816ddfa,agent_00490e668be8e0244229d1de5a,12283350337,919782865822,error,"6/12/2025, 3:01:26 PM","6/12/2025, 3:01:26 PM",-,srktinwari@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_66dd04f363bff53c024fae8cb6e,agent_00490e668be8e0244229d1de5a,12283350337,917300165950,error,"6/12/2025, 3:01:25 PM","6/12/2025, 3:01:25 PM",-,kevinparashar173@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -1054,16 +1064,3 @@ Agent: Arre Ali Khan ji, link toh abhi turant bhej raha hoon! 😊 Aapko ek minu
 ",https://dxc03zgurdly9.cloudfront.net/e50482c166b5cbfadcb2b2e61da1cc18731185667f1ac2436e3c9957056322a7/recording.wav,Positive,True,"The user, Ali Khan, inquired about a product he added to his cart and was offered a 5% discount by the agent. The agent provided a checkout link via WhatsApp and answered questions about the order total and delivery time, ensuring the user was satisfied with the product details and the process.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",178,max_duration_reached
 $0.00,call_a723ca8ef5f215f26e34e33446a,agent_00490e668be8e0244229d1de5a,12283350337,918302898122,ended,"6/5/2025, 2:46:51 PM","6/5/2025, 2:46:53 PM",2,at2710406@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main 
 ",https://dxc03zgurdly9.cloudfront.net/a277047a5e1d69ebff41c52f09369244c66503acbfaee5ed203b83364ca76231/recording.wav,Neutral,False,"The call began with the agent greeting the user, but there is no further information provided in the transcript to determine the outcome or details of the conversation.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",2,user_hangup
-$0.07,call_8381fc44c6fd01b839f61d6d173,agent_00490e668be8e0244229d1de5a,12283350337,918591457674,ended,"6/5/2025, 2:46:38 PM","6/5/2025, 2:47:06 PM",29,yaseeryahya09@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke 
-User: ठीक है तो 
-Agent: liye additional 
-User: बाकी का रहेगा?
-Agent: Namaste Yahya ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aapne Trimfinity 7000 Pro Max Body & Ball Trimmer apne cart mein add kiya tha, par checkout complete nahi kiya.
-User: आपकी आ
-User: पैसे ही 
-Agent: Haan 
-User: तक नहीं चल रही है.
-",https://dxc03zgurdly9.cloudfront.net/a7d7a589e44764b7e39f00bccf5e8ffad7f2249a8147de2a863881997460fab1/recording.wav,Negative,False,"The agent, Aryan from Trimfinity, reached out to the user, Yahya, regarding an incomplete checkout for the Trimfinity 7000 Pro Max Body & Ball Trimmer. The user expressed concerns about their financial situation, indicating they are unable to proceed with the purchase.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",29,user_hangup
--,call_24bfdb4c713597e8c7555a64115,agent_00490e668be8e0244229d1de5a,12283350337,919149086348,error,"6/5/2025, 2:32:00 PM","6/5/2025, 2:32:00 PM",-,rawatabhishek2601@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.03,call_45a5ea6d99fc45c069f8f125758,agent_00490e668be8e0244229d1de5a,12283350337,919741000746,ended,"6/5/2025, 2:31:41 PM","6/5/2025, 2:31:54 PM",14,akarshsra999@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/5530259d582fc3416b91487bcc3bc1e1149c390089b0a8d89cf43116c7321096/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",14,user_hangup
