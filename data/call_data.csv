@@ -1,4 +1,10 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_f411b8d8b643290574ea170edb2,agent_00490e668be8e0244229d1de5a,12283350337,917721038192,error,"6/16/2025, 7:29:03 PM","6/16/2025, 7:29:03 PM",-,ak96pawar@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.02,call_b684cc4da420930e7809c98be68,agent_00490e668be8e0244229d1de5a,12283350337,917838023037,ended,"6/16/2025, 7:28:46 PM","6/16/2025, 7:28:54 PM",9,kritigogia97@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
+User: Hello. तू खुद के 
+Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add 
+User: आ
+",https://dxc03zgurdly9.cloudfront.net/be69c780c939424326c05949cb92b74388b5daedcc83a58d1af52f7f69959b14/recording.wav,Neutral,False,"The user initiated the call and the agent identified himself as Aryan from Trimfinity, mentioning that the user had added a product to their cart. The conversation appears to be in Hindi, but it is unclear what the user is asking or stating due to the incomplete transcript.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",9,user_hangup
 $0.03,call_3c3f90be0e46fb67d9190b1ae35,agent_00490e668be8e0244229d1de5a,12283350337,917721038192,ended,"6/16/2025, 7:14:48 PM","6/16/2025, 7:15:02 PM",14,ak96pawar@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main 
 User: Hello. हां.
 Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
