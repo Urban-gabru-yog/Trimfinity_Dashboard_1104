@@ -997,13 +997,3 @@ $0.03,call_7b258106a3ceee9fae67c00fb75,agent_00490e668be8e0244229d1de5a,12283350
 User: Hello.
 Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
 ",https://dxc03zgurdly9.cloudfront.net/a5e7ba16f75c9a105654271fef20b6dc371a852c42d7052432b27f614beac0e1/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call was initiated to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",13,user_hangup
-$0.07,call_4c236cbcca973448d591965cee4,agent_00490e668be8e0244229d1de5a,12283350337,918660791359,ended,"6/8/2025, 8:46:32 PM","6/8/2025, 8:46:59 PM",28,ethuethu2910@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan 
-User: Hello.
-Agent: hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi Ethesh! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 1.0 Body & Ball Trimmer on our website. Just wanted to see if you had 
-",https://dxc03zgurdly9.cloudfront.net/af3058946fa3fbbf38e02dfd6e5fc3ecfac4995949ca4d6e89d641efd64d11cd/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user, Ethesh, to inform him about an additional 5% discount on a product he had added to his cart, specifically the Trimfinity 1.0 Body & Ball Trimmer. The call was initiated to encourage the user to complete his purchase with the discount offer.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",28,user_hangup
-$0.02,call_914eec7087efb190cb248cf78a6,agent_00490e668be8e0244229d1de5a,12283350337,919930386645,ended,"6/8/2025, 8:46:28 PM","6/8/2025, 8:46:37 PM",9,utv.1996@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call 
-Agent: Hello, main Aryan hoon Trimfinity 
-User: has been forwarded to voice now. The person you are trying to reach Is not available. At the time please record your message. When you have finished recording, e नहीं है ना
-",https://dxc03zgurdly9.cloudfront.net/62b2673a9c9b26a798e8118cb3657391344e25c8aceca5e5e73c14202e179751/recording.wav,Neutral,False,The user attempted to reach an agent but was forwarded to voicemail as the agent was unavailable. The user was prompted to leave a message after the tone.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",9,user_hangup
