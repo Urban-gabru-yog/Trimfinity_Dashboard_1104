@@ -2,7 +2,7 @@ name: 🔄 Auto-Refresh Dashboard Data
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs every 10 minutes
+    - cron: '0 */2 * * *'  # Runs every 2 Hours
   workflow_dispatch:        # Manual trigger button in GitHub UI
 
 jobs:
