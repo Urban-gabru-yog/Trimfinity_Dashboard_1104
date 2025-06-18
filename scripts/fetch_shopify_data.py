@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 SHOPIFY_STORE = "b77a66-2a.myshopify.com"
-SHOPIFY_ACCESS_TOKEN = "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"
+SHOPIFY_ACCESS_TOKEN = "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"
 
 def fetch_shopify_orders():
     try:
