@@ -963,25 +963,3 @@ User: pocket cell बना के.
 Agent: Arre 
 ",https://dxc03zgurdly9.cloudfront.net/269aaabe0cff887e4b6a898e50fd00c93f0e3e26dffaa67d1509f6639e495846/recording.wav,Neutral,False,"The call involves a conversation between the user and the agent from Trimfinity, but the dialogue is fragmented and unclear. The user seems to be asking about a specific service or product related to 'pocket cell', but the agent's response is incomplete.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",8,user_hangup
 -,call_b0cd071446074dcf138cac72ddb,agent_00490e668be8e0244229d1de5a,12283350337,918667744779,error,"6/12/2025, 3:16:22 PM","6/12/2025, 3:16:22 PM",-,ranjithsingh003@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
--,call_26c72810c6ea0dd31bea816ddfa,agent_00490e668be8e0244229d1de5a,12283350337,919782865822,error,"6/12/2025, 3:01:26 PM","6/12/2025, 3:01:26 PM",-,srktinwari@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_66dd04f363bff53c024fae8cb6e,agent_00490e668be8e0244229d1de5a,12283350337,917300165950,error,"6/12/2025, 3:01:25 PM","6/12/2025, 3:01:25 PM",-,kevinparashar173@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.05,call_5f0e627900bd08bbd67c46b59f5,agent_00490e668be8e0244229d1de5a,12283350337,918731921100,ended,"6/12/2025, 3:01:04 PM","6/12/2025, 3:01:23 PM",20,nyorakpige@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/2e095c6dec94d913bd829393dc7b6886be2c4daeb28696be63066ffc8d09ccfe/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
-$0.38,call_2af9a74efbfdb35bb09b584975d,agent_00490e668be8e0244229d1de5a,12283350337,918839900221,ended,"6/12/2025, 3:01:03 PM","6/12/2025, 3:03:47 PM",164,shriyanshagrawal093@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: जी हां,
-Agent: Wah Shriyansh ji, badhiya! Aapne bilkul sahi decision liya hai. Main aapko abhi ek WhatsApp link bhejta hoon jisme aapko checkout karte waqt code ""O - F - F - 5"" apply karna hai. Isse aapko 5% ka discount mil jayega.Aur haan, yeh model kaafi fast sell hota hai, toh aap jaldi se checkout kar lijiye. Agar koi dikkat ho, toh mujhe zarur batayein.
-Agent: Shriyansh ji, bas yaad dilane ke liye call kar raha tha. Aapka Trimfinity 1.0 Body & Ball Trimmer abhi bhi cart mein hai aur aapka exclusive 5% discount code ""O - F - F - 5"" sirf aaj ke liye valid hai. Agar aapko koi bhi help chahiye ya checkout mein dikkat ho, toh mujhe zarur batayein. Jaldi se order kar lijiye, kyunki yeh model kaafi jaldi out of stock ho jata hai!
-User: Sir मैंने order कर चुका हूं.
-Agent: Arre wah Shriyansh ji, yeh toh badiya news hai! Aapne bilkul sahi choice ki hai. Trimfinity 1.0 Body & Ball Trimmer aapko zarur pasand aayega. Agar aapko kabhi bhi koi help chahiye ya feedback dena ho, toh humein zarur batayein. Aapka din shubh 
-User: तो 
-Agent: ho!
-User: वह 5 percent तो मुझे मिला नहीं.
-Agent: Arre Shriyansh ji, agar aapne code ""O - F - F - 5"" apply nahi kiya hoga, toh shayad discount miss ho gaya hoga. Lekin koi baat nahi, main abhi aapka order check karwa leta hoon. Agar possible hua, toh main ensure karunga ki aapko yeh 5% ka benefit mil jaye. Aap mujhe apna order ID share kar dijiye ya main aapko WhatsApp pe confirm kar deta hoon. Don’t worry, 
-User: Sir मैंने 
-Agent: main aapki help karunga!
-User: ok मैंने EMI करवाई है उसे. वह apply हो पाएगा कि नहीं code?
-Agent: Ohh Shriyansh ji, agar aapne EMI option choose kiya hai, toh discount code ""O - F - F - 5"" apply nahi ho pata, kyunki yeh sirf direct payments ke liye valid hota hai. Lekin aap tension mat lijiye, aapne EMI ka option leke bhi ek smart decision liya hai, kyunki aapne apne budget ke hisaab se plan kiya hai.
-
-Agar aapko aur koi help chahiye ya kuch aur doubts ho, toh mujhe zarur batayein. Main hamesha aapki madad ke liye hoon!
-User: Ok sir.
-",https://dxc03zgurdly9.cloudfront.net/4563eb5d3e75bea669963f934b4b8e927354dccd34aa60b262874fd2dca2c0ea/recording.wav,Neutral,True,"The user, Shriyansh, was contacted by the agent regarding a product in his cart and a 5% discount offer. After confirming the order, the user expressed concern about not receiving the discount, which the agent explained was due to the EMI payment option chosen by the user. The agent reassured the user and offered further assistance if needed.","elevenlabs_tts, gpt_4o, llm_token_surcharge, us_telephony, knowledge_base_usage",164,user_hangup
