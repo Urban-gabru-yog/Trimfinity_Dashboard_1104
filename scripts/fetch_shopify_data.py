@@ -1,9 +1,11 @@
 import requests
 import pandas as pd
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
+# Load .env only if running locally (not in GitHub Actions)
+if not os.getenv("GITHUB_ACTIONS"):
+    from dotenv import load_dotenv
+    load_dotenv()
 
 shopify_store = os.getenv("SHOPIFY_STORE")
 shopify_access_token = os.getenv("SHOPIFY_ACCESS_TOKEN")
@@ -11,11 +13,11 @@ shopify_access_token = os.getenv("SHOPIFY_ACCESS_TOKEN")
 def fetch_shopify_orders():
     try:
         # Define API Endpoint
-        url = f"https://{SHOPIFY_STORE}/admin/api/2023-01/orders.json?status=any&limit=250"
+        url = f"https://{shopify_store}/admin/api/2023-01/orders.json?status=any&limit=250"
 
         # Use X-Shopify-Access-Token for Authentication
         headers = {
-            "X-Shopify-Access-Token": SHOPIFY_ACCESS_TOKEN
+            "X-Shopify-Access-Token": shopify_access_token
         }
 
         response = requests.get(url, headers=headers)
@@ -28,13 +30,11 @@ def fetch_shopify_orders():
         # Parse JSON Response
         orders = response.json().get("orders", [])
 
-        # Convert to DataFrame
         if not orders:
             print("⚠️ No orders found in Shopify.")
             return pd.DataFrame()
 
         df_orders = pd.json_normalize(orders)  # Flatten JSON
-
         return df_orders
 
     except Exception as e:
@@ -45,6 +45,7 @@ if __name__ == "__main__":
     df_orders = fetch_shopify_orders()
 
     if not df_orders.empty:
+        os.makedirs("data", exist_ok=True)
         df_orders.to_csv("data/shopify_orders.csv", index=False)
         print("✅ Shopify orders data saved successfully: data/shopify_orders.csv")
     else:
