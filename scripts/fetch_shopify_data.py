@@ -1,8 +1,12 @@
 import requests
 import pandas as pd
+import os
+from dotenv import load_dotenv
 
-SHOPIFY_STORE = "b77a66-2a.myshopify.com"
-SHOPIFY_ACCESS_TOKEN = "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"
+load_dotenv()
+
+shopify_store = os.getenv("SHOPIFY_STORE")
+shopify_access_token = os.getenv("SHOPIFY_ACCESS_TOKEN")
 
 def fetch_shopify_orders():
     try:
