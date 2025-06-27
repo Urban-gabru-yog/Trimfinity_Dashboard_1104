@@ -1,4 +1,4 @@
-name: Update and Merge Data 
+name: Update and Merge Data
 
 on:
   schedule:
@@ -45,9 +45,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/*.csv
           git diff --cached --quiet || git commit -m "🔄 Update merged data via GitHub Actions"
-
-          # Pull latest changes to avoid push rejection
-          git pull --rebase origin ${{ github.ref }}
-
-          # Push updated CSVs
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
