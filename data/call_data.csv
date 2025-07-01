@@ -949,8 +949,3 @@ Agent: Theek hai Anil ji, main abhi aapko WhatsApp pe ek link bhej raha hoon. Aa
 User: Corp
 Agent: Trimfinity ke saath shopping karne ke liye shukriya!
 ",https://dxc03zgurdly9.cloudfront.net/7100c2d9b60ea4871e81943772195d2b59341ddb49fd2de5aba5d3b1edebb956/recording.wav,Positive,True,"The user, Anil, was contacted by the agent Aryan from Trimfinity regarding a product left in the cart. The user faced an issue with their card but was offered a WhatsApp link for easier checkout along with a 5% discount code, which the user accepted.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",94,user_hangup
--,call_3bc7dd9fd36cfee176099733f5e,agent_00490e668be8e0244229d1de5a,15109411358,918989540677,error,"6/24/2025, 5:35:02 PM","6/24/2025, 5:35:02 PM",-,akkyakash17awadhwal@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.01,call_ee6b44a64097bf8096397b678ac,agent_00490e668be8e0244229d1de5a,15109411358,917034840739,ended,"6/24/2025, 5:00:59 PM","6/24/2025, 5:01:03 PM",4,farooqabdulla6118@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"User: Your call has been 
-Agent: Hello, main Aryan 
-User: forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/191875b40299e9d6c9fa2fe2e8f29656c6e88ebe89606d85fd53af7115209115/recording.wav,Negative,False,The user attempted to make a call but was informed that the call has been forwarded to voicemail. The agent greeted the user but did not provide further assistance.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
