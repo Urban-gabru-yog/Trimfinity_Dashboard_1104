@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_667f77f48c364576e58f310a770,agent_00490e668be8e0244229d1de5a,15109411358,919816055086,not_connected,"7/3/2025, 12:35:02 PM","7/3/2025, 12:35:02 PM",-,anishkhan086@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.02,call_58d261a95423dda04e26e3ab314,agent_00490e668be8e0244229d1de5a,15109411358,918077600886,ended,"7/3/2025, 11:34:40 AM","7/3/2025, 11:34:47 AM",7,abubkarsiddiqui28@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your 
 Agent: Hello, 
 User: call has been forwarded to voice mail. The person you are trying to reach is not available at the tone,
@@ -907,11 +908,3 @@ $0.02,call_855748ac909f5e01d618081ef70,agent_00490e668be8e0244229d1de5a,15109411
 User: Hello.
 Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
 ",https://dxc03zgurdly9.cloudfront.net/bb80bfdf5d917d3eaccd405bf8889351aa831ef877fb7e7fb1fcfc5522060bec/recording.wav,Neutral,False,"The agent, Aryan, reached out to the user regarding a product they added to their cart on Trimfinity, offering additional information or assistance. The call appears to be in the early stages, with the user responding positively to the agent's greeting.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",8,user_hangup
-$0.01,call_24899a7dc53b34b765ac6152a60,agent_00490e668be8e0244229d1de5a,15109411358,918145777337,ended,"6/25/2025, 5:51:44 PM","6/25/2025, 5:51:50 PM",6,subhajitbera17806@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
-User: Hello.
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. 
-",https://dxc03zgurdly9.cloudfront.net/87e7e723b50ff27d9923bb23b99f17f0b25a4cf66e460e87ced33b5a1ef54c9c/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by addressing the user and mentioning that they noticed a product was added to the user's cart.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,user_hangup
-$0.01,call_a5589fb5d3e1bfa39519a6da4aa,agent_00490e668be8e0244229d1de5a,15109411358,918758524429,ended,"6/25/2025, 5:17:44 PM","6/25/2025, 5:17:47 PM",4,dineshsirvids1992@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon 
-User: Hello.
-Agent: Trimfinity se. Maine dekha ki 
-",https://dxc03zgurdly9.cloudfront.net/34668d870511f1876e3030589149d525cdf4d2583a4865ce12f90328c19829f8/recording.wav,Neutral,False,"The call began with the agent introducing themselves as Aryan from Trimfinity. However, the transcript is incomplete, and it is unclear what the main purpose of the call was or if any specific actions were taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,user_hangup
