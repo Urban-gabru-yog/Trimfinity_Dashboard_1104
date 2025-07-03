@@ -1,4 +1,32 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.16,call_fedf2d54fd9d8bfe462532f9e66,agent_00490e668be8e0244229d1de5a,15109411358,919137356073,ended,"7/3/2025, 8:51:36 PM","7/3/2025, 8:52:43 PM",68,vandan03patel@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
+User: Hello. एक second रुको, आप मेरे 
+Agent: main Aryan hoon Trimfinity se. Maine 
+User: को बात बताओ आप वह return cancel कर सकते हो ना तेरा ठीक है.
+User: Hello. 
+Agent: Arre Vandan ji, bilkul samajh gaya 
+User: Hello आर्या.
+Agent: Haanji Vandan ji, main sun raha hoon! Aapko kuch confusion ho raha hai 
+User: Hello हां हां sir करना ही करना है शायद नहीं?
+User: जनवरी का flight enter करना.
+Agent: Arre Vandan ji, lagta hai aap thoda busy ho abhi. Koi baat nahi, main bas Trimfinity 7000 Body and 
+User: Ok. है अगर 
+Agent: Ball Trimmer ke baare mein baat kar raha 
+User: वाला है वह तो है
+User: सुनाई नहीं दिया.
+User: AI के साथ बात है? Hello.
+User: Hello? 
+Agent: Haanji Vandan ji, main AI hoon, lekin aapke madad ke liye ekdum ready hoon 
+User: कुछ भी बोल
+User: (inaudible speech)
+Agent: Namaste Vandan ji! Main Aryan bol raha hoon Trimfinity se. Aapne Trimfinity 7000 Body and Ball 
+User: Hello. अरे कुछ भी बोल Hello. अरे यार मत करो. Hello.
+Agent: Haanji Vandan ji, lagta hai thoda connection ka issue ho raha hai. Main bas 
+",https://dxc03zgurdly9.cloudfront.net/aff843b1581dc89fb0c1c146bddd34519222ab84338eb0d4ade1eddff1a9f8a4/recording.wav,Negative,False,"The user, Vandan, is trying to communicate with the AI agent regarding a return cancellation and seems to be experiencing connection issues, leading to confusion during the call. The agent, Aryan, attempts to assist but struggles to maintain a clear conversation due to the user's interruptions and inaudible speech.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",68,user_hangup
+$0.01,call_33dc6ba429b446cd50905bbe9b4,agent_00490e668be8e0244229d1de5a,15109411358,919022207773,ended,"7/3/2025, 8:00:38 PM","7/3/2025, 8:00:42 PM",5,meetshah19022000@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne 
+",https://dxc03zgurdly9.cloudfront.net/81381d4d8e2a3cf7bbdb8b6c42ea453f0303d1ea8a77b932ff080814155a5f39/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user, Aryan, but the transcript does not provide further details about the conversation or any actions taken.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
+-,call_5a6a98509001e3488fead2bff2b,agent_00490e668be8e0244229d1de5a,15109411358,917720000606,not_connected,"7/3/2025, 7:52:05 PM","7/3/2025, 7:52:05 PM",-,Vijaymane47@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_7e9d9573f90651415061482fd53,agent_00490e668be8e0244229d1de5a,15109411358,919022207773,not_connected,"7/3/2025, 7:51:54 PM","7/3/2025, 7:51:54 PM",-,meetshah19022000@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
 -,call_2193d437262822efd574a71cd20,agent_00490e668be8e0244229d1de5a,15109411358,919663142850,not_connected,"7/3/2025, 7:35:03 PM","7/3/2025, 7:35:03 PM",-,Lohit.Lohi123@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_e396082389c77bfaa171dffefd5,agent_00490e668be8e0244229d1de5a,15109411358,919346248192,ended,"7/3/2025, 7:34:43 PM","7/3/2025, 7:34:55 PM",12,smilyvamshhi45@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
 User: Hello.
@@ -922,5 +950,3 @@ Agent: Maniteja! The
 Agent: Oh, Maniteja ji, lagta hai aap thoda busy hain ya kuch confusion ho gaya hai. Koi baat nahi, main bas aapki help karne ke liye call kar raha tha regarding Trimfinity 7000 Body and Ball Trimmer jo aapne cart mein add kiya tha.Aapko product ke baare mein koi bhi doubt ya question ho toh bataiye, main aapki help 
 ",https://dxc03zgurdly9.cloudfront.net/8d38bd3da5702a3d40017b393bd93da010d141eafca8346302f003ad27f5babb/recording.wav,Negative,False,"The user seems to be confused or busy during the call, repeatedly saying 'no' and indicating they are not ready to discuss the product. The agent attempts to clarify the purpose of the call regarding a product the user added to their cart, but the conversation does not progress effectively due to the user's responses.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",28,user_hangup
 -,call_59cff13267574597011a008785c,agent_00490e668be8e0244229d1de5a,15109411358,919872541222,error,"6/26/2025, 11:18:02 AM","6/26/2025, 11:18:02 AM",-,neerajnk.751@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.01,call_1077ff6db7dcd2cabf394422dd6,agent_00490e668be8e0244229d1de5a,15109411358,918320957717,ended,"6/26/2025, 10:34:43 AM","6/26/2025, 10:34:47 AM",5,altafjivani632@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart 
-",https://dxc03zgurdly9.cloudfront.net/27e134f5e7c929e6424932ed15e3d8f5a34b9c0676ae541fd50c8ef00e5d808a/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user, Aryan, regarding a product in their cart. The conversation likely involved discussing the user's interest in the product and possibly assisting with the purchase process.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
