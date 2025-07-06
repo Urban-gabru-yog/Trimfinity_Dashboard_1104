@@ -1,4 +1,44 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+$0.01,call_4daf2e0938a907393295788d287,agent_00490e668be8e0244229d1de5a,15109411358,919284039192,ended,"7/6/2025, 1:34:55 PM","7/6/2025, 1:34:59 PM",4,Kiranhande6076@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call has 
+Agent: Hello, main Aryan 
+User: been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/d89d98383882b0d2e2e4dd61cdc7542ccf1b6664a0303ae9ff9c98b9d02fc3c9/recording.wav,Neutral,False,The user attempted to make a call but was informed that the call has been forwarded to voicemail. The agent acknowledged the user but did not provide further assistance or information.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.01,call_9e13ac05a788c1128beee69911b,agent_00490e668be8e0244229d1de5a,15109411358,919039465756,ended,"7/6/2025, 1:00:56 PM","7/6/2025, 1:00:59 PM",4,samkitjain8553@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, 
+User: Your call has been forwarded to voice mail.
+",https://dxc03zgurdly9.cloudfront.net/9c0c9e4017b9453cfcc7c8ecb1d8bcfe98c8bb0c1b114ff303178c32775cbe41/recording.wav,Neutral,False,"The user did not engage with the agent as the call was forwarded to voicemail, indicating that the user was not available to speak.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
+$0.11,call_88a6f98d1f2e215b98e001b5632,agent_00490e668be8e0244229d1de5a,15109411358,917354401057,ended,"7/6/2025, 12:51:52 PM","7/6/2025, 12:52:40 PM",48,abhigupta121@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
+User: Hi there, I'm a digital assistant.
+User: May I ask who is calling?
+Agent: Hey SHIVAM, this is Aryan from Trimfinity! I noticed you were checking out the 
+User: Ok, please 
+Agent: Trimfinity 7000 Body and 
+User: hold. I will be right with you.
+Agent: Sure, SHIVAM! Take your time, I’ll wait.
+User: Quque question,
+Agent: Of course, SHIVAM! What’s your 
+User: Ok, please 
+Agent: question? I’m here to help.
+User: hold. I'll be right with you.
+Agent: No problem, 
+User: May I ask who is 
+Agent: SHIVAM! Take your time, I’m 
+User: calling?
+Agent: Of course! This is Aryan 
+User: Ok, please 
+Agent: from Trimfinity. I noticed you were 
+User: hold.
+User: I'll be right with you.
+User: Unaving 
+Agent: No worries, 
+User: now, please try calling again later.
+User: Feel free to leave a message.
+",https://dxc03zgurdly9.cloudfront.net/cb06b6e638fb3fe2fb2003054e5111cbc42ea4ac85359694a01dbe21c7a0d6ac/recording.wav,Neutral,False,"The user, SHIVAM, was engaged in a conversation with Aryan from Trimfinity regarding a product inquiry. However, the user frequently asked to hold and eventually requested to end the call, indicating they would prefer to be contacted later.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",48,voicemail_reached
+-,call_e830f07db472e13d7b5bed28e7c,agent_00490e668be8e0244229d1de5a,15109411358,917354401057,not_connected,"7/6/2025, 12:35:03 PM","7/6/2025, 12:35:03 PM",-,abhigupta121@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_9f3a15e9ed75c43b0ad34dc7ffd,agent_00490e668be8e0244229d1de5a,15109411358,919166899881,not_connected,"7/6/2025, 12:35:02 PM","7/6/2025, 12:35:02 PM",-,aashishkirad1991@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.04,call_8a7bb0324176c9bddbccbd42af4,agent_00490e668be8e0244229d1de5a,15109411358,919962690222,ended,"7/6/2025, 12:34:56 PM","7/6/2025, 12:35:14 PM",19,nasugu2003@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/63f6c28db4e569f30e7df71b68993ddaa804dcd268b5dc183cc45bd1fb20c464/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",19,user_hangup
+$0.03,call_9ff8e5378f9d75f7a129029287e,agent_00490e668be8e0244229d1de5a,15109411358,916263281572,ended,"7/6/2025, 11:51:39 AM","7/6/2025, 11:51:50 AM",11,Mittalkanha88@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
+",https://dxc03zgurdly9.cloudfront.net/21f9e5cf7ec5f9446109089140e13d1a4d62fbe3d2889b506d205aa120c73a0e/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they had added to their cart. The call appears to be promotional in nature, encouraging the user to take advantage of the offer.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",11,user_hangup
 -,call_556c55d6f4e6ebf942c9c3630f0,agent_00490e668be8e0244229d1de5a,15109411358,917507490308,not_connected,"7/6/2025, 11:35:04 AM","7/6/2025, 11:35:04 AM",-,bhushanghugedo@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_02dd2a8f3a3ad89392f2a9c3c93,agent_00490e668be8e0244229d1de5a,15109411358,918279214729,not_connected,"7/6/2025, 11:18:04 AM","7/6/2025, 11:18:04 AM",-,divyanshumanglani1999@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_e0ffb2258630bb2c9a46dd34696,agent_00490e668be8e0244229d1de5a,15109411358,918332954630,not_connected,"7/6/2025, 11:18:02 AM","7/6/2025, 11:18:02 AM",-,venkymahendra039@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -1133,11 +1173,3 @@ User: हमने तो
 Agent: secure hai.Aur agar aap abhi confirm karte hain, toh mai aapke liye ek special 5% discount bhi laga deta hoon. Code hai: O-F-F-5. Aapko bas ₹1299 ka 5% kam pay karna hoga.Aapko WhatsApp pe ek link 
 User: Sir देखिए
 ",https://dxc03zgurdly9.cloudfront.net/327d52b077d51a91fd9d86e483eaf570ffc3e1795ff261592797ea50b2379bfb/recording.wav,Negative,False,"The user, Devraj, contacted the agent regarding a product he added to his cart and inquired about cash on delivery options. The agent informed him that cash on delivery is not available and encouraged him to use online payment, offering a 5% discount for immediate confirmation. However, the user expressed his inability to make an online payment due to lack of cash, leading to a misunderstanding about the payment options.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",112,user_hangup
--,call_72ef8c899f16dc3164b6530f8cc,agent_00490e668be8e0244229d1de5a,15109411358,919160727180,error,"6/27/2025, 7:35:02 PM","6/27/2025, 7:35:02 PM",-,raghubaikadi91@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_801a0b9dce349378bcf223f5aad,agent_00490e668be8e0244229d1de5a,15109411358,917907929951,error,"6/27/2025, 7:01:02 PM","6/27/2025, 7:01:02 PM",-,laljwalajeev@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_2065e04ca985f38a4f82b2f8c08,agent_00490e668be8e0244229d1de5a,15109411358,917907929951,error,"6/27/2025, 6:52:02 PM","6/27/2025, 6:52:02 PM",-,laljwalajeev@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_a66e68b5e1dbad40486a9d8792d,agent_00490e668be8e0244229d1de5a,15109411358,917557451736,error,"6/27/2025, 6:35:02 PM","6/27/2025, 6:35:02 PM",-,rahulsahni700@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.01,call_bfdb63b1f92306d04925a83d8cd,agent_00490e668be8e0244229d1de5a,15109411358,919074697849,ended,"6/27/2025, 6:17:54 PM","6/27/2025, 6:17:58 PM",5,shadilchungath1234@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call has been forwarded 
-Agent: Hello, main Aryan hoon 
-User: to voicemail. The person you are trying to reach
-",https://dxc03zgurdly9.cloudfront.net/7525fc7898a28365a8e94cdc342d2627cae9a57be519205f92d2cba3e49f8790/recording.wav,Neutral,False,"The call was forwarded to voicemail, indicating that the intended recipient was unavailable to take the call. The user did not have a chance to interact with the agent beyond the initial greeting.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
