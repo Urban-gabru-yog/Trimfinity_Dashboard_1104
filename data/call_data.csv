@@ -1,4 +1,17 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_3e45e4e3331776575f441241862,agent_00490e668be8e0244229d1de5a,15109411358,919785845359,not_connected,"7/13/2025, 1:00:53 PM","7/13/2025, 1:00:53 PM",-,atulshrm49@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
+-,call_aa9e913b6015e1a44a8904d4666,agent_00490e668be8e0244229d1de5a,15109411358,919785845359,not_connected,"7/13/2025, 12:52:02 PM","7/13/2025, 12:52:02 PM",-,atulshrm49@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+$0.01,call_bf484bb1e21ac199f4b3e9818b3,agent_00490e668be8e0244229d1de5a,15109411358,919711386790,ended,"7/13/2025, 12:51:51 PM","7/13/2025, 12:51:56 PM",5,jugalnpkishore92@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product 
+",https://dxc03zgurdly9.cloudfront.net/5ea0d8c72b141f2b3595c3de2dc6ee6c323d25f5d6b21c78ec1482ce4290f538/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who addressed the user named Aryan regarding a product inquiry. The conversation appears to be in the early stages, and no specific issues or resolutions have been discussed yet.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
+$0.04,call_1b29e4f37834d0ff1cfcb33b70a,agent_00490e668be8e0244229d1de5a,15109411358,919327555769,ended,"7/13/2025, 12:51:45 PM","7/13/2025, 12:51:59 PM",15,aniketsharma112004@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
+User: Hello. हां.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/5ddb741b7712020ea89603309dc939bc5cf8f3be273f3b40925666ef2bc6a05a/recording.wav,Neutral,True,The agent introduced themselves and informed the user about an additional 5% discount available for a product they added to their cart. The agent offered to help the user claim the discount.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",15,user_hangup
+$0.01,call_5653bf8f588cdb164aedc37c699,agent_00490e668be8e0244229d1de5a,15109411358,919711386790,ended,"7/13/2025, 12:34:57 PM","7/13/2025, 12:35:01 PM",5,jugalnpkishore92@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product 
+",https://dxc03zgurdly9.cloudfront.net/9145175f782d4a3a4880ca1bcef7b51f27ce99e103a8506d71fe8fec4033c6ca/recording.wav,Neutral,False,"The call was initiated by an agent from Trimfinity, who identified themselves as Aryan and mentioned that the user had shown interest in a product. However, the transcript does not provide further details about the conversation or any actions taken during the call.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",5,user_hangup
+-,call_3553a278909503eb84956637931,agent_00490e668be8e0244229d1de5a,15109411358,918962124722,not_connected,"7/13/2025, 12:18:02 PM","7/13/2025, 12:18:02 PM",-,Jitendrachouthe@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_b5501da7395db8c9c61e2a25191,agent_00490e668be8e0244229d1de5a,15109411358,918962124722,not_connected,"7/13/2025, 12:01:03 PM","7/13/2025, 12:01:03 PM",-,Jitendrachouthe@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
+-,call_d44ea702176373c17e228161e16,agent_00490e668be8e0244229d1de5a,15109411358,918962124722,not_connected,"7/13/2025, 12:01:02 PM","7/13/2025, 12:01:02 PM",-,Jitendrachouthe@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_78cc354a9f08ea9dfc488c60411,agent_00490e668be8e0244229d1de5a,15109411358,919785845359,not_connected,"7/13/2025, 10:35:03 AM","7/13/2025, 10:35:03 AM",-,atulshrm49@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_eb1da5c4bdbe4a75c6161e58228,agent_00490e668be8e0244229d1de5a,15109411358,919785845359,not_connected,"7/13/2025, 10:01:04 AM","7/13/2025, 10:01:04 AM",-,atulshrm49@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 $0.03,call_7b014c1a6ca57b227f7e6b57fad,agent_00490e668be8e0244229d1de5a,15109411358,918962250772,ended,"7/13/2025, 10:00:48 AM","7/13/2025, 10:00:59 AM",11,chandandas197377@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart 
@@ -1628,48 +1641,3 @@ $0.02,call_867e72c54b09d23231e79e9935a,agent_00490e668be8e0244229d1de5a,15109411
 $0.02,call_73321aa98769938056c5977259d,agent_00490e668be8e0244229d1de5a,15109411358,919492949800,ended,"7/6/2025, 3:17:52 PM","7/6/2025, 3:17:58 PM",7,sribaneswara@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din 
 ",https://dxc03zgurdly9.cloudfront.net/a93d50859c72b041c9b07e93fa8794dc49374909060696fb3b8d0158be47194e/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call to follow up on a product that the user had added to their cart. The conversation likely involved discussing the user's interest in the product and possibly addressing any questions or concerns they had.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
 -,call_056f3acb4bc386237d00db2af80,agent_00490e668be8e0244229d1de5a,15109411358,919995451463,not_connected,"7/6/2025, 3:01:02 PM","7/6/2025, 3:01:02 PM",-,rahulksnvkm@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.02,call_eb825128439c7d427cb76e78c3c,agent_00490e668be8e0244229d1de5a,15109411358,919848956665,ended,"7/6/2025, 2:17:51 PM","7/6/2025, 2:17:58 PM",7,pvrao34@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main 
-User: Hello.
-Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke 
-",https://dxc03zgurdly9.cloudfront.net/f98b6b8dc019541e48ee56193b9ba717b581e0f70c0e2123af5bf1c91a9f4a41/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, initiated the call by acknowledging that the user had added a product to their cart. The conversation appears to be focused on assisting the user with their shopping experience.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",7,user_hangup
--,call_d16f7212fa9abe4323ceb0e6369,agent_00490e668be8e0244229d1de5a,15109411358,919327988421,not_connected,"7/6/2025, 2:01:02 PM","7/6/2025, 2:01:02 PM",-,Satishvora1234@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
-$0.04,call_e212a95d13ce181996379bc8a7c,agent_00490e668be8e0244229d1de5a,15109411358,917977610094,ended,"7/6/2025, 2:00:41 PM","7/6/2025, 2:00:57 PM",16,Sohraab111@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-",https://dxc03zgurdly9.cloudfront.net/1dbce88d32f176dd2459178f0a5a3515347317fee5996d3aea07b6d12510bd62/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call aimed to encourage the user to claim the discount.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",16,user_hangup
-$0.01,call_bc371adc83e51f351a53dc06bf0,agent_00490e668be8e0244229d1de5a,15109411358,919284039192,ended,"7/6/2025, 1:51:41 PM","7/6/2025, 1:51:46 PM",6,Kiranhande6076@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your 
-Agent: Hello, main Aryan hoon 
-User: call has been forwarded to voice mail. The person you are trying to reach is not available.
-",https://dxc03zgurdly9.cloudfront.net/b3508e08c41c39862de30b86e44ecccc3733aad2b1d8e88360ba13ee59bac382/recording.wav,Neutral,False,The user attempted to reach someone but was informed that the call has been forwarded to voicemail as the person is not available.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",6,voicemail_reached
-$0.01,call_4daf2e0938a907393295788d287,agent_00490e668be8e0244229d1de5a,15109411358,919284039192,ended,"7/6/2025, 1:34:55 PM","7/6/2025, 1:34:59 PM",4,Kiranhande6076@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"User: Your call has 
-Agent: Hello, main Aryan 
-User: been forwarded to voicemail.
-",https://dxc03zgurdly9.cloudfront.net/d89d98383882b0d2e2e4dd61cdc7542ccf1b6664a0303ae9ff9c98b9d02fc3c9/recording.wav,Neutral,False,The user attempted to make a call but was informed that the call has been forwarded to voicemail. The agent acknowledged the user but did not provide further assistance or information.,"elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
-$0.01,call_9e13ac05a788c1128beee69911b,agent_00490e668be8e0244229d1de5a,15109411358,919039465756,ended,"7/6/2025, 1:00:56 PM","7/6/2025, 1:00:59 PM",4,samkitjain8553@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, 
-User: Your call has been forwarded to voice mail.
-",https://dxc03zgurdly9.cloudfront.net/9c0c9e4017b9453cfcc7c8ecb1d8bcfe98c8bb0c1b114ff303178c32775cbe41/recording.wav,Neutral,False,"The user did not engage with the agent as the call was forwarded to voicemail, indicating that the user was not available to speak.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",4,voicemail_reached
-$0.11,call_88a6f98d1f2e215b98e001b5632,agent_00490e668be8e0244229d1de5a,15109411358,917354401057,ended,"7/6/2025, 12:51:52 PM","7/6/2025, 12:52:40 PM",48,abhigupta121@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
-User: Hi there, I'm a digital assistant.
-User: May I ask who is calling?
-Agent: Hey SHIVAM, this is Aryan from Trimfinity! I noticed you were checking out the 
-User: Ok, please 
-Agent: Trimfinity 7000 Body and 
-User: hold. I will be right with you.
-Agent: Sure, SHIVAM! Take your time, I’ll wait.
-User: Quque question,
-Agent: Of course, SHIVAM! What’s your 
-User: Ok, please 
-Agent: question? I’m here to help.
-User: hold. I'll be right with you.
-Agent: No problem, 
-User: May I ask who is 
-Agent: SHIVAM! Take your time, I’m 
-User: calling?
-Agent: Of course! This is Aryan 
-User: Ok, please 
-Agent: from Trimfinity. I noticed you were 
-User: hold.
-User: I'll be right with you.
-User: Unaving 
-Agent: No worries, 
-User: now, please try calling again later.
-User: Feel free to leave a message.
-",https://dxc03zgurdly9.cloudfront.net/cb06b6e638fb3fe2fb2003054e5111cbc42ea4ac85359694a01dbe21c7a0d6ac/recording.wav,Neutral,False,"The user, SHIVAM, was engaged in a conversation with Aryan from Trimfinity regarding a product inquiry. However, the user frequently asked to hold and eventually requested to end the call, indicating they would prefer to be contacted later.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",48,voicemail_reached
