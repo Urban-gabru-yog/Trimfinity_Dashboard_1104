@@ -1,4 +1,5 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason
+-,call_a1af6b5165c2bd3980413f2996f,agent_00490e668be8e0244229d1de5a,15109411358,918209162880,not_connected,"7/14/2025, 7:35:06 PM","7/14/2025, 7:35:06 PM",-,Mprajapat20050@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_674a0a20337ea0c06e0040b0671,agent_00490e668be8e0244229d1de5a,15109411358,917208423054,not_connected,"7/14/2025, 5:52:03 PM","7/14/2025, 5:52:03 PM",-,shubhamko2212@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_66e0c0b6776ef978332842eeecb,agent_00490e668be8e0244229d1de5a,15109411358,919080275277,not_connected,"7/14/2025, 5:52:02 PM","7/14/2025, 5:52:02 PM",-,abdulminshi121@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
 -,call_6e922554adeff380686b460a00b,agent_00490e668be8e0244229d1de5a,15109411358,919977777883,not_connected,"7/14/2025, 5:35:02 PM","7/14/2025, 5:35:02 PM",-,tarunkalra4u@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
@@ -1702,4 +1703,3 @@ Agent: mein welcome!
 User: you.
 Agent: Aapka bhi 
 ",https://dxc03zgurdly9.cloudfront.net/2a492363730ddd40c57d5fcbd74d8bd75fd3982ec5b0958b075cf5f719596dfc/recording.wav,Positive,True,"The user, Mayur, inquired about a higher discount on a product but was offered a 5% discount instead. The agent successfully provided a checkout link via WhatsApp and confirmed the discount code for the user to apply during payment.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",124,user_hangup
--,call_c416ec913090c85d3d04c6d9b65,agent_00490e668be8e0244229d1de5a,15109411358,918921772820,not_connected,"7/7/2025, 12:00:53 PM","7/7/2025, 12:00:53 PM",-,abimalbiju2001@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy
