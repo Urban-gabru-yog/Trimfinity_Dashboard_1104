@@ -732,5 +732,3 @@ $0.05,call_e20f6aa7ad253eed05f1c0a3eac,agent_00490e668be8e0244229d1de5a,15109411
 User: नहीं, dash on delivery बनी ना.
 Agent: अरे 
 ",https://dxc03zgurdly9.cloudfront.net/fdf2f7030096630515bf13a83af0bd0a5950a24c880da8574c3c0ea4d329124a/recording.wav,Negative,False,"The agent from Trimfinity reached out to the user to inform them about an additional 5% discount on a product they added to their cart. However, the user declined the offer, indicating a preference for cash on delivery instead.","elevenlabs_tts, gpt_4o, us_telephony, knowledge_base_usage",20,user_hangup
--,call_8e24c03b01605bcf6e8b471cb9e,agent_00490e668be8e0244229d1de5a,15109411358,916300266435,not_connected,"7/17/2025, 12:35:03 PM","7/17/2025, 12:35:03 PM",-,mohdhasimkhan9011@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
--,call_efcc25cef76cfe25792ddb6c54e,agent_00490e668be8e0244229d1de5a,15109411358,917349071131,not_connected,"7/17/2025, 12:35:02 PM","7/17/2025, 12:35:02 PM",-,vinu99052@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer
