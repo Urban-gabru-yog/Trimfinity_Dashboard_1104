@@ -1,4 +1,150 @@
 TotalCost,CallID,AgentID,FromNumber,ToNumber,CallStatus,StartTimestamp,EndTimestamp,TotalDuration (in sec),Email,Product,Transcript,RecordingURL,UserSentiment,CallSuccessful,CallSummary,ProductsUsed,DurationSeconds,DisconnectionReason,id,admin_graphql_api_id,app_id,browser_ip,buyer_accepts_marketing,cancel_reason,cancelled_at,cart_token,checkout_id,checkout_token,client_details,closed_at,confirmation_number,confirmed,contact_email,created_at,currency,current_subtotal_price,current_total_additional_fees_set,current_total_discounts,current_total_duties_set,current_total_price,current_total_tax,customer_locale,device_id,discount_codes,email,estimated_taxes,financial_status,fulfillment_status,landing_site,landing_site_ref,location_id,merchant_of_record_app_id,name,note,note_attributes,number,order_number,order_status_url,original_total_additional_fees_set,original_total_duties_set,payment_gateway_names,phone,po_number,presentment_currency,processed_at,reference,referring_site,source_identifier,source_name,source_url,subtotal_price,tags,tax_exempt,tax_lines,taxes_included,test,token,total_discounts,total_line_items_price,total_outstanding,total_price,total_tax,total_tip_received,total_weight,updated_at,user_id,discount_applications,fulfillments,line_items,payment_terms,refunds,shipping_lines,current_subtotal_price_set.shop_money.amount,current_subtotal_price_set.shop_money.currency_code,current_subtotal_price_set.presentment_money.amount,current_subtotal_price_set.presentment_money.currency_code,current_total_discounts_set.shop_money.amount,current_total_discounts_set.shop_money.currency_code,current_total_discounts_set.presentment_money.amount,current_total_discounts_set.presentment_money.currency_code,current_total_price_set.shop_money.amount,current_total_price_set.shop_money.currency_code,current_total_price_set.presentment_money.amount,current_total_price_set.presentment_money.currency_code,current_total_tax_set.shop_money.amount,current_total_tax_set.shop_money.currency_code,current_total_tax_set.presentment_money.amount,current_total_tax_set.presentment_money.currency_code,subtotal_price_set.shop_money.amount,subtotal_price_set.shop_money.currency_code,subtotal_price_set.presentment_money.amount,subtotal_price_set.presentment_money.currency_code,total_discounts_set.shop_money.amount,total_discounts_set.shop_money.currency_code,total_discounts_set.presentment_money.amount,total_discounts_set.presentment_money.currency_code,total_line_items_price_set.shop_money.amount,total_line_items_price_set.shop_money.currency_code,total_line_items_price_set.presentment_money.amount,total_line_items_price_set.presentment_money.currency_code,total_price_set.shop_money.amount,total_price_set.shop_money.currency_code,total_price_set.presentment_money.amount,total_price_set.presentment_money.currency_code,total_shipping_price_set.shop_money.amount,total_shipping_price_set.shop_money.currency_code,total_shipping_price_set.presentment_money.amount,total_shipping_price_set.presentment_money.currency_code,total_tax_set.shop_money.amount,total_tax_set.shop_money.currency_code,total_tax_set.presentment_money.amount,total_tax_set.presentment_money.currency_code,billing_address.first_name,billing_address.address1,billing_address.phone,billing_address.city,billing_address.zip,billing_address.province,billing_address.country,billing_address.last_name,billing_address.address2,billing_address.company,billing_address.latitude,billing_address.longitude,billing_address.name,billing_address.country_code,billing_address.province_code,customer.id,customer.email,customer.created_at,customer.updated_at,customer.first_name,customer.last_name,customer.state,customer.note,customer.verified_email,customer.multipass_identifier,customer.tax_exempt,customer.phone,customer.email_marketing_consent.state,customer.email_marketing_consent.opt_in_level,customer.email_marketing_consent.consent_updated_at,customer.sms_marketing_consent,customer.tags,customer.currency,customer.tax_exemptions,customer.admin_graphql_api_id,customer.default_address.id,customer.default_address.customer_id,customer.default_address.first_name,customer.default_address.last_name,customer.default_address.company,customer.default_address.address1,customer.default_address.address2,customer.default_address.city,customer.default_address.province,customer.default_address.country,customer.default_address.zip,customer.default_address.phone,customer.default_address.name,customer.default_address.province_code,customer.default_address.country_code,customer.default_address.country_name,customer.default_address.default,shipping_address.first_name,shipping_address.address1,shipping_address.phone,shipping_address.city,shipping_address.zip,shipping_address.province,shipping_address.country,shipping_address.last_name,shipping_address.address2,shipping_address.company,shipping_address.latitude,shipping_address.longitude,shipping_address.name,shipping_address.country_code,shipping_address.province_code,customer.sms_marketing_consent.state,customer.sms_marketing_consent.opt_in_level,customer.sms_marketing_consent.consent_updated_at,customer.sms_marketing_consent.consent_collected_from,client_details.accept_language,client_details.browser_height,client_details.browser_ip,client_details.browser_width,client_details.session_hash,client_details.user_agent,customer.email_marketing_consent,billing_address,customer,shipping_address,title,Price
+-,call_34332877451ecd5c43ab9022baf,agent_00490e668be8e0244229d1de5a,16267087789,918074161011,not_connected,"8/31/2025, 2:01:04 PM","8/31/2025, 2:01:04 PM",-,email4paragaparekh@gmail.com,Trimfinity 3 in 1 face trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_d32e7b01e71f4c877d6e7b90ad2,agent_00490e668be8e0244229d1de5a,16267087789,917706875901,not_connected,"8/31/2025, 2:01:03 PM","8/31/2025, 2:01:03 PM",-,shukla2000navneet@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_f917b4bf88b5d9f825d53bee490,agent_00490e668be8e0244229d1de5a,16267087789,918074161011,not_connected,"8/31/2025, 1:51:05 PM","8/31/2025, 1:51:05 PM",-,email4paragaparekh@gmail.com,Trimfinity 3 in 1 face trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_d043e9802e16b368912f2aae9eb,agent_00490e668be8e0244229d1de5a,16267087789,917706875901,not_connected,"8/31/2025, 1:51:03 PM","8/31/2025, 1:51:03 PM",-,shukla2000navneet@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_7742b221918b85c02f15c5d7713,agent_00490e668be8e0244229d1de5a,16267087789,919566802606,not_connected,"8/31/2025, 12:26:04 PM","8/31/2025, 12:26:04 PM",-,Sathyathalapathi6@gmail.com,Trimfinity GlidePro Body Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.05,call_d84eb0e4cbb3ca95f981c0e63c0,agent_00490e668be8e0244229d1de5a,16267087789,919890042990,ended,"8/31/2025, 12:25:45 PM","8/31/2025, 12:26:05 PM",21,mangeshpande007@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello hello
+",https://dxc03zgurdly9.cloudfront.net/f1f1c9efedbfc1315464f767c5dc67629aff5f6c6eec9dddbf47ac396733c836/recording.wav,Neutral,False,"The agent introduced themselves and informed the user about a special offer of an additional 5% off on a product in their cart. However, the user did not respond clearly to the offer, indicating possible confusion or disconnection.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",21,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.11,call_7ae4ea0132bd2dc8e6a32062ef3,agent_00490e668be8e0244229d1de5a,16267087789,917337042562,ended,"8/31/2025, 11:50:48 AM","8/31/2025, 11:51:34 AM",46,sufiyansyed575@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hello Syed sufiyan ji, Aryan here again from Trimfinity. Bas aapko yaad dilane ke liye call kiya tha—jo Trimfinity 7000 Body and Ball Trimmer aapne dekha tha, uspar aaj ke liye ek special 5% off ka offer hai. Code hai: O - F - F - 5.  
+
+Agar aap interested hain, toh mai ek WhatsApp link bhej deta hoon jisse aap easily checkout kar sakte hain. Koi aur sawal ho toh mujhe bataiye! 😊
+",https://dxc03zgurdly9.cloudfront.net/6c9c0f38cd1c5c68b6d90e9d69e10ab7deb225841875c971a8ee0143e547aaf4/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, called Syed Sufiyan to remind him about a special 5% discount on the Trimfinity 7000 Body and Ball Trimmer that he had added to his cart. Aryan offered to send a WhatsApp link for easy checkout and invited any further questions.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",46,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_b7103d262942ef942529974d6b9,agent_00490e668be8e0244229d1de5a,16267087789,918767574291,not_connected,"8/31/2025, 11:01:04 AM","8/31/2025, 11:01:04 AM",-,prasadmorankar2004@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.11,call_2db9c8ab833cc66928560325cce,agent_00490e668be8e0244229d1de5a,16267087789,919764380262,ended,"8/31/2025, 11:00:47 AM","8/31/2025, 11:01:33 AM",47,pradipmulik52@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Hello
+Agent: se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: हां देखते हैं.
+Agent: अरे वाह, Pradip Vikram जी! तो आपने Trimfinity 1.0 Body & Ball Trimmer देखा था, सही? कोई दिक्कत आई थी checkout करते वक्त, या बस सोच रहे थे थोड़ा? 😊
+User: नहीं कुछ.
+Agent: समझ गया, Pradip जी! वैसे ये ट्रिमर काफी बढ़िया है—advanced technology के साथ आता है, और long-lasting भी है। 
+
+वैसे, क्या price को लेकर सोच रहे थे, या कोई और सवाल है आपके मन में? 😊
+User: कुछ नहीं है.
+Agent: अच्छा, कोई 
+User: यह तो शादी जाते हो कोई?
+",https://dxc03zgurdly9.cloudfront.net/24e865ba0a05b6ead0b2759e5bb088ba3b310d31052a18e4d5842abe51f36a98/recording.wav,Neutral,True,"The user, Pradip, was contacted by the agent regarding a product in their cart, the Trimfinity 1.0 Body & Ball Trimmer, and was offered an additional discount. The user showed interest but did not have any specific questions or concerns about the product.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",47,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_09e575cda6ffdf821a147cf195c,agent_00490e668be8e0244229d1de5a,16267087789,918722515616,not_connected,"8/31/2025, 10:51:05 AM","8/31/2025, 10:51:05 AM",-,ranganathanranganathan893@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_9129375e1e64c36b1116230ad50,agent_00490e668be8e0244229d1de5a,16267087789,918586054408,not_connected,"8/31/2025, 10:51:02 AM","8/31/2025, 10:51:02 AM",-,anjalisingh1212121217@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.16,call_c869dce0e924b189256dd558c73,agent_00490e668be8e0244229d1de5a,16267087789,919764380262,ended,"8/31/2025, 10:50:51 AM","8/31/2025, 10:51:58 AM",67,pradipmulik52@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. 
+User: अरे cash 
+Agent: Kya aap ise claim karna chahenge?
+User: on dealer का वह यह दिखा नहीं रहा है option नहीं दिखा रहा है
+Agent: अरे हां, Pradip ji, समझ गया! Cash on Delivery का option checkout पर दिखना चाहिए, लेकिन कभी-कभी 
+User: अच्छा.
+Agent: technical glitch की वजह से नहीं दिखता।  
+
+Aap tension mat lijiye, main aapko ek WhatsApp link bhej deta hoon jisme Cash on Delivery ka option confirm hoga. Aap bas uspe click karke order 
+User: अच्छा ठीक है.
+User: ठीक है 
+Agent: Shukriya, Pradip ji!
+User: ठीक है.
+User: हां 
+Agent: Theek 
+User: ठीक है.
+Agent: hai, 
+User: Hello.
+Agent: Hi 
+User: Hello. 
+Agent: Pradip ji! Aryan here from 
+User: हां हमने मैंने पहले ही एक मंगाया था वह अच्छा है मेरे भाई के लिए मंगाना था इसलिए बोल रहा था क्या sandal लेकर नहीं दिख रहा था इसलिए मैंने मंगवावा नहीं.
+Agent: Ohh, samajh gaya Pradip ji!
+User: ठीक है.
+Agent:  Pehle aapne ek liya tha aur wo accha laga, isliye ab apne bhai ke liye lena chahte the. Lekin Cash on Delivery ka option nahi dikh raha tha, right?Aap bilkul 
+User: अच्छा हां. हां.
+User: हां. 
+Agent: Theek hai, Pradip ji! Main abhi aapko ek 
+User: हां, ठीक है.
+User: ठीक है, ठीक 
+Agent: Perfect, Pradip ji!
+User: है.
+",https://dxc03zgurdly9.cloudfront.net/9d7d3c1423289d6cedb7530d67eae8954abe4532deda33e1ab419472994eaff0/recording.wav,Neutral,True,"The user, Pradip, contacted the agent regarding an issue with the Cash on Delivery option not appearing during checkout for a product he wanted to order for his brother. The agent acknowledged the issue as a potential technical glitch and offered to send a WhatsApp link to confirm the Cash on Delivery option, which the user accepted.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",67,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_41843b40d61b4fd202eba7943de,agent_00490e668be8e0244229d1de5a,16267087789,919606126902,not_connected,"8/31/2025, 10:26:02 AM","8/31/2025, 10:26:02 AM",-,Gowdarakshi461@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.19,call_84a264e28aa9059a5f491ee2f74,agent_00490e668be8e0244229d1de5a,16267087789,917829778691,ended,"8/30/2025, 8:50:48 PM","8/30/2025, 8:52:07 PM",80,saifhanchanmani17abd@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main 
+User: Hello. हां 
+Agent: Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add 
+User: जी.
+Agent: Hello Saif ji!
+User: हां. हां. एक 
+Agent:  Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap 
+User: सुनो यार.
+Agent: जी, 
+User: Hello. हां, 
+Agent: Saif ji, boliye! 😊 Koi dikkat hui checkout mein ya kuch puchhna 
+User: मैंने order कर दिया
+User: नहीं नहीं order 
+Agent: अरे 
+User: कर दिया sir.
+Agent: अरे वाह, Saif ji! Bahut badiya! 🎉 Aapne bilkul sahi choice kiya 
+User: Ok ok.
+Agent: hai, Trimfinity 1.0 Body & Ball Trimmer ekdum top-notch product hai. Aapko definitely pasand aayega.
+User: Ok, thank you.
+Agent: Thank you, Saif ji! Agar kabhi koi help chahiye ho ya 
+User: sir. Sir rating डालूंगा मैं rating डालूंगा.
+Agent: Wah, Saif ji! Aap toh dil khush kar diye! ⭐⭐⭐⭐⭐ Rating ke liye pehle se hi shukriya! Agar koi aur help chahiye ho, toh bas ek call ya WhatsApp kar lena. Aapka din shandaar ho! 😊
+User: Ok thank you.
+Agent: Thank you, Saif ji! Aapka din badhiya 
+User: Ok. और ग्यारह
+Agent: jaye! 😊 Agar kuch bhi 
+User: phone?
+Agent: Haan Saif ji, aur kuch puchhna ho toh bilkul bataiye! Main yahin hoon 
+User: नहीं नहीं नहीं रखता 
+Agent: madad ke liye. 😊
+User: हूं phone थोड़ा busy हूं.
+Agent: Arre bilkul, Saif ji! Aap apna kaam kariye, 
+User: Ok.
+Agent: aur agar kabhi help chahiye ho toh bas ek call ya WhatsApp kar lena. Aapka din shandaar ho! Bye-bye! 😊
+User: Ok.
+User: Ok.
+Agent: Thank you, Saif ji! Take care, aur phir milte 
+",https://dxc03zgurdly9.cloudfront.net/d0b909e66ca0a464e0cc385db4a80c99ff0a214ec42ea86a710479872d18afcf/recording.wav,Positive,True,"The user, Saif, confirmed that he has placed an order for the Trimfinity 1.0 Body & Ball Trimmer. The agent, Aryan, congratulated him on his choice and encouraged him to leave a rating, which Saif agreed to do. The call ended on a positive note with the agent offering further assistance if needed.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",80,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.09,call_dba0bedc768aefbc9f3a43bd753,agent_00490e668be8e0244229d1de5a,16267087789,916377149214,ended,"8/30/2025, 8:01:00 PM","8/30/2025, 8:01:39 PM",39,skhinchi99@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Hello.
+Agent: Hi Sumit! This is Aryan from Trimfinity. I noticed you were checking out the Trimfinity 7000 Body and Ball Trimmer on our website. Just wanted to check—did you face any issues while trying to place the order? 😊
+",https://dxc03zgurdly9.cloudfront.net/92a5996304edeaa5921b67d030209f0c97a60c7999834016cf04c330efd82c6d/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user, Sumit, to inform him about an additional 5% discount on the Trimfinity 7000 Body and Ball Trimmer that he had added to his cart. The agent also inquired if Sumit faced any issues while trying to place the order.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",39,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_434ca273b7f9e74b847c50fdc66,agent_00490e668be8e0244229d1de5a,16267087789,916377149214,not_connected,"8/30/2025, 7:51:02 PM","8/30/2025, 7:51:02 PM",-,skhinchi99@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_08438d74548170fb4522cccb650,agent_00490e668be8e0244229d1de5a,16267087789,919120295564,not_connected,"8/30/2025, 7:26:02 PM","8/30/2025, 7:26:02 PM",-,gondvishal88@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_4c0c1e67e13bc8d7c71f12db66a,agent_00490e668be8e0244229d1de5a,16267087789,919023929865,not_connected,"8/30/2025, 6:26:02 PM","8/30/2025, 6:26:02 PM",-,rvyadav262@gmail.com,Trimfinity Smart Blade,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_c6236675b50292cfbd1f4cf0e23,agent_00490e668be8e0244229d1de5a,16267087789,918670326353,not_connected,"8/30/2025, 5:26:05 PM","8/30/2025, 5:26:05 PM",-,ved88pandey@yahoo.in,Ultimate Duo Beard & Body Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_439919dc2a2e484c2036120469d,agent_00490e668be8e0244229d1de5a,16267087789,918602203230,not_connected,"8/30/2025, 5:26:04 PM","8/30/2025, 5:26:04 PM",-,anoosh1991@gmail.com,Trimfinity Smart Blade,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_86374cc6c7b75ac20afb5721e78,agent_00490e668be8e0244229d1de5a,16267087789,919960191568,not_connected,"8/30/2025, 5:26:02 PM","8/30/2025, 5:26:02 PM",-,sdmeet@gmail.com,Trimfinity Smart Blade,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.04,call_b411076265b6daf14e21946a5d2,agent_00490e668be8e0244229d1de5a,16267087789,918279524787,ended,"8/30/2025, 5:25:42 PM","8/30/2025, 5:25:59 PM",17,raman112898@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/b399d98e6595c1a4ca4b2db0411010010d7f25629aaca264bc2343336eadc617/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",17,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_da89da1c20997ac0a00c774fe74,agent_00490e668be8e0244229d1de5a,16267087789,919909436913,not_connected,"8/30/2025, 5:01:07 PM","8/30/2025, 5:01:07 PM",-,sjmacwan5401@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_0da6581994a992f44f63179ea84,agent_00490e668be8e0244229d1de5a,16267087789,919425633494,not_connected,"8/30/2025, 5:01:06 PM","8/30/2025, 5:01:06 PM",-,aayushkarma508@gmail.com,Trimfinity Smart Blade,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_bcc89b91c2c0e0edcd4f4365770,agent_00490e668be8e0244229d1de5a,16267087789,917984833114,not_connected,"8/30/2025, 4:01:04 PM","8/30/2025, 4:01:04 PM",-,jayvara428@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.11,call_fc492e0f42e9aaf96b177078199,agent_00490e668be8e0244229d1de5a,16267087789,918827909719,ended,"8/30/2025, 4:01:02 PM","8/30/2025, 4:01:47 PM",46,sagardhakad1004@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+Agent: Hello Sagar ji, Aryan yahan Trimfinity se. Bas aapko yaad dilane ke liye call kar raha tha ki agar aap Trimfinity 1.0 Body & Ball Trimmer lena chahte hain, toh aaj ke liye ek special 5% off ka code hai—O - F - F - 5.  
+
+Aapko koi aur help chahiye toh mujhe zarur batayein! 😊
+",https://dxc03zgurdly9.cloudfront.net/ac8f93a7b8939230fe2cd5ceaa1cbdcabf50912a51de53a5be22a87d460617ae/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, called Sagar to remind him about a product he added to his cart and offered an additional 5% discount on the Trimfinity 1.0 Body & Ball Trimmer. The agent provided a discount code and asked if Sagar needed any further assistance.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",46,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.04,call_a3f700e07206f0af57bd3c62256,agent_00490e668be8e0244229d1de5a,16267087789,919066993833,ended,"8/30/2025, 4:00:58 PM","8/30/2025, 4:01:14 PM",16,manimanikandan20895@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/f7d050090225f72b9e6c64859e0bf147efdbd9e36695f40263be116ff06d590c/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call was focused on encouraging the user to claim the discount.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",16,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_79014ce0fd4e23eedd14628dc7f,agent_00490e668be8e0244229d1de5a,16267087789,919513335784,not_connected,"8/30/2025, 4:00:44 PM","8/30/2025, 4:00:44 PM",-,fk333372@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_busy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.04,call_45f2b29a227f876de10d0ada06b,agent_00490e668be8e0244229d1de5a,16267087789,919066993833,ended,"8/30/2025, 3:50:49 PM","8/30/2025, 3:51:04 PM",16,manimanikandan20895@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon 
+User: Hello.
+Agent: Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+",https://dxc03zgurdly9.cloudfront.net/4dc75d1c26731dc4f822ba598c90a3c9904d0946fe62dcbfe75bbc2702bf82cb/recording.wav,Neutral,True,The agent introduced themselves and informed the user about an additional 5% discount on a product they had added to their cart. The call was focused on offering this discount to the user.,"elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",16,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_d3c2e566a73c8a6f6dc16657c23,agent_00490e668be8e0244229d1de5a,16267087789,918077202890,not_connected,"8/30/2025, 3:26:03 PM","8/30/2025, 3:26:03 PM",-,agarwalamit25784@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_c4b87e5577a91b471094bb621eb,agent_00490e668be8e0244229d1de5a,16267087789,918800467666,not_connected,"8/30/2025, 3:26:02 PM","8/30/2025, 3:26:02 PM",-,sudhirbasoya.sb@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.04,call_1849710289ad47554294cd7d0cd,agent_00490e668be8e0244229d1de5a,16267087789,917043587380,ended,"8/30/2025, 3:01:00 PM","8/30/2025, 3:01:18 PM",19,dhavaldhokiya0@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
+User: Nine
+Agent: Hi Vanitaben ji, 
+",https://dxc03zgurdly9.cloudfront.net/308c7701b1fbee1776a29cd6fc930c8f46ab38444283fa6168be261fd288eedf/recording.wav,Neutral,False,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded with 'Nine', indicating a possible misunderstanding or refusal to engage further.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",19,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.07,call_8574dab2577ba1ccfc0074f0d39,agent_00490e668be8e0244229d1de5a,16267087789,916268765154,ended,"8/30/2025, 3:00:57 PM","8/30/2025, 3:01:24 PM",28,subhbyapari2001@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim 
+User: नहीं यार
+Agent: karna chahenge?
+Agent: अरे कोई बात नहीं, Shubhashish ji! बस casually पूछ रहा था. वैसे कोई issue था checkout करते वक्त, ya product ke baare mein kuch soch rahe the? 😊
+User: नहीं.
+Agent: समझ गया, Shubhashish ji.
+",https://dxc03zgurdly9.cloudfront.net/85dc67c9056cf60bcb1040b4f4af34d65f55884966cd0387bf2f2cf13ac21b49/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user declined the offer and indicated there were no issues with the checkout process or the product itself.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",28,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_97b8d2c0a33cc06ac27936eedf1,agent_00490e668be8e0244229d1de5a,16267087789,919787974950,not_connected,"8/30/2025, 2:51:03 PM","8/30/2025, 2:51:03 PM",-,sbsselvam@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+$0.01,call_a16ba4db169984f8c56ab940115,agent_00490e668be8e0244229d1de5a,16267087789,919967376289,ended,"8/30/2025, 2:50:44 PM","8/30/2025, 2:50:47 PM",3,swaroopnikam400624@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity 
+User: Call has been forwarded to voicemail.
+",https://dxc03zgurdly9.cloudfront.net/a0f54fda3f76be170d583c1ee727bd33fb10447918d5b4e99c2e40fd610d81fc/recording.wav,Neutral,False,"The call was initiated by the agent, but the user was unable to engage as the call was forwarded to voicemail.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",3,voicemail_reached,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+-,call_9ee1413490e822f2cedf5cd02f2,agent_00490e668be8e0244229d1de5a,16267087789,919712704948,not_connected,"8/30/2025, 2:26:02 PM","8/30/2025, 2:26:02 PM",-,deepak.pandavadara@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 -,call_91aff15581cf2d0a1ab0284d88b,agent_00490e668be8e0244229d1de5a,16267087789,919823426794,not_connected,"8/30/2025, 2:01:07 PM","8/30/2025, 2:01:07 PM",-,sandipbansode@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 -,call_3df0a57712470cfabfed252a2a3,agent_00490e668be8e0244229d1de5a,16267087789,919823426794,not_connected,"8/30/2025, 1:51:02 PM","8/30/2025, 1:51:02 PM",-,sandipbansode@gmail.com,Trimfinity 7000 Pro Max Body & Ball trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 $0.01,call_c66e3f4e09a138e1ec28a11a1e0,agent_00490e668be8e0244229d1de5a,16267087789,919656708186,ended,"8/30/2025, 1:50:54 PM","8/30/2025, 1:51:00 PM",6,Nafinfz793@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, main 
@@ -1239,246 +1385,3 @@ Agent: agar aap aaj hi order
 User: you.
 Agent: Aapka bahut bahut shukriya, Sk amirul ji! 😊 Agar aapko kabhi bhi koi help chahiye ho, toh bas humein contact kar lena. Aapka din shubh ho, aur Trimfinity 1.0 Trimmer ke saath grooming ka maza lijiye! 🙌
 ",https://dxc03zgurdly9.cloudfront.net/5a4ba5ed0de2791dcad35346ca519dfe9dd73d604a8007002df267fdeb7ecb80/recording.wav,Positive,True,"The user was contacted by an agent from Trimfinity regarding a product they added to their cart. The agent offered a 5% discount and confirmed that cash on delivery is available, sending a WhatsApp link for the user to complete their order. The user accepted the link and expressed gratitude at the end of the call.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",92,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_c9cd1bbf2f60e46b2742821ebdf,agent_00490e668be8e0244229d1de5a,16267087789,919594480651,not_connected,"8/25/2025, 3:52:06 PM","8/25/2025, 3:52:06 PM",-,ajayminga1930@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.07,call_8be0d852fd0101a136c73a8183d,agent_00490e668be8e0244229d1de5a,16267087789,919654972362,ended,"8/25/2025, 3:17:49 PM","8/25/2025, 3:18:20 PM",31,sujalsiddiqui342@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
-User: Hello.
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: कौन सा वाला था?
-Agent: Namaste Sujal ji! Main 
-User: हां जी.
-Agent: Aryan bol raha hoon Trimfinity se. Aap Trimfinity 7000 Body and Ball Trimmer dekh rahe the na apne cart mein? Bas socha puchh loon, koi dikkat 
-User: अच्छा हां देखा था मैंने.
-User: करना कुछ भी दिक्कत नहीं 
-Agent: Bilkul Sujal ji, 
-User: है.
-Agent: Arre wah, 
-",https://dxc03zgurdly9.cloudfront.net/e6b87a5f23bb425dac0d70da4df22476d95c4fb74119fe80b03aa7726468eba2/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user, Sujal, to inform them about an additional 5% discount on a product they had added to their cart, specifically the Trimfinity 7000 Body and Ball Trimmer. The user acknowledged having seen the product and expressed no issues with the conversation.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",31,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_e3158f8ac520d5a5b10d35065f2,agent_00490e668be8e0244229d1de5a,16267087789,919568598958,not_connected,"8/25/2025, 3:01:05 PM","8/25/2025, 3:01:05 PM",-,ashu1113tkom@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.09,call_57111d1c18ba1d50d7ff61c94e8,agent_00490e668be8e0244229d1de5a,16267087789,916282663400,ended,"8/25/2025, 3:00:49 PM","8/25/2025, 3:01:28 PM",39,kpshajil@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,"Agent: Hello, 
-User: Hello. हैं?
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: कौन सा?
-User: हां 
-Agent: अरे, नमस्ते शाजिल जी! मैं आर्यन बोल रहा हूँ Trimfinity 
-User: जी. हां हां हां हां
-User: वह 
-Agent: हां जी, 
-User: मैं कर रहा था मैं शायद. हां वह address लगाकर मैं करेगा वह.
-Agent: अरे वाह, बढ़िया शाजिल जी! कोई 
-User: Thank you हां, 
-Agent: दिक्कत हो तो बस मुझे 
-User: ok ok sir.
-Agent: Bilkul, Shajil ji! Aapka din shandaar rahe.
-",https://dxc03zgurdly9.cloudfront.net/b8467e82326672841eda1ea5e26ad2d32832373bb075b437711183aed02a2a70/recording.wav,Positive,True,"The user, Shajil, was contacted by Aryan from Trimfinity regarding a product in their cart and was offered an additional 5% discount. The user accepted the offer and confirmed they would proceed with the purchase, indicating a positive interaction.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",39,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.42,call_a80648870ded30c037b5a1a0d1b,agent_00490e668be8e0244229d1de5a,16267087789,917756007174,ended,"8/25/2025, 3:00:49 PM","8/25/2025, 3:03:46 PM",178,shubhamchaudhari20698@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, 
-User: Hello.
-Agent: main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: हां.
-Agent: Namaste Shubham ji! Main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap 
-User: हां बोलिए.
-Agent: Trimfinity 7000 Body and Ball Trimmer apne cart mein add karke chhod diya tha. Socha puchh loon, koi dikkat aayi thi checkout karte waqt ya kuch aur soch rahe the? 😊
-User: नहीं नहीं.
-User: कुछ 
-Agent: Arre, theek hai 
-User: दिक्कत नहीं हुई.
-Agent: Achha, samajh gaya Shubham ji. Toh aap bas decide kar rahe the ki lena hai ya nahi, hai na? Koi specific baat jo aapko sochne pe majboor 
-User: (inaudible speech)
-Agent: kar rahi ho—price ya product ke baare mein koi doubt? 😊
-User: मैंने order no no no, मैंने कभी use नहीं किया है, तो मैं use करके आपको बताता हूं.
-User: Hello?
-User: हां 
-Agent: Haan Shubham 
-User: पहले. Hello. Hello
-Agent: Haan Shubham ji, main sun raha hoon! Aap keh 
-User: hello हां बोलिए.
-User: हां.
-Agent: Haan Shubham ji, toh aap keh rahe the ki aapne pehle kabhi use nahi kiya hai, hai na? Bilkul samajh 
-User: हां हां 
-Agent: sakta hoon.
-User: हां.
-User: हां. 
-Agent: Dekhiye Shubham ji, pehli baar use karne ka doubt 
-User: हां.
-Agent: hona bilkul normal hai. Lekin Trimfinity 7000 ek premium quality ka trimmer hai, jo specially design kiya gaya hai smooth aur safe trimming ke liye.Aur agar aapko product pasand nahi aata ya koi issue hota hai, toh 1 saal ki warranty ke saath aata hai. Aap bilkul tension-free ho ke try kar sakte hain. 😊  
-
-Waise, agar aap chahte hain, toh mai aapke liye ek chhota sa special offer de sakta hoon—5% off ka. Sirf aaj ke liye code hai: O - F - F - 5. Aapko ₹1649 ke bajay aur bhi better price milega.Kya lagta hai, try karenge? 😊
-User: Ok.
-User: वह फोड़ बताएंगे थोड़ा वह.
-Agent: Haan 
-User: Hello? Code code एक बार 
-Agent: Shubham ji, bilkul! Dekhiye, Trimfinity 
-User: बताएंगे
-Agent: Haan Shubham ji, bilkul! Code hai: 
-User: Code 
-Agent: O - 
-User: code एक बार.
-Agent: Haan Shubham 
-User: S s
-Agent: ji, code hai: O - F - F - 5. Isse aapko 5% ka discount milega. Aap bas checkout karte waqt ye code apply kar lijiye. 😊  
-
-Aur 
-User: लेकिन मैंने order order place किए हैं मैंने already.
-Agent: Arre wah, Shubham ji! Aapne toh already order place kar diya? Bohot badiya! 🎉 Aapko 
-User: हां. Ok 
-Agent: Trimfinity 7000 zarur pasand aayega. Agar koi bhi doubt ya help chahiye ho 
-User: ok.
-User: ठीक है. 
-Agent: Theek hai Shubham ji, bohot shukriya aapka! Agar kabhi bhi koi help chahiye ho, toh 
-User: हां.
-User: हां. 
-Agent: Shukriya Shubham ji! Aapka din shubh ho. Agar kuch aur zarurat ho, toh bas 
-User: Ok. Ok.
-User: Ok. हां. 
-Agent: Theek hai Shubham ji, phir milte hain! Aapka din accha rahe aur Trimfinity 7000 ka 
-User: हां.
-Agent: Shukriya Shubham ji! Agar kuch bhi help chahiye ho, toh bas humein contact 
-User: ठीक है.
-Agent: kar lena. Aapka din shandar 
-",https://dxc03zgurdly9.cloudfront.net/c3d845be73202e1100195950fffce06163ac537e4ee30dc4591c82c68ef8703a/recording.wav,Positive,True,"The user, Shubham, was contacted by the agent regarding a product in his cart, the Trimfinity 7000 Body and Ball Trimmer. The agent offered a 5% discount and reassured Shubham about the product's quality and warranty, confirming that he had already placed an order.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",178,max_duration_reached,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.11,call_6b439c939f0b5ef578c3fbe8a01,agent_00490e668be8e0244229d1de5a,16267087789,919638513757,ended,"8/25/2025, 3:00:46 PM","8/25/2025, 3:01:33 PM",47,Nikeshpatel444@yahoo.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-Agent: Nikesh ji, main disturb toh nahi kar raha? Bas socha yaad dila doon ki Trimfinity 7000 Body and Ball Trimmer ke liye aapka cart abhi bhi pending hai. Agar koi confusion ya question ho, toh aap mujhse poochh sakte hain. 😊  
-
-Aur haan, agar aap aaj order karte hain, toh OFF5 code use karke 5% ka discount bhi le sakte hain. Aapko bas batana hai, main WhatsApp link bhej dunga. 😊
-",https://dxc03zgurdly9.cloudfront.net/f8beb35bedc51511380085d5a302a6de84f6ea52bdf4e586aaea97562ab1b8df/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to Nikesh to remind him about his pending cart and offered an additional 5% discount if he orders today using the code OFF5. The agent encouraged Nikesh to ask any questions and offered to send a WhatsApp link for convenience.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",47,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_ea48f749e6e2b9336e97d2dc103,agent_00490e668be8e0244229d1de5a,16267087789,916282663400,not_connected,"8/25/2025, 2:52:09 PM","8/25/2025, 2:52:09 PM",-,kpshajil@gmail.com,Trimfinity 1.0 Body & Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_7167ba687411c8e89ea130103e7,agent_00490e668be8e0244229d1de5a,16267087789,919568598958,not_connected,"8/25/2025, 2:52:02 PM","8/25/2025, 2:52:02 PM",-,ashu1113tkom@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.15,call_d99fd67069d279826c47c4e22e6,agent_00490e668be8e0244229d1de5a,16267087789,917756007174,ended,"8/25/2025, 2:51:55 PM","8/25/2025, 2:52:59 PM",64,shubhamchaudhari20698@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha 
-User: हां बोलिए. हां 
-Agent: ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 
-User: हां.
-Agent: Namaste Shubham ji! Main 
-User: हां 
-Agent: Aryan bol raha hoon 
-User: बोलिए बोलिए.
-Agent: Haan Shubham 
-User: हां बोलिए.
-Agent: ji, main Aryan bol raha hoon Trimfinity se. Maine dekha ki aap Trimfinity 7000 Body and Ball Trimmer checkout kar rahe the, par shayad order complete nahi kiya. Socha puchh loon, koi dikkat toh nahi aayi? 😊
-User: नहीं नहीं, payment तो किया है.
-User: Order complete हुआ है.
-Agent: Arre wah, Shubham ji! Bahut badiya! Aapne bilkul sahi choice ki hai—Trimfinity 7000 ekdum top-notch product hai. Aapko definitely iska use karke maza aayega. 😄
-
-Aapka order jaldi 
-User: Ok.
-Agent: hi dispatch ho jayega, aur agar aapko koi bhi help chahiye ho ya questions ho, toh bas humein contact kar lena. Hum hamesha available hain. Thank you for shopping with Trimfinity! 🙌
-
-Aur haan, apna feedback zarur dena jab aap product use karein. Aapka din shubh ho, Shubham ji! 😊
-User: Ok. Ok.
-",https://dxc03zgurdly9.cloudfront.net/be58ca80111def25b71022d4b9c7c50b18f76b2fc4e62544e32f2eb427e4112d/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, contacted the user, Shubham, to confirm the completion of an order for the Trimfinity 7000 Body and Ball Trimmer. The user confirmed that the payment was made and the order was complete, leading to a positive interaction where the agent encouraged feedback and offered assistance if needed.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",64,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_f8cb4ecf0837b3d200e1b18fe6a,agent_00490e668be8e0244229d1de5a,16267087789,918408826589,not_connected,"8/25/2025, 2:35:09 PM","8/25/2025, 2:35:09 PM",-,dhavalmeher2998@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_31259adec59a6b22d94322f57cd,agent_00490e668be8e0244229d1de5a,16267087789,917009729190,not_connected,"8/25/2025, 2:35:08 PM","8/25/2025, 2:35:08 PM",-,princeramgharia32@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.02,call_2905dfba459cc46f79986781982,agent_00490e668be8e0244229d1de5a,16267087789,917009729190,ended,"8/25/2025, 2:17:44 PM","8/25/2025, 2:17:53 PM",10,princeramgharia32@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna 
-",https://dxc03zgurdly9.cloudfront.net/110297fb9266ab6f47370fa6129762cc0cb5729b540a057bdcec29a71b3a60c9/recording.wav,Neutral,True,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The call appears to be an attempt to encourage the user to complete their purchase.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",10,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.02,call_72f229b6a38802ece9f8aac5691,agent_00490e668be8e0244229d1de5a,16267087789,916352054620,ended,"8/25/2025, 2:00:53 PM","8/25/2025, 2:01:01 PM",8,parmartarun455@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off 
-",https://dxc03zgurdly9.cloudfront.net/20b1db306efa829aa3f53c32d160c62b80401492eaf4cab1c74705eaa4bf1a3e/recording.wav,Positive,True,"The agent, Aryan from Trimfinity, reached out to the user regarding a product they added to their cart, offering an additional 5% discount for the day.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",8,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_74ae862eb22aa79dd396da96fb0,agent_00490e668be8e0244229d1de5a,16267087789,916352054620,not_connected,"8/25/2025, 1:52:02 PM","8/25/2025, 1:52:02 PM",-,parmartarun455@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.02,call_fa203546c2a2d31aac1e4291489,agent_00490e668be8e0244229d1de5a,16267087789,919740499698,ended,"8/25/2025, 1:34:44 PM","8/25/2025, 1:34:52 PM",8,davidjesus87862@gmail.com,Ultimate Duo Beard & Body Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. 
-User: हां, 
-Agent: Maine dekha ki 
-User: इधर नहीं आएगा करके बोला तो.
-Agent: अरे, 
-",https://dxc03zgurdly9.cloudfront.net/37c015f5fe4caf467aa993044f60e43ddae410f7762a241dba2b5167255e6018/recording.wav,Negative,False,The call involves a conversation between an agent from Trimfinity and a user named Aryan. The user seems to express some frustration or confusion about a service or product not arriving as expected.,"elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",8,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.19,call_5166d69c00a2cc4319d9511a6b0,agent_00490e668be8e0244229d1de5a,16267087789,917283947020,ended,"8/25/2025, 1:17:41 PM","8/25/2025, 1:19:03 PM",82,nikunjrathwa02@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. 
-User: Yeah. Hello?
-Agent: Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: हां कौन सा product?
-Agent: Arre 
-User: Hello?
-Agent: Nikunj ji, aap Trimfinity 7000 Body and Ball Trimmer dekh rahe the na apne cart mein? Bas wahi ke baare mein 
-User: हां, वह इसमें ऐसा है कि जो मैंने पहले मैंने पहले मैंने पहले buy किया था, लेकिन cancel करवा के फिर वह मेरे जो मैंने EMI से करवाया था वह पैसे मेरे return नहीं हुए तो कैसे मैं buy करूं अभी?
-Agent: Arre Nikunj ji, samajh gaya 
-User: Hello? हां,
-Agent: main. Pehle aapka experience thoda kharab raha tha, lekin aap bilkul tension mat lijiye. Agar aapne EMI se payment ki thi aur cancel karwaya tha, toh paisa wapas aapke bank ya EMI account mein aa jata hai. Kabhi-kabhi bank ko process karne mein thoda time lagta hai.
-
-Aap mujhe ek kaam kijiye, apne pehle wale order ka reference number ya details de dijiye, main personally check karwa ke aapko 
-User: हां.
-User: ठीक है, देता हूं.
-User: ठीक 
-Agent: Bilkul, Nikunj ji! Aap mujhe 
-User: है, भेजता हूं.
-User: भेजता 
-Agent: Perfect, 
-User: हूं, भेजता हूं.
-Agent: Nikunj 
-User: WhatsApp में 
-Agent: Perfect, Nikunj ji!
-User: भेजूं?
-Agent: Haan bilkul, 
-User: WhatsApp पर 
-Agent: Nikunj ji! Aap 
-User: भेजूं?
-Agent: Haan bilkul, Nikunj 
-User: Hello? ठीक है, 
-Agent: ji! Aap WhatsApp par details bhej 
-User: ठीक है. ठीक है,
-User: है.
-Agent: Theek hai, Nikunj ji! Aap details bhej dijiye, 
-",https://dxc03zgurdly9.cloudfront.net/c45a0a64f0fcef4362a62b3f94ff6d26e962fbb4529f84b1c42dc4cfc629fe1c/recording.wav,Neutral,True,"The user, Nikunj, inquired about a previous order that was canceled and the refund process related to an EMI payment. The agent reassured him that the refund should have been processed and requested Nikunj to send the order details via WhatsApp for further assistance.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",82,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.42,call_75455b0df18b1f35e888c829077,agent_00490e668be8e0244229d1de5a,16267087789,919653663889,ended,"8/25/2025, 1:00:48 PM","8/25/2025, 1:03:45 PM",178,skatersamarth7@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: नहीं,
-Agent: Koi baat nahi, Samarth ji! Agar aapko kabhi future mein zarurat ho ya koi aur sawal ho, toh bas humein contact kar lena. Aapka din shubh rahe! 😊
-User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
-User: कृपया line पर बने रहें.
-User: The person you are speaking with has put your call on hold.
-User: Please stay on the line.
-Agent: Bilkul, Samarth ji! Main line par hoon, aapka wait kar raha hoon. 😊
-User: (inaudible speech)
-User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
-User: कृपया line पर बने रहें.
-User: The person you are speaking with has put your call on hold.
-User: stay on the line.
-Agent: Bilkul, main yahin hoon, Samarth ji. Aapka wait kar raha hoon. 😊
-User: (inaudible speech)
-User: आप जिस व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है.
-User: कृपया line पर बने रहे.
-User: The person you are speaking with has put your call on hold.
-User: Please stay on the line.
-Agent: Bilkul, main line par hoon, Samarth ji. Aapka wait kar raha hoon. 😊
-User: (inaudible speech)
-User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
-User: कृपया line पर बने रहे.
-User: The person you are speaking with has put your call on hold.
-User: Please stay on the line.
-Agent: Bilkul, main line par hoon, Samarth ji. Aapka wait kar raha hoon. 😊
-User: (inaudible speech)
-User: आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
-User: कृपया line पर बने रहे.
-User: The person you are speaking with has put your call on hold.
-User: Please stay on the line.
-Agent: Bilkul, main line par hoon, Samarth ji. Aapka wait kar raha hoon. 😊
-User: (inaudible speech)
-User: आप जिस 
-Agent: Hello?
-User: व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है.
-User: कृपया line 
-Agent: Koi baat 
-User: पर बने रहे.
-User: The person 
-Agent: Bilkul, main line 
-User: you are speaking with has put your call on hold.
-Agent: No problem, I’ll stay 
-User: stay on the line.
-Agent: Sure, I’m here, staying on the line. 😊
-User: Hello.
-Agent: Hi Samarth ji! Aryan here from Trimfinity. Aapka hold par tha, no problem! So, bataiye, aapko Trimfinity 7000 Body and Ball Trimmer ke baare mein koi aur sawal ya concern 
-User: एक
-Agent: tha? 😊
-User: मैंने order किया था but वह अभी तक आया नहीं है.
-Agent: Oh, Samarth ji, mujhe bilkul samajh aa raha 
-",https://dxc03zgurdly9.cloudfront.net/284748ed11c131fcd4b8e99745fe7fdc97f1ab63ff57f00a0aada9a945dd6203/recording.wav,Neutral,False,"The user, Samarth, was initially offered a discount on a product but declined. The call then experienced multiple hold interruptions, with the user repeatedly stating that the call was on hold. Eventually, the user expressed concern about an order that had not yet arrived, indicating a need for assistance regarding their order status.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",178,max_duration_reached,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
--,call_fdaf9e256155bb295b51cf10bd5,agent_00490e668be8e0244229d1de5a,16267087789,918533888387,not_connected,"8/25/2025, 12:35:02 PM","8/25/2025, 12:35:02 PM",-,singhalharshit70@gmail.com,Trimfinity 7000 Body and Ball Trimmer,-,-,Unknown,False,-,-,-,dial_no_answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.02,call_5c161bdca1c070755d5f18c61f9,agent_00490e668be8e0244229d1de5a,16267087789,917870430518,ended,"8/25/2025, 12:17:40 PM","8/25/2025, 12:17:46 PM",7,wasimzafar49@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main 
-User: Your call has been forward.
-User: mail. The person you are trying to reach is not available. At the tone,
-",https://dxc03zgurdly9.cloudfront.net/545d027ca4016172fde4db18e5600215ec4cd8802a77bdeb25a5c4afa8c59e12/recording.wav,Neutral,False,"The user attempted to reach someone but was informed that the person is not available, and the call has been forwarded to voicemail.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",7,voicemail_reached,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.04,call_9ab6038afa0596cd078e1b6e2e6,agent_00490e668be8e0244229d1de5a,16267087789,917870430518,ended,"8/25/2025, 12:00:54 PM","8/25/2025, 12:01:10 PM",17,wasimzafar49@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: नहीं तो मैं बताता हूं sir.
-",https://dxc03zgurdly9.cloudfront.net/33977e02bf7be8ef0a42fe54833032a270d7f30a14d0eb8f263a3a6d13528810/recording.wav,Negative,False,"The agent, Aryan from Trimfinity, reached out to the user to inform them about an additional 5% discount on a product they added to their cart. The user responded negatively, indicating they did not want to claim the offer.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",17,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.01,call_d9bc012a2c51572c12cec5e3e35,agent_00490e668be8e0244229d1de5a,16267087789,916266063768,ended,"8/25/2025, 12:00:39 PM","8/25/2025, 12:00:41 PM",3,mrchiragsahaa@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main 
-User: Your call has 
-Agent: Aryan hoon Trimfinity 
-User: been
-",https://dxc03zgurdly9.cloudfront.net/954381939936f720d28f1569f0995ebb0b8de439c5b2a4ae41ba40cdfe779f1e/recording.wav,Neutral,False,"The call appears to be incomplete, with the user not fully engaging in the conversation. The agent introduced themselves but did not receive a clear response from the user.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",3,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-$0.05,call_705b45f79a8c3e159e4527ae6b9,agent_00490e668be8e0244229d1de5a,16267087789,916266063768,ended,"8/25/2025, 11:51:49 AM","8/25/2025, 11:52:09 AM",20,mrchiragsahaa@gmail.com,Trimfinity 7000 Body and Ball Trimmer,"Agent: Hello, main Aryan hoon Trimfinity se. Maine dekha ki aapne product cart mein add kiya tha. Aaj ke din aapke liye additional 5% off hai. Kya aap ise claim karna chahenge?
-User: Hello.
-Agent: Hi 
-",https://dxc03zgurdly9.cloudfront.net/63667f22d6e84f409d8b1098410d42477d641f06308a1558d0739ec64f356624/recording.wav,Neutral,False,"The agent introduced themselves and informed the user about an additional 5% discount on a product they added to their cart. The user responded with a greeting, but the conversation did not progress further.","elevenlabs_tts, gpt_4o, india_telnyx_telephony, knowledge_base_usage",20,user_hangup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
